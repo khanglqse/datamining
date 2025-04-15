@@ -77,108 +77,131 @@ class FinancialCrawler:
             logger.error(f"Error clicking previous button: {str(e)}")
             return False
 
+    def click_year_tab(self):
+        """Click the 'Theo năm' tab to show yearly data"""
+        try:
+            # Find the year tab using its ID and class
+            year_tab = self.wait.until(
+                EC.element_to_be_clickable((By.ID, "idTabTaiChinhNam"))
+            )
+            year_tab.click()
+            time.sleep(3)  # Wait for the page to load
+            return True
+        except Exception as e:
+            logger.error(f"Error clicking year tab: {str(e)}")
+            return False
+
+    def extract_year_from_data(self, financial_data):
+        """Extract unique years from financial data"""
+        years = set()
+        for data in financial_data:
+            # Look for year patterns in the metric name
+            metric = data['metric']
+            if 'năm' in metric.lower():
+                # Extract year from metric name (e.g., "Doanh thu năm 2023")
+                import re
+                year_match = re.search(r'năm\s+(\d{4})', metric.lower())
+                if year_match:
+                    years.add(int(year_match.group(1)))
+        return sorted(years, reverse=True)
+
     def crawl_financial_data(self, symbol, exchange):
-        """Crawl financial data for a company with pagination"""
-        logger.info(f"Crawling financial data for {symbol} ({exchange})...")
+        """Crawl financial data for a company for the last 3 years"""
+        logger.info(f"Crawling financial data for {symbol} ({exchange}) for the last 3 years...")
         
         # Construct URL based on exchange and symbol
         url = f"{self.base_url}/du-lieu/{exchange.lower()}/{symbol.lower()}.chn"
         logger.info(f"Accessing URL: {url}")
         
-        all_financial_data = []
-        page_count = 0
-        max_pages = 20  # Increased to get more historical data
-        consecutive_failures = 0
-        max_consecutive_failures = 3
-        
-        while page_count < max_pages and consecutive_failures < max_consecutive_failures:
-            try:
-                # Get the current page
-                page_source = self.get_page(url)
-                if not page_source:
-                    consecutive_failures += 1
-                    logger.warning(f"Failed to get page {page_count + 1} for {symbol}")
-                    continue
+        try:
+            # Get the page
+            page_source = self.get_page(url)
+            if not page_source:
+                logger.error(f"Failed to get page for {symbol}")
+                return
                 
-                # Parse HTML with BeautifulSoup
-                soup = BeautifulSoup(page_source, 'html.parser')
+            # Click the year tab
+            if not self.click_year_tab():
+                logger.error(f"Failed to click year tab for {symbol}")
+                return
                 
-                # Extract financial data from tables
-                financial_data = self.extract_financial_data(soup, symbol)
-                if financial_data:
-                    all_financial_data.extend(financial_data)
-                    logger.info(f"Found {len(financial_data)} financial records on page {page_count + 1}")
-                else:
-                    logger.warning(f"No financial data found on page {page_count + 1}")
+            # Get the updated page source after clicking the tab
+            page_source = self.driver.page_source
+            soup = BeautifulSoup(page_source, 'html.parser')
+            
+            # Extract financial data
+            financial_data = self.extract_financial_data(soup, symbol)
+            
+            if financial_data:
+                df = pd.DataFrame(financial_data)
+                output_file = os.path.join(self.data_dir, f'financial_data_{symbol}.csv')
+                df.to_csv(output_file, index=False)
+                logger.info(f"Saved {len(financial_data)} financial records for {symbol} to {output_file}")
                 
-                # Try to click the previous button
-                if not self.click_previous_button():
-                    logger.info(f"No more previous pages available for {symbol}")
-                    break
+                # Log the years collected
+                years = sorted(set(df['year']), reverse=True)
+                logger.info(f"Collected data for years: {years}")
+            else:
+                logger.warning(f"No financial data found for {symbol}")
                 
-                page_count += 1
-                consecutive_failures = 0  # Reset failure count on successful page
-                logger.info(f"Processed page {page_count} for {symbol}")
-                
-                # Add delay between requests
-                time.sleep(3)
-                
-            except Exception as e:
-                consecutive_failures += 1
-                logger.error(f"Error processing page {page_count + 1} for {symbol}: {str(e)}")
-                if consecutive_failures >= max_consecutive_failures:
-                    logger.error(f"Too many consecutive failures for {symbol}, stopping")
-                    break
-                time.sleep(5)  # Wait longer before retrying after an error
-        
-        if all_financial_data:
-            df = pd.DataFrame(all_financial_data)
-            output_file = os.path.join(self.data_dir, f'financial_data_{symbol}.csv')
-            df.to_csv(output_file, index=False)
-            logger.info(f"Saved {len(all_financial_data)} financial records for {symbol} to {output_file}")
-        else:
-            logger.warning(f"No financial data found for {symbol} after {page_count} pages")
+        except Exception as e:
+            logger.error(f"Error crawling {symbol}: {str(e)}")
 
     def extract_financial_data(self, soup, symbol):
-        """Extract financial data from the page"""
+        """Extract financial data from the yearly table"""
         financial_data = []
         
-        # Find all tables with financial data
-        tables = soup.find_all('table')
+        # Find the main table containing financial data
+        table = soup.find('table', {'width': '100%', 'border': '0', 'cellspacing': '0', 'cellpadding': '0'})
+        if not table:
+            logger.warning("Could not find financial data table")
+            return financial_data
+            
+        # Extract years from the header
+        header_row = table.find('tr')
+        if not header_row:
+            logger.warning("Could not find header row")
+            return financial_data
+            
+        years = []
+        for th in header_row.find_all('th')[1:]:  # Skip the first column (metric names)
+            year_text = th.get_text(strip=True)
+            if 'Năm' in year_text:
+                year = year_text.split('Năm')[1].strip().split()[0]
+                years.append(year)
         
-        for table in tables:
+        # Extract data rows
+        for row in table.find_all('tr')[1:]:  # Skip header row
             try:
-                rows = table.find_all('tr')
-                for row in rows:
-                    try:
-                        cols = row.find_all('td')
-                        if len(cols) >= 2:
-                            metric_name = cols[0].get_text(strip=True)
-                            value = cols[1].get_text(strip=True)
-                            
-                            if metric_name and value and not value.startswith('Hãy đăng nhập'):
-                                # Clean up the metric name
-                                metric_name = metric_name.replace('\n', ' ').replace('\r', '')
-                                
-                                # Skip rows that don't contain financial data
-                                if any(skip in metric_name.lower() for skip in ['trang', 'xem', 'đăng nhập']):
-                                    continue
-                                
-                                data = {
-                                    'symbol': symbol,
-                                    'metric': metric_name,
-                                    'value': self.clean_number(value),
-                                    'crawled_date': datetime.now().strftime('%Y-%m-%d')
-                                }
-                                financial_data.append(data)
-                                logger.info(f"Found metric: {metric_name} = {value}")
-                    except Exception as e:
-                        logger.error(f"Error parsing row for {symbol}: {str(e)}")
-                        continue
+                # Get metric name from first column
+                metric_cell = row.find('td', {'class': 'col1'})
+                if not metric_cell:
+                    continue
+                    
+                metric_name = metric_cell.get_text(strip=True)
+                
+                # Get values for each year
+                value_cells = row.find_all('td', {'style': 'text-align: right'})
+                for i, cell in enumerate(value_cells):
+                    if i >= len(years):
+                        break
+                        
+                    value = cell.get_text(strip=True)
+                    if value and value != '-':
+                        data = {
+                            'symbol': symbol,
+                            'metric': metric_name,
+                            'year': years[i],
+                            'value': self.clean_number(value),
+                            'crawled_date': datetime.now().strftime('%Y-%m-%d')
+                        }
+                        financial_data.append(data)
+                        logger.info(f"Found {metric_name} for year {years[i]}: {value}")
+                        
             except Exception as e:
-                logger.error(f"Error parsing table for {symbol}: {str(e)}")
+                logger.error(f"Error parsing row: {str(e)}")
                 continue
-        
+                
         return financial_data
 
     def clean_number(self, text):
