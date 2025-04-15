@@ -193,6 +193,8 @@ class CafefCrawler:
             # Always close the browser
             self.driver.quit()
 
+
+
     def crawl_financial_statements_from_csv(self, row):
         """Crawl financial statements for a company using CSV row data"""
         symbol = row['symbol']
