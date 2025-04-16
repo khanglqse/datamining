@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+DMC,Doanh thu bán hàng và CCDV,2020,1542266916.0,2025-04-12
+DMC,Doanh thu bán hàng và CCDV,2021,1567817505.0,2025-04-12
+DMC,Doanh thu bán hàng và CCDV,2022,1593498072.0,2025-04-12
+DMC,Doanh thu bán hàng và CCDV,2023,1721604258.0,2025-04-12
+DMC,Giá vốn hàng bán,2020,1013487938.0,2025-04-12
+DMC,Giá vốn hàng bán,2021,1096779309.0,2025-04-12
+DMC,Giá vốn hàng bán,2022,1139838059.0,2025-04-12
+DMC,Giá vốn hàng bán,2023,1346931240.0,2025-04-12
+DMC,Lợi nhuận gộp về BH và CCDV,2020,438465847.0,2025-04-12
+DMC,Lợi nhuận gộp về BH và CCDV,2021,401615538.0,2025-04-12
+DMC,Lợi nhuận gộp về BH và CCDV,2022,452888689.0,2025-04-12
+DMC,Lợi nhuận gộp về BH và CCDV,2023,372100582.0,2025-04-12
+DMC,Lợi nhuận tài chính,2020,18419181.0,2025-04-12
+DMC,Lợi nhuận tài chính,2021,11558600.0,2025-04-12
+DMC,Lợi nhuận tài chính,2022,13449042.0,2025-04-12
+DMC,Lợi nhuận tài chính,2023,39012282.0,2025-04-12
+DMC,Lợi nhuận khác,2020,2971144.0,2025-04-12
+DMC,Lợi nhuận khác,2021,1240786.0,2025-04-12
+DMC,Lợi nhuận khác,2022,2265789.0,2025-04-12
+DMC,Lợi nhuận khác,2023,6718995.0,2025-04-12
+DMC,Tổng lợi nhuận trước thuế,2020,224565880.0,2025-04-12
+DMC,Tổng lợi nhuận trước thuế,2021,199204330.0,2025-04-12
+DMC,Tổng lợi nhuận trước thuế,2022,250198432.0,2025-04-12
+DMC,Tổng lợi nhuận trước thuế,2023,229174766.0,2025-04-12
+DMC,Lợi nhuận sau thuế,2020,179535201.0,2025-04-12
+DMC,Lợi nhuận sau thuế,2021,159281868.0,2025-04-12
+DMC,Lợi nhuận sau thuế,2022,200075859.0,2025-04-12
+DMC,Lợi nhuận sau thuế,2023,183332761.0,2025-04-12
+DMC,Lợi nhuận sau thuế của công ty mẹ,2020,179535201.0,2025-04-12
+DMC,Lợi nhuận sau thuế của công ty mẹ,2021,159281868.0,2025-04-12
+DMC,Lợi nhuận sau thuế của công ty mẹ,2022,200075859.0,2025-04-12
+DMC,Lợi nhuận sau thuế của công ty mẹ,2023,183332761.0,2025-04-12
+DMC,Tổng tài sản lưu động ngắn hạn,2020,1241162616.0,2025-04-12
+DMC,Tổng tài sản lưu động ngắn hạn,2021,1421755239.0,2025-04-12
+DMC,Tổng tài sản lưu động ngắn hạn,2022,1598607970.0,2025-04-12
+DMC,Tổng tài sản lưu động ngắn hạn,2023,1671464174.0,2025-04-12
+DMC,Tổng tài sản,2020,1463982459.0,2025-04-12
+DMC,Tổng tài sản,2021,1621851433.0,2025-04-12
+DMC,Tổng tài sản,2022,1837977136.0,2025-04-12
+DMC,Tổng tài sản,2023,1849165632.0,2025-04-12
+DMC,Nợ ngắn hạn,2020,147650160.0,2025-04-12
+DMC,Nợ ngắn hạn,2021,255731769.0,2025-04-12
+DMC,Nợ ngắn hạn,2022,378327564.0,2025-04-12
+DMC,Nợ ngắn hạn,2023,328270741.0,2025-04-12
+DMC,Tổng nợ,2020,148610690.0,2025-04-12
+DMC,Tổng nợ,2021,255819978.0,2025-04-12
+DMC,Tổng nợ,2022,378466672.0,2025-04-12
+DMC,Tổng nợ,2023,328652448.0,2025-04-12
+DMC,Vốn chủ sở hữu,2020,1315371769.0,2025-04-12
+DMC,Vốn chủ sở hữu,2021,1366031455.0,2025-04-12
+DMC,Vốn chủ sở hữu,2022,1459510464.0,2025-04-12
+DMC,Vốn chủ sở hữu,2023,1520513184.0,2025-04-12

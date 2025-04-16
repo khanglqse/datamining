@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+HCI,Doanh thu bán hàng và CCDV,2020,15954115.0,2025-04-12
+HCI,Doanh thu bán hàng và CCDV,2021,17369393.0,2025-04-12
+HCI,Doanh thu bán hàng và CCDV,2022,18378149.0,2025-04-12
+HCI,Doanh thu bán hàng và CCDV,2023,20604226.0,2025-04-12
+HCI,Giá vốn hàng bán,2020,11312803.0,2025-04-12
+HCI,Giá vốn hàng bán,2021,9581701.0,2025-04-12
+HCI,Giá vốn hàng bán,2022,10153446.0,2025-04-12
+HCI,Giá vốn hàng bán,2023,12398917.0,2025-04-12
+HCI,Lợi nhuận gộp về BH và CCDV,2020,4641312.0,2025-04-12
+HCI,Lợi nhuận gộp về BH và CCDV,2021,7787692.0,2025-04-12
+HCI,Lợi nhuận gộp về BH và CCDV,2022,8224703.0,2025-04-12
+HCI,Lợi nhuận gộp về BH và CCDV,2023,8205309.0,2025-04-12
+HCI,Lợi nhuận tài chính,2020,1594470.0,2025-04-12
+HCI,Lợi nhuận tài chính,2021,1004720.0,2025-04-12
+HCI,Lợi nhuận tài chính,2022,1685198.0,2025-04-12
+HCI,Lợi nhuận tài chính,2023,1862672.0,2025-04-12
+HCI,Lợi nhuận khác,2020,30346147.0,2025-04-12
+HCI,Lợi nhuận khác,2021,25262.0,2025-04-12
+HCI,Lợi nhuận khác,2022,3682.0,2025-04-12
+HCI,Lợi nhuận khác,2023,4088.0,2025-04-12
+HCI,Tổng lợi nhuận trước thuế,2020,24207931.0,2025-04-12
+HCI,Tổng lợi nhuận trước thuế,2021,-2313436.0,2025-04-12
+HCI,Tổng lợi nhuận trước thuế,2022,-1425048.0,2025-04-12
+HCI,Tổng lợi nhuận trước thuế,2023,-4750646.0,2025-04-12
+HCI,Lợi nhuận sau thuế,2020,19955254.0,2025-04-12
+HCI,Lợi nhuận sau thuế,2021,-2316112.0,2025-04-12
+HCI,Lợi nhuận sau thuế,2022,-1428665.0,2025-04-12
+HCI,Lợi nhuận sau thuế,2023,-4753817.0,2025-04-12
+HCI,Lợi nhuận sau thuế của công ty mẹ,2020,19955567.0,2025-04-12
+HCI,Lợi nhuận sau thuế của công ty mẹ,2021,-2314079.0,2025-04-12
+HCI,Lợi nhuận sau thuế của công ty mẹ,2022,-1427462.0,2025-04-12
+HCI,Lợi nhuận sau thuế của công ty mẹ,2023,-4752579.0,2025-04-12
+HCI,Tổng tài sản lưu động ngắn hạn,2020,102957413.0,2025-04-12
+HCI,Tổng tài sản lưu động ngắn hạn,2021,106194475.0,2025-04-12
+HCI,Tổng tài sản lưu động ngắn hạn,2022,98507056.0,2025-04-12
+HCI,Tổng tài sản lưu động ngắn hạn,2023,89999883.0,2025-04-12
+HCI,Tổng tài sản,2020,191352538.0,2025-04-12
+HCI,Tổng tài sản,2021,194992651.0,2025-04-12
+HCI,Tổng tài sản,2022,192627079.0,2025-04-12
+HCI,Tổng tài sản,2023,176993672.0,2025-04-12
+HCI,Nợ ngắn hạn,2020,106095645.0,2025-04-12
+HCI,Nợ ngắn hạn,2021,110238564.0,2025-04-12
+HCI,Nợ ngắn hạn,2022,110786965.0,2025-04-12
+HCI,Nợ ngắn hạn,2023,101696912.0,2025-04-12
+HCI,Tổng nợ,2020,107903417.0,2025-04-12
+HCI,Tổng nợ,2021,112436634.0,2025-04-12
+HCI,Tổng nợ,2022,112645742.0,2025-04-12
+HCI,Tổng nợ,2023,102880189.0,2025-04-12
+HCI,Vốn chủ sở hữu,2020,83449121.0,2025-04-12
+HCI,Vốn chủ sở hữu,2021,82556017.0,2025-04-12
+HCI,Vốn chủ sở hữu,2022,79981336.0,2025-04-12
+HCI,Vốn chủ sở hữu,2023,75415139.0,2025-04-12

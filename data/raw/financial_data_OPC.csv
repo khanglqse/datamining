@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+OPC,Doanh thu bán hàng và CCDV,2020,966483806.0,2025-04-12
+OPC,Doanh thu bán hàng và CCDV,2021,1126407919.0,2025-04-12
+OPC,Doanh thu bán hàng và CCDV,2022,1194003443.0,2025-04-12
+OPC,Doanh thu bán hàng và CCDV,2023,1008957298.0,2025-04-12
+OPC,Giá vốn hàng bán,2020,590010267.0,2025-04-12
+OPC,Giá vốn hàng bán,2021,683646370.0,2025-04-12
+OPC,Giá vốn hàng bán,2022,686763327.0,2025-04-12
+OPC,Giá vốn hàng bán,2023,577798299.0,2025-04-12
+OPC,Lợi nhuận gộp về BH và CCDV,2020,375580278.0,2025-04-12
+OPC,Lợi nhuận gộp về BH và CCDV,2021,440081548.0,2025-04-12
+OPC,Lợi nhuận gộp về BH và CCDV,2022,484850781.0,2025-04-12
+OPC,Lợi nhuận gộp về BH và CCDV,2023,427088680.0,2025-04-12
+OPC,Lợi nhuận tài chính,2020,-5248124.0,2025-04-12
+OPC,Lợi nhuận tài chính,2021,-7538790.0,2025-04-12
+OPC,Lợi nhuận tài chính,2022,134645.0,2025-04-12
+OPC,Lợi nhuận tài chính,2023,9103985.0,2025-04-12
+OPC,Lợi nhuận khác,2020,-262283.0,2025-04-12
+OPC,Lợi nhuận khác,2021,-106582.0,2025-04-12
+OPC,Lợi nhuận khác,2022,355863.0,2025-04-12
+OPC,Lợi nhuận khác,2023,-739512.0,2025-04-12
+OPC,Tổng lợi nhuận trước thuế,2020,132777850.0,2025-04-12
+OPC,Tổng lợi nhuận trước thuế,2021,159240525.0,2025-04-12
+OPC,Tổng lợi nhuận trước thuế,2022,179923953.0,2025-04-12
+OPC,Tổng lợi nhuận trước thuế,2023,155323272.0,2025-04-12
+OPC,Lợi nhuận sau thuế,2020,102907124.0,2025-04-12
+OPC,Lợi nhuận sau thuế,2021,123362622.0,2025-04-12
+OPC,Lợi nhuận sau thuế,2022,142394151.0,2025-04-12
+OPC,Lợi nhuận sau thuế,2023,122318809.0,2025-04-12
+OPC,Lợi nhuận sau thuế của công ty mẹ,2020,105790746.0,2025-04-12
+OPC,Lợi nhuận sau thuế của công ty mẹ,2021,126376705.0,2025-04-12
+OPC,Lợi nhuận sau thuế của công ty mẹ,2022,142127927.0,2025-04-12
+OPC,Lợi nhuận sau thuế của công ty mẹ,2023,122234074.0,2025-04-12
+OPC,Tổng tài sản lưu động ngắn hạn,2020,790207722.0,2025-04-12
+OPC,Tổng tài sản lưu động ngắn hạn,2021,886325096.0,2025-04-12
+OPC,Tổng tài sản lưu động ngắn hạn,2022,911257656.0,2025-04-12
+OPC,Tổng tài sản lưu động ngắn hạn,2023,927670578.0,2025-04-12
+OPC,Tổng tài sản,2020,1152624902.0,2025-04-12
+OPC,Tổng tài sản,2021,1238200513.0,2025-04-12
+OPC,Tổng tài sản,2022,1246224737.0,2025-04-12
+OPC,Tổng tài sản,2023,1260821165.0,2025-04-12
+OPC,Nợ ngắn hạn,2020,437156979.0,2025-04-12
+OPC,Nợ ngắn hạn,2021,489632531.0,2025-04-12
+OPC,Nợ ngắn hạn,2022,368835960.0,2025-04-12
+OPC,Nợ ngắn hạn,2023,371746752.0,2025-04-12
+OPC,Tổng nợ,2020,442110204.0,2025-04-12
+OPC,Tổng nợ,2021,495177135.0,2025-04-12
+OPC,Tổng nợ,2022,374260458.0,2025-04-12
+OPC,Tổng nợ,2023,376657461.0,2025-04-12
+OPC,Vốn chủ sở hữu,2020,710514698.0,2025-04-12
+OPC,Vốn chủ sở hữu,2021,743023378.0,2025-04-12
+OPC,Vốn chủ sở hữu,2022,871964279.0,2025-04-12
+OPC,Vốn chủ sở hữu,2023,884163704.0,2025-04-12

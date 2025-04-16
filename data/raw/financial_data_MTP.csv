@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+MTP,Doanh thu bán hàng và CCDV,2020,1013064078.0,2025-04-12
+MTP,Doanh thu bán hàng và CCDV,2021,1294537981.0,2025-04-12
+MTP,Doanh thu bán hàng và CCDV,2022,1331150806.0,2025-04-12
+MTP,Doanh thu bán hàng và CCDV,2023,1248310416.0,2025-04-12
+MTP,Giá vốn hàng bán,2020,952338661.0,2025-04-12
+MTP,Giá vốn hàng bán,2021,1221418514.0,2025-04-12
+MTP,Giá vốn hàng bán,2022,1234935945.0,2025-04-12
+MTP,Giá vốn hàng bán,2023,1155293095.0,2025-04-12
+MTP,Lợi nhuận gộp về BH và CCDV,2020,60440774.0,2025-04-12
+MTP,Lợi nhuận gộp về BH và CCDV,2021,72563538.0,2025-04-12
+MTP,Lợi nhuận gộp về BH và CCDV,2022,93613577.0,2025-04-12
+MTP,Lợi nhuận gộp về BH và CCDV,2023,90502224.0,2025-04-12
+MTP,Lợi nhuận tài chính,2020,-20816002.0,2025-04-12
+MTP,Lợi nhuận tài chính,2021,-21661584.0,2025-04-12
+MTP,Lợi nhuận tài chính,2022,-25187743.0,2025-04-12
+MTP,Lợi nhuận tài chính,2023,-27011129.0,2025-04-12
+MTP,Lợi nhuận khác,2020,93914.0,2025-04-12
+MTP,Lợi nhuận khác,2021,557317.0,2025-04-12
+MTP,Lợi nhuận khác,2022,-3843240.0,2025-04-12
+MTP,Lợi nhuận khác,2023,50230.0,2025-04-12
+MTP,Tổng lợi nhuận trước thuế,2020,8949874.0,2025-04-12
+MTP,Tổng lợi nhuận trước thuế,2021,16292285.0,2025-04-12
+MTP,Tổng lợi nhuận trước thuế,2022,15908091.0,2025-04-12
+MTP,Tổng lợi nhuận trước thuế,2023,20095839.0,2025-04-12
+MTP,Lợi nhuận sau thuế,2020,7853649.0,2025-04-12
+MTP,Lợi nhuận sau thuế,2021,13010503.0,2025-04-12
+MTP,Lợi nhuận sau thuế,2022,4556913.0,2025-04-12
+MTP,Lợi nhuận sau thuế,2023,16020505.0,2025-04-12
+MTP,Lợi nhuận sau thuế của công ty mẹ,2020,7853649.0,2025-04-12
+MTP,Lợi nhuận sau thuế của công ty mẹ,2021,13010503.0,2025-04-12
+MTP,Lợi nhuận sau thuế của công ty mẹ,2022,4556913.0,2025-04-12
+MTP,Lợi nhuận sau thuế của công ty mẹ,2023,16020505.0,2025-04-12
+MTP,Tổng tài sản lưu động ngắn hạn,2020,434340543.0,2025-04-12
+MTP,Tổng tài sản lưu động ngắn hạn,2021,410451271.0,2025-04-12
+MTP,Tổng tài sản lưu động ngắn hạn,2022,490878163.0,2025-04-12
+MTP,Tổng tài sản lưu động ngắn hạn,2023,529740548.0,2025-04-12
+MTP,Tổng tài sản,2020,465338204.0,2025-04-12
+MTP,Tổng tài sản,2021,440572796.0,2025-04-12
+MTP,Tổng tài sản,2022,516630216.0,2025-04-12
+MTP,Tổng tài sản,2023,568567897.0,2025-04-12
+MTP,Nợ ngắn hạn,2020,376782831.0,2025-04-12
+MTP,Nợ ngắn hạn,2021,343976844.0,2025-04-12
+MTP,Nợ ngắn hạn,2022,427189324.0,2025-04-12
+MTP,Nợ ngắn hạn,2023,466892269.0,2025-04-12
+MTP,Tổng nợ,2020,382782831.0,2025-04-12
+MTP,Tổng nợ,2021,352108623.0,2025-04-12
+MTP,Tổng nợ,2022,427189324.0,2025-04-12
+MTP,Tổng nợ,2023,466892269.0,2025-04-12
+MTP,Vốn chủ sở hữu,2020,82555373.0,2025-04-12
+MTP,Vốn chủ sở hữu,2021,88464173.0,2025-04-12
+MTP,Vốn chủ sở hữu,2022,89440892.0,2025-04-12
+MTP,Vốn chủ sở hữu,2023,101675628.0,2025-04-12

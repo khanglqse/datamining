@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+STG,Doanh thu bán hàng và CCDV,2020,2032048195.0,2025-04-12
+STG,Doanh thu bán hàng và CCDV,2021,2886511606.0,2025-04-12
+STG,Doanh thu bán hàng và CCDV,2022,2639254563.0,2025-04-12
+STG,Doanh thu bán hàng và CCDV,2023,1795635737.0,2025-04-12
+STG,Giá vốn hàng bán,2020,1598558917.0,2025-04-12
+STG,Giá vốn hàng bán,2021,2398760692.0,2025-04-12
+STG,Giá vốn hàng bán,2022,2187309931.0,2025-04-12
+STG,Giá vốn hàng bán,2023,1507282200.0,2025-04-12
+STG,Lợi nhuận gộp về BH và CCDV,2020,433329704.0,2025-04-12
+STG,Lợi nhuận gộp về BH và CCDV,2021,487750914.0,2025-04-12
+STG,Lợi nhuận gộp về BH và CCDV,2022,451944632.0,2025-04-12
+STG,Lợi nhuận gộp về BH và CCDV,2023,288353537.0,2025-04-12
+STG,Lợi nhuận tài chính,2020,-40425980.0,2025-04-12
+STG,Lợi nhuận tài chính,2021,-10083556.0,2025-04-12
+STG,Lợi nhuận tài chính,2022,-8437267.0,2025-04-12
+STG,Lợi nhuận tài chính,2023,5741612.0,2025-04-12
+STG,Lợi nhuận khác,2020,-3609582.0,2025-04-12
+STG,Lợi nhuận khác,2021,5115986.0,2025-04-12
+STG,Lợi nhuận khác,2022,12330791.0,2025-04-12
+STG,Lợi nhuận khác,2023,55147446.0,2025-04-12
+STG,Tổng lợi nhuận trước thuế,2020,147772162.0,2025-04-12
+STG,Tổng lợi nhuận trước thuế,2021,302354328.0,2025-04-12
+STG,Tổng lợi nhuận trước thuế,2022,306085677.0,2025-04-12
+STG,Tổng lợi nhuận trước thuế,2023,220359759.0,2025-04-12
+STG,Lợi nhuận sau thuế,2020,117768618.0,2025-04-12
+STG,Lợi nhuận sau thuế,2021,246646630.0,2025-04-12
+STG,Lợi nhuận sau thuế,2022,253562357.0,2025-04-12
+STG,Lợi nhuận sau thuế,2023,150680475.0,2025-04-12
+STG,Lợi nhuận sau thuế của công ty mẹ,2020,106636362.0,2025-04-12
+STG,Lợi nhuận sau thuế của công ty mẹ,2021,232783836.0,2025-04-12
+STG,Lợi nhuận sau thuế của công ty mẹ,2022,238406245.0,2025-04-12
+STG,Lợi nhuận sau thuế của công ty mẹ,2023,142234300.0,2025-04-12
+STG,Tổng tài sản lưu động ngắn hạn,2020,898182947.0,2025-04-12
+STG,Tổng tài sản lưu động ngắn hạn,2021,996622096.0,2025-04-12
+STG,Tổng tài sản lưu động ngắn hạn,2022,994211816.0,2025-04-12
+STG,Tổng tài sản lưu động ngắn hạn,2023,1171257229.0,2025-04-12
+STG,Tổng tài sản,2020,2339223191.0,2025-04-12
+STG,Tổng tài sản,2021,2684190805.0,2025-04-12
+STG,Tổng tài sản,2022,2784034933.0,2025-04-12
+STG,Tổng tài sản,2023,2868678175.0,2025-04-12
+STG,Nợ ngắn hạn,2020,509016436.0,2025-04-12
+STG,Nợ ngắn hạn,2021,570655495.0,2025-04-12
+STG,Nợ ngắn hạn,2022,484587096.0,2025-04-12
+STG,Nợ ngắn hạn,2023,480992543.0,2025-04-12
+STG,Tổng nợ,2020,694983892.0,2025-04-12
+STG,Tổng nợ,2021,799161227.0,2025-04-12
+STG,Tổng nợ,2022,660320918.0,2025-04-12
+STG,Tổng nợ,2023,614033081.0,2025-04-12
+STG,Vốn chủ sở hữu,2020,1644239299.0,2025-04-12
+STG,Vốn chủ sở hữu,2021,1885029578.0,2025-04-12
+STG,Vốn chủ sở hữu,2022,2123714015.0,2025-04-12
+STG,Vốn chủ sở hữu,2023,2254645094.0,2025-04-12

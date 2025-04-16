@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+HRC,Doanh thu bán hàng và CCDV,2021,184909291.0,2025-04-12
+HRC,Doanh thu bán hàng và CCDV,2022,179203199.0,2025-04-12
+HRC,Doanh thu bán hàng và CCDV,2023,183174143.0,2025-04-12
+HRC,Doanh thu bán hàng và CCDV,2024,214359048.0,2025-04-12
+HRC,Giá vốn hàng bán,2021,156006175.0,2025-04-12
+HRC,Giá vốn hàng bán,2022,162213118.0,2025-04-12
+HRC,Giá vốn hàng bán,2023,173758332.0,2025-04-12
+HRC,Giá vốn hàng bán,2024,169053246.0,2025-04-12
+HRC,Lợi nhuận gộp về BH và CCDV,2021,28903117.0,2025-04-12
+HRC,Lợi nhuận gộp về BH và CCDV,2022,16990081.0,2025-04-12
+HRC,Lợi nhuận gộp về BH và CCDV,2023,9415811.0,2025-04-12
+HRC,Lợi nhuận gộp về BH và CCDV,2024,45214938.0,2025-04-12
+HRC,Lợi nhuận tài chính,2021,9318434.0,2025-04-12
+HRC,Lợi nhuận tài chính,2022,1978698.0,2025-04-12
+HRC,Lợi nhuận tài chính,2023,21386344.0,2025-04-12
+HRC,Lợi nhuận tài chính,2024,2864926.0,2025-04-12
+HRC,Lợi nhuận khác,2021,3936462.0,2025-04-12
+HRC,Lợi nhuận khác,2022,8870880.0,2025-04-12
+HRC,Lợi nhuận khác,2023,6727363.0,2025-04-12
+HRC,Lợi nhuận khác,2024,37809319.0,2025-04-12
+HRC,Tổng lợi nhuận trước thuế,2021,22209210.0,2025-04-12
+HRC,Tổng lợi nhuận trước thuế,2022,10158849.0,2025-04-12
+HRC,Tổng lợi nhuận trước thuế,2023,16977861.0,2025-04-12
+HRC,Tổng lợi nhuận trước thuế,2024,67149915.0,2025-04-12
+HRC,Lợi nhuận sau thuế,2021,22071619.0,2025-04-12
+HRC,Lợi nhuận sau thuế,2022,10158849.0,2025-04-12
+HRC,Lợi nhuận sau thuế,2023,16977861.0,2025-04-12
+HRC,Lợi nhuận sau thuế,2024,61401116.0,2025-04-12
+HRC,Lợi nhuận sau thuế của công ty mẹ,2021,22071619.0,2025-04-12
+HRC,Lợi nhuận sau thuế của công ty mẹ,2022,10158849.0,2025-04-12
+HRC,Lợi nhuận sau thuế của công ty mẹ,2023,16977861.0,2025-04-12
+HRC,Lợi nhuận sau thuế của công ty mẹ,2024,61401116.0,2025-04-12
+HRC,Tổng tài sản lưu động ngắn hạn,2021,82669699.0,2025-04-12
+HRC,Tổng tài sản lưu động ngắn hạn,2022,51743230.0,2025-04-12
+HRC,Tổng tài sản lưu động ngắn hạn,2023,66483580.0,2025-04-12
+HRC,Tổng tài sản lưu động ngắn hạn,2024,110401325.0,2025-04-12
+HRC,Tổng tài sản,2021,847791272.0,2025-04-12
+HRC,Tổng tài sản,2022,810637690.0,2025-04-12
+HRC,Tổng tài sản,2023,818930190.0,2025-04-12
+HRC,Tổng tài sản,2024,845935227.0,2025-04-12
+HRC,Nợ ngắn hạn,2021,154218474.0,2025-04-12
+HRC,Nợ ngắn hạn,2022,145012246.0,2025-04-12
+HRC,Nợ ngắn hạn,2023,176453245.0,2025-04-12
+HRC,Nợ ngắn hạn,2024,174951491.0,2025-04-12
+HRC,Tổng nợ,2021,296750374.0,2025-04-12
+HRC,Tổng nợ,2022,262474943.0,2025-04-12
+HRC,Tổng nợ,2023,266785570.0,2025-04-12
+HRC,Tổng nợ,2024,242749905.0,2025-04-12
+HRC,Vốn chủ sở hữu,2021,551040898.0,2025-04-12
+HRC,Vốn chủ sở hữu,2022,548162747.0,2025-04-12
+HRC,Vốn chủ sở hữu,2023,552144621.0,2025-04-12
+HRC,Vốn chủ sở hữu,2024,603185322.0,2025-04-12

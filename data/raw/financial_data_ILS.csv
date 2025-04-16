@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+ILS,Doanh thu bán hàng và CCDV,2020,287904219.0,2025-04-12
+ILS,Doanh thu bán hàng và CCDV,2021,282705850.0,2025-04-12
+ILS,Doanh thu bán hàng và CCDV,2022,247523662.0,2025-04-12
+ILS,Doanh thu bán hàng và CCDV,2023,180807877.0,2025-04-12
+ILS,Giá vốn hàng bán,2020,257569907.0,2025-04-12
+ILS,Giá vốn hàng bán,2021,245032682.0,2025-04-12
+ILS,Giá vốn hàng bán,2022,215963806.0,2025-04-12
+ILS,Giá vốn hàng bán,2023,150355939.0,2025-04-12
+ILS,Lợi nhuận gộp về BH và CCDV,2020,30334313.0,2025-04-12
+ILS,Lợi nhuận gộp về BH và CCDV,2021,37614332.0,2025-04-12
+ILS,Lợi nhuận gộp về BH và CCDV,2022,31551848.0,2025-04-12
+ILS,Lợi nhuận gộp về BH và CCDV,2023,30451938.0,2025-04-12
+ILS,Lợi nhuận tài chính,2020,6996872.0,2025-04-12
+ILS,Lợi nhuận tài chính,2021,-3681085.0,2025-04-12
+ILS,Lợi nhuận tài chính,2022,-3618756.0,2025-04-12
+ILS,Lợi nhuận tài chính,2023,-24351583.0,2025-04-12
+ILS,Lợi nhuận khác,2020,628541.0,2025-04-12
+ILS,Lợi nhuận khác,2021,493772.0,2025-04-12
+ILS,Lợi nhuận khác,2022,220917.0,2025-04-12
+ILS,Lợi nhuận khác,2023,37998980.0,2025-04-12
+ILS,Tổng lợi nhuận trước thuế,2020,-1658147.0,2025-04-12
+ILS,Tổng lợi nhuận trước thuế,2021,-15899002.0,2025-04-12
+ILS,Tổng lợi nhuận trước thuế,2022,-17313292.0,2025-04-12
+ILS,Tổng lợi nhuận trước thuế,2023,6825235.0,2025-04-12
+ILS,Lợi nhuận sau thuế,2020,-2122278.0,2025-04-12
+ILS,Lợi nhuận sau thuế,2021,-17427230.0,2025-04-12
+ILS,Lợi nhuận sau thuế,2022,-18614143.0,2025-04-12
+ILS,Lợi nhuận sau thuế,2023,5430393.0,2025-04-12
+ILS,Lợi nhuận sau thuế của công ty mẹ,2020,-3092579.0,2025-04-12
+ILS,Lợi nhuận sau thuế của công ty mẹ,2021,-20247764.0,2025-04-12
+ILS,Lợi nhuận sau thuế của công ty mẹ,2022,-20740595.0,2025-04-12
+ILS,Lợi nhuận sau thuế của công ty mẹ,2023,3126387.0,2025-04-12
+ILS,Tổng tài sản lưu động ngắn hạn,2020,253832666.0,2025-04-12
+ILS,Tổng tài sản lưu động ngắn hạn,2021,194468328.0,2025-04-12
+ILS,Tổng tài sản lưu động ngắn hạn,2022,149680533.0,2025-04-12
+ILS,Tổng tài sản lưu động ngắn hạn,2023,106809384.0,2025-04-12
+ILS,Tổng tài sản,2020,693155308.0,2025-04-12
+ILS,Tổng tài sản,2021,733100526.0,2025-04-12
+ILS,Tổng tài sản,2022,689385123.0,2025-04-12
+ILS,Tổng tài sản,2023,640978571.0,2025-04-12
+ILS,Nợ ngắn hạn,2020,202364078.0,2025-04-12
+ILS,Nợ ngắn hạn,2021,272040596.0,2025-04-12
+ILS,Nợ ngắn hạn,2022,254461050.0,2025-04-12
+ILS,Nợ ngắn hạn,2023,242358699.0,2025-04-12
+ILS,Tổng nợ,2020,284524348.0,2025-04-12
+ILS,Tổng nợ,2021,353718469.0,2025-04-12
+ILS,Tổng nợ,2022,337912185.0,2025-04-12
+ILS,Tổng nợ,2023,305328652.0,2025-04-12
+ILS,Vốn chủ sở hữu,2020,408630960.0,2025-04-12
+ILS,Vốn chủ sở hữu,2021,379382057.0,2025-04-12
+ILS,Vốn chủ sở hữu,2022,351472938.0,2025-04-12
+ILS,Vốn chủ sở hữu,2023,335649919.0,2025-04-12

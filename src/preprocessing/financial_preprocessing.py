@@ -27,11 +27,9 @@ class FinancialPreprocessor:
         self.data_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(__file__))), 'data')
         self.raw_dir = os.path.join(self.data_dir, 'raw')
         self.processed_dir = os.path.join(self.data_dir, 'processed')
-        self.ts_dir = os.path.join(self.processed_dir, 'timeseries')
         
         # Create directories if they don't exist
         os.makedirs(self.processed_dir, exist_ok=True)
-        os.makedirs(self.ts_dir, exist_ok=True)
         
         # Initialize preprocessing components
         self.scaler = StandardScaler()
@@ -176,40 +174,42 @@ class FinancialPreprocessor:
 
     def calculate_ratios(self, ts_data):
         """Calculate financial ratios"""
-        ratios = pd.DataFrame()
+        ratios = pd.DataFrame(index=ts_data.index)
+        print("Calculating financial ratios...")
         
         # ROA (Return on Assets) = Net Income / Total Assets
-        if 'net_income' in ts_data.index and 'total_assets' in ts_data.index:
-            ratios.loc['roa'] = ts_data.loc['net_income'] / ts_data.loc['total_assets']
+        if 'net_income' in ts_data.columns and 'total_assets' in ts_data.columns:
+            ratios['roa'] = ts_data['net_income'] / ts_data['total_assets']
         
         # ROE (Return on Equity) = Net Income / Equity
-        if 'net_income' in ts_data.index and 'equity' in ts_data.index:
-            ratios.loc['roe'] = ts_data.loc['net_income'] / ts_data.loc['equity']
+        if 'net_income' in ts_data.columns and 'equity' in ts_data.columns:
+            ratios['roe'] = ts_data['net_income'] / ts_data['equity']
         
         # Debt Ratio = Total Debt / Total Assets
-        if 'total_debt' in ts_data.index and 'total_assets' in ts_data.index:
-            ratios.loc['debt_ratio'] = ts_data.loc['total_debt'] / ts_data.loc['total_assets']
+        if 'total_debt' in ts_data.columns and 'total_assets' in ts_data.columns:
+            ratios['debt_ratio'] = ts_data['total_debt'] / ts_data['total_assets']
         
         # Current Ratio = Current Assets / Current Liabilities
-        if 'current_assets' in ts_data.index and 'current_liabilities' in ts_data.index:
-            ratios.loc['current_ratio'] = ts_data.loc['current_assets'] / ts_data.loc['current_liabilities']
+        if 'current_assets' in ts_data.columns and 'current_liabilities' in ts_data.columns:
+            ratios['current_ratio'] = ts_data['current_assets'] / ts_data['current_liabilities']
         
         # Gross Margin = Gross Profit / Revenue
-        if 'gross_profit' in ts_data.index and 'revenue' in ts_data.index:
-            ratios.loc['gross_margin'] = ts_data.loc['gross_profit'] / ts_data.loc['revenue']
+        if 'gross_profit' in ts_data.columns and 'revenue' in ts_data.columns:
+            ratios['gross_margin'] = ts_data['gross_profit'] / ts_data['revenue']
         
         # Net Profit Margin = Net Income / Revenue
-        if 'net_income' in ts_data.index and 'revenue' in ts_data.index:
-            ratios.loc['net_profit_margin'] = ts_data.loc['net_income'] / ts_data.loc['revenue']
+        if 'net_income' in ts_data.columns and 'revenue' in ts_data.columns:
+            ratios['net_profit_margin'] = ts_data['net_income'] / ts_data['revenue']
         
         # Revenue Growth (year-over-year)
-        if 'revenue' in ts_data.index:
-            revenue = ts_data.loc['revenue']
-            ratios.loc['revenue_growth'] = revenue.pct_change()
+        if 'revenue' in ts_data.columns:
+            ratios['revenue_growth'] = ts_data['revenue'].pct_change()
         
         # Replace inf and -inf with NaN, then fill NaN with 0
         ratios = ratios.replace([np.inf, -np.inf], np.nan).fillna(0)
         
+        print("Ratios calculated:")
+        print(ratios)
         return ratios
 
     def prepare_clustering_data(self, ts_data, ratios):
@@ -249,7 +249,8 @@ class FinancialPreprocessor:
             
             # Calculate ratios
             ratios = self.calculate_ratios(ts_data)
-            
+            print("Ratios:")
+            print(ratios)
             # Prepare clustering data
             clustering_data = self.prepare_clustering_data(ts_data, ratios)
             if clustering_data is None:

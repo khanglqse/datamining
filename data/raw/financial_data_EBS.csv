@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+EBS,Doanh thu bán hàng và CCDV,2021,118801175.0,2025-04-12
+EBS,Doanh thu bán hàng và CCDV,2022,99558915.0,2025-04-12
+EBS,Doanh thu bán hàng và CCDV,2023,79823731.0,2025-04-12
+EBS,Doanh thu bán hàng và CCDV,2024,72619116.0,2025-04-12
+EBS,Giá vốn hàng bán,2021,87146237.0,2025-04-12
+EBS,Giá vốn hàng bán,2022,66977770.0,2025-04-12
+EBS,Giá vốn hàng bán,2023,51295485.0,2025-04-12
+EBS,Giá vốn hàng bán,2024,43920919.0,2025-04-12
+EBS,Lợi nhuận gộp về BH và CCDV,2021,31446078.0,2025-04-12
+EBS,Lợi nhuận gộp về BH và CCDV,2022,32212084.0,2025-04-12
+EBS,Lợi nhuận gộp về BH và CCDV,2023,28393801.0,2025-04-12
+EBS,Lợi nhuận gộp về BH và CCDV,2024,28698197.0,2025-04-12
+EBS,Lợi nhuận tài chính,2021,5812462.0,2025-04-12
+EBS,Lợi nhuận tài chính,2022,4990531.0,2025-04-12
+EBS,Lợi nhuận tài chính,2023,6550670.0,2025-04-12
+EBS,Lợi nhuận tài chính,2024,7163422.0,2025-04-12
+EBS,Lợi nhuận khác,2021,573.0,2025-04-12
+EBS,Lợi nhuận khác,2022,1302524.0,2025-04-12
+EBS,Lợi nhuận khác,2023,-12794.0,2025-04-12
+EBS,Lợi nhuận khác,2024,4551.0,2025-04-12
+EBS,Tổng lợi nhuận trước thuế,2021,14901372.0,2025-04-12
+EBS,Tổng lợi nhuận trước thuế,2022,17331439.0,2025-04-12
+EBS,Tổng lợi nhuận trước thuế,2023,14804501.0,2025-04-12
+EBS,Tổng lợi nhuận trước thuế,2024,16713253.0,2025-04-12
+EBS,Lợi nhuận sau thuế,2021,13671283.0,2025-04-12
+EBS,Lợi nhuận sau thuế,2022,15231105.0,2025-04-12
+EBS,Lợi nhuận sau thuế,2023,13086250.0,2025-04-12
+EBS,Lợi nhuận sau thuế,2024,15317512.0,2025-04-12
+EBS,Lợi nhuận sau thuế của công ty mẹ,2021,10345306.0,2025-04-12
+EBS,Lợi nhuận sau thuế của công ty mẹ,2022,12121498.0,2025-04-12
+EBS,Lợi nhuận sau thuế của công ty mẹ,2023,9881396.0,2025-04-12
+EBS,Lợi nhuận sau thuế của công ty mẹ,2024,9345221.0,2025-04-12
+EBS,Tổng tài sản lưu động ngắn hạn,2021,108166967.0,2025-04-12
+EBS,Tổng tài sản lưu động ngắn hạn,2022,116455127.0,2025-04-12
+EBS,Tổng tài sản lưu động ngắn hạn,2023,103529270.0,2025-04-12
+EBS,Tổng tài sản lưu động ngắn hạn,2024,103231438.0,2025-04-12
+EBS,Tổng tài sản,2021,192078046.0,2025-04-12
+EBS,Tổng tài sản,2022,196341627.0,2025-04-12
+EBS,Tổng tài sản,2023,181917301.0,2025-04-12
+EBS,Tổng tài sản,2024,182255057.0,2025-04-12
+EBS,Nợ ngắn hạn,2021,36814896.0,2025-04-12
+EBS,Nợ ngắn hạn,2022,37788819.0,2025-04-12
+EBS,Nợ ngắn hạn,2023,24035199.0,2025-04-12
+EBS,Nợ ngắn hạn,2024,22754798.0,2025-04-12
+EBS,Tổng nợ,2021,48299609.0,2025-04-12
+EBS,Tổng nợ,2022,46947753.0,2025-04-12
+EBS,Tổng nợ,2023,30865652.0,2025-04-12
+EBS,Tổng nợ,2024,27256770.0,2025-04-12
+EBS,Vốn chủ sở hữu,2021,143778437.0,2025-04-12
+EBS,Vốn chủ sở hữu,2022,149393874.0,2025-04-12
+EBS,Vốn chủ sở hữu,2023,151051650.0,2025-04-12
+EBS,Vốn chủ sở hữu,2024,30132406.0,2025-04-12

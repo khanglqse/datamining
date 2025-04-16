@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+IJC,Doanh thu bán hàng và CCDV,2020,2162822605.0,2025-04-12
+IJC,Doanh thu bán hàng và CCDV,2021,2613093524.0,2025-04-12
+IJC,Doanh thu bán hàng và CCDV,2022,1978362546.0,2025-04-12
+IJC,Doanh thu bán hàng và CCDV,2023,1515697524.0,2025-04-12
+IJC,Giá vốn hàng bán,2020,1478799083.0,2025-04-12
+IJC,Giá vốn hàng bán,2021,1610723880.0,2025-04-12
+IJC,Giá vốn hàng bán,2022,1159258318.0,2025-04-12
+IJC,Giá vốn hàng bán,2023,843676486.0,2025-04-12
+IJC,Lợi nhuận gộp về BH và CCDV,2020,662496443.0,2025-04-12
+IJC,Lợi nhuận gộp về BH và CCDV,2021,990999535.0,2025-04-12
+IJC,Lợi nhuận gộp về BH và CCDV,2022,808864220.0,2025-04-12
+IJC,Lợi nhuận gộp về BH và CCDV,2023,-66778665.0,2025-04-12
+IJC,Lợi nhuận tài chính,2020,-88477743.0,2025-04-12
+IJC,Lợi nhuận tài chính,2021,-126168503.0,2025-04-12
+IJC,Lợi nhuận tài chính,2022,-98824027.0,2025-04-12
+IJC,Lợi nhuận tài chính,2023,-78690619.0,2025-04-12
+IJC,Lợi nhuận khác,2020,5615601.0,2025-04-12
+IJC,Lợi nhuận khác,2021,3165325.0,2025-04-12
+IJC,Lợi nhuận khác,2022,14067193.0,2025-04-12
+IJC,Lợi nhuận khác,2023,11318497.0,2025-04-12
+IJC,Tổng lợi nhuận trước thuế,2020,451587014.0,2025-04-12
+IJC,Tổng lợi nhuận trước thuế,2021,782818025.0,2025-04-12
+IJC,Tổng lợi nhuận trước thuế,2022,640504481.0,2025-04-12
+IJC,Tổng lợi nhuận trước thuế,2023,494392648.0,2025-04-12
+IJC,Lợi nhuận sau thuế,2020,369903450.0,2025-04-12
+IJC,Lợi nhuận sau thuế,2021,621100241.0,2025-04-12
+IJC,Lợi nhuận sau thuế,2022,511049064.0,2025-04-12
+IJC,Lợi nhuận sau thuế,2023,394852893.0,2025-04-12
+IJC,Lợi nhuận sau thuế của công ty mẹ,2020,369903450.0,2025-04-12
+IJC,Lợi nhuận sau thuế của công ty mẹ,2021,621100241.0,2025-04-12
+IJC,Lợi nhuận sau thuế của công ty mẹ,2022,511049064.0,2025-04-12
+IJC,Lợi nhuận sau thuế của công ty mẹ,2023,394852893.0,2025-04-12
+IJC,Tổng tài sản lưu động ngắn hạn,2020,4716154524.0,2025-04-12
+IJC,Tổng tài sản lưu động ngắn hạn,2021,4808121360.0,2025-04-12
+IJC,Tổng tài sản lưu động ngắn hạn,2022,4408199228.0,2025-04-12
+IJC,Tổng tài sản lưu động ngắn hạn,2023,3742769257.0,2025-04-12
+IJC,Tổng tài sản,2020,6641763155.0,2025-04-12
+IJC,Tổng tài sản,2021,6808654305.0,2025-04-12
+IJC,Tổng tài sản,2022,6523412492.0,2025-04-12
+IJC,Tổng tài sản,2023,6403754435.0,2025-04-12
+IJC,Nợ ngắn hạn,2020,3184300270.0,2025-04-12
+IJC,Nợ ngắn hạn,2021,1939958357.0,2025-04-12
+IJC,Nợ ngắn hạn,2022,2011065784.0,2025-04-12
+IJC,Nợ ngắn hạn,2023,2317793110.0,2025-04-12
+IJC,Tổng nợ,2020,4571521960.0,2025-04-12
+IJC,Tổng nợ,2021,3464857798.0,2025-04-12
+IJC,Tổng nợ,2022,2707173135.0,2025-04-12
+IJC,Tổng nợ,2023,2580167598.0,2025-04-12
+IJC,Vốn chủ sở hữu,2020,2070241195.0,2025-04-12
+IJC,Vốn chủ sở hữu,2021,3343796508.0,2025-04-12
+IJC,Vốn chủ sở hữu,2022,3816239357.0,2025-04-12
+IJC,Vốn chủ sở hữu,2023,3823586837.0,2025-04-12

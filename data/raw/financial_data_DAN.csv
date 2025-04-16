@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+DAN,Doanh thu bán hàng và CCDV,2020,399490315.0,2025-04-12
+DAN,Doanh thu bán hàng và CCDV,2021,463279628.0,2025-04-12
+DAN,Doanh thu bán hàng và CCDV,2022,559812683.0,2025-04-12
+DAN,Doanh thu bán hàng và CCDV,2024,572176321.0,2025-04-12
+DAN,Giá vốn hàng bán,2020,217115539.0,2025-04-12
+DAN,Giá vốn hàng bán,2021,260935564.0,2025-04-12
+DAN,Giá vốn hàng bán,2022,284945422.0,2025-04-12
+DAN,Giá vốn hàng bán,2024,271515487.0,2025-04-12
+DAN,Lợi nhuận gộp về BH và CCDV,2020,173598616.0,2025-04-12
+DAN,Lợi nhuận gộp về BH và CCDV,2021,191502846.0,2025-04-12
+DAN,Lợi nhuận gộp về BH và CCDV,2022,270808114.0,2025-04-12
+DAN,Lợi nhuận gộp về BH và CCDV,2024,293216535.0,2025-04-12
+DAN,Lợi nhuận tài chính,2020,-6613730.0,2025-04-12
+DAN,Lợi nhuận tài chính,2021,8677839.0,2025-04-12
+DAN,Lợi nhuận tài chính,2022,-244201.0,2025-04-12
+DAN,Lợi nhuận tài chính,2024,-7906113.0,2025-04-12
+DAN,Lợi nhuận khác,2020,-268702.0,2025-04-12
+DAN,Lợi nhuận khác,2021,-357783.0,2025-04-12
+DAN,Lợi nhuận khác,2022,-3337157.0,2025-04-12
+DAN,Lợi nhuận khác,2024,-4752499.0,2025-04-12
+DAN,Tổng lợi nhuận trước thuế,2020,39910764.0,2025-04-12
+DAN,Tổng lợi nhuận trước thuế,2021,71469756.0,2025-04-12
+DAN,Tổng lợi nhuận trước thuế,2022,64163500.0,2025-04-12
+DAN,Tổng lợi nhuận trước thuế,2024,93328027.0,2025-04-12
+DAN,Lợi nhuận sau thuế,2020,31392273.0,2025-04-12
+DAN,Lợi nhuận sau thuế,2021,56721382.0,2025-04-12
+DAN,Lợi nhuận sau thuế,2022,49313408.0,2025-04-12
+DAN,Lợi nhuận sau thuế,2024,69998059.0,2025-04-12
+DAN,Lợi nhuận sau thuế của công ty mẹ,2020,31392273.0,2025-04-12
+DAN,Lợi nhuận sau thuế của công ty mẹ,2021,56721382.0,2025-04-12
+DAN,Lợi nhuận sau thuế của công ty mẹ,2022,49313408.0,2025-04-12
+DAN,Lợi nhuận sau thuế của công ty mẹ,2024,69998059.0,2025-04-12
+DAN,Tổng tài sản lưu động ngắn hạn,2020,453084112.0,2025-04-12
+DAN,Tổng tài sản lưu động ngắn hạn,2021,625625130.0,2025-04-12
+DAN,Tổng tài sản lưu động ngắn hạn,2022,553297347.0,2025-04-12
+DAN,Tổng tài sản lưu động ngắn hạn,2024,567183522.0,2025-04-12
+DAN,Tổng tài sản,2020,721910839.0,2025-04-12
+DAN,Tổng tài sản,2021,886481394.0,2025-04-12
+DAN,Tổng tài sản,2022,1074248114.0,2025-04-12
+DAN,Tổng tài sản,2024,1596130654.0,2025-04-12
+DAN,Nợ ngắn hạn,2020,124220659.0,2025-04-12
+DAN,Nợ ngắn hạn,2021,260126069.0,2025-04-12
+DAN,Nợ ngắn hạn,2022,232430481.0,2025-04-12
+DAN,Nợ ngắn hạn,2024,400253160.0,2025-04-12
+DAN,Tổng nợ,2020,124220659.0,2025-04-12
+DAN,Tổng nợ,2021,260126069.0,2025-04-12
+DAN,Tổng nợ,2022,424872981.0,2025-04-12
+DAN,Tổng nợ,2024,831060707.0,2025-04-12
+DAN,Vốn chủ sở hữu,2020,597690180.0,2025-04-12
+DAN,Vốn chủ sở hữu,2021,626355325.0,2025-04-12
+DAN,Vốn chủ sở hữu,2022,649375133.0,2025-04-12
+DAN,Vốn chủ sở hữu,2024,765069947.0,2025-04-12

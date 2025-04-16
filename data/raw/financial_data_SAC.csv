@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+SAC,Doanh thu bán hàng và CCDV,2021,105746320.0,2025-04-12
+SAC,Doanh thu bán hàng và CCDV,2022,90913911.0,2025-04-12
+SAC,Doanh thu bán hàng và CCDV,2023,88614810.0,2025-04-12
+SAC,Doanh thu bán hàng và CCDV,2024,102073573.0,2025-04-12
+SAC,Giá vốn hàng bán,2021,93845927.0,2025-04-12
+SAC,Giá vốn hàng bán,2022,80640772.0,2025-04-12
+SAC,Giá vốn hàng bán,2023,79162824.0,2025-04-12
+SAC,Giá vốn hàng bán,2024,88003367.0,2025-04-12
+SAC,Lợi nhuận gộp về BH và CCDV,2021,11900393.0,2025-04-12
+SAC,Lợi nhuận gộp về BH và CCDV,2022,10273139.0,2025-04-12
+SAC,Lợi nhuận gộp về BH và CCDV,2023,9451987.0,2025-04-12
+SAC,Lợi nhuận gộp về BH và CCDV,2024,14070206.0,2025-04-12
+SAC,Lợi nhuận tài chính,2021,1848352.0,2025-04-12
+SAC,Lợi nhuận tài chính,2022,2170188.0,2025-04-12
+SAC,Lợi nhuận tài chính,2023,3002346.0,2025-04-12
+SAC,Lợi nhuận tài chính,2024,1601455.0,2025-04-12
+SAC,Lợi nhuận khác,2021,-328130.0,2025-04-12
+SAC,Lợi nhuận khác,2022,148078.0,2025-04-12
+SAC,Lợi nhuận khác,2023,1139191.0,2025-04-12
+SAC,Lợi nhuận khác,2024,351079.0,2025-04-12
+SAC,Tổng lợi nhuận trước thuế,2021,7196926.0,2025-04-12
+SAC,Tổng lợi nhuận trước thuế,2022,3513882.0,2025-04-12
+SAC,Tổng lợi nhuận trước thuế,2023,4840484.0,2025-04-12
+SAC,Tổng lợi nhuận trước thuế,2024,5961730.0,2025-04-12
+SAC,Lợi nhuận sau thuế,2021,6090765.0,2025-04-12
+SAC,Lợi nhuận sau thuế,2022,2757423.0,2025-04-12
+SAC,Lợi nhuận sau thuế,2023,3748967.0,2025-04-12
+SAC,Lợi nhuận sau thuế,2024,4679683.0,2025-04-12
+SAC,Lợi nhuận sau thuế của công ty mẹ,2021,6090765.0,2025-04-12
+SAC,Lợi nhuận sau thuế của công ty mẹ,2022,2757423.0,2025-04-12
+SAC,Lợi nhuận sau thuế của công ty mẹ,2023,3748967.0,2025-04-12
+SAC,Lợi nhuận sau thuế của công ty mẹ,2024,4679683.0,2025-04-12
+SAC,Tổng tài sản lưu động ngắn hạn,2021,75961485.0,2025-04-12
+SAC,Tổng tài sản lưu động ngắn hạn,2022,72734265.0,2025-04-12
+SAC,Tổng tài sản lưu động ngắn hạn,2023,77027303.0,2025-04-12
+SAC,Tổng tài sản lưu động ngắn hạn,2024,54228983.0,2025-04-12
+SAC,Tổng tài sản,2021,85252210.0,2025-04-12
+SAC,Tổng tài sản,2022,80722522.0,2025-04-12
+SAC,Tổng tài sản,2023,82367085.0,2025-04-12
+SAC,Tổng tài sản,2024,60465086.0,2025-04-12
+SAC,Nợ ngắn hạn,2021,12841962.0,2025-04-12
+SAC,Nợ ngắn hạn,2022,9254463.0,2025-04-12
+SAC,Nợ ngắn hạn,2023,10586521.0,2025-04-12
+SAC,Nợ ngắn hạn,2024,12326964.0,2025-04-12
+SAC,Tổng nợ,2021,12874632.0,2025-04-12
+SAC,Tổng nợ,2022,9287133.0,2025-04-12
+SAC,Tổng nợ,2023,10619191.0,2025-04-12
+SAC,Tổng nợ,2024,12326964.0,2025-04-12
+SAC,Vốn chủ sở hữu,2021,72377578.0,2025-04-12
+SAC,Vốn chủ sở hữu,2022,71435389.0,2025-04-12
+SAC,Vốn chủ sở hữu,2023,71747894.0,2025-04-12
+SAC,Vốn chủ sở hữu,2024,48138122.0,2025-04-12

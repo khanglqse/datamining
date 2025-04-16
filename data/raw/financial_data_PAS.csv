@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+PAS,Doanh thu bán hàng và CCDV,2021,1123697020.0,2025-04-12
+PAS,Doanh thu bán hàng và CCDV,2022,968781065.0,2025-04-12
+PAS,Doanh thu bán hàng và CCDV,2023,683231558.0,2025-04-12
+PAS,Doanh thu bán hàng và CCDV,2024,1068182064.0,2025-04-12
+PAS,Giá vốn hàng bán,2021,1019249205.0,2025-04-12
+PAS,Giá vốn hàng bán,2022,955354443.0,2025-04-12
+PAS,Giá vốn hàng bán,2023,684142633.0,2025-04-12
+PAS,Giá vốn hàng bán,2024,1051410663.0,2025-04-12
+PAS,Lợi nhuận gộp về BH và CCDV,2021,104257721.0,2025-04-12
+PAS,Lợi nhuận gộp về BH và CCDV,2022,13349509.0,2025-04-12
+PAS,Lợi nhuận gộp về BH và CCDV,2023,-979946.0,2025-04-12
+PAS,Lợi nhuận gộp về BH và CCDV,2024,16679054.0,2025-04-12
+PAS,Lợi nhuận tài chính,2021,-18158678.0,2025-04-12
+PAS,Lợi nhuận tài chính,2022,-27681716.0,2025-04-12
+PAS,Lợi nhuận tài chính,2023,-6113933.0,2025-04-12
+PAS,Lợi nhuận tài chính,2024,-2700805.0,2025-04-12
+PAS,Lợi nhuận khác,2021,-799879.0,2025-04-12
+PAS,Lợi nhuận khác,2022,121259861.0,2025-04-12
+PAS,Lợi nhuận khác,2023,-870371.0,2025-04-12
+PAS,Lợi nhuận khác,2024,-1763274.0,2025-04-12
+PAS,Tổng lợi nhuận trước thuế,2021,77678642.0,2025-04-12
+PAS,Tổng lợi nhuận trước thuế,2022,12145558.0,2025-04-12
+PAS,Tổng lợi nhuận trước thuế,2023,-123521.0,2025-04-12
+PAS,Tổng lợi nhuận trước thuế,2024,6837222.0,2025-04-12
+PAS,Lợi nhuận sau thuế,2021,61731209.0,2025-04-12
+PAS,Lợi nhuận sau thuế,2022,9549576.0,2025-04-12
+PAS,Lợi nhuận sau thuế,2023,-288943.0,2025-04-12
+PAS,Lợi nhuận sau thuế,2024,4216841.0,2025-04-12
+PAS,Lợi nhuận sau thuế của công ty mẹ,2021,61731209.0,2025-04-12
+PAS,Lợi nhuận sau thuế của công ty mẹ,2022,9549576.0,2025-04-12
+PAS,Lợi nhuận sau thuế của công ty mẹ,2023,-288943.0,2025-04-12
+PAS,Lợi nhuận sau thuế của công ty mẹ,2024,4409458.0,2025-04-12
+PAS,Tổng tài sản lưu động ngắn hạn,2021,518900611.0,2025-04-12
+PAS,Tổng tài sản lưu động ngắn hạn,2022,518784436.0,2025-04-12
+PAS,Tổng tài sản lưu động ngắn hạn,2023,341049947.0,2025-04-12
+PAS,Tổng tài sản lưu động ngắn hạn,2024,766745735.0,2025-04-12
+PAS,Tổng tài sản,2021,695360192.0,2025-04-12
+PAS,Tổng tài sản,2022,763694602.0,2025-04-12
+PAS,Tổng tài sản,2023,704378175.0,2025-04-12
+PAS,Tổng tài sản,2024,884838580.0,2025-04-12
+PAS,Nợ ngắn hạn,2021,334015076.0,2025-04-12
+PAS,Nợ ngắn hạn,2022,393418661.0,2025-04-12
+PAS,Nợ ngắn hạn,2023,334391176.0,2025-04-12
+PAS,Nợ ngắn hạn,2024,451764715.0,2025-04-12
+PAS,Tổng nợ,2021,334633826.0,2025-04-12
+PAS,Tổng nợ,2022,393418661.0,2025-04-12
+PAS,Tổng nợ,2023,334391176.0,2025-04-12
+PAS,Tổng nợ,2024,451967729.0,2025-04-12
+PAS,Vốn chủ sở hữu,2021,360726366.0,2025-04-12
+PAS,Vốn chủ sở hữu,2022,370275941.0,2025-04-12
+PAS,Vốn chủ sở hữu,2023,369986999.0,2025-04-12
+PAS,Vốn chủ sở hữu,2024,432870851.0,2025-04-12

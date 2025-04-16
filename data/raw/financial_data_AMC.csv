@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+AMC,Doanh thu bán hàng và CCDV,2021,157803609.0,2025-04-12
+AMC,Doanh thu bán hàng và CCDV,2022,165171459.0,2025-04-12
+AMC,Doanh thu bán hàng và CCDV,2023,146862618.0,2025-04-12
+AMC,Doanh thu bán hàng và CCDV,2024,159789927.0,2025-04-12
+AMC,Giá vốn hàng bán,2021,87009377.0,2025-04-12
+AMC,Giá vốn hàng bán,2022,88521723.0,2025-04-12
+AMC,Giá vốn hàng bán,2023,85929673.0,2025-04-12
+AMC,Giá vốn hàng bán,2024,95682599.0,2025-04-12
+AMC,Lợi nhuận gộp về BH và CCDV,2021,70794232.0,2025-04-12
+AMC,Lợi nhuận gộp về BH và CCDV,2022,76649736.0,2025-04-12
+AMC,Lợi nhuận gộp về BH và CCDV,2023,60932945.0,2025-04-12
+AMC,Lợi nhuận gộp về BH và CCDV,2024,64107328.0,2025-04-12
+AMC,Lợi nhuận tài chính,2021,-522604.0,2025-04-12
+AMC,Lợi nhuận tài chính,2022,-296393.0,2025-04-12
+AMC,Lợi nhuận tài chính,2023,102539.0,2025-04-12
+AMC,Lợi nhuận tài chính,2024,588001.0,2025-04-12
+AMC,Lợi nhuận khác,2021,-40504.0,2025-04-12
+AMC,Lợi nhuận khác,2022,-481814.0,2025-04-12
+AMC,Lợi nhuận khác,2023,52668.0,2025-04-12
+AMC,Lợi nhuận khác,2024,-319045.0,2025-04-12
+AMC,Tổng lợi nhuận trước thuế,2021,8006772.0,2025-04-12
+AMC,Tổng lợi nhuận trước thuế,2022,8214139.0,2025-04-12
+AMC,Tổng lợi nhuận trước thuế,2023,8203754.0,2025-04-12
+AMC,Tổng lợi nhuận trước thuế,2024,7963195.0,2025-04-12
+AMC,Lợi nhuận sau thuế,2021,7079046.0,2025-04-12
+AMC,Lợi nhuận sau thuế,2022,6319472.0,2025-04-12
+AMC,Lợi nhuận sau thuế,2023,6436466.0,2025-04-12
+AMC,Lợi nhuận sau thuế,2024,6186953.0,2025-04-12
+AMC,Lợi nhuận sau thuế của công ty mẹ,2021,7079046.0,2025-04-12
+AMC,Lợi nhuận sau thuế của công ty mẹ,2022,6319472.0,2025-04-12
+AMC,Lợi nhuận sau thuế của công ty mẹ,2023,6436466.0,2025-04-12
+AMC,Lợi nhuận sau thuế của công ty mẹ,2024,6186953.0,2025-04-12
+AMC,Tổng tài sản lưu động ngắn hạn,2021,41961242.0,2025-04-12
+AMC,Tổng tài sản lưu động ngắn hạn,2022,36441683.0,2025-04-12
+AMC,Tổng tài sản lưu động ngắn hạn,2023,41611828.0,2025-04-12
+AMC,Tổng tài sản lưu động ngắn hạn,2024,58317156.0,2025-04-12
+AMC,Tổng tài sản,2021,85504247.0,2025-04-12
+AMC,Tổng tài sản,2022,74875430.0,2025-04-12
+AMC,Tổng tài sản,2023,78361908.0,2025-04-12
+AMC,Tổng tài sản,2024,102075916.0,2025-04-12
+AMC,Nợ ngắn hạn,2021,31517272.0,2025-04-12
+AMC,Nợ ngắn hạn,2022,21716534.0,2025-04-12
+AMC,Nợ ngắn hạn,2023,24374802.0,2025-04-12
+AMC,Nợ ngắn hạn,2024,38663625.0,2025-04-12
+AMC,Tổng nợ,2021,35144339.0,2025-04-12
+AMC,Tổng nợ,2022,24903955.0,2025-04-12
+AMC,Tổng nợ,2023,27168901.0,2025-04-12
+AMC,Tổng nợ,2024,49194602.0,2025-04-12
+AMC,Vốn chủ sở hữu,2021,50359908.0,2025-04-12
+AMC,Vốn chủ sở hữu,2022,49971475.0,2025-04-12
+AMC,Vốn chủ sở hữu,2023,51193007.0,2025-04-12
+AMC,Vốn chủ sở hữu,2024,52881314.0,2025-04-12

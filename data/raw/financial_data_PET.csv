@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+PET,Doanh thu bán hàng và CCDV,2021,17920843438.0,2025-04-12
+PET,Doanh thu bán hàng và CCDV,2022,17773883972.0,2025-04-12
+PET,Doanh thu bán hàng và CCDV,2023,17482769423.0,2025-04-12
+PET,Doanh thu bán hàng và CCDV,2024,19372179486.0,2025-04-12
+PET,Giá vốn hàng bán,2021,16659038153.0,2025-04-12
+PET,Giá vốn hàng bán,2022,16576218727.0,2025-04-12
+PET,Giá vốn hàng bán,2023,16495454811.0,2025-04-12
+PET,Giá vốn hàng bán,2024,-18153816219.0,2025-04-12
+PET,Lợi nhuận gộp về BH và CCDV,2021,939199446.0,2025-04-12
+PET,Lợi nhuận gộp về BH và CCDV,2022,967103878.0,2025-04-12
+PET,Lợi nhuận gộp về BH và CCDV,2023,722336675.0,2025-04-12
+PET,Lợi nhuận gộp về BH và CCDV,2024,889892269.0,2025-04-12
+PET,Lợi nhuận tài chính,2021,9154872.0,2025-04-12
+PET,Lợi nhuận tài chính,2022,-265492854.0,2025-04-12
+PET,Lợi nhuận tài chính,2023,-19726827.0,2025-04-12
+PET,Lợi nhuận tài chính,2024,353432288.0,2025-04-12
+PET,Lợi nhuận khác,2021,23908664.0,2025-04-12
+PET,Lợi nhuận khác,2022,169908.0,2025-04-12
+PET,Lợi nhuận khác,2023,13362644.0,2025-04-12
+PET,Lợi nhuận khác,2024,7932702.0,2025-04-12
+PET,Tổng lợi nhuận trước thuế,2021,415340068.0,2025-04-12
+PET,Tổng lợi nhuận trước thuế,2022,213095516.0,2025-04-12
+PET,Tổng lợi nhuận trước thuế,2023,182430022.0,2025-04-12
+PET,Tổng lợi nhuận trước thuế,2024,283249765.0,2025-04-12
+PET,Lợi nhuận sau thuế,2021,311458745.0,2025-04-12
+PET,Lợi nhuận sau thuế,2022,167418484.0,2025-04-12
+PET,Lợi nhuận sau thuế,2023,138997251.0,2025-04-12
+PET,Lợi nhuận sau thuế,2024,219877349.0,2025-04-12
+PET,Lợi nhuận sau thuế của công ty mẹ,2021,264843502.0,2025-04-12
+PET,Lợi nhuận sau thuế của công ty mẹ,2022,110430234.0,2025-04-12
+PET,Lợi nhuận sau thuế của công ty mẹ,2023,111424904.0,2025-04-12
+PET,Lợi nhuận sau thuế của công ty mẹ,2024,149662158.0,2025-04-12
+PET,Tổng tài sản lưu động ngắn hạn,2021,7164336982.0,2025-04-12
+PET,Tổng tài sản lưu động ngắn hạn,2022,7756288699.0,2025-04-12
+PET,Tổng tài sản lưu động ngắn hạn,2023,8259191973.0,2025-04-12
+PET,Tổng tài sản lưu động ngắn hạn,2024,9021308151.0,2025-04-12
+PET,Tổng tài sản,2021,8493140366.0,2025-04-12
+PET,Tổng tài sản,2022,9039495579.0,2025-04-12
+PET,Tổng tài sản,2023,9479475648.0,2025-04-12
+PET,Tổng tài sản,2024,10165003468.0,2025-04-12
+PET,Nợ ngắn hạn,2021,6382140765.0,2025-04-12
+PET,Nợ ngắn hạn,2022,6860575272.0,2025-04-12
+PET,Nợ ngắn hạn,2023,7240736850.0,2025-04-12
+PET,Nợ ngắn hạn,2024,7799640651.0,2025-04-12
+PET,Tổng nợ,2021,6553412395.0,2025-04-12
+PET,Tổng nợ,2022,6977084342.0,2025-04-12
+PET,Tổng nợ,2023,7293215880.0,2025-04-12
+PET,Tổng nợ,2024,7826753006.0,2025-04-12
+PET,Vốn chủ sở hữu,2021,1939727971.0,2025-04-12
+PET,Vốn chủ sở hữu,2022,2062411238.0,2025-04-12
+PET,Vốn chủ sở hữu,2023,2186259768.0,2025-04-12
+PET,Vốn chủ sở hữu,2024,2338250463.0,2025-04-12

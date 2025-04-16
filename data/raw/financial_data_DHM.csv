@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+DHM,Doanh thu bán hàng và CCDV,2020,908187048.0,2025-04-12
+DHM,Doanh thu bán hàng và CCDV,2021,1396170446.0,2025-04-12
+DHM,Doanh thu bán hàng và CCDV,2022,1436122658.0,2025-04-12
+DHM,Doanh thu bán hàng và CCDV,2023,2732173696.0,2025-04-12
+DHM,Giá vốn hàng bán,2020,877411005.0,2025-04-12
+DHM,Giá vốn hàng bán,2021,1354053023.0,2025-04-12
+DHM,Giá vốn hàng bán,2022,1410403581.0,2025-04-12
+DHM,Giá vốn hàng bán,2023,2701325737.0,2025-04-12
+DHM,Lợi nhuận gộp về BH và CCDV,2020,30776043.0,2025-04-12
+DHM,Lợi nhuận gộp về BH và CCDV,2021,42117423.0,2025-04-12
+DHM,Lợi nhuận gộp về BH và CCDV,2022,25377917.0,2025-04-12
+DHM,Lợi nhuận gộp về BH và CCDV,2023,30836293.0,2025-04-12
+DHM,Lợi nhuận tài chính,2020,-78164991.0,2025-04-12
+DHM,Lợi nhuận tài chính,2021,39398916.0,2025-04-12
+DHM,Lợi nhuận tài chính,2022,-23419435.0,2025-04-12
+DHM,Lợi nhuận tài chính,2023,-15848263.0,2025-04-12
+DHM,Lợi nhuận khác,2020,-17059108.0,2025-04-12
+DHM,Lợi nhuận khác,2021,-1878836.0,2025-04-12
+DHM,Lợi nhuận khác,2022,206893.0,2025-04-12
+DHM,Lợi nhuận khác,2023,-1216428.0,2025-04-12
+DHM,Tổng lợi nhuận trước thuế,2020,-79394922.0,2025-04-12
+DHM,Tổng lợi nhuận trước thuế,2021,68649139.0,2025-04-12
+DHM,Tổng lợi nhuận trước thuế,2022,1260216.0,2025-04-12
+DHM,Tổng lợi nhuận trước thuế,2023,8379686.0,2025-04-12
+DHM,Lợi nhuận sau thuế,2020,-79394922.0,2025-04-12
+DHM,Lợi nhuận sau thuế,2021,67739075.0,2025-04-12
+DHM,Lợi nhuận sau thuế,2022,1260216.0,2025-04-12
+DHM,Lợi nhuận sau thuế,2023,5977886.0,2025-04-12
+DHM,Lợi nhuận sau thuế của công ty mẹ,2020,-79394922.0,2025-04-12
+DHM,Lợi nhuận sau thuế của công ty mẹ,2021,67739075.0,2025-04-12
+DHM,Lợi nhuận sau thuế của công ty mẹ,2022,1260216.0,2025-04-12
+DHM,Lợi nhuận sau thuế của công ty mẹ,2023,5977886.0,2025-04-12
+DHM,Tổng tài sản lưu động ngắn hạn,2020,237465184.0,2025-04-12
+DHM,Tổng tài sản lưu động ngắn hạn,2021,280595056.0,2025-04-12
+DHM,Tổng tài sản lưu động ngắn hạn,2022,315754404.0,2025-04-12
+DHM,Tổng tài sản lưu động ngắn hạn,2023,725305333.0,2025-04-12
+DHM,Tổng tài sản,2020,518543425.0,2025-04-12
+DHM,Tổng tài sản,2021,536444838.0,2025-04-12
+DHM,Tổng tài sản,2022,543419157.0,2025-04-12
+DHM,Tổng tài sản,2023,932362801.0,2025-04-12
+DHM,Nợ ngắn hạn,2020,236679433.0,2025-04-12
+DHM,Nợ ngắn hạn,2021,191053611.0,2025-04-12
+DHM,Nợ ngắn hạn,2022,195767714.0,2025-04-12
+DHM,Nợ ngắn hạn,2023,578891439.0,2025-04-12
+DHM,Tổng nợ,2020,240690563.0,2025-04-12
+DHM,Tổng nợ,2021,191053611.0,2025-04-12
+DHM,Tổng nợ,2022,196767714.0,2025-04-12
+DHM,Tổng nợ,2023,579891439.0,2025-04-12
+DHM,Vốn chủ sở hữu,2020,277852862.0,2025-04-12
+DHM,Vốn chủ sở hữu,2021,345391227.0,2025-04-12
+DHM,Vốn chủ sở hữu,2022,346651443.0,2025-04-12
+DHM,Vốn chủ sở hữu,2023,352471362.0,2025-04-12

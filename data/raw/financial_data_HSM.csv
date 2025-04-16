@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+HSM,Doanh thu bán hàng và CCDV,2020,1344824132.0,2025-04-12
+HSM,Doanh thu bán hàng và CCDV,2021,1668906281.0,2025-04-12
+HSM,Doanh thu bán hàng và CCDV,2022,1697772873.0,2025-04-12
+HSM,Doanh thu bán hàng và CCDV,2023,1312884731.0,2025-04-12
+HSM,Giá vốn hàng bán,2020,1209499912.0,2025-04-12
+HSM,Giá vốn hàng bán,2021,1435183788.0,2025-04-12
+HSM,Giá vốn hàng bán,2022,1485230095.0,2025-04-12
+HSM,Giá vốn hàng bán,2023,1249304691.0,2025-04-12
+HSM,Lợi nhuận gộp về BH và CCDV,2020,115786371.0,2025-04-12
+HSM,Lợi nhuận gộp về BH và CCDV,2021,220053833.0,2025-04-12
+HSM,Lợi nhuận gộp về BH và CCDV,2022,194529391.0,2025-04-12
+HSM,Lợi nhuận gộp về BH và CCDV,2023,48860257.0,2025-04-12
+HSM,Lợi nhuận tài chính,2020,1128558.0,2025-04-12
+HSM,Lợi nhuận tài chính,2021,-7513937.0,2025-04-12
+HSM,Lợi nhuận tài chính,2022,-38613588.0,2025-04-12
+HSM,Lợi nhuận tài chính,2023,-53056111.0,2025-04-12
+HSM,Lợi nhuận khác,2020,17961017.0,2025-04-12
+HSM,Lợi nhuận khác,2021,465111.0,2025-04-12
+HSM,Lợi nhuận khác,2022,1717208.0,2025-04-12
+HSM,Lợi nhuận khác,2023,53721571.0,2025-04-12
+HSM,Tổng lợi nhuận trước thuế,2020,12452178.0,2025-04-12
+HSM,Tổng lợi nhuận trước thuế,2021,72538649.0,2025-04-12
+HSM,Tổng lợi nhuận trước thuế,2022,23396936.0,2025-04-12
+HSM,Tổng lợi nhuận trước thuế,2023,-113766777.0,2025-04-12
+HSM,Lợi nhuận sau thuế,2020,6649258.0,2025-04-12
+HSM,Lợi nhuận sau thuế,2021,60813917.0,2025-04-12
+HSM,Lợi nhuận sau thuế,2022,18474661.0,2025-04-12
+HSM,Lợi nhuận sau thuế,2023,-121520356.0,2025-04-12
+HSM,Lợi nhuận sau thuế của công ty mẹ,2020,5087937.0,2025-04-12
+HSM,Lợi nhuận sau thuế của công ty mẹ,2021,59982240.0,2025-04-12
+HSM,Lợi nhuận sau thuế của công ty mẹ,2022,17075428.0,2025-04-12
+HSM,Lợi nhuận sau thuế của công ty mẹ,2023,-117439046.0,2025-04-12
+HSM,Tổng tài sản lưu động ngắn hạn,2020,699586380.0,2025-04-12
+HSM,Tổng tài sản lưu động ngắn hạn,2021,966548658.0,2025-04-12
+HSM,Tổng tài sản lưu động ngắn hạn,2022,919478616.0,2025-04-12
+HSM,Tổng tài sản lưu động ngắn hạn,2023,594732060.0,2025-04-12
+HSM,Tổng tài sản,2020,1806969334.0,2025-04-12
+HSM,Tổng tài sản,2021,2017890726.0,2025-04-12
+HSM,Tổng tài sản,2022,1882408185.0,2025-04-12
+HSM,Tổng tài sản,2023,1472007791.0,2025-04-12
+HSM,Nợ ngắn hạn,2020,744592504.0,2025-04-12
+HSM,Nợ ngắn hạn,2021,922973767.0,2025-04-12
+HSM,Nợ ngắn hạn,2022,843079463.0,2025-04-12
+HSM,Nợ ngắn hạn,2023,627854968.0,2025-04-12
+HSM,Tổng nợ,2020,1271630774.0,2025-04-12
+HSM,Tổng nợ,2021,1426947029.0,2025-04-12
+HSM,Tổng nợ,2022,1301647137.0,2025-04-12
+HSM,Tổng nợ,2023,1017711774.0,2025-04-12
+HSM,Vốn chủ sở hữu,2020,535338560.0,2025-04-12
+HSM,Vốn chủ sở hữu,2021,590943697.0,2025-04-12
+HSM,Vốn chủ sở hữu,2022,580761048.0,2025-04-12
+HSM,Vốn chủ sở hữu,2023,454296017.0,2025-04-12

@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+PVC,Doanh thu bán hàng và CCDV,2020,2195498487.0,2025-04-12
+PVC,Doanh thu bán hàng và CCDV,2021,2767441385.0,2025-04-12
+PVC,Doanh thu bán hàng và CCDV,2022,2935529899.0,2025-04-12
+PVC,Doanh thu bán hàng và CCDV,2023,3228718536.0,2025-04-12
+PVC,Giá vốn hàng bán,2020,1992377349.0,2025-04-12
+PVC,Giá vốn hàng bán,2021,2578953875.0,2025-04-12
+PVC,Giá vốn hàng bán,2022,2713295820.0,2025-04-12
+PVC,Giá vốn hàng bán,2023,2999441036.0,2025-04-12
+PVC,Lợi nhuận gộp về BH và CCDV,2020,186327439.0,2025-04-12
+PVC,Lợi nhuận gộp về BH và CCDV,2021,181305717.0,2025-04-12
+PVC,Lợi nhuận gộp về BH và CCDV,2022,221055883.0,2025-04-12
+PVC,Lợi nhuận gộp về BH và CCDV,2023,222485391.0,2025-04-12
+PVC,Lợi nhuận tài chính,2020,7036344.0,2025-04-12
+PVC,Lợi nhuận tài chính,2021,11481033.0,2025-04-12
+PVC,Lợi nhuận tài chính,2022,-7391595.0,2025-04-12
+PVC,Lợi nhuận tài chính,2023,9985465.0,2025-04-12
+PVC,Lợi nhuận khác,2020,-2082228.0,2025-04-12
+PVC,Lợi nhuận khác,2021,5877110.0,2025-04-12
+PVC,Lợi nhuận khác,2022,-986408.0,2025-04-12
+PVC,Lợi nhuận khác,2023,18642510.0,2025-04-12
+PVC,Tổng lợi nhuận trước thuế,2020,32529429.0,2025-04-12
+PVC,Tổng lợi nhuận trước thuế,2021,34568009.0,2025-04-12
+PVC,Tổng lợi nhuận trước thuế,2022,38732975.0,2025-04-12
+PVC,Tổng lợi nhuận trước thuế,2023,54555999.0,2025-04-12
+PVC,Lợi nhuận sau thuế,2020,20885262.0,2025-04-12
+PVC,Lợi nhuận sau thuế,2021,24103589.0,2025-04-12
+PVC,Lợi nhuận sau thuế,2022,27254385.0,2025-04-12
+PVC,Lợi nhuận sau thuế,2023,35022426.0,2025-04-12
+PVC,Lợi nhuận sau thuế của công ty mẹ,2020,5384641.0,2025-04-12
+PVC,Lợi nhuận sau thuế của công ty mẹ,2021,7570352.0,2025-04-12
+PVC,Lợi nhuận sau thuế của công ty mẹ,2022,11502880.0,2025-04-12
+PVC,Lợi nhuận sau thuế của công ty mẹ,2023,20483279.0,2025-04-12
+PVC,Tổng tài sản lưu động ngắn hạn,2020,1451120653.0,2025-04-12
+PVC,Tổng tài sản lưu động ngắn hạn,2021,1607756182.0,2025-04-12
+PVC,Tổng tài sản lưu động ngắn hạn,2022,2064001744.0,2025-04-12
+PVC,Tổng tài sản lưu động ngắn hạn,2023,2300338476.0,2025-04-12
+PVC,Tổng tài sản,2020,1673538992.0,2025-04-12
+PVC,Tổng tài sản,2021,1810746471.0,2025-04-12
+PVC,Tổng tài sản,2022,2245543207.0,2025-04-12
+PVC,Tổng tài sản,2023,2472040508.0,2025-04-12
+PVC,Nợ ngắn hạn,2020,814956602.0,2025-04-12
+PVC,Nợ ngắn hạn,2021,976481252.0,2025-04-12
+PVC,Nợ ngắn hạn,2022,1377861856.0,2025-04-12
+PVC,Nợ ngắn hạn,2023,1403431003.0,2025-04-12
+PVC,Tổng nợ,2020,849839532.0,2025-04-12
+PVC,Tổng nợ,2021,1009265275.0,2025-04-12
+PVC,Tổng nợ,2022,1412088715.0,2025-04-12
+PVC,Tổng nợ,2023,1422318487.0,2025-04-12
+PVC,Vốn chủ sở hữu,2020,823699460.0,2025-04-12
+PVC,Vốn chủ sở hữu,2021,801481196.0,2025-04-12
+PVC,Vốn chủ sở hữu,2022,833454492.0,2025-04-12
+PVC,Vốn chủ sở hữu,2023,1049722022.0,2025-04-12

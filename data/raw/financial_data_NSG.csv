@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+NSG,Doanh thu bán hàng và CCDV,2017,59642531.0,2025-04-12
+NSG,Doanh thu bán hàng và CCDV,2018,58158346.0,2025-04-12
+NSG,Doanh thu bán hàng và CCDV,2019,58078664.0,2025-04-12
+NSG,Doanh thu bán hàng và CCDV,2023,16323542.0,2025-04-12
+NSG,Giá vốn hàng bán,2017,42709965.0,2025-04-12
+NSG,Giá vốn hàng bán,2018,41254152.0,2025-04-12
+NSG,Giá vốn hàng bán,2019,50112321.0,2025-04-12
+NSG,Giá vốn hàng bán,2023,13016139.0,2025-04-12
+NSG,Lợi nhuận gộp về BH và CCDV,2017,16791616.0,2025-04-12
+NSG,Lợi nhuận gộp về BH và CCDV,2018,16255813.0,2025-04-12
+NSG,Lợi nhuận gộp về BH và CCDV,2019,7865193.0,2025-04-12
+NSG,Lợi nhuận gộp về BH và CCDV,2023,3307403.0,2025-04-12
+NSG,Lợi nhuận tài chính,2017,-1910019.0,2025-04-12
+NSG,Lợi nhuận tài chính,2018,-3145818.0,2025-04-12
+NSG,Lợi nhuận tài chính,2019,-1320394.0,2025-04-12
+NSG,Lợi nhuận tài chính,2023,-1385381.0,2025-04-12
+NSG,Lợi nhuận khác,2017,8416433.0,2025-04-12
+NSG,Lợi nhuận khác,2018,-165470.0,2025-04-12
+NSG,Lợi nhuận khác,2019,182507.0,2025-04-12
+NSG,Lợi nhuận khác,2023,6747709.0,2025-04-12
+NSG,Tổng lợi nhuận trước thuế,2017,12481269.0,2025-04-12
+NSG,Tổng lợi nhuận trước thuế,2018,3576757.0,2025-04-12
+NSG,Tổng lợi nhuận trước thuế,2019,-2526139.0,2025-04-12
+NSG,Tổng lợi nhuận trước thuế,2023,-3680065.0,2025-04-12
+NSG,Lợi nhuận sau thuế,2017,9970641.0,2025-04-12
+NSG,Lợi nhuận sau thuế,2018,2802871.0,2025-04-12
+NSG,Lợi nhuận sau thuế,2019,-2526139.0,2025-04-12
+NSG,Lợi nhuận sau thuế,2023,-3680065.0,2025-04-12
+NSG,Lợi nhuận sau thuế của công ty mẹ,2017,9970641.0,2025-04-12
+NSG,Lợi nhuận sau thuế của công ty mẹ,2018,2802871.0,2025-04-12
+NSG,Lợi nhuận sau thuế của công ty mẹ,2019,-2526139.0,2025-04-12
+NSG,Lợi nhuận sau thuế của công ty mẹ,2023,-3680065.0,2025-04-12
+NSG,Tổng tài sản lưu động ngắn hạn,2017,65163720.0,2025-04-12
+NSG,Tổng tài sản lưu động ngắn hạn,2018,58696132.0,2025-04-12
+NSG,Tổng tài sản lưu động ngắn hạn,2019,52484683.0,2025-04-12
+NSG,Tổng tài sản lưu động ngắn hạn,2023,8302527.0,2025-04-12
+NSG,Tổng tài sản,2017,162929965.0,2025-04-12
+NSG,Tổng tài sản,2018,153219845.0,2025-04-12
+NSG,Tổng tài sản,2019,150320909.0,2025-04-12
+NSG,Tổng tài sản,2023,71036246.0,2025-04-12
+NSG,Nợ ngắn hạn,2017,40569826.0,2025-04-12
+NSG,Nợ ngắn hạn,2018,40670007.0,2025-04-12
+NSG,Nợ ngắn hạn,2019,53949873.0,2025-04-12
+NSG,Nợ ngắn hạn,2023,83483864.0,2025-04-12
+NSG,Tổng nợ,2017,65414322.0,2025-04-12
+NSG,Tổng nợ,2018,58894503.0,2025-04-12
+NSG,Tổng nợ,2019,66726838.0,2025-04-12
+NSG,Tổng nợ,2023,83483864.0,2025-04-12
+NSG,Vốn chủ sở hữu,2017,97515643.0,2025-04-12
+NSG,Vốn chủ sở hữu,2018,94325342.0,2025-04-12
+NSG,Vốn chủ sở hữu,2019,83594071.0,2025-04-12
+NSG,Vốn chủ sở hữu,2023,-12447619.0,2025-04-12

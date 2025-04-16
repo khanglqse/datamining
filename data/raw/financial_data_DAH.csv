@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+DAH,Doanh thu bán hàng và CCDV,2020,12337367.0,2025-04-12
+DAH,Doanh thu bán hàng và CCDV,2021,691624640.0,2025-04-12
+DAH,Doanh thu bán hàng và CCDV,2022,25664871.0,2025-04-12
+DAH,Doanh thu bán hàng và CCDV,2023,47346799.0,2025-04-12
+DAH,Giá vốn hàng bán,2020,33602254.0,2025-04-12
+DAH,Giá vốn hàng bán,2021,621099746.0,2025-04-12
+DAH,Giá vốn hàng bán,2022,25428903.0,2025-04-12
+DAH,Giá vốn hàng bán,2023,41732739.0,2025-04-12
+DAH,Lợi nhuận gộp về BH và CCDV,2020,-21264888.0,2025-04-12
+DAH,Lợi nhuận gộp về BH và CCDV,2021,70524894.0,2025-04-12
+DAH,Lợi nhuận gộp về BH và CCDV,2022,235968.0,2025-04-12
+DAH,Lợi nhuận gộp về BH và CCDV,2023,5614060.0,2025-04-12
+DAH,Lợi nhuận tài chính,2020,-11746269.0,2025-04-12
+DAH,Lợi nhuận tài chính,2021,-18599583.0,2025-04-12
+DAH,Lợi nhuận tài chính,2022,55978741.0,2025-04-12
+DAH,Lợi nhuận tài chính,2023,2065555.0,2025-04-12
+DAH,Lợi nhuận khác,2020,4115426.0,2025-04-12
+DAH,Lợi nhuận khác,2021,-4287273.0,2025-04-12
+DAH,Lợi nhuận khác,2022,-94811.0,2025-04-12
+DAH,Lợi nhuận khác,2023,5812.0,2025-04-12
+DAH,Tổng lợi nhuận trước thuế,2020,-31282840.0,2025-04-12
+DAH,Tổng lợi nhuận trước thuế,2021,46650479.0,2025-04-12
+DAH,Tổng lợi nhuận trước thuế,2022,54251342.0,2025-04-12
+DAH,Tổng lợi nhuận trước thuế,2023,4747235.0,2025-04-12
+DAH,Lợi nhuận sau thuế,2020,-33137275.0,2025-04-12
+DAH,Lợi nhuận sau thuế,2021,34982184.0,2025-04-12
+DAH,Lợi nhuận sau thuế,2022,43315815.0,2025-04-12
+DAH,Lợi nhuận sau thuế,2023,3797166.0,2025-04-12
+DAH,Lợi nhuận sau thuế của công ty mẹ,2020,-33137275.0,2025-04-12
+DAH,Lợi nhuận sau thuế của công ty mẹ,2021,34982184.0,2025-04-12
+DAH,Lợi nhuận sau thuế của công ty mẹ,2022,43315815.0,2025-04-12
+DAH,Lợi nhuận sau thuế của công ty mẹ,2023,3797166.0,2025-04-12
+DAH,Tổng tài sản lưu động ngắn hạn,2020,10601514.0,2025-04-12
+DAH,Tổng tài sản lưu động ngắn hạn,2021,203463615.0,2025-04-12
+DAH,Tổng tài sản lưu động ngắn hạn,2022,278407817.0,2025-04-12
+DAH,Tổng tài sản lưu động ngắn hạn,2023,38844245.0,2025-04-12
+DAH,Tổng tài sản,2020,613536470.0,2025-04-12
+DAH,Tổng tài sản,2021,1127092213.0,2025-04-12
+DAH,Tổng tài sản,2022,1162099468.0,2025-04-12
+DAH,Tổng tài sản,2023,1122645677.0,2025-04-12
+DAH,Nợ ngắn hạn,2020,80892535.0,2025-04-12
+DAH,Nợ ngắn hạn,2021,58394921.0,2025-04-12
+DAH,Nợ ngắn hạn,2022,34850003.0,2025-04-12
+DAH,Nợ ngắn hạn,2023,42538159.0,2025-04-12
+DAH,Tổng nợ,2020,285251103.0,2025-04-12
+DAH,Tổng nợ,2021,263824663.0,2025-04-12
+DAH,Tổng nợ,2022,251344012.0,2025-04-12
+DAH,Tổng nợ,2023,200540845.0,2025-04-12
+DAH,Vốn chủ sở hữu,2020,328285366.0,2025-04-12
+DAH,Vốn chủ sở hữu,2021,863267550.0,2025-04-12
+DAH,Vốn chủ sở hữu,2022,910755455.0,2025-04-12
+DAH,Vốn chủ sở hữu,2023,922104833.0,2025-04-12

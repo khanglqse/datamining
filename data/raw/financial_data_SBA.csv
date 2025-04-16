@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+SBA,Doanh thu bán hàng và CCDV,2021,314881038.0,2025-04-12
+SBA,Doanh thu bán hàng và CCDV,2022,495630568.0,2025-04-12
+SBA,Doanh thu bán hàng và CCDV,2023,375994952.0,2025-04-12
+SBA,Doanh thu bán hàng và CCDV,2024,264112987.0,2025-04-12
+SBA,Giá vốn hàng bán,2021,136226925.0,2025-04-12
+SBA,Giá vốn hàng bán,2022,178248248.0,2025-04-12
+SBA,Giá vốn hàng bán,2023,138817006.0,2025-04-12
+SBA,Giá vốn hàng bán,2024,107883970.0,2025-04-12
+SBA,Lợi nhuận gộp về BH và CCDV,2021,178654112.0,2025-04-12
+SBA,Lợi nhuận gộp về BH và CCDV,2022,317382320.0,2025-04-12
+SBA,Lợi nhuận gộp về BH và CCDV,2023,237177946.0,2025-04-12
+SBA,Lợi nhuận gộp về BH và CCDV,2024,156229017.0,2025-04-12
+SBA,Lợi nhuận tài chính,2021,-34098652.0,2025-04-12
+SBA,Lợi nhuận tài chính,2022,-26681497.0,2025-04-12
+SBA,Lợi nhuận tài chính,2023,-20254736.0,2025-04-12
+SBA,Lợi nhuận tài chính,2024,-7650404.0,2025-04-12
+SBA,Lợi nhuận khác,2021,-2755550.0,2025-04-12
+SBA,Lợi nhuận khác,2022,-5386931.0,2025-04-12
+SBA,Lợi nhuận khác,2023,1191057.0,2025-04-12
+SBA,Lợi nhuận khác,2024,-3422135.0,2025-04-12
+SBA,Tổng lợi nhuận trước thuế,2021,123941903.0,2025-04-12
+SBA,Tổng lợi nhuận trước thuế,2022,259643777.0,2025-04-12
+SBA,Tổng lợi nhuận trước thuế,2023,196274250.0,2025-04-12
+SBA,Tổng lợi nhuận trước thuế,2024,128333174.0,2025-04-12
+SBA,Lợi nhuận sau thuế,2021,117159016.0,2025-04-12
+SBA,Lợi nhuận sau thuế,2022,244548057.0,2025-04-12
+SBA,Lợi nhuận sau thuế,2023,175330609.0,2025-04-12
+SBA,Lợi nhuận sau thuế,2024,113538523.0,2025-04-12
+SBA,Lợi nhuận sau thuế của công ty mẹ,2021,117159016.0,2025-04-12
+SBA,Lợi nhuận sau thuế của công ty mẹ,2022,244548057.0,2025-04-12
+SBA,Lợi nhuận sau thuế của công ty mẹ,2023,175330609.0,2025-04-12
+SBA,Lợi nhuận sau thuế của công ty mẹ,2024,113538523.0,2025-04-12
+SBA,Tổng tài sản lưu động ngắn hạn,2021,142541282.0,2025-04-12
+SBA,Tổng tài sản lưu động ngắn hạn,2022,243097062.0,2025-04-12
+SBA,Tổng tài sản lưu động ngắn hạn,2023,196828572.0,2025-04-12
+SBA,Tổng tài sản lưu động ngắn hạn,2024,90315475.0,2025-04-12
+SBA,Tổng tài sản,2021,1295680236.0,2025-04-12
+SBA,Tổng tài sản,2022,1326229192.0,2025-04-12
+SBA,Tổng tài sản,2023,1233056104.0,2025-04-12
+SBA,Tổng tài sản,2024,1097711201.0,2025-04-12
+SBA,Nợ ngắn hạn,2021,176684060.0,2025-04-12
+SBA,Nợ ngắn hạn,2022,201228809.0,2025-04-12
+SBA,Nợ ngắn hạn,2023,133023520.0,2025-04-12
+SBA,Nợ ngắn hạn,2024,77168401.0,2025-04-12
+SBA,Tổng nợ,2021,440258319.0,2025-04-12
+SBA,Tổng nợ,2022,376439749.0,2025-04-12
+SBA,Tổng nợ,2023,226172068.0,2025-04-12
+SBA,Tổng nợ,2024,119120401.0,2025-04-12
+SBA,Vốn chủ sở hữu,2021,855421917.0,2025-04-12
+SBA,Vốn chủ sở hữu,2022,949789442.0,2025-04-12
+SBA,Vốn chủ sở hữu,2023,1006884036.0,2025-04-12
+SBA,Vốn chủ sở hữu,2024,978590800.0,2025-04-12

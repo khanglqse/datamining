@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+ELC,Doanh thu bán hàng và CCDV,2021,659260549.0,2025-04-12
+ELC,Doanh thu bán hàng và CCDV,2022,863331702.0,2025-04-12
+ELC,Doanh thu bán hàng và CCDV,2023,980089883.0,2025-04-12
+ELC,Doanh thu bán hàng và CCDV,2024,800145221.0,2025-04-12
+ELC,Giá vốn hàng bán,2021,530050106.0,2025-04-12
+ELC,Giá vốn hàng bán,2022,722791207.0,2025-04-12
+ELC,Giá vốn hàng bán,2023,786357957.0,2025-04-12
+ELC,Giá vốn hàng bán,2024,555950403.0,2025-04-12
+ELC,Lợi nhuận gộp về BH và CCDV,2021,129082060.0,2025-04-12
+ELC,Lợi nhuận gộp về BH và CCDV,2022,140492230.0,2025-04-12
+ELC,Lợi nhuận gộp về BH và CCDV,2023,193731686.0,2025-04-12
+ELC,Lợi nhuận gộp về BH và CCDV,2024,244194819.0,2025-04-12
+ELC,Lợi nhuận tài chính,2021,5923566.0,2025-04-12
+ELC,Lợi nhuận tài chính,2022,9494732.0,2025-04-12
+ELC,Lợi nhuận tài chính,2023,44348341.0,2025-04-12
+ELC,Lợi nhuận tài chính,2024,11353662.0,2025-04-12
+ELC,Lợi nhuận khác,2021,-1965546.0,2025-04-12
+ELC,Lợi nhuận khác,2022,-912530.0,2025-04-12
+ELC,Lợi nhuận khác,2023,-246360.0,2025-04-12
+ELC,Lợi nhuận khác,2024,-2884460.0,2025-04-12
+ELC,Tổng lợi nhuận trước thuế,2021,58794316.0,2025-04-12
+ELC,Tổng lợi nhuận trước thuế,2022,46523081.0,2025-04-12
+ELC,Tổng lợi nhuận trước thuế,2023,96893326.0,2025-04-12
+ELC,Tổng lợi nhuận trước thuế,2024,115028899.0,2025-04-12
+ELC,Lợi nhuận sau thuế,2021,50308955.0,2025-04-12
+ELC,Lợi nhuận sau thuế,2022,37372653.0,2025-04-12
+ELC,Lợi nhuận sau thuế,2023,84320836.0,2025-04-12
+ELC,Lợi nhuận sau thuế,2024,99252768.0,2025-04-12
+ELC,Lợi nhuận sau thuế của công ty mẹ,2021,48112229.0,2025-04-12
+ELC,Lợi nhuận sau thuế của công ty mẹ,2022,31307104.0,2025-04-12
+ELC,Lợi nhuận sau thuế của công ty mẹ,2023,77651945.0,2025-04-12
+ELC,Lợi nhuận sau thuế của công ty mẹ,2024,95447676.0,2025-04-12
+ELC,Tổng tài sản lưu động ngắn hạn,2021,878345288.0,2025-04-12
+ELC,Tổng tài sản lưu động ngắn hạn,2022,821003580.0,2025-04-12
+ELC,Tổng tài sản lưu động ngắn hạn,2023,1214117530.0,2025-04-12
+ELC,Tổng tài sản lưu động ngắn hạn,2024,1184524983.0,2025-04-12
+ELC,Tổng tài sản,2021,1145326359.0,2025-04-12
+ELC,Tổng tài sản,2022,1144875781.0,2025-04-12
+ELC,Tổng tài sản,2023,1821114066.0,2025-04-12
+ELC,Tổng tài sản,2024,1990032263.0,2025-04-12
+ELC,Nợ ngắn hạn,2021,267967072.0,2025-04-12
+ELC,Nợ ngắn hạn,2022,224393951.0,2025-04-12
+ELC,Nợ ngắn hạn,2023,584576963.0,2025-04-12
+ELC,Nợ ngắn hạn,2024,650904889.0,2025-04-12
+ELC,Tổng nợ,2021,276940734.0,2025-04-12
+ELC,Tổng nợ,2022,233436736.0,2025-04-12
+ELC,Tổng nợ,2023,668957132.0,2025-04-12
+ELC,Tổng nợ,2024,741349157.0,2025-04-12
+ELC,Vốn chủ sở hữu,2021,868385624.0,2025-04-12
+ELC,Vốn chủ sở hữu,2022,911439046.0,2025-04-12
+ELC,Vốn chủ sở hữu,2023,1152156934.0,2025-04-12
+ELC,Vốn chủ sở hữu,2024,1248683106.0,2025-04-12

@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+MLG,Doanh thu bán hàng và CCDV,2016,3747214654.0,2025-04-12
+MLG,Doanh thu bán hàng và CCDV,2019,2237110013.0,2025-04-12
+MLG,Doanh thu bán hàng và CCDV,2022,1671436795.0,2025-04-12
+MLG,Doanh thu bán hàng và CCDV,2023,1608187178.0,2025-04-12
+MLG,Giá vốn hàng bán,2016,3181124733.0,2025-04-12
+MLG,Giá vốn hàng bán,2019,1709244966.0,2025-04-12
+MLG,Giá vốn hàng bán,2022,1230600197.0,2025-04-12
+MLG,Giá vốn hàng bán,2023,1185242648.0,2025-04-12
+MLG,Lợi nhuận gộp về BH và CCDV,2016,549235001.0,2025-04-12
+MLG,Lợi nhuận gộp về BH và CCDV,2019,507410573.0,2025-04-12
+MLG,Lợi nhuận gộp về BH và CCDV,2022,416372225.0,2025-04-12
+MLG,Lợi nhuận gộp về BH và CCDV,2023,400714460.0,2025-04-12
+MLG,Lợi nhuận tài chính,2016,-177858747.0,2025-04-12
+MLG,Lợi nhuận tài chính,2019,-95494930.0,2025-04-12
+MLG,Lợi nhuận tài chính,2022,-88030493.0,2025-04-12
+MLG,Lợi nhuận tài chính,2023,-72022889.0,2025-04-12
+MLG,Lợi nhuận khác,2016,144954807.0,2025-04-12
+MLG,Lợi nhuận khác,2019,150436936.0,2025-04-12
+MLG,Lợi nhuận khác,2022,104929836.0,2025-04-12
+MLG,Lợi nhuận khác,2023,55004567.0,2025-04-12
+MLG,Tổng lợi nhuận trước thuế,2016,61122402.0,2025-04-12
+MLG,Tổng lợi nhuận trước thuế,2019,2004972.0,2025-04-12
+MLG,Tổng lợi nhuận trước thuế,2022,8175591.0,2025-04-12
+MLG,Tổng lợi nhuận trước thuế,2023,14168231.0,2025-04-12
+MLG,Lợi nhuận sau thuế,2016,42987952.0,2025-04-12
+MLG,Lợi nhuận sau thuế,2019,-6315297.0,2025-04-12
+MLG,Lợi nhuận sau thuế,2022,1041280.0,2025-04-12
+MLG,Lợi nhuận sau thuế,2023,3936872.0,2025-04-12
+MLG,Lợi nhuận sau thuế của công ty mẹ,2016,25689149.0,2025-04-12
+MLG,Lợi nhuận sau thuế của công ty mẹ,2019,-5241336.0,2025-04-12
+MLG,Lợi nhuận sau thuế của công ty mẹ,2022,-1830318.0,2025-04-12
+MLG,Lợi nhuận sau thuế của công ty mẹ,2023,1239804.0,2025-04-12
+MLG,Tổng tài sản lưu động ngắn hạn,2016,1257631874.0,2025-04-12
+MLG,Tổng tài sản lưu động ngắn hạn,2019,1530452180.0,2025-04-12
+MLG,Tổng tài sản lưu động ngắn hạn,2022,1843828720.0,2025-04-12
+MLG,Tổng tài sản lưu động ngắn hạn,2023,2029526045.0,2025-04-12
+MLG,Tổng tài sản,2016,5668286050.0,2025-04-12
+MLG,Tổng tài sản,2019,4830679908.0,2025-04-12
+MLG,Tổng tài sản,2022,4135390854.0,2025-04-12
+MLG,Tổng tài sản,2023,4270908159.0,2025-04-12
+MLG,Nợ ngắn hạn,2016,2776001487.0,2025-04-12
+MLG,Nợ ngắn hạn,2019,2590180098.0,2025-04-12
+MLG,Nợ ngắn hạn,2022,2803893414.0,2025-04-12
+MLG,Nợ ngắn hạn,2023,2915472510.0,2025-04-12
+MLG,Tổng nợ,2016,5109365570.0,2025-04-12
+MLG,Tổng nợ,2019,4490575339.0,2025-04-12
+MLG,Tổng nợ,2022,4042096254.0,2025-04-12
+MLG,Tổng nợ,2023,4076532868.0,2025-04-12
+MLG,Vốn chủ sở hữu,2016,558920479.0,2025-04-12
+MLG,Vốn chủ sở hữu,2019,340104569.0,2025-04-12
+MLG,Vốn chủ sở hữu,2022,93294600.0,2025-04-12
+MLG,Vốn chủ sở hữu,2023,194375290.0,2025-04-12

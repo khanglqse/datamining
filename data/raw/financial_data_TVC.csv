@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+TVC,Doanh thu bán hàng và CCDV,2021,431645280.0,2025-04-12
+TVC,Doanh thu bán hàng và CCDV,2022,152632314.0,2025-04-12
+TVC,Doanh thu bán hàng và CCDV,2023,65244188.0,2025-04-12
+TVC,Doanh thu bán hàng và CCDV,2024,246691353.0,2025-04-12
+TVC,Giá vốn hàng bán,2021,62414655.0,2025-04-12
+TVC,Giá vốn hàng bán,2022,66649710.0,2025-04-12
+TVC,Giá vốn hàng bán,2023,22938286.0,2025-04-12
+TVC,Giá vốn hàng bán,2024,56092147.0,2025-04-12
+TVC,Lợi nhuận gộp về BH và CCDV,2021,369230624.0,2025-04-12
+TVC,Lợi nhuận gộp về BH và CCDV,2022,85982604.0,2025-04-12
+TVC,Lợi nhuận gộp về BH và CCDV,2023,42305902.0,2025-04-12
+TVC,Lợi nhuận gộp về BH và CCDV,2024,190599206.0,2025-04-12
+TVC,Lợi nhuận tài chính,2021,315764300.0,2025-04-12
+TVC,Lợi nhuận tài chính,2022,-400215164.0,2025-04-12
+TVC,Lợi nhuận tài chính,2023,279348946.0,2025-04-12
+TVC,Lợi nhuận tài chính,2024,315586207.0,2025-04-12
+TVC,Lợi nhuận khác,2021,43378525.0,2025-04-12
+TVC,Lợi nhuận khác,2022,1084617.0,2025-04-12
+TVC,Lợi nhuận khác,2023,-998097.0,2025-04-12
+TVC,Lợi nhuận khác,2024,1392464.0,2025-04-12
+TVC,Tổng lợi nhuận trước thuế,2021,670985430.0,2025-04-12
+TVC,Tổng lợi nhuận trước thuế,2022,-886486254.0,2025-04-12
+TVC,Tổng lợi nhuận trước thuế,2023,266947783.0,2025-04-12
+TVC,Tổng lợi nhuận trước thuế,2024,425858532.0,2025-04-12
+TVC,Lợi nhuận sau thuế,2021,546634717.0,2025-04-12
+TVC,Lợi nhuận sau thuế,2022,-886874415.0,2025-04-12
+TVC,Lợi nhuận sau thuế,2023,278641737.0,2025-04-12
+TVC,Lợi nhuận sau thuế,2024,441322236.0,2025-04-12
+TVC,Lợi nhuận sau thuế của công ty mẹ,2021,427583244.0,2025-04-12
+TVC,Lợi nhuận sau thuế của công ty mẹ,2022,-682697648.0,2025-04-12
+TVC,Lợi nhuận sau thuế của công ty mẹ,2023,247648061.0,2025-04-12
+TVC,Lợi nhuận sau thuế của công ty mẹ,2024,379162644.0,2025-04-12
+TVC,Tổng tài sản lưu động ngắn hạn,2021,3814446101.0,2025-04-12
+TVC,Tổng tài sản lưu động ngắn hạn,2022,1718051737.0,2025-04-12
+TVC,Tổng tài sản lưu động ngắn hạn,2023,1956972549.0,2025-04-12
+TVC,Tổng tài sản lưu động ngắn hạn,2024,2264182477.0,2025-04-12
+TVC,Tổng tài sản,2021,3908744320.0,2025-04-12
+TVC,Tổng tài sản,2022,1737803404.0,2025-04-12
+TVC,Tổng tài sản,2023,1977474262.0,2025-04-12
+TVC,Tổng tài sản,2024,2281174780.0,2025-04-12
+TVC,Nợ ngắn hạn,2021,1182675573.0,2025-04-12
+TVC,Nợ ngắn hạn,2022,219614930.0,2025-04-12
+TVC,Nợ ngắn hạn,2023,189959883.0,2025-04-12
+TVC,Nợ ngắn hạn,2024,260312344.0,2025-04-12
+TVC,Tổng nợ,2021,1439648078.0,2025-04-12
+TVC,Tổng nợ,2022,219614930.0,2025-04-12
+TVC,Tổng nợ,2023,206660872.0,2025-04-12
+TVC,Tổng nợ,2024,272970046.0,2025-04-12
+TVC,Vốn chủ sở hữu,2021,2469096242.0,2025-04-12
+TVC,Vốn chủ sở hữu,2022,1518188473.0,2025-04-12
+TVC,Vốn chủ sở hữu,2023,1770813390.0,2025-04-12
+TVC,Vốn chủ sở hữu,2024,2008204734.0,2025-04-12

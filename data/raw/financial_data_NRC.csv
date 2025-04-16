@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+NRC,Doanh thu bán hàng và CCDV,2021,444036596.0,2025-04-12
+NRC,Doanh thu bán hàng và CCDV,2022,194244571.0,2025-04-12
+NRC,Doanh thu bán hàng và CCDV,2023,4628774.0,2025-04-12
+NRC,Doanh thu bán hàng và CCDV,2024,5149234.0,2025-04-12
+NRC,Giá vốn hàng bán,2021,34722028.0,2025-04-12
+NRC,Giá vốn hàng bán,2022,40081695.0,2025-04-12
+NRC,Giá vốn hàng bán,2023,162636.0,2025-04-12
+NRC,Giá vốn hàng bán,2024,614753.0,2025-04-12
+NRC,Lợi nhuận gộp về BH và CCDV,2021,409314568.0,2025-04-12
+NRC,Lợi nhuận gộp về BH và CCDV,2022,154162877.0,2025-04-12
+NRC,Lợi nhuận gộp về BH và CCDV,2023,-55213551.0,2025-04-12
+NRC,Lợi nhuận gộp về BH và CCDV,2024,4534481.0,2025-04-12
+NRC,Lợi nhuận tài chính,2021,-4437678.0,2025-04-12
+NRC,Lợi nhuận tài chính,2022,-10337956.0,2025-04-12
+NRC,Lợi nhuận tài chính,2023,-38516387.0,2025-04-12
+NRC,Lợi nhuận tài chính,2024,-53344400.0,2025-04-12
+NRC,Lợi nhuận khác,2021,18049117.0,2025-04-12
+NRC,Lợi nhuận khác,2022,-8338861.0,2025-04-12
+NRC,Lợi nhuận khác,2023,79177236.0,2025-04-12
+NRC,Lợi nhuận khác,2024,-7360643.0,2025-04-12
+NRC,Tổng lợi nhuận trước thuế,2021,259256442.0,2025-04-12
+NRC,Tổng lợi nhuận trước thuế,2022,-67925669.0,2025-04-12
+NRC,Tổng lợi nhuận trước thuế,2023,39722128.0,2025-04-12
+NRC,Tổng lợi nhuận trước thuế,2024,-137284431.0,2025-04-12
+NRC,Lợi nhuận sau thuế,2021,194792460.0,2025-04-12
+NRC,Lợi nhuận sau thuế,2022,-72801570.0,2025-04-12
+NRC,Lợi nhuận sau thuế,2023,11899525.0,2025-04-12
+NRC,Lợi nhuận sau thuế,2024,-137296581.0,2025-04-12
+NRC,Lợi nhuận sau thuế của công ty mẹ,2021,197610263.0,2025-04-12
+NRC,Lợi nhuận sau thuế của công ty mẹ,2022,-72513005.0,2025-04-12
+NRC,Lợi nhuận sau thuế của công ty mẹ,2023,11929075.0,2025-04-12
+NRC,Lợi nhuận sau thuế của công ty mẹ,2024,-137237476.0,2025-04-12
+NRC,Tổng tài sản lưu động ngắn hạn,2021,1341668571.0,2025-04-12
+NRC,Tổng tài sản lưu động ngắn hạn,2022,988670737.0,2025-04-12
+NRC,Tổng tài sản lưu động ngắn hạn,2023,718596210.0,2025-04-12
+NRC,Tổng tài sản lưu động ngắn hạn,2024,399050602.0,2025-04-12
+NRC,Tổng tài sản,2021,2022856461.0,2025-04-12
+NRC,Tổng tài sản,2022,2276809216.0,2025-04-12
+NRC,Tổng tài sản,2023,2083205153.0,2025-04-12
+NRC,Tổng tài sản,2024,1929368277.0,2025-04-12
+NRC,Nợ ngắn hạn,2021,425603678.0,2025-04-12
+NRC,Nợ ngắn hạn,2022,748492101.0,2025-04-12
+NRC,Nợ ngắn hạn,2023,567278410.0,2025-04-12
+NRC,Nợ ngắn hạn,2024,565447425.0,2025-04-12
+NRC,Tổng nợ,2021,867138836.0,2025-04-12
+NRC,Tổng nợ,2022,994804674.0,2025-04-12
+NRC,Tổng nợ,2023,789301086.0,2025-04-12
+NRC,Tổng nợ,2024,773394300.0,2025-04-12
+NRC,Vốn chủ sở hữu,2021,1155717625.0,2025-04-12
+NRC,Vốn chủ sở hữu,2022,1282004542.0,2025-04-12
+NRC,Vốn chủ sở hữu,2023,1293904068.0,2025-04-12
+NRC,Vốn chủ sở hữu,2024,1155973977.0,2025-04-12

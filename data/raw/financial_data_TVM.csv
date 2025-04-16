@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+TVM,Doanh thu bán hàng và CCDV,2020,226184941.0,2025-04-12
+TVM,Doanh thu bán hàng và CCDV,2021,181268368.0,2025-04-12
+TVM,Doanh thu bán hàng và CCDV,2023,160579735.0,2025-04-12
+TVM,Doanh thu bán hàng và CCDV,2024,161790350.0,2025-04-12
+TVM,Giá vốn hàng bán,2020,201770769.0,2025-04-12
+TVM,Giá vốn hàng bán,2021,157952160.0,2025-04-12
+TVM,Giá vốn hàng bán,2023,128299585.0,2025-04-12
+TVM,Giá vốn hàng bán,2024,129902977.0,2025-04-12
+TVM,Lợi nhuận gộp về BH và CCDV,2020,24414172.0,2025-04-12
+TVM,Lợi nhuận gộp về BH và CCDV,2021,23316208.0,2025-04-12
+TVM,Lợi nhuận gộp về BH và CCDV,2023,32244774.0,2025-04-12
+TVM,Lợi nhuận gộp về BH và CCDV,2024,31887373.0,2025-04-12
+TVM,Lợi nhuận tài chính,2020,-2480821.0,2025-04-12
+TVM,Lợi nhuận tài chính,2021,-1379071.0,2025-04-12
+TVM,Lợi nhuận tài chính,2023,-2301829.0,2025-04-12
+TVM,Lợi nhuận tài chính,2024,-1768134.0,2025-04-12
+TVM,Lợi nhuận khác,2020,-296930.0,2025-04-12
+TVM,Lợi nhuận khác,2021,-158279.0,2025-04-12
+TVM,Lợi nhuận khác,2023,-1506802.0,2025-04-12
+TVM,Lợi nhuận khác,2024,-713436.0,2025-04-12
+TVM,Tổng lợi nhuận trước thuế,2020,1727723.0,2025-04-12
+TVM,Tổng lợi nhuận trước thuế,2021,2263029.0,2025-04-12
+TVM,Tổng lợi nhuận trước thuế,2023,2753134.0,2025-04-12
+TVM,Tổng lợi nhuận trước thuế,2024,3656946.0,2025-04-12
+TVM,Lợi nhuận sau thuế,2020,1140828.0,2025-04-12
+TVM,Lợi nhuận sau thuế,2021,1248641.0,2025-04-12
+TVM,Lợi nhuận sau thuế,2023,1766092.0,2025-04-12
+TVM,Lợi nhuận sau thuế,2024,1810501.0,2025-04-12
+TVM,Lợi nhuận sau thuế của công ty mẹ,2020,1140828.0,2025-04-12
+TVM,Lợi nhuận sau thuế của công ty mẹ,2021,1248641.0,2025-04-12
+TVM,Lợi nhuận sau thuế của công ty mẹ,2023,1766092.0,2025-04-12
+TVM,Lợi nhuận sau thuế của công ty mẹ,2024,1810501.0,2025-04-12
+TVM,Tổng tài sản lưu động ngắn hạn,2020,225544873.0,2025-04-12
+TVM,Tổng tài sản lưu động ngắn hạn,2021,167945537.0,2025-04-12
+TVM,Tổng tài sản lưu động ngắn hạn,2023,190002128.0,2025-04-12
+TVM,Tổng tài sản lưu động ngắn hạn,2024,155469514.0,2025-04-12
+TVM,Tổng tài sản,2020,246904398.0,2025-04-12
+TVM,Tổng tài sản,2021,187529631.0,2025-04-12
+TVM,Tổng tài sản,2023,205744554.0,2025-04-12
+TVM,Tổng tài sản,2024,170658676.0,2025-04-12
+TVM,Nợ ngắn hạn,2020,195653422.0,2025-04-12
+TVM,Nợ ngắn hạn,2021,131023760.0,2025-04-12
+TVM,Nợ ngắn hạn,2023,156320442.0,2025-04-12
+TVM,Nợ ngắn hạn,2024,131689874.0,2025-04-12
+TVM,Tổng nợ,2020,201485803.0,2025-04-12
+TVM,Tổng nợ,2021,134876141.0,2025-04-12
+TVM,Tổng nợ,2023,156320442.0,2025-04-12
+TVM,Tổng nợ,2024,131689874.0,2025-04-12
+TVM,Vốn chủ sở hữu,2020,45418595.0,2025-04-12
+TVM,Vốn chủ sở hữu,2021,52653491.0,2025-04-12
+TVM,Vốn chủ sở hữu,2023,49424112.0,2025-04-12
+TVM,Vốn chủ sở hữu,2024,38968802.0,2025-04-12

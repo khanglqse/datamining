@@ -1,0 +1,45 @@
+symbol,metric,year,value,crawled_date
+LIG,Doanh thu bán hàng và CCDV,2021,2439778223.0,2025-04-12
+LIG,Doanh thu bán hàng và CCDV,2023,3325201928.0,2025-04-12
+LIG,Doanh thu bán hàng và CCDV,2024,3695151811.0,2025-04-12
+LIG,Giá vốn hàng bán,2021,2368726938.0,2025-04-12
+LIG,Giá vốn hàng bán,2023,3239524814.0,2025-04-12
+LIG,Giá vốn hàng bán,2024,3579440635.0,2025-04-12
+LIG,Lợi nhuận gộp về BH và CCDV,2021,71051285.0,2025-04-12
+LIG,Lợi nhuận gộp về BH và CCDV,2023,81818412.0,2025-04-12
+LIG,Lợi nhuận gộp về BH và CCDV,2024,115711176.0,2025-04-12
+LIG,Lợi nhuận tài chính,2021,51003953.0,2025-04-12
+LIG,Lợi nhuận tài chính,2023,31205877.0,2025-04-12
+LIG,Lợi nhuận tài chính,2024,-33807316.0,2025-04-12
+LIG,Lợi nhuận khác,2021,21509972.0,2025-04-12
+LIG,Lợi nhuận khác,2023,-6895485.0,2025-04-12
+LIG,Lợi nhuận khác,2024,-4380231.0,2025-04-12
+LIG,Tổng lợi nhuận trước thuế,2021,59498741.0,2025-04-12
+LIG,Tổng lợi nhuận trước thuế,2023,4211787.0,2025-04-12
+LIG,Tổng lợi nhuận trước thuế,2024,11234028.0,2025-04-12
+LIG,Lợi nhuận sau thuế,2021,46294027.0,2025-04-12
+LIG,Lợi nhuận sau thuế,2023,2606727.0,2025-04-12
+LIG,Lợi nhuận sau thuế,2024,6055367.0,2025-04-12
+LIG,Lợi nhuận sau thuế của công ty mẹ,2021,51177342.0,2025-04-12
+LIG,Lợi nhuận sau thuế của công ty mẹ,2023,2919415.0,2025-04-12
+LIG,Lợi nhuận sau thuế của công ty mẹ,2024,2089113.0,2025-04-12
+LIG,Tổng tài sản lưu động ngắn hạn,2021,3480836199.0,2025-04-12
+LIG,Tổng tài sản lưu động ngắn hạn,2022,3899173818.0,2025-04-12
+LIG,Tổng tài sản lưu động ngắn hạn,2023,4158129076.0,2025-04-12
+LIG,Tổng tài sản lưu động ngắn hạn,2024,3734010299.0,2025-04-12
+LIG,Tổng tài sản,2021,5192754538.0,2025-04-12
+LIG,Tổng tài sản,2022,6470360448.0,2025-04-12
+LIG,Tổng tài sản,2023,6584036444.0,2025-04-12
+LIG,Tổng tài sản,2024,6083725944.0,2025-04-12
+LIG,Nợ ngắn hạn,2021,3276833706.0,2025-04-12
+LIG,Nợ ngắn hạn,2022,3941966096.0,2025-04-12
+LIG,Nợ ngắn hạn,2023,3673439406.0,2025-04-12
+LIG,Nợ ngắn hạn,2024,3438757156.0,2025-04-12
+LIG,Tổng nợ,2021,4307959189.0,2025-04-12
+LIG,Tổng nợ,2022,5163792059.0,2025-04-12
+LIG,Tổng nợ,2023,5183574599.0,2025-04-12
+LIG,Tổng nợ,2024,4940781332.0,2025-04-12
+LIG,Vốn chủ sở hữu,2021,884795350.0,2025-04-12
+LIG,Vốn chủ sở hữu,2022,1306568389.0,2025-04-12
+LIG,Vốn chủ sở hữu,2023,1400461845.0,2025-04-12
+LIG,Vốn chủ sở hữu,2024,1142944612.0,2025-04-12

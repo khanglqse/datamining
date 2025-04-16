@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+FBC,Doanh thu bán hàng và CCDV,2021,1066418639.0,2025-04-12
+FBC,Doanh thu bán hàng và CCDV,2022,1311130393.0,2025-04-12
+FBC,Doanh thu bán hàng và CCDV,2023,1049971428.0,2025-04-12
+FBC,Doanh thu bán hàng và CCDV,2024,1117666841.0,2025-04-12
+FBC,Giá vốn hàng bán,2021,946403081.0,2025-04-12
+FBC,Giá vốn hàng bán,2022,1122205288.0,2025-04-12
+FBC,Giá vốn hàng bán,2023,857228674.0,2025-04-12
+FBC,Giá vốn hàng bán,2024,910133255.0,2025-04-12
+FBC,Lợi nhuận gộp về BH và CCDV,2021,118882576.0,2025-04-12
+FBC,Lợi nhuận gộp về BH và CCDV,2022,187659200.0,2025-04-12
+FBC,Lợi nhuận gộp về BH và CCDV,2023,192464091.0,2025-04-12
+FBC,Lợi nhuận gộp về BH và CCDV,2024,206977681.0,2025-04-12
+FBC,Lợi nhuận tài chính,2021,2446899.0,2025-04-12
+FBC,Lợi nhuận tài chính,2022,4821337.0,2025-04-12
+FBC,Lợi nhuận tài chính,2023,7637858.0,2025-04-12
+FBC,Lợi nhuận tài chính,2024,6177476.0,2025-04-12
+FBC,Lợi nhuận khác,2021,3237477.0,2025-04-12
+FBC,Lợi nhuận khác,2022,-84253.0,2025-04-12
+FBC,Lợi nhuận khác,2023,2034732.0,2025-04-12
+FBC,Lợi nhuận khác,2024,-262185.0,2025-04-12
+FBC,Tổng lợi nhuận trước thuế,2021,42424222.0,2025-04-12
+FBC,Tổng lợi nhuận trước thuế,2022,82437169.0,2025-04-12
+FBC,Tổng lợi nhuận trước thuế,2023,92421863.0,2025-04-12
+FBC,Tổng lợi nhuận trước thuế,2024,95238496.0,2025-04-12
+FBC,Lợi nhuận sau thuế,2021,33804895.0,2025-04-12
+FBC,Lợi nhuận sau thuế,2022,65886297.0,2025-04-12
+FBC,Lợi nhuận sau thuế,2023,72680917.0,2025-04-12
+FBC,Lợi nhuận sau thuế,2024,75671151.0,2025-04-12
+FBC,Lợi nhuận sau thuế của công ty mẹ,2021,33804895.0,2025-04-12
+FBC,Lợi nhuận sau thuế của công ty mẹ,2022,65886297.0,2025-04-12
+FBC,Lợi nhuận sau thuế của công ty mẹ,2023,72680917.0,2025-04-12
+FBC,Lợi nhuận sau thuế của công ty mẹ,2024,75671151.0,2025-04-12
+FBC,Tổng tài sản lưu động ngắn hạn,2021,281656192.0,2025-04-12
+FBC,Tổng tài sản lưu động ngắn hạn,2022,342023972.0,2025-04-12
+FBC,Tổng tài sản lưu động ngắn hạn,2023,350172456.0,2025-04-12
+FBC,Tổng tài sản lưu động ngắn hạn,2024,354290075.0,2025-04-12
+FBC,Tổng tài sản,2021,368031062.0,2025-04-12
+FBC,Tổng tài sản,2022,424049046.0,2025-04-12
+FBC,Tổng tài sản,2023,451331074.0,2025-04-12
+FBC,Tổng tài sản,2024,422630092.0,2025-04-12
+FBC,Nợ ngắn hạn,2021,242351917.0,2025-04-12
+FBC,Nợ ngắn hạn,2022,272126400.0,2025-04-12
+FBC,Nợ ngắn hạn,2023,293261214.0,2025-04-12
+FBC,Nợ ngắn hạn,2024,298908786.0,2025-04-12
+FBC,Tổng nợ,2021,251536927.0,2025-04-12
+FBC,Tổng nợ,2022,280650624.0,2025-04-12
+FBC,Tổng nợ,2023,301138032.0,2025-04-12
+FBC,Tổng nợ,2024,306446816.0,2025-04-12
+FBC,Vốn chủ sở hữu,2021,116494135.0,2025-04-12
+FBC,Vốn chủ sở hữu,2022,143398422.0,2025-04-12
+FBC,Vốn chủ sở hữu,2023,150193042.0,2025-04-12
+FBC,Vốn chủ sở hữu,2024,116183276.0,2025-04-12

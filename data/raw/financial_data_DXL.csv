@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+DXL,Doanh thu bán hàng và CCDV,2021,13892822.0,2025-04-12
+DXL,Doanh thu bán hàng và CCDV,2022,16310765.0,2025-04-12
+DXL,Doanh thu bán hàng và CCDV,2023,17727312.0,2025-04-12
+DXL,Doanh thu bán hàng và CCDV,2024,18139864.0,2025-04-12
+DXL,Giá vốn hàng bán,2021,12101093.0,2025-04-12
+DXL,Giá vốn hàng bán,2022,14124463.0,2025-04-12
+DXL,Giá vốn hàng bán,2023,14780096.0,2025-04-12
+DXL,Giá vốn hàng bán,2024,16415850.0,2025-04-12
+DXL,Lợi nhuận gộp về BH và CCDV,2021,1791729.0,2025-04-12
+DXL,Lợi nhuận gộp về BH và CCDV,2022,2186303.0,2025-04-12
+DXL,Lợi nhuận gộp về BH và CCDV,2023,2947216.0,2025-04-12
+DXL,Lợi nhuận gộp về BH và CCDV,2024,1724014.0,2025-04-12
+DXL,Lợi nhuận tài chính,2021,1666492.0,2025-04-12
+DXL,Lợi nhuận tài chính,2022,1713741.0,2025-04-12
+DXL,Lợi nhuận tài chính,2023,1503671.0,2025-04-12
+DXL,Lợi nhuận tài chính,2024,1019812.0,2025-04-12
+DXL,Lợi nhuận khác,2021,-67706.0,2025-04-12
+DXL,Lợi nhuận khác,2022,-54703.0,2025-04-12
+DXL,Lợi nhuận khác,2023,-528899.0,2025-04-12
+DXL,Lợi nhuận khác,2024,-1237401.0,2025-04-12
+DXL,Tổng lợi nhuận trước thuế,2021,-13872.0,2025-04-12
+DXL,Tổng lợi nhuận trước thuế,2022,668692.0,2025-04-12
+DXL,Tổng lợi nhuận trước thuế,2023,30075.0,2025-04-12
+DXL,Tổng lợi nhuận trước thuế,2024,-1580667.0,2025-04-12
+DXL,Lợi nhuận sau thuế,2021,-41750.0,2025-04-12
+DXL,Lợi nhuận sau thuế,2022,509369.0,2025-04-12
+DXL,Lợi nhuận sau thuế,2023,13912.0,2025-04-12
+DXL,Lợi nhuận sau thuế,2024,-1580667.0,2025-04-12
+DXL,Lợi nhuận sau thuế của công ty mẹ,2021,-41750.0,2025-04-12
+DXL,Lợi nhuận sau thuế của công ty mẹ,2022,509369.0,2025-04-12
+DXL,Lợi nhuận sau thuế của công ty mẹ,2023,13912.0,2025-04-12
+DXL,Lợi nhuận sau thuế của công ty mẹ,2024,-1580667.0,2025-04-12
+DXL,Tổng tài sản lưu động ngắn hạn,2021,12893172.0,2025-04-12
+DXL,Tổng tài sản lưu động ngắn hạn,2022,13730713.0,2025-04-12
+DXL,Tổng tài sản lưu động ngắn hạn,2023,36532787.0,2025-04-12
+DXL,Tổng tài sản lưu động ngắn hạn,2024,32541973.0,2025-04-12
+DXL,Tổng tài sản,2021,44356615.0,2025-04-12
+DXL,Tổng tài sản,2022,45134681.0,2025-04-12
+DXL,Tổng tài sản,2023,44788838.0,2025-04-12
+DXL,Tổng tài sản,2024,42538091.0,2025-04-12
+DXL,Nợ ngắn hạn,2021,1246630.0,2025-04-12
+DXL,Nợ ngắn hạn,2022,1535326.0,2025-04-12
+DXL,Nợ ngắn hạn,2023,1906578.0,2025-04-12
+DXL,Nợ ngắn hạn,2024,1236498.0,2025-04-12
+DXL,Tổng nợ,2021,1296630.0,2025-04-12
+DXL,Tổng nợ,2022,1565326.0,2025-04-12
+DXL,Tổng nợ,2023,1906578.0,2025-04-12
+DXL,Tổng nợ,2024,1236498.0,2025-04-12
+DXL,Vốn chủ sở hữu,2021,43059985.0,2025-04-12
+DXL,Vốn chủ sở hữu,2022,43569355.0,2025-04-12
+DXL,Vốn chủ sở hữu,2023,42882260.0,2025-04-12
+DXL,Vốn chủ sở hữu,2024,41301593.0,2025-04-12

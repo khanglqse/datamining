@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+BGW,Doanh thu bán hàng và CCDV,2021,147398669.0,2025-04-12
+BGW,Doanh thu bán hàng và CCDV,2022,159022395.0,2025-04-12
+BGW,Doanh thu bán hàng và CCDV,2023,170833094.0,2025-04-12
+BGW,Doanh thu bán hàng và CCDV,2024,180000140.0,2025-04-12
+BGW,Giá vốn hàng bán,2021,94573396.0,2025-04-12
+BGW,Giá vốn hàng bán,2022,101228972.0,2025-04-12
+BGW,Giá vốn hàng bán,2023,103637333.0,2025-04-12
+BGW,Giá vốn hàng bán,2024,110338587.0,2025-04-12
+BGW,Lợi nhuận gộp về BH và CCDV,2021,52662846.0,2025-04-12
+BGW,Lợi nhuận gộp về BH và CCDV,2022,57756401.0,2025-04-12
+BGW,Lợi nhuận gộp về BH và CCDV,2023,67172333.0,2025-04-12
+BGW,Lợi nhuận gộp về BH và CCDV,2024,69642411.0,2025-04-12
+BGW,Lợi nhuận tài chính,2021,3595758.0,2025-04-12
+BGW,Lợi nhuận tài chính,2022,3855938.0,2025-04-12
+BGW,Lợi nhuận tài chính,2023,3868190.0,2025-04-12
+BGW,Lợi nhuận tài chính,2024,1297310.0,2025-04-12
+BGW,Lợi nhuận khác,2021,1880544.0,2025-04-12
+BGW,Lợi nhuận khác,2022,610436.0,2025-04-12
+BGW,Lợi nhuận khác,2023,644068.0,2025-04-12
+BGW,Lợi nhuận khác,2024,-191754.0,2025-04-12
+BGW,Tổng lợi nhuận trước thuế,2021,12063726.0,2025-04-12
+BGW,Tổng lợi nhuận trước thuế,2022,13446548.0,2025-04-12
+BGW,Tổng lợi nhuận trước thuế,2023,15311753.0,2025-04-12
+BGW,Tổng lợi nhuận trước thuế,2024,14889167.0,2025-04-12
+BGW,Lợi nhuận sau thuế,2021,10374804.0,2025-04-12
+BGW,Lợi nhuận sau thuế,2022,10676551.0,2025-04-12
+BGW,Lợi nhuận sau thuế,2023,11716429.0,2025-04-12
+BGW,Lợi nhuận sau thuế,2024,11487759.0,2025-04-12
+BGW,Lợi nhuận sau thuế của công ty mẹ,2021,10374804.0,2025-04-12
+BGW,Lợi nhuận sau thuế của công ty mẹ,2022,10676551.0,2025-04-12
+BGW,Lợi nhuận sau thuế của công ty mẹ,2023,11716429.0,2025-04-12
+BGW,Lợi nhuận sau thuế của công ty mẹ,2024,11487759.0,2025-04-12
+BGW,Tổng tài sản lưu động ngắn hạn,2021,117819970.0,2025-04-12
+BGW,Tổng tài sản lưu động ngắn hạn,2022,111896652.0,2025-04-12
+BGW,Tổng tài sản lưu động ngắn hạn,2023,94449019.0,2025-04-12
+BGW,Tổng tài sản lưu động ngắn hạn,2024,86026534.0,2025-04-12
+BGW,Tổng tài sản,2021,225233620.0,2025-04-12
+BGW,Tổng tài sản,2022,225995275.0,2025-04-12
+BGW,Tổng tài sản,2023,233041694.0,2025-04-12
+BGW,Tổng tài sản,2024,230310559.0,2025-04-12
+BGW,Nợ ngắn hạn,2021,34544833.0,2025-04-12
+BGW,Nợ ngắn hạn,2022,34543866.0,2025-04-12
+BGW,Nợ ngắn hạn,2023,40706043.0,2025-04-12
+BGW,Nợ ngắn hạn,2024,37581822.0,2025-04-12
+BGW,Tổng nợ,2021,34544833.0,2025-04-12
+BGW,Tổng nợ,2022,34543866.0,2025-04-12
+BGW,Tổng nợ,2023,40706043.0,2025-04-12
+BGW,Tổng nợ,2024,37581822.0,2025-04-12
+BGW,Vốn chủ sở hữu,2021,190688787.0,2025-04-12
+BGW,Vốn chủ sở hữu,2022,191451409.0,2025-04-12
+BGW,Vốn chủ sở hữu,2023,192335651.0,2025-04-12
+BGW,Vốn chủ sở hữu,2024,192728738.0,2025-04-12

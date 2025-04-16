@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+CEG,Doanh thu bán hàng và CCDV,2020,148085323.0,2025-04-12
+CEG,Doanh thu bán hàng và CCDV,2021,122396714.0,2025-04-12
+CEG,Doanh thu bán hàng và CCDV,2022,153743359.0,2025-04-12
+CEG,Doanh thu bán hàng và CCDV,2023,96348660.0,2025-04-12
+CEG,Giá vốn hàng bán,2020,128000863.0,2025-04-12
+CEG,Giá vốn hàng bán,2021,109123214.0,2025-04-12
+CEG,Giá vốn hàng bán,2022,137295954.0,2025-04-12
+CEG,Giá vốn hàng bán,2023,84141331.0,2025-04-12
+CEG,Lợi nhuận gộp về BH và CCDV,2020,20084460.0,2025-04-12
+CEG,Lợi nhuận gộp về BH và CCDV,2021,13273500.0,2025-04-12
+CEG,Lợi nhuận gộp về BH và CCDV,2022,16447405.0,2025-04-12
+CEG,Lợi nhuận gộp về BH và CCDV,2023,12207329.0,2025-04-12
+CEG,Lợi nhuận tài chính,2020,-3179763.0,2025-04-12
+CEG,Lợi nhuận tài chính,2021,-516731.0,2025-04-12
+CEG,Lợi nhuận tài chính,2022,-3649778.0,2025-04-12
+CEG,Lợi nhuận tài chính,2023,-4743636.0,2025-04-12
+CEG,Lợi nhuận khác,2020,-499388.0,2025-04-12
+CEG,Lợi nhuận khác,2021,639657.0,2025-04-12
+CEG,Lợi nhuận khác,2022,-1657199.0,2025-04-12
+CEG,Lợi nhuận khác,2023,-88724.0,2025-04-12
+CEG,Tổng lợi nhuận trước thuế,2020,5183709.0,2025-04-12
+CEG,Tổng lợi nhuận trước thuế,2021,2984395.0,2025-04-12
+CEG,Tổng lợi nhuận trước thuế,2022,2981488.0,2025-04-12
+CEG,Tổng lợi nhuận trước thuế,2023,-20603480.0,2025-04-12
+CEG,Lợi nhuận sau thuế,2020,4859816.0,2025-04-12
+CEG,Lợi nhuận sau thuế,2021,2634486.0,2025-04-12
+CEG,Lợi nhuận sau thuế,2022,2298229.0,2025-04-12
+CEG,Lợi nhuận sau thuế,2023,-20606463.0,2025-04-12
+CEG,Lợi nhuận sau thuế của công ty mẹ,2020,2207855.0,2025-04-12
+CEG,Lợi nhuận sau thuế của công ty mẹ,2021,95122.0,2025-04-12
+CEG,Lợi nhuận sau thuế của công ty mẹ,2022,1299375.0,2025-04-12
+CEG,Lợi nhuận sau thuế của công ty mẹ,2023,-15433306.0,2025-04-12
+CEG,Tổng tài sản lưu động ngắn hạn,2020,209024160.0,2025-04-12
+CEG,Tổng tài sản lưu động ngắn hạn,2021,213870682.0,2025-04-12
+CEG,Tổng tài sản lưu động ngắn hạn,2022,225234648.0,2025-04-12
+CEG,Tổng tài sản lưu động ngắn hạn,2023,168144573.0,2025-04-12
+CEG,Tổng tài sản,2020,317234252.0,2025-04-12
+CEG,Tổng tài sản,2021,319043841.0,2025-04-12
+CEG,Tổng tài sản,2022,297850051.0,2025-04-12
+CEG,Tổng tài sản,2023,236893278.0,2025-04-12
+CEG,Nợ ngắn hạn,2020,116848888.0,2025-04-12
+CEG,Nợ ngắn hạn,2021,123398603.0,2025-04-12
+CEG,Nợ ngắn hạn,2022,132080593.0,2025-04-12
+CEG,Nợ ngắn hạn,2023,95416462.0,2025-04-12
+CEG,Tổng nợ,2020,186761360.0,2025-04-12
+CEG,Tổng nợ,2021,192724075.0,2025-04-12
+CEG,Tổng nợ,2022,171430806.0,2025-04-12
+CEG,Tổng nợ,2023,134206706.0,2025-04-12
+CEG,Vốn chủ sở hữu,2020,130472891.0,2025-04-12
+CEG,Vốn chủ sở hữu,2021,126319766.0,2025-04-12
+CEG,Vốn chủ sở hữu,2022,126419246.0,2025-04-12
+CEG,Vốn chủ sở hữu,2023,102686573.0,2025-04-12

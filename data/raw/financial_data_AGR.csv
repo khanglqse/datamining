@@ -1,0 +1,45 @@
+symbol,metric,year,value,crawled_date
+AGR,Doanh thu bán hàng và CCDV,2020,224796380.0,2025-04-12
+AGR,Doanh thu bán hàng và CCDV,2021,394171750.0,2025-04-12
+AGR,Doanh thu bán hàng và CCDV,2022,367374470.0,2025-04-12
+AGR,Doanh thu bán hàng và CCDV,2023,361377046.0,2025-04-12
+AGR,Lợi nhuận tài chính,2020,1247880.0,2025-04-12
+AGR,Lợi nhuận tài chính,2021,1502190.0,2025-04-12
+AGR,Lợi nhuận tài chính,2022,1335800.0,2025-04-12
+AGR,Lợi nhuận tài chính,2023,-12816642.0,2025-04-12
+AGR,Tổng lợi nhuận KT trước thuế,2020,120991610.0,2025-04-12
+AGR,Tổng lợi nhuận KT trước thuế,2021,431972320.0,2025-04-12
+AGR,Tổng lợi nhuận KT trước thuế,2022,180408340.0,2025-04-12
+AGR,Tổng lợi nhuận KT trước thuế,2023,182309996.0,2025-04-12
+AGR,Lợi nhuận KT sau thuế TNDN,2020,96793290.0,2025-04-12
+AGR,Lợi nhuận KT sau thuế TNDN,2021,390130200.0,2025-04-12
+AGR,Lợi nhuận KT sau thuế TNDN,2022,146342780.0,2025-04-12
+AGR,Lợi nhuận KT sau thuế TNDN,2023,146309079.0,2025-04-12
+AGR,Lợi nhuận sau thuế của công ty mẹ,2020,96793290.0,2025-04-12
+AGR,Lợi nhuận sau thuế của công ty mẹ,2021,390130200.0,2025-04-12
+AGR,Lợi nhuận sau thuế của công ty mẹ,2022,146342780.0,2025-04-12
+AGR,Lợi nhuận sau thuế của công ty mẹ,2023,146309079.0,2025-04-12
+AGR,Lợi nhuận khác,2020,505410.0,2025-04-12
+AGR,Lợi nhuận khác,2021,164405740.0,2025-04-12
+AGR,Lợi nhuận khác,2022,16858350.0,2025-04-12
+AGR,Lợi nhuận khác,2023,20412.0,2025-04-12
+AGR,Tổng tài sản lưu động ngắn hạn,2020,1808556540.0,2025-04-12
+AGR,Tổng tài sản lưu động ngắn hạn,2021,2671956880.0,2025-04-12
+AGR,Tổng tài sản lưu động ngắn hạn,2022,2659104970.0,2025-04-12
+AGR,Tổng tài sản lưu động ngắn hạn,2023,2835593029.0,2025-04-12
+AGR,Tổng tài sản,2020,2286420540.0,2025-04-12
+AGR,Tổng tài sản,2021,2739269210.0,2025-04-12
+AGR,Tổng tài sản,2022,2805191290.0,2025-04-12
+AGR,Tổng tài sản,2023,3062598169.0,2025-04-12
+AGR,Nợ ngắn hạn,2020,178585500.0,2025-04-12
+AGR,Nợ ngắn hạn,2021,273105880.0,2025-04-12
+AGR,Nợ ngắn hạn,2022,300552400.0,2025-04-12
+AGR,Nợ ngắn hạn,2023,559443632.0,2025-04-12
+AGR,Tổng nợ,2020,189791550.0,2025-04-12
+AGR,Tổng nợ,2021,282417660.0,2025-04-12
+AGR,Tổng nợ,2022,307969920.0,2025-04-12
+AGR,Tổng nợ,2023,567859060.0,2025-04-12
+AGR,Vốn chủ sở hữu,2020,2096628990.0,2025-04-12
+AGR,Vốn chủ sở hữu,2021,2456851560.0,2025-04-12
+AGR,Vốn chủ sở hữu,2022,2497221370.0,2025-04-12
+AGR,Vốn chủ sở hữu,2023,2494739109.0,2025-04-12

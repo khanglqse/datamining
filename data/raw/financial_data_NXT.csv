@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+NXT,Doanh thu bán hàng và CCDV,2020,34324988.0,2025-04-12
+NXT,Doanh thu bán hàng và CCDV,2021,70691318.0,2025-04-12
+NXT,Doanh thu bán hàng và CCDV,2022,108127624.0,2025-04-12
+NXT,Doanh thu bán hàng và CCDV,2023,116793772.0,2025-04-12
+NXT,Giá vốn hàng bán,2020,27658437.0,2025-04-12
+NXT,Giá vốn hàng bán,2021,58707268.0,2025-04-12
+NXT,Giá vốn hàng bán,2022,102773947.0,2025-04-12
+NXT,Giá vốn hàng bán,2023,105856672.0,2025-04-12
+NXT,Lợi nhuận gộp về BH và CCDV,2020,6666552.0,2025-04-12
+NXT,Lợi nhuận gộp về BH và CCDV,2021,11984050.0,2025-04-12
+NXT,Lợi nhuận gộp về BH và CCDV,2022,5353677.0,2025-04-12
+NXT,Lợi nhuận gộp về BH và CCDV,2023,10937101.0,2025-04-12
+NXT,Lợi nhuận tài chính,2020,-1298305.0,2025-04-12
+NXT,Lợi nhuận tài chính,2021,-2063148.0,2025-04-12
+NXT,Lợi nhuận tài chính,2022,-1935324.0,2025-04-12
+NXT,Lợi nhuận tài chính,2023,-3943547.0,2025-04-12
+NXT,Lợi nhuận khác,2020,-2041888.0,2025-04-12
+NXT,Lợi nhuận khác,2021,-448405.0,2025-04-12
+NXT,Lợi nhuận khác,2022,153998.0,2025-04-12
+NXT,Lợi nhuận khác,2023,-538795.0,2025-04-12
+NXT,Tổng lợi nhuận trước thuế,2020,2881587.0,2025-04-12
+NXT,Tổng lợi nhuận trước thuế,2021,8664539.0,2025-04-12
+NXT,Tổng lợi nhuận trước thuế,2022,2770343.0,2025-04-12
+NXT,Tổng lợi nhuận trước thuế,2023,4929936.0,2025-04-12
+NXT,Lợi nhuận sau thuế,2020,2477950.0,2025-04-12
+NXT,Lợi nhuận sau thuế,2021,6841950.0,2025-04-12
+NXT,Lợi nhuận sau thuế,2022,2135584.0,2025-04-12
+NXT,Lợi nhuận sau thuế,2023,4104318.0,2025-04-12
+NXT,Lợi nhuận sau thuế của công ty mẹ,2020,2477950.0,2025-04-12
+NXT,Lợi nhuận sau thuế của công ty mẹ,2021,6841950.0,2025-04-12
+NXT,Lợi nhuận sau thuế của công ty mẹ,2022,2135584.0,2025-04-12
+NXT,Lợi nhuận sau thuế của công ty mẹ,2023,4015407.0,2025-04-12
+NXT,Tổng tài sản lưu động ngắn hạn,2020,58972905.0,2025-04-12
+NXT,Tổng tài sản lưu động ngắn hạn,2021,39545678.0,2025-04-12
+NXT,Tổng tài sản lưu động ngắn hạn,2022,55032175.0,2025-04-12
+NXT,Tổng tài sản lưu động ngắn hạn,2023,73203163.0,2025-04-12
+NXT,Tổng tài sản,2020,117299739.0,2025-04-12
+NXT,Tổng tài sản,2021,92721332.0,2025-04-12
+NXT,Tổng tài sản,2022,126709476.0,2025-04-12
+NXT,Tổng tài sản,2023,154208168.0,2025-04-12
+NXT,Nợ ngắn hạn,2020,59809299.0,2025-04-12
+NXT,Nợ ngắn hạn,2021,32136943.0,2025-04-12
+NXT,Nợ ngắn hạn,2022,34087503.0,2025-04-12
+NXT,Nợ ngắn hạn,2023,44942928.0,2025-04-12
+NXT,Tổng nợ,2020,76122933.0,2025-04-12
+NXT,Tổng nợ,2021,44702577.0,2025-04-12
+NXT,Tổng nợ,2022,43555137.0,2025-04-12
+NXT,Tổng nợ,2023,62767961.0,2025-04-12
+NXT,Vốn chủ sở hữu,2020,41176806.0,2025-04-12
+NXT,Vốn chủ sở hữu,2021,48018755.0,2025-04-12
+NXT,Vốn chủ sở hữu,2022,83154340.0,2025-04-12
+NXT,Vốn chủ sở hữu,2023,91440207.0,2025-04-12

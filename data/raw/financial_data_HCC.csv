@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+HCC,Doanh thu bán hàng và CCDV,2021,210034080.0,2025-04-12
+HCC,Doanh thu bán hàng và CCDV,2022,282832221.0,2025-04-12
+HCC,Doanh thu bán hàng và CCDV,2023,233500103.0,2025-04-12
+HCC,Doanh thu bán hàng và CCDV,2024,300015395.0,2025-04-12
+HCC,Giá vốn hàng bán,2021,195438501.0,2025-04-12
+HCC,Giá vốn hàng bán,2022,257481224.0,2025-04-12
+HCC,Giá vốn hàng bán,2023,213020462.0,2025-04-12
+HCC,Giá vốn hàng bán,2024,271025895.0,2025-04-12
+HCC,Lợi nhuận gộp về BH và CCDV,2021,14595579.0,2025-04-12
+HCC,Lợi nhuận gộp về BH và CCDV,2022,25350996.0,2025-04-12
+HCC,Lợi nhuận gộp về BH và CCDV,2023,20479641.0,2025-04-12
+HCC,Lợi nhuận gộp về BH và CCDV,2024,28989500.0,2025-04-12
+HCC,Lợi nhuận tài chính,2021,-3695420.0,2025-04-12
+HCC,Lợi nhuận tài chính,2022,-2704972.0,2025-04-12
+HCC,Lợi nhuận tài chính,2023,-2207598.0,2025-04-12
+HCC,Lợi nhuận tài chính,2024,-417016.0,2025-04-12
+HCC,Lợi nhuận khác,2021,-149609.0,2025-04-12
+HCC,Lợi nhuận khác,2022,-744733.0,2025-04-12
+HCC,Lợi nhuận khác,2023,-822802.0,2025-04-12
+HCC,Lợi nhuận khác,2024,-618326.0,2025-04-12
+HCC,Tổng lợi nhuận trước thuế,2021,3019430.0,2025-04-12
+HCC,Tổng lợi nhuận trước thuế,2022,12564658.0,2025-04-12
+HCC,Tổng lợi nhuận trước thuế,2023,11258779.0,2025-04-12
+HCC,Tổng lợi nhuận trước thuế,2024,15896982.0,2025-04-12
+HCC,Lợi nhuận sau thuế,2021,2293974.0,2025-04-12
+HCC,Lợi nhuận sau thuế,2022,10312558.0,2025-04-12
+HCC,Lợi nhuận sau thuế,2023,9131882.0,2025-04-12
+HCC,Lợi nhuận sau thuế,2024,12557592.0,2025-04-12
+HCC,Lợi nhuận sau thuế của công ty mẹ,2021,2293974.0,2025-04-12
+HCC,Lợi nhuận sau thuế của công ty mẹ,2022,10312558.0,2025-04-12
+HCC,Lợi nhuận sau thuế của công ty mẹ,2023,9131882.0,2025-04-12
+HCC,Lợi nhuận sau thuế của công ty mẹ,2024,12557592.0,2025-04-12
+HCC,Tổng tài sản lưu động ngắn hạn,2021,82637998.0,2025-04-12
+HCC,Tổng tài sản lưu động ngắn hạn,2022,100022361.0,2025-04-12
+HCC,Tổng tài sản lưu động ngắn hạn,2023,88693918.0,2025-04-12
+HCC,Tổng tài sản lưu động ngắn hạn,2024,105685386.0,2025-04-12
+HCC,Tổng tài sản,2021,142929959.0,2025-04-12
+HCC,Tổng tài sản,2022,151706481.0,2025-04-12
+HCC,Tổng tài sản,2023,131257548.0,2025-04-12
+HCC,Tổng tài sản,2024,145168687.0,2025-04-12
+HCC,Nợ ngắn hạn,2021,67745096.0,2025-04-12
+HCC,Nợ ngắn hạn,2022,69618851.0,2025-04-12
+HCC,Nợ ngắn hạn,2023,50466657.0,2025-04-12
+HCC,Nợ ngắn hạn,2024,59752097.0,2025-04-12
+HCC,Tổng nợ,2021,68745096.0,2025-04-12
+HCC,Tổng nợ,2022,69618851.0,2025-04-12
+HCC,Tổng nợ,2023,50466657.0,2025-04-12
+HCC,Tổng nợ,2024,59752097.0,2025-04-12
+HCC,Vốn chủ sở hữu,2021,74184863.0,2025-04-12
+HCC,Vốn chủ sở hữu,2022,82087629.0,2025-04-12
+HCC,Vốn chủ sở hữu,2023,80790891.0,2025-04-12
+HCC,Vốn chủ sở hữu,2024,85416590.0,2025-04-12

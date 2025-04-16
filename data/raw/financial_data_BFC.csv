@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+BFC,Doanh thu bán hàng và CCDV,2022,8706682358.0,2025-04-12
+BFC,Doanh thu bán hàng và CCDV,2023,8706345659.0,2025-04-12
+BFC,Doanh thu bán hàng và CCDV,2023,8706345659.0,2025-04-12
+BFC,Doanh thu bán hàng và CCDV,2024,9489135613.0,2025-04-12
+BFC,Giá vốn hàng bán,2022,7703474074.0,2025-04-12
+BFC,Giá vốn hàng bán,2023,7680240977.0,2025-04-12
+BFC,Giá vốn hàng bán,2023,7680240977.0,2025-04-12
+BFC,Giá vốn hàng bán,2024,7964775334.0,2025-04-12
+BFC,Lợi nhuận gộp về BH và CCDV,2022,877884027.0,2025-04-12
+BFC,Lợi nhuận gộp về BH và CCDV,2023,908068107.0,2025-04-12
+BFC,Lợi nhuận gộp về BH và CCDV,2023,908068107.0,2025-04-12
+BFC,Lợi nhuận gộp về BH và CCDV,2024,1393468413.0,2025-04-12
+BFC,Lợi nhuận tài chính,2022,-131363065.0,2025-04-12
+BFC,Lợi nhuận tài chính,2023,-119505682.0,2025-04-12
+BFC,Lợi nhuận tài chính,2023,-119505682.0,2025-04-12
+BFC,Lợi nhuận tài chính,2024,-60938786.0,2025-04-12
+BFC,Lợi nhuận khác,2022,-570583.0,2025-04-12
+BFC,Lợi nhuận khác,2023,-3032116.0,2025-04-12
+BFC,Lợi nhuận khác,2023,-3032116.0,2025-04-12
+BFC,Lợi nhuận khác,2024,-610486.0,2025-04-12
+BFC,Tổng lợi nhuận trước thuế,2022,234452984.0,2025-04-12
+BFC,Tổng lợi nhuận trước thuế,2023,196238848.0,2025-04-12
+BFC,Tổng lợi nhuận trước thuế,2023,196238848.0,2025-04-12
+BFC,Tổng lợi nhuận trước thuế,2024,530562625.0,2025-04-12
+BFC,Lợi nhuận sau thuế,2022,184771639.0,2025-04-12
+BFC,Lợi nhuận sau thuế,2023,134817816.0,2025-04-12
+BFC,Lợi nhuận sau thuế,2023,134817816.0,2025-04-12
+BFC,Lợi nhuận sau thuế,2024,425614471.0,2025-04-12
+BFC,Lợi nhuận sau thuế của công ty mẹ,2022,141094139.0,2025-04-12
+BFC,Lợi nhuận sau thuế của công ty mẹ,2023,148242218.0,2025-04-12
+BFC,Lợi nhuận sau thuế của công ty mẹ,2023,148242218.0,2025-04-12
+BFC,Lợi nhuận sau thuế của công ty mẹ,2024,357006351.0,2025-04-12
+BFC,Tổng tài sản lưu động ngắn hạn,2022,3486784783.0,2025-04-12
+BFC,Tổng tài sản lưu động ngắn hạn,2023,2743330306.0,2025-04-12
+BFC,Tổng tài sản lưu động ngắn hạn,2023,2743330306.0,2025-04-12
+BFC,Tổng tài sản lưu động ngắn hạn,2024,2608895505.0,2025-04-12
+BFC,Tổng tài sản,2022,4288576673.0,2025-04-12
+BFC,Tổng tài sản,2023,3454647948.0,2025-04-12
+BFC,Tổng tài sản,2023,3454647948.0,2025-04-12
+BFC,Tổng tài sản,2024,3277320050.0,2025-04-12
+BFC,Nợ ngắn hạn,2022,2915377480.0,2025-04-12
+BFC,Nợ ngắn hạn,2023,2159289938.0,2025-04-12
+BFC,Nợ ngắn hạn,2023,2159289938.0,2025-04-12
+BFC,Nợ ngắn hạn,2024,1743091418.0,2025-04-12
+BFC,Tổng nợ,2022,2937077747.0,2025-04-12
+BFC,Tổng nợ,2023,2168890125.0,2025-04-12
+BFC,Tổng nợ,2023,2168890125.0,2025-04-12
+BFC,Tổng nợ,2024,1759956299.0,2025-04-12
+BFC,Vốn chủ sở hữu,2022,1351498926.0,2025-04-12
+BFC,Vốn chủ sở hữu,2023,1285757823.0,2025-04-12
+BFC,Vốn chủ sở hữu,2023,1285757823.0,2025-04-12
+BFC,Vốn chủ sở hữu,2024,1517363751.0,2025-04-12

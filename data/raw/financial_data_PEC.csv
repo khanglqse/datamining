@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+PEC,Doanh thu bán hàng và CCDV,2019,170826080.0,2025-04-12
+PEC,Doanh thu bán hàng và CCDV,2020,114450098.0,2025-04-12
+PEC,Doanh thu bán hàng và CCDV,2021,27320200.0,2025-04-12
+PEC,Doanh thu bán hàng và CCDV,2022,7251181.0,2025-04-12
+PEC,Giá vốn hàng bán,2019,154996426.0,2025-04-12
+PEC,Giá vốn hàng bán,2020,105692253.0,2025-04-12
+PEC,Giá vốn hàng bán,2021,24738030.0,2025-04-12
+PEC,Giá vốn hàng bán,2022,27739490.0,2025-04-12
+PEC,Lợi nhuận gộp về BH và CCDV,2019,15829654.0,2025-04-12
+PEC,Lợi nhuận gộp về BH và CCDV,2020,8757845.0,2025-04-12
+PEC,Lợi nhuận gộp về BH và CCDV,2021,2582170.0,2025-04-12
+PEC,Lợi nhuận gộp về BH và CCDV,2022,-20787771.0,2025-04-12
+PEC,Lợi nhuận tài chính,2019,-15578267.0,2025-04-12
+PEC,Lợi nhuận tài chính,2020,-7895064.0,2025-04-12
+PEC,Lợi nhuận tài chính,2021,-2925232.0,2025-04-12
+PEC,Lợi nhuận tài chính,2022,-20409159.0,2025-04-12
+PEC,Lợi nhuận khác,2019,1261283.0,2025-04-12
+PEC,Lợi nhuận khác,2020,-7489.0,2025-04-12
+PEC,Lợi nhuận khác,2021,3770797.0,2025-04-12
+PEC,Lợi nhuận khác,2022,3412610.0,2025-04-12
+PEC,Tổng lợi nhuận trước thuế,2019,1376082.0,2025-04-12
+PEC,Tổng lợi nhuận trước thuế,2020,-5995514.0,2025-04-12
+PEC,Tổng lợi nhuận trước thuế,2021,-246851.0,2025-04-12
+PEC,Tổng lợi nhuận trước thuế,2022,-48394774.0,2025-04-12
+PEC,Lợi nhuận sau thuế,2019,1068299.0,2025-04-12
+PEC,Lợi nhuận sau thuế,2020,-5995514.0,2025-04-12
+PEC,Lợi nhuận sau thuế,2021,-246851.0,2025-04-12
+PEC,Lợi nhuận sau thuế,2022,-48394774.0,2025-04-12
+PEC,Lợi nhuận sau thuế của công ty mẹ,2019,1068299.0,2025-04-12
+PEC,Lợi nhuận sau thuế của công ty mẹ,2020,-5995514.0,2025-04-12
+PEC,Lợi nhuận sau thuế của công ty mẹ,2021,-246851.0,2025-04-12
+PEC,Lợi nhuận sau thuế của công ty mẹ,2022,-48394774.0,2025-04-12
+PEC,Tổng tài sản lưu động ngắn hạn,2019,209939754.0,2025-04-12
+PEC,Tổng tài sản lưu động ngắn hạn,2020,209933752.0,2025-04-12
+PEC,Tổng tài sản lưu động ngắn hạn,2021,170911437.0,2025-04-12
+PEC,Tổng tài sản lưu động ngắn hạn,2022,103688278.0,2025-04-12
+PEC,Tổng tài sản,2019,247912428.0,2025-04-12
+PEC,Tổng tài sản,2020,247592413.0,2025-04-12
+PEC,Tổng tài sản,2021,207747536.0,2025-04-12
+PEC,Tổng tài sản,2022,106854045.0,2025-04-12
+PEC,Nợ ngắn hạn,2019,168745877.0,2025-04-12
+PEC,Nợ ngắn hạn,2020,173255124.0,2025-04-12
+PEC,Nợ ngắn hạn,2021,138425227.0,2025-04-12
+PEC,Nợ ngắn hạn,2022,88093341.0,2025-04-12
+PEC,Tổng nợ,2019,183230654.0,2025-04-12
+PEC,Tổng nợ,2020,188906152.0,2025-04-12
+PEC,Tổng nợ,2021,149308126.0,2025-04-12
+PEC,Tổng nợ,2022,96809408.0,2025-04-12
+PEC,Vốn chủ sở hữu,2019,64681774.0,2025-04-12
+PEC,Vốn chủ sở hữu,2020,58686261.0,2025-04-12
+PEC,Vốn chủ sở hữu,2021,58439410.0,2025-04-12
+PEC,Vốn chủ sở hữu,2022,10044637.0,2025-04-12

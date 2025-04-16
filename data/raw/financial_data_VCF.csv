@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+VCF,Doanh thu bán hàng và CCDV,2021,2219081722.0,2025-04-12
+VCF,Doanh thu bán hàng và CCDV,2022,2212293319.0,2025-04-12
+VCF,Doanh thu bán hàng và CCDV,2023,2372453654.0,2025-04-12
+VCF,Doanh thu bán hàng và CCDV,2024,2573987027.0,2025-04-12
+VCF,Giá vốn hàng bán,2021,1661435700.0,2025-04-12
+VCF,Giá vốn hàng bán,2022,1713244241.0,2025-04-12
+VCF,Giá vốn hàng bán,2023,1837899992.0,2025-04-12
+VCF,Giá vốn hàng bán,2024,2054645702.0,2025-04-12
+VCF,Lợi nhuận gộp về BH và CCDV,2021,555474051.0,2025-04-12
+VCF,Lợi nhuận gộp về BH và CCDV,2022,493790484.0,2025-04-12
+VCF,Lợi nhuận gộp về BH và CCDV,2023,514620962.0,2025-04-12
+VCF,Lợi nhuận gộp về BH và CCDV,2024,501633376.0,2025-04-12
+VCF,Lợi nhuận tài chính,2021,57328556.0,2025-04-12
+VCF,Lợi nhuận tài chính,2022,-50665392.0,2025-04-12
+VCF,Lợi nhuận tài chính,2023,80320599.0,2025-04-12
+VCF,Lợi nhuận tài chính,2024,92371488.0,2025-04-12
+VCF,Lợi nhuận khác,2021,175481.0,2025-04-12
+VCF,Lợi nhuận khác,2022,-531533.0,2025-04-12
+VCF,Lợi nhuận khác,2023,-656274.0,2025-04-12
+VCF,Lợi nhuận khác,2024,-2274582.0,2025-04-12
+VCF,Tổng lợi nhuận trước thuế,2021,548565558.0,2025-04-12
+VCF,Tổng lợi nhuận trước thuế,2022,399437994.0,2025-04-12
+VCF,Tổng lợi nhuận trước thuế,2023,563917428.0,2025-04-12
+VCF,Tổng lợi nhuận trước thuế,2024,558046829.0,2025-04-12
+VCF,Lợi nhuận sau thuế,2021,428532166.0,2025-04-12
+VCF,Lợi nhuận sau thuế,2022,319106725.0,2025-04-12
+VCF,Lợi nhuận sau thuế,2023,449952830.0,2025-04-12
+VCF,Lợi nhuận sau thuế,2024,446437315.0,2025-04-12
+VCF,Lợi nhuận sau thuế của công ty mẹ,2021,428835138.0,2025-04-12
+VCF,Lợi nhuận sau thuế của công ty mẹ,2022,319106725.0,2025-04-12
+VCF,Lợi nhuận sau thuế của công ty mẹ,2023,449952830.0,2025-04-12
+VCF,Lợi nhuận sau thuế của công ty mẹ,2024,446437315.0,2025-04-12
+VCF,Tổng tài sản lưu động ngắn hạn,2021,1496987597.0,2025-04-12
+VCF,Tổng tài sản lưu động ngắn hạn,2022,1770245687.0,2025-04-12
+VCF,Tổng tài sản lưu động ngắn hạn,2023,1791913748.0,2025-04-12
+VCF,Tổng tài sản lưu động ngắn hạn,2024,842528900.0,2025-04-12
+VCF,Tổng tài sản,2021,1945577678.0,2025-04-12
+VCF,Tổng tài sản,2022,2106250037.0,2025-04-12
+VCF,Tổng tài sản,2023,2658406811.0,2025-04-12
+VCF,Tổng tài sản,2024,2488488060.0,2025-04-12
+VCF,Nợ ngắn hạn,2021,676081729.0,2025-04-12
+VCF,Nợ ngắn hạn,2022,438501047.0,2025-04-12
+VCF,Nợ ngắn hạn,2023,540932348.0,2025-04-12
+VCF,Nợ ngắn hạn,2024,589413007.0,2025-04-12
+VCF,Tổng nợ,2021,683087147.0,2025-04-12
+VCF,Tổng nợ,2022,443418098.0,2025-04-12
+VCF,Tổng nợ,2023,545622042.0,2025-04-12
+VCF,Tổng nợ,2024,593744351.0,2025-04-12
+VCF,Vốn chủ sở hữu,2021,1262490531.0,2025-04-12
+VCF,Vốn chủ sở hữu,2022,1662831939.0,2025-04-12
+VCF,Vốn chủ sở hữu,2023,1846993419.0,2025-04-12
+VCF,Vốn chủ sở hữu,2024,1894743709.0,2025-04-12

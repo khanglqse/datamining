@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+SVJ,Doanh thu thuần về BH và cung cấp DV,2016,338931218.0,2025-04-12
+SVJ,Doanh thu thuần về BH và cung cấp DV,2017,436473875.0,2025-04-12
+SVJ,Doanh thu thuần về BH và cung cấp DV,2018,567554536.0,2025-04-12
+SVJ,Doanh thu thuần về BH và cung cấp DV,2019,546986380.0,2025-04-12
+SVJ,Giá vốn hàng bán,2016,247956875.0,2025-04-12
+SVJ,Giá vốn hàng bán,2017,321118516.0,2025-04-12
+SVJ,Giá vốn hàng bán,2018,419503978.0,2025-04-12
+SVJ,Giá vốn hàng bán,2019,407919148.0,2025-04-12
+SVJ,Lợi nhuận gộp về BH và cung cấp DV,2016,90974343.0,2025-04-12
+SVJ,Lợi nhuận gộp về BH và cung cấp DV,2017,115355359.0,2025-04-12
+SVJ,Lợi nhuận gộp về BH và cung cấp DV,2018,148050558.0,2025-04-12
+SVJ,Lợi nhuận gộp về BH và cung cấp DV,2019,139067231.0,2025-04-12
+SVJ,Lợi nhuận tài chính,2016,-478518.0,2025-04-12
+SVJ,Lợi nhuận tài chính,2017,141345.0,2025-04-12
+SVJ,Lợi nhuận tài chính,2018,-951609.0,2025-04-12
+SVJ,Lợi nhuận tài chính,2019,-1168237.0,2025-04-12
+SVJ,Lợi nhuận khác,2016,6151.0,2025-04-12
+SVJ,Lợi nhuận khác,2017,-356407.0,2025-04-12
+SVJ,Lợi nhuận khác,2018,1520.0,2025-04-12
+SVJ,Lợi nhuận khác,2019,4418625.0,2025-04-12
+SVJ,Tổng lợi nhuận trước thuế,2016,50964031.0,2025-04-12
+SVJ,Tổng lợi nhuận trước thuế,2017,71386378.0,2025-04-12
+SVJ,Tổng lợi nhuận trước thuế,2018,99227468.0,2025-04-12
+SVJ,Tổng lợi nhuận trước thuế,2019,94774799.0,2025-04-12
+SVJ,Lợi nhuận sau thuế,2016,42564315.0,2025-04-12
+SVJ,Lợi nhuận sau thuế,2017,60652459.0,2025-04-12
+SVJ,Lợi nhuận sau thuế,2018,84171715.0,2025-04-12
+SVJ,Lợi nhuận sau thuế,2019,79708936.0,2025-04-12
+SVJ,Lợi nhuận sau thuế của công ty mẹ,2016,42564315.0,2025-04-12
+SVJ,Lợi nhuận sau thuế của công ty mẹ,2017,60652459.0,2025-04-12
+SVJ,Lợi nhuận sau thuế của công ty mẹ,2018,84171715.0,2025-04-12
+SVJ,Lợi nhuận sau thuế của công ty mẹ,2019,79708936.0,2025-04-12
+SVJ,Tổng tài sản lưu động ngắn hạn,2016,115801139.0,2025-04-12
+SVJ,Tổng tài sản lưu động ngắn hạn,2017,117623625.0,2025-04-12
+SVJ,Tổng tài sản lưu động ngắn hạn,2018,145818148.0,2025-04-12
+SVJ,Tổng tài sản lưu động ngắn hạn,2019,161911103.0,2025-04-12
+SVJ,Tổng tài sản,2016,282863411.0,2025-04-12
+SVJ,Tổng tài sản,2017,359193100.0,2025-04-12
+SVJ,Tổng tài sản,2018,436561630.0,2025-04-12
+SVJ,Tổng tài sản,2019,454950805.0,2025-04-12
+SVJ,Nợ ngắn hạn,2016,46660874.0,2025-04-12
+SVJ,Nợ ngắn hạn,2017,80143889.0,2025-04-12
+SVJ,Nợ ngắn hạn,2018,86819563.0,2025-04-12
+SVJ,Nợ ngắn hạn,2019,60688996.0,2025-04-12
+SVJ,Tổng nợ,2016,51615722.0,2025-04-12
+SVJ,Tổng nợ,2017,85282051.0,2025-04-12
+SVJ,Tổng nợ,2018,93162570.0,2025-04-12
+SVJ,Tổng nợ,2019,67669584.0,2025-04-12
+SVJ,Vốn chủ sở hữu,2016,231247690.0,2025-04-12
+SVJ,Vốn chủ sở hữu,2017,273911049.0,2025-04-12
+SVJ,Vốn chủ sở hữu,2018,343399060.0,2025-04-12
+SVJ,Vốn chủ sở hữu,2019,387281221.0,2025-04-12

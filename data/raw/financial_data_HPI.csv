@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+HPI,Doanh thu bán hàng và CCDV,2021,158412410.0,2025-04-12
+HPI,Doanh thu bán hàng và CCDV,2022,142784611.0,2025-04-12
+HPI,Doanh thu bán hàng và CCDV,2023,83665246.0,2025-04-12
+HPI,Doanh thu bán hàng và CCDV,2024,97156532.0,2025-04-12
+HPI,Giá vốn hàng bán,2021,136133927.0,2025-04-12
+HPI,Giá vốn hàng bán,2022,122858303.0,2025-04-12
+HPI,Giá vốn hàng bán,2023,34643964.0,2025-04-12
+HPI,Giá vốn hàng bán,2024,-24509765.0,2025-04-12
+HPI,Lợi nhuận gộp về BH và CCDV,2021,22278483.0,2025-04-12
+HPI,Lợi nhuận gộp về BH và CCDV,2022,19926308.0,2025-04-12
+HPI,Lợi nhuận gộp về BH và CCDV,2023,-11989171.0,2025-04-12
+HPI,Lợi nhuận gộp về BH và CCDV,2024,57751843.0,2025-04-12
+HPI,Lợi nhuận tài chính,2021,43084316.0,2025-04-12
+HPI,Lợi nhuận tài chính,2022,46216371.0,2025-04-12
+HPI,Lợi nhuận tài chính,2023,110771103.0,2025-04-12
+HPI,Lợi nhuận tài chính,2024,32637255.0,2025-04-12
+HPI,Lợi nhuận khác,2021,2279032.0,2025-04-12
+HPI,Lợi nhuận khác,2022,2384098.0,2025-04-12
+HPI,Lợi nhuận khác,2023,2262622.0,2025-04-12
+HPI,Lợi nhuận khác,2024,3855051.0,2025-04-12
+HPI,Tổng lợi nhuận trước thuế,2021,33666688.0,2025-04-12
+HPI,Tổng lợi nhuận trước thuế,2022,32698649.0,2025-04-12
+HPI,Tổng lợi nhuận trước thuế,2023,67459247.0,2025-04-12
+HPI,Tổng lợi nhuận trước thuế,2024,66198662.0,2025-04-12
+HPI,Lợi nhuận sau thuế,2021,33666688.0,2025-04-12
+HPI,Lợi nhuận sau thuế,2022,32698649.0,2025-04-12
+HPI,Lợi nhuận sau thuế,2023,67459247.0,2025-04-12
+HPI,Lợi nhuận sau thuế,2024,66198662.0,2025-04-12
+HPI,Lợi nhuận sau thuế của công ty mẹ,2021,33666688.0,2025-04-12
+HPI,Lợi nhuận sau thuế của công ty mẹ,2022,32698649.0,2025-04-12
+HPI,Lợi nhuận sau thuế của công ty mẹ,2023,67459247.0,2025-04-12
+HPI,Lợi nhuận sau thuế của công ty mẹ,2024,66198662.0,2025-04-12
+HPI,Tổng tài sản lưu động ngắn hạn,2021,909834418.0,2025-04-12
+HPI,Tổng tài sản lưu động ngắn hạn,2022,931803472.0,2025-04-12
+HPI,Tổng tài sản lưu động ngắn hạn,2023,913910743.0,2025-04-12
+HPI,Tổng tài sản lưu động ngắn hạn,2024,829467118.0,2025-04-12
+HPI,Tổng tài sản,2021,2535695374.0,2025-04-12
+HPI,Tổng tài sản,2022,2421844001.0,2025-04-12
+HPI,Tổng tài sản,2023,2450440365.0,2025-04-12
+HPI,Tổng tài sản,2024,2398005851.0,2025-04-12
+HPI,Nợ ngắn hạn,2021,2090859339.0,2025-04-12
+HPI,Nợ ngắn hạn,2022,1977031395.0,2025-04-12
+HPI,Nợ ngắn hạn,2023,1946054205.0,2025-04-12
+HPI,Nợ ngắn hạn,2024,1890632891.0,2025-04-12
+HPI,Tổng nợ,2021,2272425044.0,2025-04-12
+HPI,Tổng nợ,2022,2126365023.0,2025-04-12
+HPI,Tổng nợ,2023,2088219740.0,2025-04-12
+HPI,Tổng nợ,2024,1970318564.0,2025-04-12
+HPI,Vốn chủ sở hữu,2021,263270330.0,2025-04-12
+HPI,Vốn chủ sở hữu,2022,295478979.0,2025-04-12
+HPI,Vốn chủ sở hữu,2023,362220625.0,2025-04-12
+HPI,Vốn chủ sở hữu,2024,427687287.0,2025-04-12

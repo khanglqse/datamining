@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+GSP,Doanh thu bán hàng và CCDV,2021,1631604806.0,2025-04-12
+GSP,Doanh thu bán hàng và CCDV,2022,1844793077.0,2025-04-12
+GSP,Doanh thu bán hàng và CCDV,2023,1765167952.0,2025-04-12
+GSP,Doanh thu bán hàng và CCDV,2024,2247003637.0,2025-04-12
+GSP,Giá vốn hàng bán,2021,1525745353.0,2025-04-12
+GSP,Giá vốn hàng bán,2022,1679788836.0,2025-04-12
+GSP,Giá vốn hàng bán,2023,1611255315.0,2025-04-12
+GSP,Giá vốn hàng bán,2024,2056420728.0,2025-04-12
+GSP,Lợi nhuận gộp về BH và CCDV,2021,105859453.0,2025-04-12
+GSP,Lợi nhuận gộp về BH và CCDV,2022,165004240.0,2025-04-12
+GSP,Lợi nhuận gộp về BH và CCDV,2023,153912636.0,2025-04-12
+GSP,Lợi nhuận gộp về BH và CCDV,2024,190582909.0,2025-04-12
+GSP,Lợi nhuận tài chính,2021,3833678.0,2025-04-12
+GSP,Lợi nhuận tài chính,2022,-16092730.0,2025-04-12
+GSP,Lợi nhuận tài chính,2023,-17047827.0,2025-04-12
+GSP,Lợi nhuận tài chính,2024,-8514457.0,2025-04-12
+GSP,Lợi nhuận khác,2021,2629961.0,2025-04-12
+GSP,Lợi nhuận khác,2022,10076070.0,2025-04-12
+GSP,Lợi nhuận khác,2023,23821319.0,2025-04-12
+GSP,Lợi nhuận khác,2024,18255976.0,2025-04-12
+GSP,Tổng lợi nhuận trước thuế,2021,70311066.0,2025-04-12
+GSP,Tổng lợi nhuận trước thuế,2022,101885512.0,2025-04-12
+GSP,Tổng lợi nhuận trước thuế,2023,105713100.0,2025-04-12
+GSP,Tổng lợi nhuận trước thuế,2024,126089539.0,2025-04-12
+GSP,Lợi nhuận sau thuế,2021,56045742.0,2025-04-12
+GSP,Lợi nhuận sau thuế,2022,81200440.0,2025-04-12
+GSP,Lợi nhuận sau thuế,2023,84687795.0,2025-04-12
+GSP,Lợi nhuận sau thuế,2024,100668132.0,2025-04-12
+GSP,Lợi nhuận sau thuế của công ty mẹ,2021,56045742.0,2025-04-12
+GSP,Lợi nhuận sau thuế của công ty mẹ,2022,81200440.0,2025-04-12
+GSP,Lợi nhuận sau thuế của công ty mẹ,2023,84687795.0,2025-04-12
+GSP,Lợi nhuận sau thuế của công ty mẹ,2024,100668132.0,2025-04-12
+GSP,Tổng tài sản lưu động ngắn hạn,2021,542291020.0,2025-04-12
+GSP,Tổng tài sản lưu động ngắn hạn,2022,507086691.0,2025-04-12
+GSP,Tổng tài sản lưu động ngắn hạn,2023,653888180.0,2025-04-12
+GSP,Tổng tài sản lưu động ngắn hạn,2024,626699367.0,2025-04-12
+GSP,Tổng tài sản,2021,1298789801.0,2025-04-12
+GSP,Tổng tài sản,2022,1493942558.0,2025-04-12
+GSP,Tổng tài sản,2023,1521525696.0,2025-04-12
+GSP,Tổng tài sản,2024,1692295374.0,2025-04-12
+GSP,Nợ ngắn hạn,2021,329159072.0,2025-04-12
+GSP,Nợ ngắn hạn,2022,329481835.0,2025-04-12
+GSP,Nợ ngắn hạn,2023,461174129.0,2025-04-12
+GSP,Nợ ngắn hạn,2024,444914503.0,2025-04-12
+GSP,Tổng nợ,2021,641219249.0,2025-04-12
+GSP,Tổng nợ,2022,758113396.0,2025-04-12
+GSP,Tổng nợ,2023,762492215.0,2025-04-12
+GSP,Tổng nợ,2024,839475029.0,2025-04-12
+GSP,Vốn chủ sở hữu,2021,657570552.0,2025-04-12
+GSP,Vốn chủ sở hữu,2022,735829162.0,2025-04-12
+GSP,Vốn chủ sở hữu,2023,759033481.0,2025-04-12
+GSP,Vốn chủ sở hữu,2024,852820346.0,2025-04-12

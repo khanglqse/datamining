@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+ODE,Doanh thu bán hàng và CCDV,2021,125080246.0,2025-04-12
+ODE,Doanh thu bán hàng và CCDV,2022,133545354.0,2025-04-12
+ODE,Doanh thu bán hàng và CCDV,2023,86799553.0,2025-04-12
+ODE,Doanh thu bán hàng và CCDV,2024,54300931.0,2025-04-12
+ODE,Giá vốn hàng bán,2021,98320342.0,2025-04-12
+ODE,Giá vốn hàng bán,2022,103595769.0,2025-04-12
+ODE,Giá vốn hàng bán,2023,69259459.0,2025-04-12
+ODE,Giá vốn hàng bán,2024,43455486.0,2025-04-12
+ODE,Lợi nhuận gộp về BH và CCDV,2021,26759904.0,2025-04-12
+ODE,Lợi nhuận gộp về BH và CCDV,2022,29949585.0,2025-04-12
+ODE,Lợi nhuận gộp về BH và CCDV,2023,17540095.0,2025-04-12
+ODE,Lợi nhuận gộp về BH và CCDV,2024,10845445.0,2025-04-12
+ODE,Lợi nhuận tài chính,2021,25312.0,2025-04-12
+ODE,Lợi nhuận tài chính,2022,18503.0,2025-04-12
+ODE,Lợi nhuận tài chính,2023,5433677.0,2025-04-12
+ODE,Lợi nhuận tài chính,2024,7720970.0,2025-04-12
+ODE,Lợi nhuận khác,2021,-78188.0,2025-04-12
+ODE,Lợi nhuận khác,2022,-382620.0,2025-04-12
+ODE,Lợi nhuận khác,2023,-444538.0,2025-04-12
+ODE,Lợi nhuận khác,2024,-1558397.0,2025-04-12
+ODE,Tổng lợi nhuận trước thuế,2021,16032457.0,2025-04-12
+ODE,Tổng lợi nhuận trước thuế,2022,10183558.0,2025-04-12
+ODE,Tổng lợi nhuận trước thuế,2023,4975731.0,2025-04-12
+ODE,Tổng lợi nhuận trước thuế,2024,1767806.0,2025-04-12
+ODE,Lợi nhuận sau thuế,2021,12800802.0,2025-04-12
+ODE,Lợi nhuận sau thuế,2022,7738731.0,2025-04-12
+ODE,Lợi nhuận sau thuế,2023,3359911.0,2025-04-12
+ODE,Lợi nhuận sau thuế,2024,719601.0,2025-04-12
+ODE,Lợi nhuận sau thuế của công ty mẹ,2021,12800802.0,2025-04-12
+ODE,Lợi nhuận sau thuế của công ty mẹ,2022,7738731.0,2025-04-12
+ODE,Lợi nhuận sau thuế của công ty mẹ,2023,3359911.0,2025-04-12
+ODE,Lợi nhuận sau thuế của công ty mẹ,2024,719601.0,2025-04-12
+ODE,Tổng tài sản lưu động ngắn hạn,2021,118075066.0,2025-04-12
+ODE,Tổng tài sản lưu động ngắn hạn,2022,150366850.0,2025-04-12
+ODE,Tổng tài sản lưu động ngắn hạn,2023,147510186.0,2025-04-12
+ODE,Tổng tài sản lưu động ngắn hạn,2024,138492173.0,2025-04-12
+ODE,Tổng tài sản,2021,140241131.0,2025-04-12
+ODE,Tổng tài sản,2022,175605408.0,2025-04-12
+ODE,Tổng tài sản,2023,165897876.0,2025-04-12
+ODE,Tổng tài sản,2024,151191525.0,2025-04-12
+ODE,Nợ ngắn hạn,2021,22260277.0,2025-04-12
+ODE,Nợ ngắn hạn,2022,49885823.0,2025-04-12
+ODE,Nợ ngắn hạn,2023,36818380.0,2025-04-12
+ODE,Nợ ngắn hạn,2024,21392428.0,2025-04-12
+ODE,Tổng nợ,2021,22260277.0,2025-04-12
+ODE,Tổng nợ,2022,49885823.0,2025-04-12
+ODE,Tổng nợ,2023,36818380.0,2025-04-12
+ODE,Tổng nợ,2024,21392428.0,2025-04-12
+ODE,Vốn chủ sở hữu,2021,117980854.0,2025-04-12
+ODE,Vốn chủ sở hữu,2022,125719585.0,2025-04-12
+ODE,Vốn chủ sở hữu,2023,129079496.0,2025-04-12
+ODE,Vốn chủ sở hữu,2024,129799097.0,2025-04-12

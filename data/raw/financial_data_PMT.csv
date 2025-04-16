@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+PMT,Doanh thu bán hàng và CCDV,2022,191986689.0,2025-04-12
+PMT,Doanh thu bán hàng và CCDV,2023,175720952.0,2025-04-12
+PMT,Doanh thu bán hàng và CCDV,2023,175720952.0,2025-04-12
+PMT,Doanh thu bán hàng và CCDV,2024,176074258.0,2025-04-12
+PMT,Giá vốn hàng bán,2022,169229391.0,2025-04-12
+PMT,Giá vốn hàng bán,2023,162611996.0,2025-04-12
+PMT,Giá vốn hàng bán,2023,162611996.0,2025-04-12
+PMT,Giá vốn hàng bán,2024,164806985.0,2025-04-12
+PMT,Lợi nhuận gộp về BH và CCDV,2022,22757298.0,2025-04-12
+PMT,Lợi nhuận gộp về BH và CCDV,2023,13108956.0,2025-04-12
+PMT,Lợi nhuận gộp về BH và CCDV,2023,13108956.0,2025-04-12
+PMT,Lợi nhuận gộp về BH và CCDV,2024,11267273.0,2025-04-12
+PMT,Lợi nhuận tài chính,2022,-188016.0,2025-04-12
+PMT,Lợi nhuận tài chính,2023,977376.0,2025-04-12
+PMT,Lợi nhuận tài chính,2023,977376.0,2025-04-12
+PMT,Lợi nhuận tài chính,2024,651941.0,2025-04-12
+PMT,Lợi nhuận khác,2022,128596.0,2025-04-12
+PMT,Lợi nhuận khác,2023,28524.0,2025-04-12
+PMT,Lợi nhuận khác,2023,28524.0,2025-04-12
+PMT,Lợi nhuận khác,2024,-91277.0,2025-04-12
+PMT,Tổng lợi nhuận trước thuế,2022,1517450.0,2025-04-12
+PMT,Tổng lợi nhuận trước thuế,2023,630133.0,2025-04-12
+PMT,Tổng lợi nhuận trước thuế,2023,630133.0,2025-04-12
+PMT,Tổng lợi nhuận trước thuế,2024,-3458000.0,2025-04-12
+PMT,Lợi nhuận sau thuế,2022,1159275.0,2025-04-12
+PMT,Lợi nhuận sau thuế,2023,482859.0,2025-04-12
+PMT,Lợi nhuận sau thuế,2023,482859.0,2025-04-12
+PMT,Lợi nhuận sau thuế,2024,-3504362.0,2025-04-12
+PMT,Lợi nhuận sau thuế của công ty mẹ,2022,1159275.0,2025-04-12
+PMT,Lợi nhuận sau thuế của công ty mẹ,2023,482859.0,2025-04-12
+PMT,Lợi nhuận sau thuế của công ty mẹ,2023,482859.0,2025-04-12
+PMT,Lợi nhuận sau thuế của công ty mẹ,2024,-3504362.0,2025-04-12
+PMT,Tổng tài sản lưu động ngắn hạn,2022,115205281.0,2025-04-12
+PMT,Tổng tài sản lưu động ngắn hạn,2023,97070188.0,2025-04-12
+PMT,Tổng tài sản lưu động ngắn hạn,2023,97070188.0,2025-04-12
+PMT,Tổng tài sản lưu động ngắn hạn,2024,89182889.0,2025-04-12
+PMT,Tổng tài sản,2022,123400965.0,2025-04-12
+PMT,Tổng tài sản,2023,104416336.0,2025-04-12
+PMT,Tổng tài sản,2023,104416336.0,2025-04-12
+PMT,Tổng tài sản,2024,97994150.0,2025-04-12
+PMT,Nợ ngắn hạn,2022,35465004.0,2025-04-12
+PMT,Nợ ngắn hạn,2023,20883053.0,2025-04-12
+PMT,Nợ ngắn hạn,2023,20883053.0,2025-04-12
+PMT,Nợ ngắn hạn,2024,22001599.0,2025-04-12
+PMT,Tổng nợ,2022,43222757.0,2025-04-12
+PMT,Tổng nợ,2023,24918221.0,2025-04-12
+PMT,Tổng nợ,2023,24918221.0,2025-04-12
+PMT,Tổng nợ,2024,22480182.0,2025-04-12
+PMT,Vốn chủ sở hữu,2022,80178208.0,2025-04-12
+PMT,Vốn chủ sở hữu,2023,79498115.0,2025-04-12
+PMT,Vốn chủ sở hữu,2023,79498115.0,2025-04-12
+PMT,Vốn chủ sở hữu,2024,75513968.0,2025-04-12

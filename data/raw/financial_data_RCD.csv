@@ -1,0 +1,50 @@
+symbol,metric,year,value,crawled_date
+RCD,Doanh thu bán hàng và CCDV,2019,28288766.0,2025-04-12
+RCD,Doanh thu bán hàng và CCDV,2020,10233181.0,2025-04-12
+RCD,Doanh thu bán hàng và CCDV,2021,2034243.0,2025-04-12
+RCD,Doanh thu bán hàng và CCDV,2022,555000.0,2025-04-12
+RCD,Giá vốn hàng bán,2019,26336283.0,2025-04-12
+RCD,Giá vốn hàng bán,2020,8862606.0,2025-04-12
+RCD,Giá vốn hàng bán,2021,1567799.0,2025-04-12
+RCD,Lợi nhuận gộp về BH và CCDV,2019,1952483.0,2025-04-12
+RCD,Lợi nhuận gộp về BH và CCDV,2020,1370575.0,2025-04-12
+RCD,Lợi nhuận gộp về BH và CCDV,2021,466444.0,2025-04-12
+RCD,Lợi nhuận gộp về BH và CCDV,2022,555000.0,2025-04-12
+RCD,Lợi nhuận tài chính,2019,-951043.0,2025-04-12
+RCD,Lợi nhuận tài chính,2020,-37694961.0,2025-04-12
+RCD,Lợi nhuận tài chính,2021,261071.0,2025-04-12
+RCD,Lợi nhuận tài chính,2022,1444831.0,2025-04-12
+RCD,Lợi nhuận khác,2019,3059558.0,2025-04-12
+RCD,Lợi nhuận khác,2020,-109621.0,2025-04-12
+RCD,Tổng lợi nhuận trước thuế,2019,651004.0,2025-04-12
+RCD,Tổng lợi nhuận trước thuế,2020,-39438670.0,2025-04-12
+RCD,Tổng lợi nhuận trước thuế,2021,-1821545.0,2025-04-12
+RCD,Tổng lợi nhuận trước thuế,2022,1282160.0,2025-04-12
+RCD,Lợi nhuận sau thuế,2019,651004.0,2025-04-12
+RCD,Lợi nhuận sau thuế,2020,-39501758.0,2025-04-12
+RCD,Lợi nhuận sau thuế,2021,-1821545.0,2025-04-12
+RCD,Lợi nhuận sau thuế,2022,1282160.0,2025-04-12
+RCD,Lợi nhuận sau thuế của công ty mẹ,2019,651004.0,2025-04-12
+RCD,Lợi nhuận sau thuế của công ty mẹ,2020,-39501758.0,2025-04-12
+RCD,Lợi nhuận sau thuế của công ty mẹ,2021,-1821545.0,2025-04-12
+RCD,Lợi nhuận sau thuế của công ty mẹ,2022,1282160.0,2025-04-12
+RCD,Tổng tài sản lưu động ngắn hạn,2019,137847834.0,2025-04-12
+RCD,Tổng tài sản lưu động ngắn hạn,2020,78682591.0,2025-04-12
+RCD,Tổng tài sản lưu động ngắn hạn,2021,75532280.0,2025-04-12
+RCD,Tổng tài sản lưu động ngắn hạn,2022,77346491.0,2025-04-12
+RCD,Tổng tài sản,2019,161242217.0,2025-04-12
+RCD,Tổng tài sản,2020,96276974.0,2025-04-12
+RCD,Tổng tài sản,2021,92429962.0,2025-04-12
+RCD,Tổng tài sản,2022,93332712.0,2025-04-12
+RCD,Nợ ngắn hạn,2019,31976332.0,2025-04-12
+RCD,Nợ ngắn hạn,2020,7183713.0,2025-04-12
+RCD,Nợ ngắn hạn,2021,5258245.0,2025-04-12
+RCD,Nợ ngắn hạn,2022,5178835.0,2025-04-12
+RCD,Tổng nợ,2019,64297198.0,2025-04-12
+RCD,Tổng nợ,2020,38833713.0,2025-04-12
+RCD,Tổng nợ,2021,36808245.0,2025-04-12
+RCD,Tổng nợ,2022,36428835.0,2025-04-12
+RCD,Vốn chủ sở hữu,2019,96945019.0,2025-04-12
+RCD,Vốn chủ sở hữu,2020,57443261.0,2025-04-12
+RCD,Vốn chủ sở hữu,2021,55621717.0,2025-04-12
+RCD,Vốn chủ sở hữu,2022,56903877.0,2025-04-12

@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+HIG,Doanh thu bán hàng và CCDV,2020,640492735.0,2025-04-12
+HIG,Doanh thu bán hàng và CCDV,2021,425015098.0,2025-04-12
+HIG,Doanh thu bán hàng và CCDV,2022,802305606.0,2025-04-12
+HIG,Doanh thu bán hàng và CCDV,2023,980203284.0,2025-04-12
+HIG,Giá vốn hàng bán,2020,622513309.0,2025-04-12
+HIG,Giá vốn hàng bán,2021,377255255.0,2025-04-12
+HIG,Giá vốn hàng bán,2022,686082720.0,2025-04-12
+HIG,Giá vốn hàng bán,2023,-869816683.0,2025-04-12
+HIG,Lợi nhuận gộp về BH và CCDV,2020,17855298.0,2025-04-12
+HIG,Lợi nhuận gộp về BH và CCDV,2021,47759843.0,2025-04-12
+HIG,Lợi nhuận gộp về BH và CCDV,2022,116222885.0,2025-04-12
+HIG,Lợi nhuận gộp về BH và CCDV,2023,110386601.0,2025-04-12
+HIG,Lợi nhuận tài chính,2020,6714818.0,2025-04-12
+HIG,Lợi nhuận tài chính,2021,12498340.0,2025-04-12
+HIG,Lợi nhuận tài chính,2022,-9553323.0,2025-04-12
+HIG,Lợi nhuận tài chính,2023,45219349.0,2025-04-12
+HIG,Lợi nhuận khác,2020,55380264.0,2025-04-12
+HIG,Lợi nhuận khác,2021,3083730.0,2025-04-12
+HIG,Lợi nhuận khác,2022,1485348.0,2025-04-12
+HIG,Lợi nhuận khác,2023,2828942.0,2025-04-12
+HIG,Tổng lợi nhuận trước thuế,2020,12152370.0,2025-04-12
+HIG,Tổng lợi nhuận trước thuế,2021,2999469.0,2025-04-12
+HIG,Tổng lợi nhuận trước thuế,2022,31055951.0,2025-04-12
+HIG,Tổng lợi nhuận trước thuế,2023,29416578.0,2025-04-12
+HIG,Lợi nhuận sau thuế,2020,1469179.0,2025-04-12
+HIG,Lợi nhuận sau thuế,2021,2999469.0,2025-04-12
+HIG,Lợi nhuận sau thuế,2022,31055951.0,2025-04-12
+HIG,Lợi nhuận sau thuế,2023,27884517.0,2025-04-12
+HIG,Lợi nhuận sau thuế của công ty mẹ,2020,1469179.0,2025-04-12
+HIG,Lợi nhuận sau thuế của công ty mẹ,2021,2999469.0,2025-04-12
+HIG,Lợi nhuận sau thuế của công ty mẹ,2022,30852247.0,2025-04-12
+HIG,Lợi nhuận sau thuế của công ty mẹ,2023,27037679.0,2025-04-12
+HIG,Tổng tài sản lưu động ngắn hạn,2020,479066532.0,2025-04-12
+HIG,Tổng tài sản lưu động ngắn hạn,2021,453607057.0,2025-04-12
+HIG,Tổng tài sản lưu động ngắn hạn,2022,631256605.0,2025-04-12
+HIG,Tổng tài sản lưu động ngắn hạn,2023,715212359.0,2025-04-12
+HIG,Tổng tài sản,2020,507266718.0,2025-04-12
+HIG,Tổng tài sản,2021,552740144.0,2025-04-12
+HIG,Tổng tài sản,2022,740329017.0,2025-04-12
+HIG,Tổng tài sản,2023,893945473.0,2025-04-12
+HIG,Nợ ngắn hạn,2020,201272826.0,2025-04-12
+HIG,Nợ ngắn hạn,2021,218074413.0,2025-04-12
+HIG,Nợ ngắn hạn,2022,366679228.0,2025-04-12
+HIG,Nợ ngắn hạn,2023,456342994.0,2025-04-12
+HIG,Tổng nợ,2020,201772826.0,2025-04-12
+HIG,Tổng nợ,2021,218574413.0,2025-04-12
+HIG,Tổng nợ,2022,367179228.0,2025-04-12
+HIG,Tổng nợ,2023,456842994.0,2025-04-12
+HIG,Vốn chủ sở hữu,2020,305493892.0,2025-04-12
+HIG,Vốn chủ sở hữu,2021,334165730.0,2025-04-12
+HIG,Vốn chủ sở hữu,2022,373149788.0,2025-04-12
+HIG,Vốn chủ sở hữu,2023,437102480.0,2025-04-12

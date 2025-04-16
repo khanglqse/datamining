@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+MAC,Doanh thu bán hàng và CCDV,2021,89629642.0,2025-04-12
+MAC,Doanh thu bán hàng và CCDV,2022,82027462.0,2025-04-12
+MAC,Doanh thu bán hàng và CCDV,2023,76243119.0,2025-04-12
+MAC,Doanh thu bán hàng và CCDV,2024,124491375.0,2025-04-12
+MAC,Giá vốn hàng bán,2021,84930271.0,2025-04-12
+MAC,Giá vốn hàng bán,2022,69896057.0,2025-04-12
+MAC,Giá vốn hàng bán,2023,58963898.0,2025-04-12
+MAC,Giá vốn hàng bán,2024,113951504.0,2025-04-12
+MAC,Lợi nhuận gộp về BH và CCDV,2021,4699371.0,2025-04-12
+MAC,Lợi nhuận gộp về BH và CCDV,2022,12131405.0,2025-04-12
+MAC,Lợi nhuận gộp về BH và CCDV,2023,17279221.0,2025-04-12
+MAC,Lợi nhuận gộp về BH và CCDV,2024,10539870.0,2025-04-12
+MAC,Lợi nhuận tài chính,2021,-3599437.0,2025-04-12
+MAC,Lợi nhuận tài chính,2022,16283904.0,2025-04-12
+MAC,Lợi nhuận tài chính,2023,38836627.0,2025-04-12
+MAC,Lợi nhuận tài chính,2024,60224837.0,2025-04-12
+MAC,Lợi nhuận khác,2021,-1373809.0,2025-04-12
+MAC,Lợi nhuận khác,2022,-2218972.0,2025-04-12
+MAC,Lợi nhuận khác,2023,1406399.0,2025-04-12
+MAC,Lợi nhuận khác,2024,18702.0,2025-04-12
+MAC,Tổng lợi nhuận trước thuế,2021,-14703177.0,2025-04-12
+MAC,Tổng lợi nhuận trước thuế,2022,8982942.0,2025-04-12
+MAC,Tổng lợi nhuận trước thuế,2023,47707163.0,2025-04-12
+MAC,Tổng lợi nhuận trước thuế,2024,53817502.0,2025-04-12
+MAC,Lợi nhuận sau thuế,2021,-14703177.0,2025-04-12
+MAC,Lợi nhuận sau thuế,2022,8982942.0,2025-04-12
+MAC,Lợi nhuận sau thuế,2023,42053960.0,2025-04-12
+MAC,Lợi nhuận sau thuế,2024,42493944.0,2025-04-12
+MAC,Lợi nhuận sau thuế của công ty mẹ,2021,-14703177.0,2025-04-12
+MAC,Lợi nhuận sau thuế của công ty mẹ,2022,8982942.0,2025-04-12
+MAC,Lợi nhuận sau thuế của công ty mẹ,2023,42307435.0,2025-04-12
+MAC,Lợi nhuận sau thuế của công ty mẹ,2024,48986128.0,2025-04-12
+MAC,Tổng tài sản lưu động ngắn hạn,2021,77216518.0,2025-04-12
+MAC,Tổng tài sản lưu động ngắn hạn,2022,84411007.0,2025-04-12
+MAC,Tổng tài sản lưu động ngắn hạn,2023,138289084.0,2025-04-12
+MAC,Tổng tài sản lưu động ngắn hạn,2024,226713342.0,2025-04-12
+MAC,Tổng tài sản,2021,180053091.0,2025-04-12
+MAC,Tổng tài sản,2022,167171515.0,2025-04-12
+MAC,Tổng tài sản,2023,209842826.0,2025-04-12
+MAC,Tổng tài sản,2024,310264175.0,2025-04-12
+MAC,Nợ ngắn hạn,2021,40303035.0,2025-04-12
+MAC,Nợ ngắn hạn,2022,18438517.0,2025-04-12
+MAC,Nợ ngắn hạn,2023,21597791.0,2025-04-12
+MAC,Nợ ngắn hạn,2024,33648024.0,2025-04-12
+MAC,Tổng nợ,2021,40303035.0,2025-04-12
+MAC,Tổng nợ,2022,18438517.0,2025-04-12
+MAC,Tổng nợ,2023,21597791.0,2025-04-12
+MAC,Tổng nợ,2024,45048024.0,2025-04-12
+MAC,Vốn chủ sở hữu,2021,139750056.0,2025-04-12
+MAC,Vốn chủ sở hữu,2022,148732998.0,2025-04-12
+MAC,Vốn chủ sở hữu,2023,188245035.0,2025-04-12
+MAC,Vốn chủ sở hữu,2024,265216150.0,2025-04-12

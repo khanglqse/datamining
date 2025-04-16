@@ -1,0 +1,52 @@
+symbol,metric,year,value,crawled_date
+HFX,Doanh thu bán hàng và CCDV,2021,21894378.0,2025-04-12
+HFX,Doanh thu bán hàng và CCDV,2022,24912335.0,2025-04-12
+HFX,Doanh thu bán hàng và CCDV,2023,22006697.0,2025-04-12
+HFX,Doanh thu bán hàng và CCDV,2024,22914291.0,2025-04-12
+HFX,Giá vốn hàng bán,2021,17951288.0,2025-04-12
+HFX,Giá vốn hàng bán,2022,20181106.0,2025-04-12
+HFX,Giá vốn hàng bán,2023,17521108.0,2025-04-12
+HFX,Giá vốn hàng bán,2024,19089042.0,2025-04-12
+HFX,Lợi nhuận gộp về BH và CCDV,2021,3943090.0,2025-04-12
+HFX,Lợi nhuận gộp về BH và CCDV,2022,4731229.0,2025-04-12
+HFX,Lợi nhuận gộp về BH và CCDV,2023,4485589.0,2025-04-12
+HFX,Lợi nhuận gộp về BH và CCDV,2024,3825249.0,2025-04-12
+HFX,Lợi nhuận tài chính,2021,-5095483.0,2025-04-12
+HFX,Lợi nhuận tài chính,2022,-7653247.0,2025-04-12
+HFX,Lợi nhuận tài chính,2023,-8005851.0,2025-04-12
+HFX,Lợi nhuận tài chính,2024,-10119046.0,2025-04-12
+HFX,Lợi nhuận khác,2022,-90000.0,2025-04-12
+HFX,Lợi nhuận khác,2023,-48643.0,2025-04-12
+HFX,Lợi nhuận khác,2024,-3098.0,2025-04-12
+HFX,Tổng lợi nhuận trước thuế,2021,-5104175.0,2025-04-12
+HFX,Tổng lợi nhuận trước thuế,2022,-7091443.0,2025-04-12
+HFX,Tổng lợi nhuận trước thuế,2023,-15215290.0,2025-04-12
+HFX,Tổng lợi nhuận trước thuế,2024,-11109583.0,2025-04-12
+HFX,Lợi nhuận sau thuế,2021,-5104175.0,2025-04-12
+HFX,Lợi nhuận sau thuế,2022,-7091443.0,2025-04-12
+HFX,Lợi nhuận sau thuế,2023,-15215290.0,2025-04-12
+HFX,Lợi nhuận sau thuế,2024,-11109583.0,2025-04-12
+HFX,Lợi nhuận sau thuế của công ty mẹ,2021,-4517745.0,2025-04-12
+HFX,Lợi nhuận sau thuế của công ty mẹ,2022,-5317285.0,2025-04-12
+HFX,Lợi nhuận sau thuế của công ty mẹ,2023,-14765249.0,2025-04-12
+HFX,Lợi nhuận sau thuế của công ty mẹ,2024,-9432255.0,2025-04-12
+HFX,Tổng tài sản lưu động ngắn hạn,2021,21986457.0,2025-04-12
+HFX,Tổng tài sản lưu động ngắn hạn,2022,23479792.0,2025-04-12
+HFX,Tổng tài sản lưu động ngắn hạn,2023,16511454.0,2025-04-12
+HFX,Tổng tài sản lưu động ngắn hạn,2024,16174058.0,2025-04-12
+HFX,Tổng tài sản,2021,28404931.0,2025-04-12
+HFX,Tổng tài sản,2022,29587221.0,2025-04-12
+HFX,Tổng tài sản,2023,22300455.0,2025-04-12
+HFX,Tổng tài sản,2024,21751226.0,2025-04-12
+HFX,Nợ ngắn hạn,2021,232892925.0,2025-04-12
+HFX,Nợ ngắn hạn,2022,241166658.0,2025-04-12
+HFX,Nợ ngắn hạn,2023,249093628.0,2025-04-12
+HFX,Nợ ngắn hạn,2024,259653982.0,2025-04-12
+HFX,Tổng nợ,2021,232892925.0,2025-04-12
+HFX,Tổng nợ,2022,241166658.0,2025-04-12
+HFX,Tổng nợ,2023,249093628.0,2025-04-12
+HFX,Tổng nợ,2024,259653982.0,2025-04-12
+HFX,Vốn chủ sở hữu,2021,-204487994.0,2025-04-12
+HFX,Vốn chủ sở hữu,2022,-211579437.0,2025-04-12
+HFX,Vốn chủ sở hữu,2023,-226793173.0,2025-04-12
+HFX,Vốn chủ sở hữu,2024,-237902756.0,2025-04-12

@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+CRE,Doanh thu bán hàng và CCDV,2020,2162911600.0,2025-04-12
+CRE,Doanh thu bán hàng và CCDV,2021,5739677019.0,2025-04-12
+CRE,Doanh thu bán hàng và CCDV,2022,3670718807.0,2025-04-12
+CRE,Doanh thu bán hàng và CCDV,2023,1026200764.0,2025-04-12
+CRE,Giá vốn hàng bán,2020,1518424567.0,2025-04-12
+CRE,Giá vốn hàng bán,2021,4486395290.0,2025-04-12
+CRE,Giá vốn hàng bán,2022,2630339754.0,2025-04-12
+CRE,Giá vốn hàng bán,2023,750856864.0,2025-04-12
+CRE,Lợi nhuận gộp về BH và CCDV,2020,599070034.0,2025-04-12
+CRE,Lợi nhuận gộp về BH và CCDV,2021,1111186565.0,2025-04-12
+CRE,Lợi nhuận gộp về BH và CCDV,2022,845374468.0,2025-04-12
+CRE,Lợi nhuận gộp về BH và CCDV,2023,182891678.0,2025-04-12
+CRE,Lợi nhuận tài chính,2020,16462325.0,2025-04-12
+CRE,Lợi nhuận tài chính,2021,-70889333.0,2025-04-12
+CRE,Lợi nhuận tài chính,2022,-36649839.0,2025-04-12
+CRE,Lợi nhuận tài chính,2023,-24350766.0,2025-04-12
+CRE,Lợi nhuận khác,2020,-6747008.0,2025-04-12
+CRE,Lợi nhuận khác,2021,-5321318.0,2025-04-12
+CRE,Lợi nhuận khác,2022,-5007776.0,2025-04-12
+CRE,Lợi nhuận khác,2023,1078272.0,2025-04-12
+CRE,Tổng lợi nhuận trước thuế,2020,374010622.0,2025-04-12
+CRE,Tổng lợi nhuận trước thuế,2021,571883062.0,2025-04-12
+CRE,Tổng lợi nhuận trước thuế,2022,245952612.0,2025-04-12
+CRE,Tổng lợi nhuận trước thuế,2023,4907313.0,2025-04-12
+CRE,Lợi nhuận sau thuế,2020,300003430.0,2025-04-12
+CRE,Lợi nhuận sau thuế,2021,450456324.0,2025-04-12
+CRE,Lợi nhuận sau thuế,2022,194430986.0,2025-04-12
+CRE,Lợi nhuận sau thuế,2023,2055355.0,2025-04-12
+CRE,Lợi nhuận sau thuế của công ty mẹ,2020,293765140.0,2025-04-12
+CRE,Lợi nhuận sau thuế của công ty mẹ,2021,457982515.0,2025-04-12
+CRE,Lợi nhuận sau thuế của công ty mẹ,2022,190887250.0,2025-04-12
+CRE,Lợi nhuận sau thuế của công ty mẹ,2023,2003729.0,2025-04-12
+CRE,Tổng tài sản lưu động ngắn hạn,2020,2076884631.0,2025-04-12
+CRE,Tổng tài sản lưu động ngắn hạn,2021,4083706309.0,2025-04-12
+CRE,Tổng tài sản lưu động ngắn hạn,2022,5105800891.0,2025-04-12
+CRE,Tổng tài sản lưu động ngắn hạn,2023,4960760376.0,2025-04-12
+CRE,Tổng tài sản,2020,3811064531.0,2025-04-12
+CRE,Tổng tài sản,2021,6270874258.0,2025-04-12
+CRE,Tổng tài sản,2022,7617072451.0,2025-04-12
+CRE,Tổng tài sản,2023,7101278143.0,2025-04-12
+CRE,Nợ ngắn hạn,2020,1314879278.0,2025-04-12
+CRE,Nợ ngắn hạn,2021,1879797646.0,2025-04-12
+CRE,Nợ ngắn hạn,2022,1996521994.0,2025-04-12
+CRE,Nợ ngắn hạn,2023,1123000271.0,2025-04-12
+CRE,Tổng nợ,2020,1766766674.0,2025-04-12
+CRE,Tổng nợ,2021,2832541850.0,2025-04-12
+CRE,Tổng nợ,2022,2002179307.0,2025-04-12
+CRE,Tổng nợ,2023,1480743623.0,2025-04-12
+CRE,Vốn chủ sở hữu,2020,2044297857.0,2025-04-12
+CRE,Vốn chủ sở hữu,2021,3438332407.0,2025-04-12
+CRE,Vốn chủ sở hữu,2022,5614893144.0,2025-04-12
+CRE,Vốn chủ sở hữu,2023,5620534519.0,2025-04-12

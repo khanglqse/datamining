@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+LEC,Doanh thu bán hàng và CCDV,2020,553131707.0,2025-04-12
+LEC,Doanh thu bán hàng và CCDV,2021,534874220.0,2025-04-12
+LEC,Doanh thu bán hàng và CCDV,2022,181032884.0,2025-04-12
+LEC,Doanh thu bán hàng và CCDV,2023,104337486.0,2025-04-12
+LEC,Giá vốn hàng bán,2020,514072276.0,2025-04-12
+LEC,Giá vốn hàng bán,2021,500269406.0,2025-04-12
+LEC,Giá vốn hàng bán,2022,151654454.0,2025-04-12
+LEC,Giá vốn hàng bán,2023,93620088.0,2025-04-12
+LEC,Lợi nhuận gộp về BH và CCDV,2020,39059431.0,2025-04-12
+LEC,Lợi nhuận gộp về BH và CCDV,2021,34604814.0,2025-04-12
+LEC,Lợi nhuận gộp về BH và CCDV,2022,29378430.0,2025-04-12
+LEC,Lợi nhuận gộp về BH và CCDV,2023,10717398.0,2025-04-12
+LEC,Lợi nhuận tài chính,2020,-13787533.0,2025-04-12
+LEC,Lợi nhuận tài chính,2021,-7793839.0,2025-04-12
+LEC,Lợi nhuận tài chính,2022,-19163446.0,2025-04-12
+LEC,Lợi nhuận tài chính,2023,-36292653.0,2025-04-12
+LEC,Lợi nhuận khác,2020,-194817.0,2025-04-12
+LEC,Lợi nhuận khác,2021,-664662.0,2025-04-12
+LEC,Lợi nhuận khác,2022,498761.0,2025-04-12
+LEC,Lợi nhuận khác,2023,11271321.0,2025-04-12
+LEC,Tổng lợi nhuận trước thuế,2020,4047988.0,2025-04-12
+LEC,Tổng lợi nhuận trước thuế,2021,5946351.0,2025-04-12
+LEC,Tổng lợi nhuận trước thuế,2022,-6186504.0,2025-04-12
+LEC,Tổng lợi nhuận trước thuế,2023,-29500509.0,2025-04-12
+LEC,Lợi nhuận sau thuế,2020,558001.0,2025-04-12
+LEC,Lợi nhuận sau thuế,2021,3017417.0,2025-04-12
+LEC,Lợi nhuận sau thuế,2022,-8886180.0,2025-04-12
+LEC,Lợi nhuận sau thuế,2023,-30811482.0,2025-04-12
+LEC,Lợi nhuận sau thuế của công ty mẹ,2020,103417.0,2025-04-12
+LEC,Lợi nhuận sau thuế của công ty mẹ,2021,2527112.0,2025-04-12
+LEC,Lợi nhuận sau thuế của công ty mẹ,2022,-9630485.0,2025-04-12
+LEC,Lợi nhuận sau thuế của công ty mẹ,2023,-21649551.0,2025-04-12
+LEC,Tổng tài sản lưu động ngắn hạn,2020,758135170.0,2025-04-12
+LEC,Tổng tài sản lưu động ngắn hạn,2021,732349269.0,2025-04-12
+LEC,Tổng tài sản lưu động ngắn hạn,2022,931443679.0,2025-04-12
+LEC,Tổng tài sản lưu động ngắn hạn,2023,800668200.0,2025-04-12
+LEC,Tổng tài sản,2020,937338557.0,2025-04-12
+LEC,Tổng tài sản,2021,985339957.0,2025-04-12
+LEC,Tổng tài sản,2022,1265488239.0,2025-04-12
+LEC,Tổng tài sản,2023,978729587.0,2025-04-12
+LEC,Nợ ngắn hạn,2020,593160420.0,2025-04-12
+LEC,Nợ ngắn hạn,2021,585344403.0,2025-04-12
+LEC,Nợ ngắn hạn,2022,837508864.0,2025-04-12
+LEC,Nợ ngắn hạn,2023,572542856.0,2025-04-12
+LEC,Tổng nợ,2020,593160420.0,2025-04-12
+LEC,Tổng nợ,2021,585344403.0,2025-04-12
+LEC,Tổng nợ,2022,839378864.0,2025-04-12
+LEC,Tổng nợ,2023,575170596.0,2025-04-12
+LEC,Vốn chủ sở hữu,2020,344178137.0,2025-04-12
+LEC,Vốn chủ sở hữu,2021,399995554.0,2025-04-12
+LEC,Vốn chủ sở hữu,2022,426109374.0,2025-04-12
+LEC,Vốn chủ sở hữu,2023,403558991.0,2025-04-12

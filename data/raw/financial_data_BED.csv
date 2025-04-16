@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+BED,Doanh thu bán hàng và CCDV,2021,73807826.0,2025-04-12
+BED,Doanh thu bán hàng và CCDV,2022,85448025.0,2025-04-12
+BED,Doanh thu bán hàng và CCDV,2023,82464919.0,2025-04-12
+BED,Doanh thu bán hàng và CCDV,2024,79840306.0,2025-04-12
+BED,Giá vốn hàng bán,2021,55144512.0,2025-04-12
+BED,Giá vốn hàng bán,2022,62059229.0,2025-04-12
+BED,Giá vốn hàng bán,2023,58418825.0,2025-04-12
+BED,Giá vốn hàng bán,2024,58405201.0,2025-04-12
+BED,Lợi nhuận gộp về BH và CCDV,2021,18578903.0,2025-04-12
+BED,Lợi nhuận gộp về BH và CCDV,2022,22574646.0,2025-04-12
+BED,Lợi nhuận gộp về BH và CCDV,2023,24035079.0,2025-04-12
+BED,Lợi nhuận gộp về BH và CCDV,2024,21111482.0,2025-04-12
+BED,Lợi nhuận tài chính,2021,409423.0,2025-04-12
+BED,Lợi nhuận tài chính,2022,428330.0,2025-04-12
+BED,Lợi nhuận tài chính,2023,581120.0,2025-04-12
+BED,Lợi nhuận tài chính,2024,694412.0,2025-04-12
+BED,Lợi nhuận khác,2021,5793.0,2025-04-12
+BED,Lợi nhuận khác,2022,-4428144.0,2025-04-12
+BED,Lợi nhuận khác,2023,425250.0,2025-04-12
+BED,Lợi nhuận khác,2024,1919806.0,2025-04-12
+BED,Tổng lợi nhuận trước thuế,2021,6609907.0,2025-04-12
+BED,Tổng lợi nhuận trước thuế,2022,5686394.0,2025-04-12
+BED,Tổng lợi nhuận trước thuế,2023,10251678.0,2025-04-12
+BED,Tổng lợi nhuận trước thuế,2024,9495676.0,2025-04-12
+BED,Lợi nhuận sau thuế,2021,5517833.0,2025-04-12
+BED,Lợi nhuận sau thuế,2022,4250698.0,2025-04-12
+BED,Lợi nhuận sau thuế,2023,8107045.0,2025-04-12
+BED,Lợi nhuận sau thuế,2024,7492885.0,2025-04-12
+BED,Lợi nhuận sau thuế của công ty mẹ,2021,5517833.0,2025-04-12
+BED,Lợi nhuận sau thuế của công ty mẹ,2022,4250698.0,2025-04-12
+BED,Lợi nhuận sau thuế của công ty mẹ,2023,8107045.0,2025-04-12
+BED,Lợi nhuận sau thuế của công ty mẹ,2024,7492885.0,2025-04-12
+BED,Tổng tài sản lưu động ngắn hạn,2021,27225292.0,2025-04-12
+BED,Tổng tài sản lưu động ngắn hạn,2022,26980700.0,2025-04-12
+BED,Tổng tài sản lưu động ngắn hạn,2023,32303703.0,2025-04-12
+BED,Tổng tài sản lưu động ngắn hạn,2024,34289136.0,2025-04-12
+BED,Tổng tài sản,2021,50921708.0,2025-04-12
+BED,Tổng tài sản,2022,49254587.0,2025-04-12
+BED,Tổng tài sản,2023,53702846.0,2025-04-12
+BED,Tổng tài sản,2024,54259616.0,2025-04-12
+BED,Nợ ngắn hạn,2021,9916726.0,2025-04-12
+BED,Nợ ngắn hạn,2022,9479931.0,2025-04-12
+BED,Nợ ngắn hạn,2023,9912026.0,2025-04-12
+BED,Nợ ngắn hạn,2024,9862245.0,2025-04-12
+BED,Tổng nợ,2021,10450206.0,2025-04-12
+BED,Tổng nợ,2022,10208279.0,2025-04-12
+BED,Tổng nợ,2023,10655476.0,2025-04-12
+BED,Tổng nợ,2024,10724713.0,2025-04-12
+BED,Vốn chủ sở hữu,2021,40471502.0,2025-04-12
+BED,Vốn chủ sở hữu,2022,39046308.0,2025-04-12
+BED,Vốn chủ sở hữu,2023,43047370.0,2025-04-12
+BED,Vốn chủ sở hữu,2024,43534903.0,2025-04-12

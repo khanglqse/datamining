@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+MDC,Doanh thu bán hàng và CCDV,2021,2318093786.0,2025-04-12
+MDC,Doanh thu bán hàng và CCDV,2022,2801523067.0,2025-04-12
+MDC,Doanh thu bán hàng và CCDV,2023,2697441781.0,2025-04-12
+MDC,Doanh thu bán hàng và CCDV,2024,2612354731.0,2025-04-12
+MDC,Giá vốn hàng bán,2021,2113888613.0,2025-04-12
+MDC,Giá vốn hàng bán,2022,2496219161.0,2025-04-12
+MDC,Giá vốn hàng bán,2023,2434327960.0,2025-04-12
+MDC,Giá vốn hàng bán,2024,2339208787.0,2025-04-12
+MDC,Lợi nhuận gộp về BH và CCDV,2021,204205173.0,2025-04-12
+MDC,Lợi nhuận gộp về BH và CCDV,2022,305303906.0,2025-04-12
+MDC,Lợi nhuận gộp về BH và CCDV,2023,263113821.0,2025-04-12
+MDC,Lợi nhuận gộp về BH và CCDV,2024,273145944.0,2025-04-12
+MDC,Lợi nhuận tài chính,2021,-36712857.0,2025-04-12
+MDC,Lợi nhuận tài chính,2022,-33411053.0,2025-04-12
+MDC,Lợi nhuận tài chính,2023,-28028299.0,2025-04-12
+MDC,Lợi nhuận tài chính,2024,-17197003.0,2025-04-12
+MDC,Lợi nhuận khác,2021,1142824.0,2025-04-12
+MDC,Lợi nhuận khác,2022,2315745.0,2025-04-12
+MDC,Lợi nhuận khác,2023,855538.0,2025-04-12
+MDC,Lợi nhuận khác,2024,1494165.0,2025-04-12
+MDC,Tổng lợi nhuận trước thuế,2021,34598513.0,2025-04-12
+MDC,Tổng lợi nhuận trước thuế,2022,115326526.0,2025-04-12
+MDC,Tổng lợi nhuận trước thuế,2023,67416446.0,2025-04-12
+MDC,Tổng lợi nhuận trước thuế,2024,70713518.0,2025-04-12
+MDC,Lợi nhuận sau thuế,2021,30309334.0,2025-04-12
+MDC,Lợi nhuận sau thuế,2022,89635903.0,2025-04-12
+MDC,Lợi nhuận sau thuế,2023,52957500.0,2025-04-12
+MDC,Lợi nhuận sau thuế,2024,53326745.0,2025-04-12
+MDC,Lợi nhuận sau thuế của công ty mẹ,2021,30309334.0,2025-04-12
+MDC,Lợi nhuận sau thuế của công ty mẹ,2022,89635903.0,2025-04-12
+MDC,Lợi nhuận sau thuế của công ty mẹ,2023,52957500.0,2025-04-12
+MDC,Lợi nhuận sau thuế của công ty mẹ,2024,53326745.0,2025-04-12
+MDC,Tổng tài sản lưu động ngắn hạn,2021,312398421.0,2025-04-12
+MDC,Tổng tài sản lưu động ngắn hạn,2022,758345610.0,2025-04-12
+MDC,Tổng tài sản lưu động ngắn hạn,2023,429384273.0,2025-04-12
+MDC,Tổng tài sản lưu động ngắn hạn,2024,489723930.0,2025-04-12
+MDC,Tổng tài sản,2021,1189111511.0,2025-04-12
+MDC,Tổng tài sản,2022,1445319916.0,2025-04-12
+MDC,Tổng tài sản,2023,1098574194.0,2025-04-12
+MDC,Tổng tài sản,2024,1186219315.0,2025-04-12
+MDC,Nợ ngắn hạn,2021,613454087.0,2025-04-12
+MDC,Nợ ngắn hạn,2022,867168474.0,2025-04-12
+MDC,Nợ ngắn hạn,2023,628458655.0,2025-04-12
+MDC,Nợ ngắn hạn,2024,707938737.0,2025-04-12
+MDC,Tổng nợ,2021,927841569.0,2025-04-12
+MDC,Tổng nợ,2022,1130605281.0,2025-04-12
+MDC,Tổng nợ,2023,760605230.0,2025-04-12
+MDC,Tổng nợ,2024,847881106.0,2025-04-12
+MDC,Vốn chủ sở hữu,2021,261269942.0,2025-04-12
+MDC,Vốn chủ sở hữu,2022,314714635.0,2025-04-12
+MDC,Vốn chủ sở hữu,2023,337968964.0,2025-04-12
+MDC,Vốn chủ sở hữu,2024,338338209.0,2025-04-12

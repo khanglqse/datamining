@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+BNC,Doanh thu bán hàng và CCDV,2014,605243942.0,2025-04-12
+BNC,Doanh thu bán hàng và CCDV,2015,1014408176.0,2025-04-12
+BNC,Doanh thu bán hàng và CCDV,2016,1490967272.0,2025-04-12
+BNC,Doanh thu bán hàng và CCDV,2017,1940994518.0,2025-04-12
+BNC,Giá vốn hàng bán,2014,292312734.0,2025-04-12
+BNC,Giá vốn hàng bán,2015,472887935.0,2025-04-12
+BNC,Giá vốn hàng bán,2016,786541792.0,2025-04-12
+BNC,Giá vốn hàng bán,2017,824802827.0,2025-04-12
+BNC,Lợi nhuận gộp về BH và cung cấp DV,2014,312931208.0,2025-04-12
+BNC,Lợi nhuận gộp về BH và cung cấp DV,2015,541520241.0,2025-04-12
+BNC,Lợi nhuận gộp về BH và cung cấp DV,2016,704425479.0,2025-04-12
+BNC,Lợi nhuận gộp về BH và cung cấp DV,2017,1116191691.0,2025-04-12
+BNC,Lợi nhuận tài chính,2014,-169776051.0,2025-04-12
+BNC,Lợi nhuận tài chính,2015,-274914304.0,2025-04-12
+BNC,Lợi nhuận tài chính,2016,-245689575.0,2025-04-12
+BNC,Lợi nhuận tài chính,2017,-351276740.0,2025-04-12
+BNC,Lợi nhuận khác,2014,-6352771.0,2025-04-12
+BNC,Lợi nhuận khác,2015,-9521401.0,2025-04-12
+BNC,Lợi nhuận khác,2016,938076215.0,2025-04-12
+BNC,Lợi nhuận khác,2017,2218232.0,2025-04-12
+BNC,Tổng lợi nhuận trước thuế,2014,64031728.0,2025-04-12
+BNC,Tổng lợi nhuận trước thuế,2015,148900503.0,2025-04-12
+BNC,Tổng lợi nhuận trước thuế,2016,1083764824.0,2025-04-12
+BNC,Tổng lợi nhuận trước thuế,2017,232505172.0,2025-04-12
+BNC,Lợi nhuận sau thuế,2014,63399801.0,2025-04-12
+BNC,Lợi nhuận sau thuế,2015,129524611.0,2025-04-12
+BNC,Lợi nhuận sau thuế,2016,916232222.0,2025-04-12
+BNC,Lợi nhuận sau thuế,2017,188247942.0,2025-04-12
+BNC,Lợi nhuận sau thuế của công ty mẹ,2014,63399801.0,2025-04-12
+BNC,Lợi nhuận sau thuế của công ty mẹ,2015,129524611.0,2025-04-12
+BNC,Lợi nhuận sau thuế của công ty mẹ,2016,923662187.0,2025-04-12
+BNC,Lợi nhuận sau thuế của công ty mẹ,2017,188247942.0,2025-04-12
+BNC,Tổng tài sản lưu động ngắn hạn,2014,1740281188.0,2025-04-12
+BNC,Tổng tài sản lưu động ngắn hạn,2015,1008851200.0,2025-04-12
+BNC,Tổng tài sản lưu động ngắn hạn,2016,2581690766.0,2025-04-12
+BNC,Tổng tài sản lưu động ngắn hạn,2017,472099445.0,2025-04-12
+BNC,Tổng tài sản,2014,5285499490.0,2025-04-12
+BNC,Tổng tài sản,2015,5513410274.0,2025-04-12
+BNC,Tổng tài sản,2016,9602723653.0,2025-04-12
+BNC,Tổng tài sản,2017,5849623973.0,2025-04-12
+BNC,Nợ ngắn hạn,2014,801781956.0,2025-04-12
+BNC,Nợ ngắn hạn,2015,769988446.0,2025-04-12
+BNC,Nợ ngắn hạn,2016,2474833376.0,2025-04-12
+BNC,Nợ ngắn hạn,2017,958509990.0,2025-04-12
+BNC,Tổng nợ,2014,2719741417.0,2025-04-12
+BNC,Tổng nợ,2015,3132832429.0,2025-04-12
+BNC,Tổng nợ,2016,5719138314.0,2025-04-12
+BNC,Tổng nợ,2017,3157390891.0,2025-04-12
+BNC,Vốn chủ sở hữu,2014,2565758073.0,2025-04-12
+BNC,Vốn chủ sở hữu,2015,2380577845.0,2025-04-12
+BNC,Vốn chủ sở hữu,2016,3883585338.0,2025-04-12
+BNC,Vốn chủ sở hữu,2017,2692233083.0,2025-04-12

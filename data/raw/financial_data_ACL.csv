@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+ACL,Doanh thu bán hàng và CCDV,2021,1224022686.0,2025-04-12
+ACL,Doanh thu bán hàng và CCDV,2022,1174022468.0,2025-04-12
+ACL,Doanh thu bán hàng và CCDV,2023,1117774371.0,2025-04-12
+ACL,Doanh thu bán hàng và CCDV,2024,1758180596.0,2025-04-12
+ACL,Giá vốn hàng bán,2021,1059294957.0,2025-04-12
+ACL,Giá vốn hàng bán,2022,891693640.0,2025-04-12
+ACL,Giá vốn hàng bán,2023,950904483.0,2025-04-12
+ACL,Giá vốn hàng bán,2024,1559407287.0,2025-04-12
+ACL,Lợi nhuận gộp về BH và CCDV,2021,154426495.0,2025-04-12
+ACL,Lợi nhuận gộp về BH và CCDV,2022,275259121.0,2025-04-12
+ACL,Lợi nhuận gộp về BH và CCDV,2023,165796017.0,2025-04-12
+ACL,Lợi nhuận gộp về BH và CCDV,2024,189327775.0,2025-04-12
+ACL,Lợi nhuận tài chính,2021,-29215628.0,2025-04-12
+ACL,Lợi nhuận tài chính,2022,-26203529.0,2025-04-12
+ACL,Lợi nhuận tài chính,2023,-38146125.0,2025-04-12
+ACL,Lợi nhuận tài chính,2024,-14339824.0,2025-04-12
+ACL,Lợi nhuận khác,2021,-384667.0,2025-04-12
+ACL,Lợi nhuận khác,2022,-1975746.0,2025-04-12
+ACL,Lợi nhuận khác,2023,-3908690.0,2025-04-12
+ACL,Lợi nhuận khác,2024,-333719.0,2025-04-12
+ACL,Tổng lợi nhuận trước thuế,2021,47803297.0,2025-04-12
+ACL,Tổng lợi nhuận trước thuế,2022,134692063.0,2025-04-12
+ACL,Tổng lợi nhuận trước thuế,2023,13748500.0,2025-04-12
+ACL,Tổng lợi nhuận trước thuế,2024,13355766.0,2025-04-12
+ACL,Lợi nhuận sau thuế,2021,42088176.0,2025-04-12
+ACL,Lợi nhuận sau thuế,2022,117947830.0,2025-04-12
+ACL,Lợi nhuận sau thuế,2023,9852743.0,2025-04-12
+ACL,Lợi nhuận sau thuế,2024,10765243.0,2025-04-12
+ACL,Lợi nhuận sau thuế của công ty mẹ,2021,42088176.0,2025-04-12
+ACL,Lợi nhuận sau thuế của công ty mẹ,2022,117947830.0,2025-04-12
+ACL,Lợi nhuận sau thuế của công ty mẹ,2023,9852743.0,2025-04-12
+ACL,Lợi nhuận sau thuế của công ty mẹ,2024,10765243.0,2025-04-12
+ACL,Tổng tài sản lưu động ngắn hạn,2021,1158362257.0,2025-04-12
+ACL,Tổng tài sản lưu động ngắn hạn,2022,1208234058.0,2025-04-12
+ACL,Tổng tài sản lưu động ngắn hạn,2023,1482105471.0,2025-04-12
+ACL,Tổng tài sản lưu động ngắn hạn,2024,1403582065.0,2025-04-12
+ACL,Tổng tài sản,2021,1458179315.0,2025-04-12
+ACL,Tổng tài sản,2022,1481370067.0,2025-04-12
+ACL,Tổng tài sản,2023,1749180174.0,2025-04-12
+ACL,Tổng tài sản,2024,1663984592.0,2025-04-12
+ACL,Nợ ngắn hạn,2021,751726674.0,2025-04-12
+ACL,Nợ ngắn hạn,2022,656969597.0,2025-04-12
+ACL,Nợ ngắn hạn,2023,950038274.0,2025-04-12
+ACL,Nợ ngắn hạn,2024,854077448.0,2025-04-12
+ACL,Tổng nợ,2021,751726674.0,2025-04-12
+ACL,Tổng nợ,2022,656969597.0,2025-04-12
+ACL,Tổng nợ,2023,950038274.0,2025-04-12
+ACL,Tổng nợ,2024,854077448.0,2025-04-12
+ACL,Vốn chủ sở hữu,2021,706452640.0,2025-04-12
+ACL,Vốn chủ sở hữu,2022,824400471.0,2025-04-12
+ACL,Vốn chủ sở hữu,2023,799141901.0,2025-04-12
+ACL,Vốn chủ sở hữu,2024,809907144.0,2025-04-12

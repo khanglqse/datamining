@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+VPG,Doanh thu bán hàng và CCDV,2020,2332710350.0,2025-04-12
+VPG,Doanh thu bán hàng và CCDV,2021,3863571827.0,2025-04-12
+VPG,Doanh thu bán hàng và CCDV,2022,5524662573.0,2025-04-12
+VPG,Doanh thu bán hàng và CCDV,2023,6337724618.0,2025-04-12
+VPG,Giá vốn hàng bán,2020,2038255013.0,2025-04-12
+VPG,Giá vốn hàng bán,2021,3189704881.0,2025-04-12
+VPG,Giá vốn hàng bán,2022,5259185308.0,2025-04-12
+VPG,Giá vốn hàng bán,2023,5951401135.0,2025-04-12
+VPG,Lợi nhuận gộp về BH và CCDV,2020,293209713.0,2025-04-12
+VPG,Lợi nhuận gộp về BH và CCDV,2021,673866946.0,2025-04-12
+VPG,Lợi nhuận gộp về BH và CCDV,2022,265477265.0,2025-04-12
+VPG,Lợi nhuận gộp về BH và CCDV,2023,386323482.0,2025-04-12
+VPG,Lợi nhuận tài chính,2020,-37184605.0,2025-04-12
+VPG,Lợi nhuận tài chính,2021,-25793800.0,2025-04-12
+VPG,Lợi nhuận tài chính,2022,-69791399.0,2025-04-12
+VPG,Lợi nhuận tài chính,2023,-178504849.0,2025-04-12
+VPG,Lợi nhuận khác,2020,-31594650.0,2025-04-12
+VPG,Lợi nhuận khác,2021,20397685.0,2025-04-12
+VPG,Lợi nhuận khác,2022,47637998.0,2025-04-12
+VPG,Lợi nhuận khác,2023,-3013081.0,2025-04-12
+VPG,Tổng lợi nhuận trước thuế,2020,112350822.0,2025-04-12
+VPG,Tổng lợi nhuận trước thuế,2021,527573760.0,2025-04-12
+VPG,Tổng lợi nhuận trước thuế,2022,80704146.0,2025-04-12
+VPG,Tổng lợi nhuận trước thuế,2023,27185333.0,2025-04-12
+VPG,Lợi nhuận sau thuế,2020,88342447.0,2025-04-12
+VPG,Lợi nhuận sau thuế,2021,421297581.0,2025-04-12
+VPG,Lợi nhuận sau thuế,2022,62528375.0,2025-04-12
+VPG,Lợi nhuận sau thuế,2023,19381310.0,2025-04-12
+VPG,Lợi nhuận sau thuế của công ty mẹ,2020,88342447.0,2025-04-12
+VPG,Lợi nhuận sau thuế của công ty mẹ,2021,421297581.0,2025-04-12
+VPG,Lợi nhuận sau thuế của công ty mẹ,2022,62532661.0,2025-04-12
+VPG,Lợi nhuận sau thuế của công ty mẹ,2023,19461025.0,2025-04-12
+VPG,Tổng tài sản lưu động ngắn hạn,2020,1360232693.0,2025-04-12
+VPG,Tổng tài sản lưu động ngắn hạn,2021,2153355040.0,2025-04-12
+VPG,Tổng tài sản lưu động ngắn hạn,2022,5002840187.0,2025-04-12
+VPG,Tổng tài sản lưu động ngắn hạn,2023,6461181812.0,2025-04-12
+VPG,Tổng tài sản,2020,1551089290.0,2025-04-12
+VPG,Tổng tài sản,2021,2383898780.0,2025-04-12
+VPG,Tổng tài sản,2022,5977493452.0,2025-04-12
+VPG,Tổng tài sản,2023,7155448476.0,2025-04-12
+VPG,Nợ ngắn hạn,2020,1032986539.0,2025-04-12
+VPG,Nợ ngắn hạn,2021,1470510912.0,2025-04-12
+VPG,Nợ ngắn hạn,2022,4055277695.0,2025-04-12
+VPG,Nợ ngắn hạn,2023,5276454774.0,2025-04-12
+VPG,Tổng nợ,2020,1032986539.0,2025-04-12
+VPG,Tổng nợ,2021,1470510912.0,2025-04-12
+VPG,Tổng nợ,2022,4496783487.0,2025-04-12
+VPG,Tổng nợ,2023,5662459059.0,2025-04-12
+VPG,Vốn chủ sở hữu,2020,518102751.0,2025-04-12
+VPG,Vốn chủ sở hữu,2021,913387867.0,2025-04-12
+VPG,Vốn chủ sở hữu,2022,1480709965.0,2025-04-12
+VPG,Vốn chủ sở hữu,2023,1492989417.0,2025-04-12

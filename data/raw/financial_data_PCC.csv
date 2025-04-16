@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+PCC,Doanh thu bán hàng và CCDV,2020,755968124.0,2025-04-12
+PCC,Doanh thu bán hàng và CCDV,2021,626318135.0,2025-04-12
+PCC,Doanh thu bán hàng và CCDV,2022,765790174.0,2025-04-12
+PCC,Doanh thu bán hàng và CCDV,2023,907354338.0,2025-04-12
+PCC,Giá vốn hàng bán,2020,652701259.0,2025-04-12
+PCC,Giá vốn hàng bán,2021,557182835.0,2025-04-12
+PCC,Giá vốn hàng bán,2022,681222649.0,2025-04-12
+PCC,Giá vốn hàng bán,2023,796231615.0,2025-04-12
+PCC,Lợi nhuận gộp về BH và CCDV,2020,103266864.0,2025-04-12
+PCC,Lợi nhuận gộp về BH và CCDV,2021,69135300.0,2025-04-12
+PCC,Lợi nhuận gộp về BH và CCDV,2022,84421645.0,2025-04-12
+PCC,Lợi nhuận gộp về BH và CCDV,2023,111069527.0,2025-04-12
+PCC,Lợi nhuận tài chính,2020,-15635796.0,2025-04-12
+PCC,Lợi nhuận tài chính,2021,-13532518.0,2025-04-12
+PCC,Lợi nhuận tài chính,2022,-7429942.0,2025-04-12
+PCC,Lợi nhuận tài chính,2023,-18469534.0,2025-04-12
+PCC,Lợi nhuận khác,2020,544234.0,2025-04-12
+PCC,Lợi nhuận khác,2021,5607933.0,2025-04-12
+PCC,Lợi nhuận khác,2022,2529655.0,2025-04-12
+PCC,Lợi nhuận khác,2023,-570975.0,2025-04-12
+PCC,Tổng lợi nhuận trước thuế,2020,22962741.0,2025-04-12
+PCC,Tổng lợi nhuận trước thuế,2021,16931765.0,2025-04-12
+PCC,Tổng lợi nhuận trước thuế,2022,20305775.0,2025-04-12
+PCC,Tổng lợi nhuận trước thuế,2023,27240962.0,2025-04-12
+PCC,Lợi nhuận sau thuế,2020,17452792.0,2025-04-12
+PCC,Lợi nhuận sau thuế,2021,12402672.0,2025-04-12
+PCC,Lợi nhuận sau thuế,2022,13227768.0,2025-04-12
+PCC,Lợi nhuận sau thuế,2023,19496361.0,2025-04-12
+PCC,Lợi nhuận sau thuế của công ty mẹ,2020,16575902.0,2025-04-12
+PCC,Lợi nhuận sau thuế của công ty mẹ,2021,11729330.0,2025-04-12
+PCC,Lợi nhuận sau thuế của công ty mẹ,2022,12051168.0,2025-04-12
+PCC,Lợi nhuận sau thuế của công ty mẹ,2023,18575891.0,2025-04-12
+PCC,Tổng tài sản lưu động ngắn hạn,2020,722719749.0,2025-04-12
+PCC,Tổng tài sản lưu động ngắn hạn,2021,540302557.0,2025-04-12
+PCC,Tổng tài sản lưu động ngắn hạn,2022,550655316.0,2025-04-12
+PCC,Tổng tài sản lưu động ngắn hạn,2023,688613767.0,2025-04-12
+PCC,Tổng tài sản,2020,983856189.0,2025-04-12
+PCC,Tổng tài sản,2021,771776326.0,2025-04-12
+PCC,Tổng tài sản,2022,1023146755.0,2025-04-12
+PCC,Tổng tài sản,2023,1170043345.0,2025-04-12
+PCC,Nợ ngắn hạn,2020,690028949.0,2025-04-12
+PCC,Nợ ngắn hạn,2021,482739305.0,2025-04-12
+PCC,Nợ ngắn hạn,2022,454846120.0,2025-04-12
+PCC,Nợ ngắn hạn,2023,611305274.0,2025-04-12
+PCC,Tổng nợ,2020,738237519.0,2025-04-12
+PCC,Tổng nợ,2021,525682907.0,2025-04-12
+PCC,Tổng nợ,2022,776534210.0,2025-04-12
+PCC,Tổng nợ,2023,918285347.0,2025-04-12
+PCC,Vốn chủ sở hữu,2020,245618669.0,2025-04-12
+PCC,Vốn chủ sở hữu,2021,246093419.0,2025-04-12
+PCC,Vốn chủ sở hữu,2022,246612545.0,2025-04-12
+PCC,Vốn chủ sở hữu,2023,251757997.0,2025-04-12

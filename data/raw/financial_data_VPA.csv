@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+VPA,Doanh thu bán hàng và CCDV,2021,113124861.0,2025-04-12
+VPA,Doanh thu bán hàng và CCDV,2022,90356393.0,2025-04-12
+VPA,Doanh thu bán hàng và CCDV,2023,149911480.0,2025-04-12
+VPA,Doanh thu bán hàng và CCDV,2024,107625582.0,2025-04-12
+VPA,Giá vốn hàng bán,2021,120542317.0,2025-04-12
+VPA,Giá vốn hàng bán,2022,115543698.0,2025-04-12
+VPA,Giá vốn hàng bán,2023,142786248.0,2025-04-12
+VPA,Giá vốn hàng bán,2024,127528864.0,2025-04-12
+VPA,Lợi nhuận gộp về BH và CCDV,2021,-7417456.0,2025-04-12
+VPA,Lợi nhuận gộp về BH và CCDV,2022,-25187305.0,2025-04-12
+VPA,Lợi nhuận gộp về BH và CCDV,2023,7125232.0,2025-04-12
+VPA,Lợi nhuận gộp về BH và CCDV,2024,-19903282.0,2025-04-12
+VPA,Lợi nhuận tài chính,2021,-7986834.0,2025-04-12
+VPA,Lợi nhuận tài chính,2022,-19625010.0,2025-04-12
+VPA,Lợi nhuận tài chính,2023,-18233373.0,2025-04-12
+VPA,Lợi nhuận tài chính,2024,-26602245.0,2025-04-12
+VPA,Lợi nhuận khác,2021,87785.0,2025-04-12
+VPA,Lợi nhuận khác,2022,-67980.0,2025-04-12
+VPA,Lợi nhuận khác,2023,2216025.0,2025-04-12
+VPA,Lợi nhuận khác,2024,270496.0,2025-04-12
+VPA,Tổng lợi nhuận trước thuế,2021,-18938799.0,2025-04-12
+VPA,Tổng lợi nhuận trước thuế,2022,-48471899.0,2025-04-12
+VPA,Tổng lợi nhuận trước thuế,2023,-13220220.0,2025-04-12
+VPA,Tổng lợi nhuận trước thuế,2024,-50147764.0,2025-04-12
+VPA,Lợi nhuận sau thuế,2021,-18938799.0,2025-04-12
+VPA,Lợi nhuận sau thuế,2022,-48471899.0,2025-04-12
+VPA,Lợi nhuận sau thuế,2023,-13220220.0,2025-04-12
+VPA,Lợi nhuận sau thuế,2024,-50147764.0,2025-04-12
+VPA,Lợi nhuận sau thuế của công ty mẹ,2021,-18938799.0,2025-04-12
+VPA,Lợi nhuận sau thuế của công ty mẹ,2022,-48471899.0,2025-04-12
+VPA,Lợi nhuận sau thuế của công ty mẹ,2023,-13220220.0,2025-04-12
+VPA,Lợi nhuận sau thuế của công ty mẹ,2024,-50147764.0,2025-04-12
+VPA,Tổng tài sản lưu động ngắn hạn,2021,17650855.0,2025-04-12
+VPA,Tổng tài sản lưu động ngắn hạn,2022,15908347.0,2025-04-12
+VPA,Tổng tài sản lưu động ngắn hạn,2023,26146559.0,2025-04-12
+VPA,Tổng tài sản lưu động ngắn hạn,2024,28816120.0,2025-04-12
+VPA,Tổng tài sản,2021,354283355.0,2025-04-12
+VPA,Tổng tài sản,2022,335343792.0,2025-04-12
+VPA,Tổng tài sản,2023,315664475.0,2025-04-12
+VPA,Tổng tài sản,2024,290832999.0,2025-04-12
+VPA,Nợ ngắn hạn,2021,46389545.0,2025-04-12
+VPA,Nợ ngắn hạn,2022,35060678.0,2025-04-12
+VPA,Nợ ngắn hạn,2023,20260724.0,2025-04-12
+VPA,Nợ ngắn hạn,2024,50805618.0,2025-04-12
+VPA,Tổng nợ,2021,301418245.0,2025-04-12
+VPA,Tổng nợ,2022,331475364.0,2025-04-12
+VPA,Tổng nợ,2023,325584785.0,2025-04-12
+VPA,Tổng nợ,2024,351479810.0,2025-04-12
+VPA,Vốn chủ sở hữu,2021,52865110.0,2025-04-12
+VPA,Vốn chủ sở hữu,2022,3868428.0,2025-04-12
+VPA,Vốn chủ sở hữu,2023,-9920310.0,2025-04-12
+VPA,Vốn chủ sở hữu,2024,-60646811.0,2025-04-12

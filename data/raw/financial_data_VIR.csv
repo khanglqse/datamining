@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+VIR,Doanh thu bán hàng và CCDV,2021,13859563.0,2025-04-12
+VIR,Doanh thu bán hàng và CCDV,2022,62939340.0,2025-04-12
+VIR,Doanh thu bán hàng và CCDV,2023,49785171.0,2025-04-12
+VIR,Doanh thu bán hàng và CCDV,2024,28011269.0,2025-04-12
+VIR,Giá vốn hàng bán,2021,19392853.0,2025-04-12
+VIR,Giá vốn hàng bán,2022,38426558.0,2025-04-12
+VIR,Giá vốn hàng bán,2023,42227999.0,2025-04-12
+VIR,Giá vốn hàng bán,2024,27777645.0,2025-04-12
+VIR,Lợi nhuận gộp về BH và CCDV,2021,-5533290.0,2025-04-12
+VIR,Lợi nhuận gộp về BH và CCDV,2022,24512782.0,2025-04-12
+VIR,Lợi nhuận gộp về BH và CCDV,2023,7557172.0,2025-04-12
+VIR,Lợi nhuận gộp về BH và CCDV,2024,233624.0,2025-04-12
+VIR,Lợi nhuận tài chính,2021,1336579.0,2025-04-12
+VIR,Lợi nhuận tài chính,2022,1148263.0,2025-04-12
+VIR,Lợi nhuận tài chính,2023,2543619.0,2025-04-12
+VIR,Lợi nhuận tài chính,2024,2083042.0,2025-04-12
+VIR,Lợi nhuận khác,2021,-367361.0,2025-04-12
+VIR,Lợi nhuận khác,2022,-488869.0,2025-04-12
+VIR,Lợi nhuận khác,2023,-1990991.0,2025-04-12
+VIR,Lợi nhuận khác,2024,11234744.0,2025-04-12
+VIR,Tổng lợi nhuận trước thuế,2021,-14208685.0,2025-04-12
+VIR,Tổng lợi nhuận trước thuế,2022,7103721.0,2025-04-12
+VIR,Tổng lợi nhuận trước thuế,2023,-6395380.0,2025-04-12
+VIR,Tổng lợi nhuận trước thuế,2024,213946.0,2025-04-12
+VIR,Lợi nhuận sau thuế,2021,-14358521.0,2025-04-12
+VIR,Lợi nhuận sau thuế,2022,7103721.0,2025-04-12
+VIR,Lợi nhuận sau thuế,2023,-6395380.0,2025-04-12
+VIR,Lợi nhuận sau thuế,2024,213946.0,2025-04-12
+VIR,Lợi nhuận sau thuế của công ty mẹ,2021,-14358521.0,2025-04-12
+VIR,Lợi nhuận sau thuế của công ty mẹ,2022,7103721.0,2025-04-12
+VIR,Lợi nhuận sau thuế của công ty mẹ,2023,-6395380.0,2025-04-12
+VIR,Lợi nhuận sau thuế của công ty mẹ,2024,213946.0,2025-04-12
+VIR,Tổng tài sản lưu động ngắn hạn,2021,23447460.0,2025-04-12
+VIR,Tổng tài sản lưu động ngắn hạn,2022,44701689.0,2025-04-12
+VIR,Tổng tài sản lưu động ngắn hạn,2023,46486635.0,2025-04-12
+VIR,Tổng tài sản lưu động ngắn hạn,2024,104707825.0,2025-04-12
+VIR,Tổng tài sản,2021,82549485.0,2025-04-12
+VIR,Tổng tài sản,2022,100287989.0,2025-04-12
+VIR,Tổng tài sản,2023,101162069.0,2025-04-12
+VIR,Tổng tài sản,2024,106667243.0,2025-04-12
+VIR,Nợ ngắn hạn,2021,8702796.0,2025-04-12
+VIR,Nợ ngắn hạn,2022,23653657.0,2025-04-12
+VIR,Nợ ngắn hạn,2023,31420117.0,2025-04-12
+VIR,Nợ ngắn hạn,2024,36711345.0,2025-04-12
+VIR,Tổng nợ,2021,8882796.0,2025-04-12
+VIR,Tổng nợ,2022,23653657.0,2025-04-12
+VIR,Tổng nợ,2023,31420117.0,2025-04-12
+VIR,Tổng nợ,2024,36711345.0,2025-04-12
+VIR,Vốn chủ sở hữu,2021,73666689.0,2025-04-12
+VIR,Vốn chủ sở hữu,2022,76634332.0,2025-04-12
+VIR,Vốn chủ sở hữu,2023,69741862.0,2025-04-12
+VIR,Vốn chủ sở hữu,2024,69955898.0,2025-04-12

@@ -1,0 +1,45 @@
+symbol,metric,year,value,crawled_date
+VIG,Doanh thu bán hàng và CCDV,2020,6328900.0,2025-04-12
+VIG,Doanh thu bán hàng và CCDV,2021,11644650.0,2025-04-12
+VIG,Doanh thu bán hàng và CCDV,2022,72012830.0,2025-04-12
+VIG,Doanh thu bán hàng và CCDV,2023,41389080.0,2025-04-12
+VIG,Lợi nhuận tài chính,2020,327950.0,2025-04-12
+VIG,Lợi nhuận tài chính,2021,-2187690.0,2025-04-12
+VIG,Lợi nhuận tài chính,2022,-1807940.0,2025-04-12
+VIG,Lợi nhuận tài chính,2023,7434336.0,2025-04-12
+VIG,Tổng lợi nhuận KT trước thuế,2020,-3495500.0,2025-04-12
+VIG,Tổng lợi nhuận KT trước thuế,2021,1424430.0,2025-04-12
+VIG,Tổng lợi nhuận KT trước thuế,2022,2648020.0,2025-04-12
+VIG,Tổng lợi nhuận KT trước thuế,2023,31063099.0,2025-04-12
+VIG,Lợi nhuận KT sau thuế TNDN,2020,-3495500.0,2025-04-12
+VIG,Lợi nhuận KT sau thuế TNDN,2021,1424430.0,2025-04-12
+VIG,Lợi nhuận KT sau thuế TNDN,2022,2648020.0,2025-04-12
+VIG,Lợi nhuận KT sau thuế TNDN,2023,31063099.0,2025-04-12
+VIG,Lợi nhuận sau thuế của công ty mẹ,2020,-3495500.0,2025-04-12
+VIG,Lợi nhuận sau thuế của công ty mẹ,2021,1424430.0,2025-04-12
+VIG,Lợi nhuận sau thuế của công ty mẹ,2022,2648020.0,2025-04-12
+VIG,Lợi nhuận sau thuế của công ty mẹ,2023,31063099.0,2025-04-12
+VIG,Lợi nhuận khác,2020,-274090.0,2025-04-12
+VIG,Lợi nhuận khác,2021,244050.0,2025-04-12
+VIG,Lợi nhuận khác,2022,109160.0,2025-04-12
+VIG,Lợi nhuận khác,2023,7082.0,2025-04-12
+VIG,Tổng tài sản lưu động ngắn hạn,2020,204717840.0,2025-04-12
+VIG,Tổng tài sản lưu động ngắn hạn,2021,208073240.0,2025-04-12
+VIG,Tổng tài sản lưu động ngắn hạn,2022,308147740.0,2025-04-12
+VIG,Tổng tài sản lưu động ngắn hạn,2023,254131098.0,2025-04-12
+VIG,Tổng tài sản,2020,212516300.0,2025-04-12
+VIG,Tổng tài sản,2021,215294560.0,2025-04-12
+VIG,Tổng tài sản,2022,317243300.0,2025-04-12
+VIG,Tổng tài sản,2023,403846811.0,2025-04-12
+VIG,Nợ ngắn hạn,2020,21638500.0,2025-04-12
+VIG,Nợ ngắn hạn,2021,22992340.0,2025-04-12
+VIG,Nợ ngắn hạn,2022,12293050.0,2025-04-12
+VIG,Nợ ngắn hạn,2023,11789935.0,2025-04-12
+VIG,Tổng nợ,2020,21638500.0,2025-04-12
+VIG,Tổng nợ,2021,22992340.0,2025-04-12
+VIG,Tổng nợ,2022,12293050.0,2025-04-12
+VIG,Tổng nợ,2023,11789935.0,2025-04-12
+VIG,Vốn chủ sở hữu,2020,190877790.0,2025-04-12
+VIG,Vốn chủ sở hữu,2021,192302230.0,2025-04-12
+VIG,Vốn chủ sở hữu,2022,304950250.0,2025-04-12
+VIG,Vốn chủ sở hữu,2023,336013345.0,2025-04-12

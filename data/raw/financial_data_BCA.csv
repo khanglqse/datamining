@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+BCA,Doanh thu bán hàng và CCDV,2021,2057464633.0,2025-04-12
+BCA,Doanh thu bán hàng và CCDV,2022,2477345853.0,2025-04-12
+BCA,Doanh thu bán hàng và CCDV,2023,3843305614.0,2025-04-12
+BCA,Doanh thu bán hàng và CCDV,2024,5567860350.0,2025-04-12
+BCA,Giá vốn hàng bán,2021,2042972216.0,2025-04-12
+BCA,Giá vốn hàng bán,2022,2457475239.0,2025-04-12
+BCA,Giá vốn hàng bán,2023,3808488582.0,2025-04-12
+BCA,Giá vốn hàng bán,2024,5359019798.0,2025-04-12
+BCA,Lợi nhuận gộp về BH và CCDV,2021,12916565.0,2025-04-12
+BCA,Lợi nhuận gộp về BH và CCDV,2022,13270448.0,2025-04-12
+BCA,Lợi nhuận gộp về BH và CCDV,2023,26848571.0,2025-04-12
+BCA,Lợi nhuận gộp về BH và CCDV,2024,169796784.0,2025-04-12
+BCA,Lợi nhuận tài chính,2021,-4036620.0,2025-04-12
+BCA,Lợi nhuận tài chính,2022,-6632480.0,2025-04-12
+BCA,Lợi nhuận tài chính,2023,-18830420.0,2025-04-12
+BCA,Lợi nhuận tài chính,2024,-153772127.0,2025-04-12
+BCA,Lợi nhuận khác,2021,229656.0,2025-04-12
+BCA,Lợi nhuận khác,2022,160591.0,2025-04-12
+BCA,Lợi nhuận khác,2023,397512891.0,2025-04-12
+BCA,Lợi nhuận khác,2024,-2403346.0,2025-04-12
+BCA,Tổng lợi nhuận trước thuế,2021,3069283.0,2025-04-12
+BCA,Tổng lợi nhuận trước thuế,2022,-73927997.0,2025-04-12
+BCA,Tổng lợi nhuận trước thuế,2023,400047285.0,2025-04-12
+BCA,Tổng lợi nhuận trước thuế,2024,-51257306.0,2025-04-12
+BCA,Lợi nhuận sau thuế,2021,2454541.0,2025-04-12
+BCA,Lợi nhuận sau thuế,2022,-73927997.0,2025-04-12
+BCA,Lợi nhuận sau thuế,2023,400047285.0,2025-04-12
+BCA,Lợi nhuận sau thuế,2024,-50120331.0,2025-04-12
+BCA,Lợi nhuận sau thuế của công ty mẹ,2021,2454541.0,2025-04-12
+BCA,Lợi nhuận sau thuế của công ty mẹ,2022,-73927997.0,2025-04-12
+BCA,Lợi nhuận sau thuế của công ty mẹ,2023,400047285.0,2025-04-12
+BCA,Lợi nhuận sau thuế của công ty mẹ,2024,-50120331.0,2025-04-12
+BCA,Tổng tài sản lưu động ngắn hạn,2021,359712130.0,2025-04-12
+BCA,Tổng tài sản lưu động ngắn hạn,2022,381195919.0,2025-04-12
+BCA,Tổng tài sản lưu động ngắn hạn,2023,2509714442.0,2025-04-12
+BCA,Tổng tài sản lưu động ngắn hạn,2024,2553862522.0,2025-04-12
+BCA,Tổng tài sản,2021,599796572.0,2025-04-12
+BCA,Tổng tài sản,2022,603309922.0,2025-04-12
+BCA,Tổng tài sản,2023,4019651141.0,2025-04-12
+BCA,Tổng tài sản,2024,3915371196.0,2025-04-12
+BCA,Nợ ngắn hạn,2021,359636060.0,2025-04-12
+BCA,Nợ ngắn hạn,2022,456877407.0,2025-04-12
+BCA,Nợ ngắn hạn,2023,2941166215.0,2025-04-12
+BCA,Nợ ngắn hạn,2024,2994756601.0,2025-04-12
+BCA,Tổng nợ,2021,387430934.0,2025-04-12
+BCA,Tổng nợ,2022,464872281.0,2025-04-12
+BCA,Tổng nợ,2023,3481166215.0,2025-04-12
+BCA,Tổng nợ,2024,3415756601.0,2025-04-12
+BCA,Vốn chủ sở hữu,2021,212365638.0,2025-04-12
+BCA,Vốn chủ sở hữu,2022,138437641.0,2025-04-12
+BCA,Vốn chủ sở hữu,2023,538484926.0,2025-04-12
+BCA,Vốn chủ sở hữu,2024,499614595.0,2025-04-12

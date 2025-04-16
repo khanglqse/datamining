@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+HPX,Doanh thu bán hàng và CCDV,2020,1329627916.0,2025-04-12
+HPX,Doanh thu bán hàng và CCDV,2021,1417006430.0,2025-04-12
+HPX,Doanh thu bán hàng và CCDV,2022,1210371811.0,2025-04-12
+HPX,Doanh thu bán hàng và CCDV,2023,1680274226.0,2025-04-12
+HPX,Giá vốn hàng bán,2020,990130932.0,2025-04-12
+HPX,Giá vốn hàng bán,2021,1071121022.0,2025-04-12
+HPX,Giá vốn hàng bán,2022,957229643.0,2025-04-12
+HPX,Giá vốn hàng bán,2023,1392219958.0,2025-04-12
+HPX,Lợi nhuận gộp về BH và CCDV,2020,339496983.0,2025-04-12
+HPX,Lợi nhuận gộp về BH và CCDV,2021,345885408.0,2025-04-12
+HPX,Lợi nhuận gộp về BH và CCDV,2022,253142168.0,2025-04-12
+HPX,Lợi nhuận gộp về BH và CCDV,2023,288054268.0,2025-04-12
+HPX,Lợi nhuận tài chính,2020,-66748207.0,2025-04-12
+HPX,Lợi nhuận tài chính,2021,214723774.0,2025-04-12
+HPX,Lợi nhuận tài chính,2022,-205770967.0,2025-04-12
+HPX,Lợi nhuận tài chính,2023,86260535.0,2025-04-12
+HPX,Lợi nhuận khác,2020,16521598.0,2025-04-12
+HPX,Lợi nhuận khác,2021,8157152.0,2025-04-12
+HPX,Lợi nhuận khác,2022,15463142.0,2025-04-12
+HPX,Lợi nhuận khác,2023,6020138.0,2025-04-12
+HPX,Tổng lợi nhuận trước thuế,2020,144665647.0,2025-04-12
+HPX,Tổng lợi nhuận trước thuế,2021,405049551.0,2025-04-12
+HPX,Tổng lợi nhuận trước thuế,2022,-12638841.0,2025-04-12
+HPX,Tổng lợi nhuận trước thuế,2023,189027727.0,2025-04-12
+HPX,Lợi nhuận sau thuế,2020,97611479.0,2025-04-12
+HPX,Lợi nhuận sau thuế,2021,285748253.0,2025-04-12
+HPX,Lợi nhuận sau thuế,2022,-58361976.0,2025-04-12
+HPX,Lợi nhuận sau thuế,2023,134937784.0,2025-04-12
+HPX,Lợi nhuận sau thuế của công ty mẹ,2020,92293322.0,2025-04-12
+HPX,Lợi nhuận sau thuế của công ty mẹ,2021,249918687.0,2025-04-12
+HPX,Lợi nhuận sau thuế của công ty mẹ,2022,-60410353.0,2025-04-12
+HPX,Lợi nhuận sau thuế của công ty mẹ,2023,127349323.0,2025-04-12
+HPX,Tổng tài sản lưu động ngắn hạn,2020,5219393988.0,2025-04-12
+HPX,Tổng tài sản lưu động ngắn hạn,2021,6731620122.0,2025-04-12
+HPX,Tổng tài sản lưu động ngắn hạn,2022,6311369110.0,2025-04-12
+HPX,Tổng tài sản lưu động ngắn hạn,2023,6451205558.0,2025-04-12
+HPX,Tổng tài sản,2020,7378527086.0,2025-04-12
+HPX,Tổng tài sản,2021,9578591658.0,2025-04-12
+HPX,Tổng tài sản,2022,9467029610.0,2025-04-12
+HPX,Tổng tài sản,2023,8296949220.0,2025-04-12
+HPX,Nợ ngắn hạn,2020,2557753904.0,2025-04-12
+HPX,Nợ ngắn hạn,2021,3516505768.0,2025-04-12
+HPX,Nợ ngắn hạn,2022,3831578570.0,2025-04-12
+HPX,Nợ ngắn hạn,2023,3889332435.0,2025-04-12
+HPX,Tổng nợ,2020,3757583715.0,2025-04-12
+HPX,Tổng nợ,2021,6051843415.0,2025-04-12
+HPX,Tổng nợ,2022,6009434073.0,2025-04-12
+HPX,Tổng nợ,2023,4709181848.0,2025-04-12
+HPX,Vốn chủ sở hữu,2020,3620943371.0,2025-04-12
+HPX,Vốn chủ sở hữu,2021,3526748242.0,2025-04-12
+HPX,Vốn chủ sở hữu,2022,3457595536.0,2025-04-12
+HPX,Vốn chủ sở hữu,2023,3587767372.0,2025-04-12

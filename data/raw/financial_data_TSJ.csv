@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+TSJ,Doanh thu bán hàng và CCDV,2021,63105071.0,2025-04-12
+TSJ,Doanh thu bán hàng và CCDV,2022,129392890.0,2025-04-12
+TSJ,Doanh thu bán hàng và CCDV,2023,140652251.0,2025-04-12
+TSJ,Doanh thu bán hàng và CCDV,2024,144189717.0,2025-04-12
+TSJ,Giá vốn hàng bán,2021,36698131.0,2025-04-12
+TSJ,Giá vốn hàng bán,2022,101197920.0,2025-04-12
+TSJ,Giá vốn hàng bán,2023,105358840.0,2025-04-12
+TSJ,Giá vốn hàng bán,2024,112280935.0,2025-04-12
+TSJ,Lợi nhuận gộp về BH và CCDV,2021,25102378.0,2025-04-12
+TSJ,Lợi nhuận gộp về BH và CCDV,2022,27989168.0,2025-04-12
+TSJ,Lợi nhuận gộp về BH và CCDV,2023,35293411.0,2025-04-12
+TSJ,Lợi nhuận gộp về BH và CCDV,2024,31908781.0,2025-04-12
+TSJ,Lợi nhuận tài chính,2021,23161748.0,2025-04-12
+TSJ,Lợi nhuận tài chính,2022,25746327.0,2025-04-12
+TSJ,Lợi nhuận tài chính,2023,66774912.0,2025-04-12
+TSJ,Lợi nhuận tài chính,2024,74841698.0,2025-04-12
+TSJ,Lợi nhuận khác,2021,-10538.0,2025-04-12
+TSJ,Lợi nhuận khác,2022,47332.0,2025-04-12
+TSJ,Lợi nhuận khác,2023,201499.0,2025-04-12
+TSJ,Lợi nhuận khác,2024,111344.0,2025-04-12
+TSJ,Tổng lợi nhuận trước thuế,2021,33447227.0,2025-04-12
+TSJ,Tổng lợi nhuận trước thuế,2022,38590234.0,2025-04-12
+TSJ,Tổng lợi nhuận trước thuế,2023,85802750.0,2025-04-12
+TSJ,Tổng lợi nhuận trước thuế,2024,90193795.0,2025-04-12
+TSJ,Lợi nhuận sau thuế,2021,28677352.0,2025-04-12
+TSJ,Lợi nhuận sau thuế,2022,30493177.0,2025-04-12
+TSJ,Lợi nhuận sau thuế,2023,75443113.0,2025-04-12
+TSJ,Lợi nhuận sau thuế,2024,81576104.0,2025-04-12
+TSJ,Lợi nhuận sau thuế của công ty mẹ,2021,28677352.0,2025-04-12
+TSJ,Lợi nhuận sau thuế của công ty mẹ,2022,30493177.0,2025-04-12
+TSJ,Lợi nhuận sau thuế của công ty mẹ,2023,75443113.0,2025-04-12
+TSJ,Lợi nhuận sau thuế của công ty mẹ,2024,81576104.0,2025-04-12
+TSJ,Tổng tài sản lưu động ngắn hạn,2021,487103342.0,2025-04-12
+TSJ,Tổng tài sản lưu động ngắn hạn,2022,498790423.0,2025-04-12
+TSJ,Tổng tài sản lưu động ngắn hạn,2023,546713778.0,2025-04-12
+TSJ,Tổng tài sản lưu động ngắn hạn,2024,556255790.0,2025-04-12
+TSJ,Tổng tài sản,2021,825664571.0,2025-04-12
+TSJ,Tổng tài sản,2022,835265626.0,2025-04-12
+TSJ,Tổng tài sản,2023,882654418.0,2025-04-12
+TSJ,Tổng tài sản,2024,891785110.0,2025-04-12
+TSJ,Nợ ngắn hạn,2021,18320134.0,2025-04-12
+TSJ,Nợ ngắn hạn,2022,25128139.0,2025-04-12
+TSJ,Nợ ngắn hạn,2023,27992339.0,2025-04-12
+TSJ,Nợ ngắn hạn,2024,26393400.0,2025-04-12
+TSJ,Tổng nợ,2021,25325594.0,2025-04-12
+TSJ,Tổng nợ,2022,32906750.0,2025-04-12
+TSJ,Tổng nợ,2023,33623439.0,2025-04-12
+TSJ,Tổng nợ,2024,32895192.0,2025-04-12
+TSJ,Vốn chủ sở hữu,2021,800338977.0,2025-04-12
+TSJ,Vốn chủ sở hữu,2022,802358875.0,2025-04-12
+TSJ,Vốn chủ sở hữu,2023,849030978.0,2025-04-12
+TSJ,Vốn chủ sở hữu,2024,858889918.0,2025-04-12

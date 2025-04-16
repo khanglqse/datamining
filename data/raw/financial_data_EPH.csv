@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+EPH,Doanh thu bán hàng và CCDV,2021,87885085.0,2025-04-12
+EPH,Doanh thu bán hàng và CCDV,2022,105319734.0,2025-04-12
+EPH,Doanh thu bán hàng và CCDV,2023,109724973.0,2025-04-12
+EPH,Doanh thu bán hàng và CCDV,2024,103628291.0,2025-04-12
+EPH,Giá vốn hàng bán,2021,57026619.0,2025-04-12
+EPH,Giá vốn hàng bán,2022,64975797.0,2025-04-12
+EPH,Giá vốn hàng bán,2023,64509762.0,2025-04-12
+EPH,Giá vốn hàng bán,2024,64287412.0,2025-04-12
+EPH,Lợi nhuận gộp về BH và CCDV,2021,30858466.0,2025-04-12
+EPH,Lợi nhuận gộp về BH và CCDV,2022,40331235.0,2025-04-12
+EPH,Lợi nhuận gộp về BH và CCDV,2023,45186975.0,2025-04-12
+EPH,Lợi nhuận gộp về BH và CCDV,2024,39291542.0,2025-04-12
+EPH,Lợi nhuận tài chính,2021,331954.0,2025-04-12
+EPH,Lợi nhuận tài chính,2022,274138.0,2025-04-12
+EPH,Lợi nhuận tài chính,2023,313433.0,2025-04-12
+EPH,Lợi nhuận tài chính,2024,86897.0,2025-04-12
+EPH,Lợi nhuận khác,2021,1447.0,2025-04-12
+EPH,Lợi nhuận khác,2022,-40145.0,2025-04-12
+EPH,Lợi nhuận khác,2023,-26890.0,2025-04-12
+EPH,Lợi nhuận khác,2024,-170336.0,2025-04-12
+EPH,Tổng lợi nhuận trước thuế,2021,6679914.0,2025-04-12
+EPH,Tổng lợi nhuận trước thuế,2022,12336154.0,2025-04-12
+EPH,Tổng lợi nhuận trước thuế,2023,13968133.0,2025-04-12
+EPH,Tổng lợi nhuận trước thuế,2024,9018601.0,2025-04-12
+EPH,Lợi nhuận sau thuế,2021,5151715.0,2025-04-12
+EPH,Lợi nhuận sau thuế,2022,8397537.0,2025-04-12
+EPH,Lợi nhuận sau thuế,2023,11037578.0,2025-04-12
+EPH,Lợi nhuận sau thuế,2024,6710500.0,2025-04-12
+EPH,Lợi nhuận sau thuế của công ty mẹ,2021,5151715.0,2025-04-12
+EPH,Lợi nhuận sau thuế của công ty mẹ,2022,8397537.0,2025-04-12
+EPH,Lợi nhuận sau thuế của công ty mẹ,2023,11037578.0,2025-04-12
+EPH,Lợi nhuận sau thuế của công ty mẹ,2024,6710500.0,2025-04-12
+EPH,Tổng tài sản lưu động ngắn hạn,2021,47285893.0,2025-04-12
+EPH,Tổng tài sản lưu động ngắn hạn,2022,39669804.0,2025-04-12
+EPH,Tổng tài sản lưu động ngắn hạn,2023,40794826.0,2025-04-12
+EPH,Tổng tài sản lưu động ngắn hạn,2024,41432099.0,2025-04-12
+EPH,Tổng tài sản,2021,70612536.0,2025-04-12
+EPH,Tổng tài sản,2022,64717735.0,2025-04-12
+EPH,Tổng tài sản,2023,64645641.0,2025-04-12
+EPH,Tổng tài sản,2024,63557897.0,2025-04-12
+EPH,Nợ ngắn hạn,2021,36626363.0,2025-04-12
+EPH,Nợ ngắn hạn,2022,27328154.0,2025-04-12
+EPH,Nợ ngắn hạn,2023,22096142.0,2025-04-12
+EPH,Nợ ngắn hạn,2024,22599778.0,2025-04-12
+EPH,Tổng nợ,2021,36626363.0,2025-04-12
+EPH,Tổng nợ,2022,27328154.0,2025-04-12
+EPH,Tổng nợ,2023,22096142.0,2025-04-12
+EPH,Tổng nợ,2024,22599778.0,2025-04-12
+EPH,Vốn chủ sở hữu,2021,33986173.0,2025-04-12
+EPH,Vốn chủ sở hữu,2022,37389581.0,2025-04-12
+EPH,Vốn chủ sở hữu,2023,42549499.0,2025-04-12
+EPH,Vốn chủ sở hữu,2024,40958120.0,2025-04-12

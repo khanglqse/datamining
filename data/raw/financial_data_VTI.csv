@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+VTI,Doanh thu bán hàng và CCDV,2021,26093344.0,2025-04-12
+VTI,Doanh thu bán hàng và CCDV,2022,11552241.0,2025-04-12
+VTI,Doanh thu bán hàng và CCDV,2023,9247809.0,2025-04-12
+VTI,Doanh thu bán hàng và CCDV,2024,4871069.0,2025-04-12
+VTI,Giá vốn hàng bán,2021,23090266.0,2025-04-12
+VTI,Giá vốn hàng bán,2022,8464505.0,2025-04-12
+VTI,Giá vốn hàng bán,2023,6314600.0,2025-04-12
+VTI,Giá vốn hàng bán,2024,1005506.0,2025-04-12
+VTI,Lợi nhuận gộp về BH và CCDV,2021,3003078.0,2025-04-12
+VTI,Lợi nhuận gộp về BH và CCDV,2022,3087735.0,2025-04-12
+VTI,Lợi nhuận gộp về BH và CCDV,2023,2933209.0,2025-04-12
+VTI,Lợi nhuận gộp về BH và CCDV,2024,3865563.0,2025-04-12
+VTI,Lợi nhuận tài chính,2021,-8468247.0,2025-04-12
+VTI,Lợi nhuận tài chính,2022,-44693.0,2025-04-12
+VTI,Lợi nhuận tài chính,2023,48109173.0,2025-04-12
+VTI,Lợi nhuận tài chính,2024,857729.0,2025-04-12
+VTI,Lợi nhuận khác,2021,-3169.0,2025-04-12
+VTI,Lợi nhuận khác,2022,412.0,2025-04-12
+VTI,Lợi nhuận khác,2023,2609.0,2025-04-12
+VTI,Lợi nhuận khác,2024,-276940.0,2025-04-12
+VTI,Tổng lợi nhuận trước thuế,2021,-8561645.0,2025-04-12
+VTI,Tổng lợi nhuận trước thuế,2022,121872.0,2025-04-12
+VTI,Tổng lợi nhuận trước thuế,2023,49035061.0,2025-04-12
+VTI,Tổng lợi nhuận trước thuế,2024,4107410.0,2025-04-12
+VTI,Lợi nhuận sau thuế,2021,-8561645.0,2025-04-12
+VTI,Lợi nhuận sau thuế,2022,121872.0,2025-04-12
+VTI,Lợi nhuận sau thuế,2023,44464101.0,2025-04-12
+VTI,Lợi nhuận sau thuế,2024,3388972.0,2025-04-12
+VTI,Lợi nhuận sau thuế của công ty mẹ,2021,-8561645.0,2025-04-12
+VTI,Lợi nhuận sau thuế của công ty mẹ,2022,121872.0,2025-04-12
+VTI,Lợi nhuận sau thuế của công ty mẹ,2023,44464101.0,2025-04-12
+VTI,Lợi nhuận sau thuế của công ty mẹ,2024,3388972.0,2025-04-12
+VTI,Tổng tài sản lưu động ngắn hạn,2021,8848712.0,2025-04-12
+VTI,Tổng tài sản lưu động ngắn hạn,2022,3875072.0,2025-04-12
+VTI,Tổng tài sản lưu động ngắn hạn,2023,8804471.0,2025-04-12
+VTI,Tổng tài sản lưu động ngắn hạn,2024,342724.0,2025-04-12
+VTI,Tổng tài sản,2021,12807805.0,2025-04-12
+VTI,Tổng tài sản,2022,7387396.0,2025-04-12
+VTI,Tổng tài sản,2023,12035420.0,2025-04-12
+VTI,Tổng tài sản,2024,3473365.0,2025-04-12
+VTI,Nợ ngắn hạn,2021,277573038.0,2025-04-12
+VTI,Nợ ngắn hạn,2022,265530756.0,2025-04-12
+VTI,Nợ ngắn hạn,2023,238737930.0,2025-04-12
+VTI,Nợ ngắn hạn,2024,226786902.0,2025-04-12
+VTI,Tổng nợ,2021,284096289.0,2025-04-12
+VTI,Tổng nợ,2022,278554007.0,2025-04-12
+VTI,Tổng nợ,2023,238737930.0,2025-04-12
+VTI,Tổng nợ,2024,226786902.0,2025-04-12
+VTI,Vốn chủ sở hữu,2021,-271288484.0,2025-04-12
+VTI,Vốn chủ sở hữu,2022,-271166611.0,2025-04-12
+VTI,Vốn chủ sở hữu,2023,-226702510.0,2025-04-12
+VTI,Vốn chủ sở hữu,2024,-223313538.0,2025-04-12

@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+MCP,Doanh thu bán hàng và CCDV,2020,690359171.0,2025-04-12
+MCP,Doanh thu bán hàng và CCDV,2021,431744239.0,2025-04-12
+MCP,Doanh thu bán hàng và CCDV,2022,515772531.0,2025-04-12
+MCP,Doanh thu bán hàng và CCDV,2023,494021421.0,2025-04-12
+MCP,Giá vốn hàng bán,2020,642254183.0,2025-04-12
+MCP,Giá vốn hàng bán,2021,367955789.0,2025-04-12
+MCP,Giá vốn hàng bán,2022,462348343.0,2025-04-12
+MCP,Giá vốn hàng bán,2023,432645017.0,2025-04-12
+MCP,Lợi nhuận gộp về BH và CCDV,2020,46188749.0,2025-04-12
+MCP,Lợi nhuận gộp về BH và CCDV,2021,63341995.0,2025-04-12
+MCP,Lợi nhuận gộp về BH và CCDV,2022,52251147.0,2025-04-12
+MCP,Lợi nhuận gộp về BH và CCDV,2023,60188528.0,2025-04-12
+MCP,Lợi nhuận tài chính,2020,-522001.0,2025-04-12
+MCP,Lợi nhuận tài chính,2021,-923636.0,2025-04-12
+MCP,Lợi nhuận tài chính,2022,-4950510.0,2025-04-12
+MCP,Lợi nhuận tài chính,2023,-1871503.0,2025-04-12
+MCP,Lợi nhuận khác,2020,15542864.0,2025-04-12
+MCP,Lợi nhuận khác,2021,314799.0,2025-04-12
+MCP,Lợi nhuận khác,2022,19982.0,2025-04-12
+MCP,Lợi nhuận khác,2023,-574525.0,2025-04-12
+MCP,Tổng lợi nhuận trước thuế,2020,24303040.0,2025-04-12
+MCP,Tổng lợi nhuận trước thuế,2021,28392239.0,2025-04-12
+MCP,Tổng lợi nhuận trước thuế,2022,13932380.0,2025-04-12
+MCP,Tổng lợi nhuận trước thuế,2023,22263938.0,2025-04-12
+MCP,Lợi nhuận sau thuế,2020,19297163.0,2025-04-12
+MCP,Lợi nhuận sau thuế,2021,22591406.0,2025-04-12
+MCP,Lợi nhuận sau thuế,2022,11279300.0,2025-04-12
+MCP,Lợi nhuận sau thuế,2023,17441963.0,2025-04-12
+MCP,Lợi nhuận sau thuế của công ty mẹ,2020,19297163.0,2025-04-12
+MCP,Lợi nhuận sau thuế của công ty mẹ,2021,22591406.0,2025-04-12
+MCP,Lợi nhuận sau thuế của công ty mẹ,2022,11279300.0,2025-04-12
+MCP,Lợi nhuận sau thuế của công ty mẹ,2023,17441963.0,2025-04-12
+MCP,Tổng tài sản lưu động ngắn hạn,2020,319600037.0,2025-04-12
+MCP,Tổng tài sản lưu động ngắn hạn,2021,244557379.0,2025-04-12
+MCP,Tổng tài sản lưu động ngắn hạn,2022,222154849.0,2025-04-12
+MCP,Tổng tài sản lưu động ngắn hạn,2023,237818943.0,2025-04-12
+MCP,Tổng tài sản,2020,373143858.0,2025-04-12
+MCP,Tổng tài sản,2021,333795940.0,2025-04-12
+MCP,Tổng tài sản,2022,311411429.0,2025-04-12
+MCP,Tổng tài sản,2023,319084684.0,2025-04-12
+MCP,Nợ ngắn hạn,2020,158730329.0,2025-04-12
+MCP,Nợ ngắn hạn,2021,110803247.0,2025-04-12
+MCP,Nợ ngắn hạn,2022,79382039.0,2025-04-12
+MCP,Nợ ngắn hạn,2023,70741260.0,2025-04-12
+MCP,Tổng nợ,2020,158730329.0,2025-04-12
+MCP,Tổng nợ,2021,110803247.0,2025-04-12
+MCP,Tổng nợ,2022,79382039.0,2025-04-12
+MCP,Tổng nợ,2023,70741260.0,2025-04-12
+MCP,Vốn chủ sở hữu,2020,214413528.0,2025-04-12
+MCP,Vốn chủ sở hữu,2021,222992693.0,2025-04-12
+MCP,Vốn chủ sở hữu,2022,232029391.0,2025-04-12
+MCP,Vốn chủ sở hữu,2023,248343424.0,2025-04-12

@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+DHN,Doanh thu bán hàng và CCDV,2021,80543847.0,2025-04-12
+DHN,Doanh thu bán hàng và CCDV,2022,88835481.0,2025-04-12
+DHN,Doanh thu bán hàng và CCDV,2023,89968717.0,2025-04-12
+DHN,Doanh thu bán hàng và CCDV,2024,85648993.0,2025-04-12
+DHN,Giá vốn hàng bán,2021,51725767.0,2025-04-12
+DHN,Giá vốn hàng bán,2022,56928187.0,2025-04-12
+DHN,Giá vốn hàng bán,2023,56179991.0,2025-04-12
+DHN,Giá vốn hàng bán,2024,49267049.0,2025-04-12
+DHN,Lợi nhuận gộp về BH và CCDV,2021,28790582.0,2025-04-12
+DHN,Lợi nhuận gộp về BH và CCDV,2022,31907294.0,2025-04-12
+DHN,Lợi nhuận gộp về BH và CCDV,2023,33788725.0,2025-04-12
+DHN,Lợi nhuận gộp về BH và CCDV,2024,36381943.0,2025-04-12
+DHN,Lợi nhuận tài chính,2021,1147018.0,2025-04-12
+DHN,Lợi nhuận tài chính,2022,1227822.0,2025-04-12
+DHN,Lợi nhuận tài chính,2023,3944890.0,2025-04-12
+DHN,Lợi nhuận tài chính,2024,2591683.0,2025-04-12
+DHN,Lợi nhuận khác,2021,-62407.0,2025-04-12
+DHN,Lợi nhuận khác,2022,-8884.0,2025-04-12
+DHN,Lợi nhuận khác,2023,24970.0,2025-04-12
+DHN,Lợi nhuận khác,2024,284454.0,2025-04-12
+DHN,Tổng lợi nhuận trước thuế,2021,14271593.0,2025-04-12
+DHN,Tổng lợi nhuận trước thuế,2022,16547116.0,2025-04-12
+DHN,Tổng lợi nhuận trước thuế,2023,19691637.0,2025-04-12
+DHN,Tổng lợi nhuận trước thuế,2024,20284454.0,2025-04-12
+DHN,Lợi nhuận sau thuế,2021,11208066.0,2025-04-12
+DHN,Lợi nhuận sau thuế,2022,12885894.0,2025-04-12
+DHN,Lợi nhuận sau thuế,2023,15355877.0,2025-04-12
+DHN,Lợi nhuận sau thuế,2024,16081883.0,2025-04-12
+DHN,Lợi nhuận sau thuế của công ty mẹ,2021,11208066.0,2025-04-12
+DHN,Lợi nhuận sau thuế của công ty mẹ,2022,12885894.0,2025-04-12
+DHN,Lợi nhuận sau thuế của công ty mẹ,2023,15355877.0,2025-04-12
+DHN,Lợi nhuận sau thuế của công ty mẹ,2024,16081883.0,2025-04-12
+DHN,Tổng tài sản lưu động ngắn hạn,2021,69348397.0,2025-04-12
+DHN,Tổng tài sản lưu động ngắn hạn,2022,65280789.0,2025-04-12
+DHN,Tổng tài sản lưu động ngắn hạn,2023,79365975.0,2025-04-12
+DHN,Tổng tài sản lưu động ngắn hạn,2024,85500330.0,2025-04-12
+DHN,Tổng tài sản,2021,93014972.0,2025-04-12
+DHN,Tổng tài sản,2022,88022689.0,2025-04-12
+DHN,Tổng tài sản,2023,98540685.0,2025-04-12
+DHN,Tổng tài sản,2024,104662814.0,2025-04-12
+DHN,Nợ ngắn hạn,2021,16186098.0,2025-04-12
+DHN,Nợ ngắn hạn,2022,7215181.0,2025-04-12
+DHN,Nợ ngắn hạn,2023,15829700.0,2025-04-12
+DHN,Nợ ngắn hạn,2024,12833847.0,2025-04-12
+DHN,Tổng nợ,2021,16186098.0,2025-04-12
+DHN,Tổng nợ,2022,7215181.0,2025-04-12
+DHN,Tổng nợ,2023,15829700.0,2025-04-12
+DHN,Tổng nợ,2024,12833847.0,2025-04-12
+DHN,Vốn chủ sở hữu,2021,76828874.0,2025-04-12
+DHN,Vốn chủ sở hữu,2022,80807508.0,2025-04-12
+DHN,Vốn chủ sở hữu,2023,82710985.0,2025-04-12
+DHN,Vốn chủ sở hữu,2024,91828967.0,2025-04-12

@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+CNN,Doanh thu bán hàng và CCDV,2021,399435578.0,2025-04-12
+CNN,Doanh thu bán hàng và CCDV,2022,440324731.0,2025-04-12
+CNN,Doanh thu bán hàng và CCDV,2023,495852300.0,2025-04-12
+CNN,Doanh thu bán hàng và CCDV,2024,599109926.0,2025-04-12
+CNN,Giá vốn hàng bán,2021,329577200.0,2025-04-12
+CNN,Giá vốn hàng bán,2022,362527792.0,2025-04-12
+CNN,Giá vốn hàng bán,2023,410095815.0,2025-04-12
+CNN,Giá vốn hàng bán,2024,501213992.0,2025-04-12
+CNN,Lợi nhuận gộp về BH và CCDV,2021,69858378.0,2025-04-12
+CNN,Lợi nhuận gộp về BH và CCDV,2022,77796939.0,2025-04-12
+CNN,Lợi nhuận gộp về BH và CCDV,2023,85756485.0,2025-04-12
+CNN,Lợi nhuận gộp về BH và CCDV,2024,97895934.0,2025-04-12
+CNN,Lợi nhuận tài chính,2021,-5744336.0,2025-04-12
+CNN,Lợi nhuận tài chính,2022,-7444117.0,2025-04-12
+CNN,Lợi nhuận tài chính,2023,-3670982.0,2025-04-12
+CNN,Lợi nhuận tài chính,2024,-2483539.0,2025-04-12
+CNN,Lợi nhuận khác,2021,3321030.0,2025-04-12
+CNN,Lợi nhuận khác,2022,-83829.0,2025-04-12
+CNN,Lợi nhuận khác,2023,3695760.0,2025-04-12
+CNN,Lợi nhuận khác,2024,3778819.0,2025-04-12
+CNN,Tổng lợi nhuận trước thuế,2021,15783075.0,2025-04-12
+CNN,Tổng lợi nhuận trước thuế,2022,18069862.0,2025-04-12
+CNN,Tổng lợi nhuận trước thuế,2023,22641459.0,2025-04-12
+CNN,Tổng lợi nhuận trước thuế,2024,26725302.0,2025-04-12
+CNN,Lợi nhuận sau thuế,2021,12529755.0,2025-04-12
+CNN,Lợi nhuận sau thuế,2022,12556962.0,2025-04-12
+CNN,Lợi nhuận sau thuế,2023,17628636.0,2025-04-12
+CNN,Lợi nhuận sau thuế,2024,21370612.0,2025-04-12
+CNN,Lợi nhuận sau thuế của công ty mẹ,2021,12529755.0,2025-04-12
+CNN,Lợi nhuận sau thuế của công ty mẹ,2022,12556962.0,2025-04-12
+CNN,Lợi nhuận sau thuế của công ty mẹ,2023,17628636.0,2025-04-12
+CNN,Lợi nhuận sau thuế của công ty mẹ,2024,21370612.0,2025-04-12
+CNN,Tổng tài sản lưu động ngắn hạn,2021,406501909.0,2025-04-12
+CNN,Tổng tài sản lưu động ngắn hạn,2022,482253409.0,2025-04-12
+CNN,Tổng tài sản lưu động ngắn hạn,2023,524602378.0,2025-04-12
+CNN,Tổng tài sản lưu động ngắn hạn,2024,575462220.0,2025-04-12
+CNN,Tổng tài sản,2021,804574154.0,2025-04-12
+CNN,Tổng tài sản,2022,874535113.0,2025-04-12
+CNN,Tổng tài sản,2023,895728822.0,2025-04-12
+CNN,Tổng tài sản,2024,938806486.0,2025-04-12
+CNN,Nợ ngắn hạn,2021,443384249.0,2025-04-12
+CNN,Nợ ngắn hạn,2022,510491500.0,2025-04-12
+CNN,Nợ ngắn hạn,2023,570285085.0,2025-04-12
+CNN,Nợ ngắn hạn,2024,623639085.0,2025-04-12
+CNN,Tổng nợ,2021,669594563.0,2025-04-12
+CNN,Tổng nợ,2022,737775338.0,2025-04-12
+CNN,Tổng nợ,2023,753441677.0,2025-04-12
+CNN,Tổng nợ,2024,790214502.0,2025-04-12
+CNN,Vốn chủ sở hữu,2021,134979592.0,2025-04-12
+CNN,Vốn chủ sở hữu,2022,136759775.0,2025-04-12
+CNN,Vốn chủ sở hữu,2023,142287144.0,2025-04-12
+CNN,Vốn chủ sở hữu,2024,148591984.0,2025-04-12

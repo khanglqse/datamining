@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+TBH,Doanh thu thuần về BH và cung cấp DV,2018,23756569.0,2025-04-12
+TBH,Doanh thu thuần về BH và cung cấp DV,2019,21294327.0,2025-04-12
+TBH,Doanh thu thuần về BH và cung cấp DV,2020,18625331.0,2025-04-12
+TBH,Doanh thu thuần về BH và cung cấp DV,2021,4536180.0,2025-04-12
+TBH,Giá vốn hàng bán,2018,1743761.0,2025-04-12
+TBH,Giá vốn hàng bán,2019,4161802.0,2025-04-12
+TBH,Giá vốn hàng bán,2020,9541662.0,2025-04-12
+TBH,Giá vốn hàng bán,2021,6900498.0,2025-04-12
+TBH,Lợi nhuận gộp về BH và cung cấp DV,2018,22012809.0,2025-04-12
+TBH,Lợi nhuận gộp về BH và cung cấp DV,2019,17044565.0,2025-04-12
+TBH,Lợi nhuận gộp về BH và cung cấp DV,2020,9083669.0,2025-04-12
+TBH,Lợi nhuận gộp về BH và cung cấp DV,2021,-2389636.0,2025-04-12
+TBH,Lợi nhuận tài chính,2018,-7009903.0,2025-04-12
+TBH,Lợi nhuận tài chính,2019,-65976798.0,2025-04-12
+TBH,Lợi nhuận tài chính,2020,-5834074.0,2025-04-12
+TBH,Lợi nhuận tài chính,2021,789920554.0,2025-04-12
+TBH,Lợi nhuận khác,2018,1434675.0,2025-04-12
+TBH,Lợi nhuận khác,2019,1219281.0,2025-04-12
+TBH,Lợi nhuận khác,2020,-1726113.0,2025-04-12
+TBH,Lợi nhuận khác,2021,-22472575.0,2025-04-12
+TBH,Tổng lợi nhuận trước thuế,2018,-4094878.0,2025-04-12
+TBH,Tổng lợi nhuận trước thuế,2019,-113252390.0,2025-04-12
+TBH,Tổng lợi nhuận trước thuế,2020,-5487425.0,2025-04-12
+TBH,Tổng lợi nhuận trước thuế,2021,763648778.0,2025-04-12
+TBH,Lợi nhuận sau thuế,2018,-4094878.0,2025-04-12
+TBH,Lợi nhuận sau thuế,2019,-113252390.0,2025-04-12
+TBH,Lợi nhuận sau thuế,2020,-5487425.0,2025-04-12
+TBH,Lợi nhuận sau thuế,2021,709102940.0,2025-04-12
+TBH,Lợi nhuận sau thuế của công ty mẹ,2018,-4094878.0,2025-04-12
+TBH,Lợi nhuận sau thuế của công ty mẹ,2019,-113252390.0,2025-04-12
+TBH,Lợi nhuận sau thuế của công ty mẹ,2020,-5487425.0,2025-04-12
+TBH,Lợi nhuận sau thuế của công ty mẹ,2021,709102940.0,2025-04-12
+TBH,Tổng tài sản lưu động ngắn hạn,2018,76929843.0,2025-04-12
+TBH,Tổng tài sản lưu động ngắn hạn,2019,18270674.0,2025-04-12
+TBH,Tổng tài sản lưu động ngắn hạn,2020,212534985.0,2025-04-12
+TBH,Tổng tài sản lưu động ngắn hạn,2021,411209372.0,2025-04-12
+TBH,Tổng tài sản,2018,88241747.0,2025-04-12
+TBH,Tổng tài sản,2019,27294103.0,2025-04-12
+TBH,Tổng tài sản,2020,926587766.0,2025-04-12
+TBH,Tổng tài sản,2021,1441439182.0,2025-04-12
+TBH,Nợ ngắn hạn,2018,350841927.0,2025-04-12
+TBH,Nợ ngắn hạn,2019,403031459.0,2025-04-12
+TBH,Nợ ngắn hạn,2020,407812546.0,2025-04-12
+TBH,Nợ ngắn hạn,2021,248236572.0,2025-04-12
+TBH,Tổng nợ,2018,350893927.0,2025-04-12
+TBH,Tổng nợ,2019,403083459.0,2025-04-12
+TBH,Tổng nợ,2020,1307864546.0,2025-04-12
+TBH,Tổng nợ,2021,248308572.0,2025-04-12
+TBH,Vốn chủ sở hữu,2018,-262652180.0,2025-04-12
+TBH,Vốn chủ sở hữu,2019,-375789355.0,2025-04-12
+TBH,Vốn chủ sở hữu,2020,-381276780.0,2025-04-12
+TBH,Vốn chủ sở hữu,2021,1193130611.0,2025-04-12

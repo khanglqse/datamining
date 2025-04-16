@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+MST,Doanh thu bán hàng và CCDV,2021,465276910.0,2025-04-12
+MST,Doanh thu bán hàng và CCDV,2022,374831981.0,2025-04-12
+MST,Doanh thu bán hàng và CCDV,2023,1207223329.0,2025-04-12
+MST,Doanh thu bán hàng và CCDV,2024,1273890611.0,2025-04-12
+MST,Giá vốn hàng bán,2021,403058021.0,2025-04-12
+MST,Giá vốn hàng bán,2022,342179785.0,2025-04-12
+MST,Giá vốn hàng bán,2023,1201211247.0,2025-04-12
+MST,Giá vốn hàng bán,2024,1246633671.0,2025-04-12
+MST,Lợi nhuận gộp về BH và CCDV,2021,62218890.0,2025-04-12
+MST,Lợi nhuận gộp về BH và CCDV,2022,32652196.0,2025-04-12
+MST,Lợi nhuận gộp về BH và CCDV,2023,6012082.0,2025-04-12
+MST,Lợi nhuận gộp về BH và CCDV,2024,27256939.0,2025-04-12
+MST,Lợi nhuận tài chính,2021,5597695.0,2025-04-12
+MST,Lợi nhuận tài chính,2022,48935798.0,2025-04-12
+MST,Lợi nhuận tài chính,2023,-12484898.0,2025-04-12
+MST,Lợi nhuận tài chính,2024,592597.0,2025-04-12
+MST,Lợi nhuận khác,2021,-14512.0,2025-04-12
+MST,Lợi nhuận khác,2022,-341499.0,2025-04-12
+MST,Lợi nhuận khác,2023,128483975.0,2025-04-12
+MST,Lợi nhuận khác,2024,-556588.0,2025-04-12
+MST,Tổng lợi nhuận trước thuế,2021,86041953.0,2025-04-12
+MST,Tổng lợi nhuận trước thuế,2022,80865815.0,2025-04-12
+MST,Tổng lợi nhuận trước thuế,2023,90131554.0,2025-04-12
+MST,Tổng lợi nhuận trước thuế,2024,22431597.0,2025-04-12
+MST,Lợi nhuận sau thuế,2021,76900698.0,2025-04-12
+MST,Lợi nhuận sau thuế,2022,72364863.0,2025-04-12
+MST,Lợi nhuận sau thuế,2023,68295218.0,2025-04-12
+MST,Lợi nhuận sau thuế,2024,17139549.0,2025-04-12
+MST,Lợi nhuận sau thuế của công ty mẹ,2021,76313579.0,2025-04-12
+MST,Lợi nhuận sau thuế của công ty mẹ,2022,72299495.0,2025-04-12
+MST,Lợi nhuận sau thuế của công ty mẹ,2023,68295218.0,2025-04-12
+MST,Lợi nhuận sau thuế của công ty mẹ,2024,17139549.0,2025-04-12
+MST,Tổng tài sản lưu động ngắn hạn,2021,1038054598.0,2025-04-12
+MST,Tổng tài sản lưu động ngắn hạn,2022,291161339.0,2025-04-12
+MST,Tổng tài sản lưu động ngắn hạn,2023,203326790.0,2025-04-12
+MST,Tổng tài sản lưu động ngắn hạn,2024,894333839.0,2025-04-12
+MST,Tổng tài sản,2021,1774003517.0,2025-04-12
+MST,Tổng tài sản,2022,1301535458.0,2025-04-12
+MST,Tổng tài sản,2023,1218961957.0,2025-04-12
+MST,Tổng tài sản,2024,1750574055.0,2025-04-12
+MST,Nợ ngắn hạn,2021,933318778.0,2025-04-12
+MST,Nợ ngắn hạn,2022,466345889.0,2025-04-12
+MST,Nợ ngắn hạn,2023,266799122.0,2025-04-12
+MST,Nợ ngắn hạn,2024,781642455.0,2025-04-12
+MST,Tổng nợ,2021,936392718.0,2025-04-12
+MST,Tổng nợ,2022,467484952.0,2025-04-12
+MST,Tổng nợ,2023,387116871.0,2025-04-12
+MST,Tổng nợ,2024,901913420.0,2025-04-12
+MST,Vốn chủ sở hữu,2021,837610799.0,2025-04-12
+MST,Vốn chủ sở hữu,2022,834050505.0,2025-04-12
+MST,Vốn chủ sở hữu,2023,831845086.0,2025-04-12
+MST,Vốn chủ sở hữu,2024,848660635.0,2025-04-12

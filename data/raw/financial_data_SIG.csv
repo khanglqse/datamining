@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+SIG,Doanh thu bán hàng và CCDV,2021,152403699.0,2025-04-12
+SIG,Doanh thu bán hàng và CCDV,2022,111228550.0,2025-04-12
+SIG,Doanh thu bán hàng và CCDV,2023,90754214.0,2025-04-12
+SIG,Doanh thu bán hàng và CCDV,2024,114808787.0,2025-04-12
+SIG,Giá vốn hàng bán,2021,102084418.0,2025-04-12
+SIG,Giá vốn hàng bán,2022,47332875.0,2025-04-12
+SIG,Giá vốn hàng bán,2023,44010136.0,2025-04-12
+SIG,Giá vốn hàng bán,2024,51216683.0,2025-04-12
+SIG,Lợi nhuận gộp về BH và CCDV,2021,50319281.0,2025-04-12
+SIG,Lợi nhuận gộp về BH và CCDV,2022,63895675.0,2025-04-12
+SIG,Lợi nhuận gộp về BH và CCDV,2023,46744078.0,2025-04-12
+SIG,Lợi nhuận gộp về BH và CCDV,2024,63592104.0,2025-04-12
+SIG,Lợi nhuận tài chính,2021,-19286922.0,2025-04-12
+SIG,Lợi nhuận tài chính,2022,-35406465.0,2025-04-12
+SIG,Lợi nhuận tài chính,2023,-39440469.0,2025-04-12
+SIG,Lợi nhuận tài chính,2024,-32287827.0,2025-04-12
+SIG,Lợi nhuận khác,2021,-340063.0,2025-04-12
+SIG,Lợi nhuận khác,2022,14976.0,2025-04-12
+SIG,Lợi nhuận khác,2023,279503.0,2025-04-12
+SIG,Lợi nhuận khác,2024,-953384.0,2025-04-12
+SIG,Tổng lợi nhuận trước thuế,2021,21180770.0,2025-04-12
+SIG,Tổng lợi nhuận trước thuế,2022,16983032.0,2025-04-12
+SIG,Tổng lợi nhuận trước thuế,2023,-705726.0,2025-04-12
+SIG,Tổng lợi nhuận trước thuế,2024,21037507.0,2025-04-12
+SIG,Lợi nhuận sau thuế,2021,18243015.0,2025-04-12
+SIG,Lợi nhuận sau thuế,2022,15735756.0,2025-04-12
+SIG,Lợi nhuận sau thuế,2023,-1516967.0,2025-04-12
+SIG,Lợi nhuận sau thuế,2024,19826321.0,2025-04-12
+SIG,Lợi nhuận sau thuế của công ty mẹ,2021,16425832.0,2025-04-12
+SIG,Lợi nhuận sau thuế của công ty mẹ,2022,8224149.0,2025-04-12
+SIG,Lợi nhuận sau thuế của công ty mẹ,2023,-3689354.0,2025-04-12
+SIG,Lợi nhuận sau thuế của công ty mẹ,2024,12391853.0,2025-04-12
+SIG,Tổng tài sản lưu động ngắn hạn,2021,229222787.0,2025-04-12
+SIG,Tổng tài sản lưu động ngắn hạn,2022,179106061.0,2025-04-12
+SIG,Tổng tài sản lưu động ngắn hạn,2023,134680918.0,2025-04-12
+SIG,Tổng tài sản lưu động ngắn hạn,2024,128305082.0,2025-04-12
+SIG,Tổng tài sản,2021,849970279.0,2025-04-12
+SIG,Tổng tài sản,2022,832580605.0,2025-04-12
+SIG,Tổng tài sản,2023,792458680.0,2025-04-12
+SIG,Tổng tài sản,2024,744015342.0,2025-04-12
+SIG,Nợ ngắn hạn,2021,191450825.0,2025-04-12
+SIG,Nợ ngắn hạn,2022,177382809.0,2025-04-12
+SIG,Nợ ngắn hạn,2023,132828254.0,2025-04-12
+SIG,Nợ ngắn hạn,2024,123218233.0,2025-04-12
+SIG,Tổng nợ,2021,597466959.0,2025-04-12
+SIG,Tổng nợ,2022,558487747.0,2025-04-12
+SIG,Tổng nợ,2023,518844864.0,2025-04-12
+SIG,Tổng nợ,2024,465245391.0,2025-04-12
+SIG,Vốn chủ sở hữu,2021,252503320.0,2025-04-12
+SIG,Vốn chủ sở hữu,2022,274092858.0,2025-04-12
+SIG,Vốn chủ sở hữu,2023,273613816.0,2025-04-12
+SIG,Vốn chủ sở hữu,2024,278769950.0,2025-04-12

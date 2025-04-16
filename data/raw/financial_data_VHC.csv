@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+VHC,Doanh thu bán hàng và CCDV,2020,7165405539.0,2025-04-12
+VHC,Doanh thu bán hàng và CCDV,2021,9060328594.0,2025-04-12
+VHC,Doanh thu bán hàng và CCDV,2022,13463916114.0,2025-04-12
+VHC,Doanh thu bán hàng và CCDV,2023,10075768817.0,2025-04-12
+VHC,Giá vốn hàng bán,2020,6022405771.0,2025-04-12
+VHC,Giá vốn hàng bán,2021,7298428758.0,2025-04-12
+VHC,Giá vốn hàng bán,2022,10254865119.0,2025-04-12
+VHC,Giá vốn hàng bán,2023,8540191778.0,2025-04-12
+VHC,Lợi nhuận gộp về BH và CCDV,2020,1014773886.0,2025-04-12
+VHC,Lợi nhuận gộp về BH và CCDV,2021,1755820160.0,2025-04-12
+VHC,Lợi nhuận gộp về BH và CCDV,2022,2975935067.0,2025-04-12
+VHC,Lợi nhuận gộp về BH và CCDV,2023,1492824674.0,2025-04-12
+VHC,Lợi nhuận tài chính,2020,126007228.0,2025-04-12
+VHC,Lợi nhuận tài chính,2021,88612257.0,2025-04-12
+VHC,Lợi nhuận tài chính,2022,64490358.0,2025-04-12
+VHC,Lợi nhuận tài chính,2023,148486262.0,2025-04-12
+VHC,Lợi nhuận khác,2020,-17890443.0,2025-04-12
+VHC,Lợi nhuận khác,2021,-7824280.0,2025-04-12
+VHC,Lợi nhuận khác,2022,3757187.0,2025-04-12
+VHC,Lợi nhuận khác,2023,26866633.0,2025-04-12
+VHC,Tổng lợi nhuận trước thuế,2020,803270316.0,2025-04-12
+VHC,Tổng lợi nhuận trước thuế,2021,1279554866.0,2025-04-12
+VHC,Tổng lợi nhuận trước thuế,2022,2322917663.0,2025-04-12
+VHC,Tổng lợi nhuận trước thuế,2023,1145028260.0,2025-04-12
+VHC,Lợi nhuận sau thuế,2020,719298771.0,2025-04-12
+VHC,Lợi nhuận sau thuế,2021,1106553958.0,2025-04-12
+VHC,Lợi nhuận sau thuế,2022,2012919885.0,2025-04-12
+VHC,Lợi nhuận sau thuế,2023,977846274.0,2025-04-12
+VHC,Lợi nhuận sau thuế của công ty mẹ,2020,719308370.0,2025-04-12
+VHC,Lợi nhuận sau thuế của công ty mẹ,2021,1098959364.0,2025-04-12
+VHC,Lợi nhuận sau thuế của công ty mẹ,2022,1975232341.0,2025-04-12
+VHC,Lợi nhuận sau thuế của công ty mẹ,2023,919191033.0,2025-04-12
+VHC,Tổng tài sản lưu động ngắn hạn,2020,4735480615.0,2025-04-12
+VHC,Tổng tài sản lưu động ngắn hạn,2021,5542588932.0,2025-04-12
+VHC,Tổng tài sản lưu động ngắn hạn,2022,7640362199.0,2025-04-12
+VHC,Tổng tài sản lưu động ngắn hạn,2023,7888156658.0,2025-04-12
+VHC,Tổng tài sản,2020,7201862313.0,2025-04-12
+VHC,Tổng tài sản,2021,8737627022.0,2025-04-12
+VHC,Tổng tài sản,2022,11583289703.0,2025-04-12
+VHC,Tổng tài sản,2023,11942549471.0,2025-04-12
+VHC,Nợ ngắn hạn,2020,1941003568.0,2025-04-12
+VHC,Nợ ngắn hạn,2021,2680066010.0,2025-04-12
+VHC,Nợ ngắn hạn,2022,3698134022.0,2025-04-12
+VHC,Nợ ngắn hạn,2023,3232914913.0,2025-04-12
+VHC,Tổng nợ,2020,2026131281.0,2025-04-12
+VHC,Tổng nợ,2021,2853677751.0,2025-04-12
+VHC,Tổng nợ,2022,3888901504.0,2025-04-12
+VHC,Tổng nợ,2023,3351493695.0,2025-04-12
+VHC,Vốn chủ sở hữu,2020,5175731032.0,2025-04-12
+VHC,Vốn chủ sở hữu,2021,5883949271.0,2025-04-12
+VHC,Vốn chủ sở hữu,2022,7694388199.0,2025-04-12
+VHC,Vốn chủ sở hữu,2023,8591055776.0,2025-04-12

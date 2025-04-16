@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+SED,Doanh thu bán hàng và CCDV,2020,610605502.0,2025-04-12
+SED,Doanh thu bán hàng và CCDV,2021,690568557.0,2025-04-12
+SED,Doanh thu bán hàng và CCDV,2022,916967456.0,2025-04-12
+SED,Doanh thu bán hàng và CCDV,2024,1337505037.0,2025-04-12
+SED,Giá vốn hàng bán,2020,440064663.0,2025-04-12
+SED,Giá vốn hàng bán,2021,511748097.0,2025-04-12
+SED,Giá vốn hàng bán,2022,676524878.0,2025-04-12
+SED,Giá vốn hàng bán,2024,1021823786.0,2025-04-12
+SED,Lợi nhuận gộp về BH và CCDV,2020,164070137.0,2025-04-12
+SED,Lợi nhuận gộp về BH và CCDV,2021,173597045.0,2025-04-12
+SED,Lợi nhuận gộp về BH và CCDV,2022,230844603.0,2025-04-12
+SED,Lợi nhuận gộp về BH và CCDV,2024,309409751.0,2025-04-12
+SED,Lợi nhuận tài chính,2020,-3171264.0,2025-04-12
+SED,Lợi nhuận tài chính,2021,-4185820.0,2025-04-12
+SED,Lợi nhuận tài chính,2022,-4385702.0,2025-04-12
+SED,Lợi nhuận tài chính,2024,-68240.0,2025-04-12
+SED,Lợi nhuận khác,2020,415954.0,2025-04-12
+SED,Lợi nhuận khác,2021,366550.0,2025-04-12
+SED,Lợi nhuận khác,2022,523247.0,2025-04-12
+SED,Lợi nhuận khác,2024,200917.0,2025-04-12
+SED,Tổng lợi nhuận trước thuế,2020,49562622.0,2025-04-12
+SED,Tổng lợi nhuận trước thuế,2021,50321788.0,2025-04-12
+SED,Tổng lợi nhuận trước thuế,2022,51577724.0,2025-04-12
+SED,Tổng lợi nhuận trước thuế,2024,78667602.0,2025-04-12
+SED,Lợi nhuận sau thuế,2020,37670167.0,2025-04-12
+SED,Lợi nhuận sau thuế,2021,38255162.0,2025-04-12
+SED,Lợi nhuận sau thuế,2022,37912298.0,2025-04-12
+SED,Lợi nhuận sau thuế,2024,60985587.0,2025-04-12
+SED,Lợi nhuận sau thuế của công ty mẹ,2020,37670167.0,2025-04-12
+SED,Lợi nhuận sau thuế của công ty mẹ,2021,38255162.0,2025-04-12
+SED,Lợi nhuận sau thuế của công ty mẹ,2022,37912298.0,2025-04-12
+SED,Lợi nhuận sau thuế của công ty mẹ,2024,60985587.0,2025-04-12
+SED,Tổng tài sản lưu động ngắn hạn,2020,286849325.0,2025-04-12
+SED,Tổng tài sản lưu động ngắn hạn,2021,392385800.0,2025-04-12
+SED,Tổng tài sản lưu động ngắn hạn,2022,379408807.0,2025-04-12
+SED,Tổng tài sản lưu động ngắn hạn,2024,506663218.0,2025-04-12
+SED,Tổng tài sản,2020,393580605.0,2025-04-12
+SED,Tổng tài sản,2021,496962491.0,2025-04-12
+SED,Tổng tài sản,2022,491384039.0,2025-04-12
+SED,Tổng tài sản,2024,584431895.0,2025-04-12
+SED,Nợ ngắn hạn,2020,136356109.0,2025-04-12
+SED,Nợ ngắn hạn,2021,232088815.0,2025-04-12
+SED,Nợ ngắn hạn,2022,214511746.0,2025-04-12
+SED,Nợ ngắn hạn,2024,273149526.0,2025-04-12
+SED,Tổng nợ,2020,153039084.0,2025-04-12
+SED,Tổng nợ,2021,237649706.0,2025-04-12
+SED,Tổng nợ,2022,214511746.0,2025-04-12
+SED,Tổng nợ,2024,273149526.0,2025-04-12
+SED,Vốn chủ sở hữu,2020,240541521.0,2025-04-12
+SED,Vốn chủ sở hữu,2021,259312785.0,2025-04-12
+SED,Vốn chủ sở hữu,2022,276872293.0,2025-04-12
+SED,Vốn chủ sở hữu,2024,333868792.0,2025-04-12

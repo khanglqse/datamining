@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+APT,Doanh thu bán hàng và CCDV,2021,304359629.0,2025-04-12
+APT,Doanh thu bán hàng và CCDV,2022,250167460.0,2025-04-12
+APT,Doanh thu bán hàng và CCDV,2023,249485638.0,2025-04-12
+APT,Doanh thu bán hàng và CCDV,2024,251225418.0,2025-04-12
+APT,Giá vốn hàng bán,2021,260273080.0,2025-04-12
+APT,Giá vốn hàng bán,2022,204517264.0,2025-04-12
+APT,Giá vốn hàng bán,2023,206434099.0,2025-04-12
+APT,Giá vốn hàng bán,2024,208294554.0,2025-04-12
+APT,Lợi nhuận gộp về BH và CCDV,2021,42777995.0,2025-04-12
+APT,Lợi nhuận gộp về BH và CCDV,2022,45494476.0,2025-04-12
+APT,Lợi nhuận gộp về BH và CCDV,2023,40375904.0,2025-04-12
+APT,Lợi nhuận gộp về BH và CCDV,2024,42176601.0,2025-04-12
+APT,Lợi nhuận tài chính,2021,-131877082.0,2025-04-12
+APT,Lợi nhuận tài chính,2022,-146952751.0,2025-04-12
+APT,Lợi nhuận tài chính,2023,-138135199.0,2025-04-12
+APT,Lợi nhuận tài chính,2024,-204964288.0,2025-04-12
+APT,Lợi nhuận khác,2021,-221676.0,2025-04-12
+APT,Lợi nhuận khác,2022,1051986.0,2025-04-12
+APT,Lợi nhuận khác,2023,270146.0,2025-04-12
+APT,Lợi nhuận khác,2024,-41953.0,2025-04-12
+APT,Tổng lợi nhuận trước thuế,2021,-138711298.0,2025-04-12
+APT,Tổng lợi nhuận trước thuế,2022,-140994924.0,2025-04-12
+APT,Tổng lợi nhuận trước thuế,2023,-135954868.0,2025-04-12
+APT,Tổng lợi nhuận trước thuế,2024,-201409503.0,2025-04-12
+APT,Lợi nhuận sau thuế,2021,-138711298.0,2025-04-12
+APT,Lợi nhuận sau thuế,2022,-140994924.0,2025-04-12
+APT,Lợi nhuận sau thuế,2023,-135954868.0,2025-04-12
+APT,Lợi nhuận sau thuế,2024,-201409503.0,2025-04-12
+APT,Lợi nhuận sau thuế của công ty mẹ,2021,-138711298.0,2025-04-12
+APT,Lợi nhuận sau thuế của công ty mẹ,2022,-140994924.0,2025-04-12
+APT,Lợi nhuận sau thuế của công ty mẹ,2023,-135954868.0,2025-04-12
+APT,Lợi nhuận sau thuế của công ty mẹ,2024,-201409503.0,2025-04-12
+APT,Tổng tài sản lưu động ngắn hạn,2021,88046003.0,2025-04-12
+APT,Tổng tài sản lưu động ngắn hạn,2022,89451089.0,2025-04-12
+APT,Tổng tài sản lưu động ngắn hạn,2023,103715915.0,2025-04-12
+APT,Tổng tài sản lưu động ngắn hạn,2024,108266618.0,2025-04-12
+APT,Tổng tài sản,2021,162733663.0,2025-04-12
+APT,Tổng tài sản,2022,161321365.0,2025-04-12
+APT,Tổng tài sản,2023,170305297.0,2025-04-12
+APT,Tổng tài sản,2024,175914240.0,2025-04-12
+APT,Nợ ngắn hạn,2021,1147747859.0,2025-04-12
+APT,Nợ ngắn hạn,2022,1287415359.0,2025-04-12
+APT,Nợ ngắn hạn,2023,1431836841.0,2025-04-12
+APT,Nợ ngắn hạn,2024,1639461110.0,2025-04-12
+APT,Tổng nợ,2021,1150499488.0,2025-04-12
+APT,Tổng nợ,2022,1290082115.0,2025-04-12
+APT,Tổng nợ,2023,1435020913.0,2025-04-12
+APT,Tổng nợ,2024,1642039359.0,2025-04-12
+APT,Vốn chủ sở hữu,2021,-987765826.0,2025-04-12
+APT,Vốn chủ sở hữu,2022,-1128760749.0,2025-04-12
+APT,Vốn chủ sở hữu,2023,-1264715617.0,2025-04-12
+APT,Vốn chủ sở hữu,2024,-1466125120.0,2025-04-12

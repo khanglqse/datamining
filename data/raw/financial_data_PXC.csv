@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+PXC,Doanh thu bán hàng và CCDV,2017,161048002.0,2025-04-12
+PXC,Doanh thu bán hàng và CCDV,2018,9651711.0,2025-04-12
+PXC,Doanh thu bán hàng và CCDV,2021,5495085.0,2025-04-12
+PXC,Doanh thu bán hàng và CCDV,2022,738061.0,2025-04-12
+PXC,Giá vốn hàng bán,2017,154424694.0,2025-04-12
+PXC,Giá vốn hàng bán,2018,69788613.0,2025-04-12
+PXC,Giá vốn hàng bán,2021,5495085.0,2025-04-12
+PXC,Giá vốn hàng bán,2022,1621825.0,2025-04-12
+PXC,Lợi nhuận gộp về BH và CCDV,2017,6623307.0,2025-04-12
+PXC,Lợi nhuận gộp về BH và CCDV,2018,-60136902.0,2025-04-12
+PXC,Lợi nhuận gộp về BH và CCDV,2021,1.0,2025-04-12
+PXC,Lợi nhuận gộp về BH và CCDV,2022,-883764.0,2025-04-12
+PXC,Lợi nhuận tài chính,2017,-60583313.0,2025-04-12
+PXC,Lợi nhuận tài chính,2018,-18991019.0,2025-04-12
+PXC,Lợi nhuận tài chính,2021,15917.0,2025-04-12
+PXC,Lợi nhuận tài chính,2022,-3811.0,2025-04-12
+PXC,Lợi nhuận khác,2017,-6764173.0,2025-04-12
+PXC,Lợi nhuận khác,2018,692913.0,2025-04-12
+PXC,Lợi nhuận khác,2021,-245690.0,2025-04-12
+PXC,Lợi nhuận khác,2022,-346044.0,2025-04-12
+PXC,Tổng lợi nhuận trước thuế,2017,-72741073.0,2025-04-12
+PXC,Tổng lợi nhuận trước thuế,2018,-81693824.0,2025-04-12
+PXC,Tổng lợi nhuận trước thuế,2021,-1840528.0,2025-04-12
+PXC,Tổng lợi nhuận trước thuế,2022,-2862402.0,2025-04-12
+PXC,Lợi nhuận sau thuế,2017,-72741073.0,2025-04-12
+PXC,Lợi nhuận sau thuế,2018,-81693824.0,2025-04-12
+PXC,Lợi nhuận sau thuế,2021,-1840528.0,2025-04-12
+PXC,Lợi nhuận sau thuế,2022,-2862402.0,2025-04-12
+PXC,Lợi nhuận sau thuế của công ty mẹ,2017,-72741073.0,2025-04-12
+PXC,Lợi nhuận sau thuế của công ty mẹ,2018,-81693824.0,2025-04-12
+PXC,Lợi nhuận sau thuế của công ty mẹ,2021,-1840528.0,2025-04-12
+PXC,Lợi nhuận sau thuế của công ty mẹ,2022,-2862402.0,2025-04-12
+PXC,Tổng tài sản lưu động ngắn hạn,2017,262558860.0,2025-04-12
+PXC,Tổng tài sản lưu động ngắn hạn,2018,186806386.0,2025-04-12
+PXC,Tổng tài sản lưu động ngắn hạn,2021,18702490.0,2025-04-12
+PXC,Tổng tài sản lưu động ngắn hạn,2022,12146484.0,2025-04-12
+PXC,Tổng tài sản,2017,271615954.0,2025-04-12
+PXC,Tổng tài sản,2018,195179706.0,2025-04-12
+PXC,Tổng tài sản,2021,25347020.0,2025-04-12
+PXC,Tổng tài sản,2022,18280524.0,2025-04-12
+PXC,Nợ ngắn hạn,2017,361626432.0,2025-04-12
+PXC,Nợ ngắn hạn,2018,366884008.0,2025-04-12
+PXC,Nợ ngắn hạn,2021,207233876.0,2025-04-12
+PXC,Nợ ngắn hạn,2022,203029783.0,2025-04-12
+PXC,Tổng nợ,2017,361626432.0,2025-04-12
+PXC,Tổng nợ,2018,366884008.0,2025-04-12
+PXC,Tổng nợ,2021,207233876.0,2025-04-12
+PXC,Tổng nợ,2022,203029783.0,2025-04-12
+PXC,Vốn chủ sở hữu,2017,-90010478.0,2025-04-12
+PXC,Vốn chủ sở hữu,2018,-171704301.0,2025-04-12
+PXC,Vốn chủ sở hữu,2021,-181886856.0,2025-04-12
+PXC,Vốn chủ sở hữu,2022,-184749258.0,2025-04-12

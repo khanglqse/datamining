@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+VOS,Doanh thu bán hàng và CCDV,2021,1423851692.0,2025-04-12
+VOS,Doanh thu bán hàng và CCDV,2022,2420426097.0,2025-04-12
+VOS,Doanh thu bán hàng và CCDV,2023,3188690187.0,2025-04-12
+VOS,Doanh thu bán hàng và CCDV,2024,5576148117.0,2025-04-12
+VOS,Giá vốn hàng bán,2021,970741511.0,2025-04-12
+VOS,Giá vốn hàng bán,2022,1682669187.0,2025-04-12
+VOS,Giá vốn hàng bán,2023,3005664031.0,2025-04-12
+VOS,Giá vốn hàng bán,2024,5448985063.0,2025-04-12
+VOS,Lợi nhuận gộp về BH và CCDV,2021,453110181.0,2025-04-12
+VOS,Lợi nhuận gộp về BH và CCDV,2022,737756910.0,2025-04-12
+VOS,Lợi nhuận gộp về BH và CCDV,2023,181808549.0,2025-04-12
+VOS,Lợi nhuận gộp về BH và CCDV,2024,127137894.0,2025-04-12
+VOS,Lợi nhuận tài chính,2021,47601994.0,2025-04-12
+VOS,Lợi nhuận tài chính,2022,-23840783.0,2025-04-12
+VOS,Lợi nhuận tài chính,2023,32293863.0,2025-04-12
+VOS,Lợi nhuận tài chính,2024,54531953.0,2025-04-12
+VOS,Lợi nhuận khác,2021,150795130.0,2025-04-12
+VOS,Lợi nhuận khác,2022,74636061.0,2025-04-12
+VOS,Lợi nhuận khác,2023,119086655.0,2025-04-12
+VOS,Lợi nhuận khác,2024,393245461.0,2025-04-12
+VOS,Tổng lợi nhuận trước thuế,2021,505169154.0,2025-04-12
+VOS,Tổng lợi nhuận trước thuế,2022,605597018.0,2025-04-12
+VOS,Tổng lợi nhuận trước thuế,2023,200243037.0,2025-04-12
+VOS,Tổng lợi nhuận trước thuế,2024,417934859.0,2025-04-12
+VOS,Lợi nhuận sau thuế,2021,490303891.0,2025-04-12
+VOS,Lợi nhuận sau thuế,2022,487942031.0,2025-04-12
+VOS,Lợi nhuận sau thuế,2023,155371166.0,2025-04-12
+VOS,Lợi nhuận sau thuế,2024,335255268.0,2025-04-12
+VOS,Lợi nhuận sau thuế của công ty mẹ,2021,490303891.0,2025-04-12
+VOS,Lợi nhuận sau thuế của công ty mẹ,2022,487942031.0,2025-04-12
+VOS,Lợi nhuận sau thuế của công ty mẹ,2023,155371166.0,2025-04-12
+VOS,Lợi nhuận sau thuế của công ty mẹ,2024,335255268.0,2025-04-12
+VOS,Tổng tài sản lưu động ngắn hạn,2021,1092054866.0,2025-04-12
+VOS,Tổng tài sản lưu động ngắn hạn,2022,1198397078.0,2025-04-12
+VOS,Tổng tài sản lưu động ngắn hạn,2023,1581022453.0,2025-04-12
+VOS,Tổng tài sản lưu động ngắn hạn,2024,2098918084.0,2025-04-12
+VOS,Tổng tài sản,2021,2746617755.0,2025-04-12
+VOS,Tổng tài sản,2022,2678096572.0,2025-04-12
+VOS,Tổng tài sản,2023,2715145833.0,2025-04-12
+VOS,Tổng tài sản,2024,2891191737.0,2025-04-12
+VOS,Nợ ngắn hạn,2021,726956204.0,2025-04-12
+VOS,Nợ ngắn hạn,2022,631249177.0,2025-04-12
+VOS,Nợ ngắn hạn,2023,524269917.0,2025-04-12
+VOS,Nợ ngắn hạn,2024,409545996.0,2025-04-12
+VOS,Tổng nợ,2021,1737507625.0,2025-04-12
+VOS,Tổng nợ,2022,1150042445.0,2025-04-12
+VOS,Tổng nợ,2023,1043003752.0,2025-04-12
+VOS,Tổng nợ,2024,902267291.0,2025-04-12
+VOS,Vốn chủ sở hữu,2021,1009110130.0,2025-04-12
+VOS,Vốn chủ sở hữu,2022,1528054126.0,2025-04-12
+VOS,Vốn chủ sở hữu,2023,1672142081.0,2025-04-12
+VOS,Vốn chủ sở hữu,2024,1988924446.0,2025-04-12

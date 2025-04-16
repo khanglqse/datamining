@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+TBX,Doanh thu bán hàng và CCDV,2022,19851530.0,2025-04-12
+TBX,Doanh thu bán hàng và CCDV,2023,18240566.0,2025-04-12
+TBX,Doanh thu bán hàng và CCDV,2023,18240566.0,2025-04-12
+TBX,Doanh thu bán hàng và CCDV,2024,17804148.0,2025-04-12
+TBX,Giá vốn hàng bán,2022,15519037.0,2025-04-12
+TBX,Giá vốn hàng bán,2023,14687823.0,2025-04-12
+TBX,Giá vốn hàng bán,2023,14687823.0,2025-04-12
+TBX,Giá vốn hàng bán,2024,13971562.0,2025-04-12
+TBX,Lợi nhuận gộp về BH và CCDV,2022,4332493.0,2025-04-12
+TBX,Lợi nhuận gộp về BH và CCDV,2023,3552743.0,2025-04-12
+TBX,Lợi nhuận gộp về BH và CCDV,2023,3552743.0,2025-04-12
+TBX,Lợi nhuận gộp về BH và CCDV,2024,3832586.0,2025-04-12
+TBX,Lợi nhuận tài chính,2022,707.0,2025-04-12
+TBX,Lợi nhuận tài chính,2023,234.0,2025-04-12
+TBX,Lợi nhuận tài chính,2023,234.0,2025-04-12
+TBX,Lợi nhuận tài chính,2024,-10721.0,2025-04-12
+TBX,Lợi nhuận khác,2022,16792.0,2025-04-12
+TBX,Lợi nhuận khác,2023,33066.0,2025-04-12
+TBX,Lợi nhuận khác,2023,33066.0,2025-04-12
+TBX,Lợi nhuận khác,2024,19393.0,2025-04-12
+TBX,Tổng lợi nhuận trước thuế,2022,346834.0,2025-04-12
+TBX,Tổng lợi nhuận trước thuế,2023,-259185.0,2025-04-12
+TBX,Tổng lợi nhuận trước thuế,2023,-259185.0,2025-04-12
+TBX,Tổng lợi nhuận trước thuế,2024,101870.0,2025-04-12
+TBX,Lợi nhuận sau thuế,2022,346834.0,2025-04-12
+TBX,Lợi nhuận sau thuế,2023,-259185.0,2025-04-12
+TBX,Lợi nhuận sau thuế,2023,-259185.0,2025-04-12
+TBX,Lợi nhuận sau thuế,2024,101870.0,2025-04-12
+TBX,Lợi nhuận sau thuế của công ty mẹ,2022,346834.0,2025-04-12
+TBX,Lợi nhuận sau thuế của công ty mẹ,2023,-259185.0,2025-04-12
+TBX,Lợi nhuận sau thuế của công ty mẹ,2023,-259185.0,2025-04-12
+TBX,Lợi nhuận sau thuế của công ty mẹ,2024,101870.0,2025-04-12
+TBX,Tổng tài sản lưu động ngắn hạn,2022,19459955.0,2025-04-12
+TBX,Tổng tài sản lưu động ngắn hạn,2023,14518510.0,2025-04-12
+TBX,Tổng tài sản lưu động ngắn hạn,2023,14518510.0,2025-04-12
+TBX,Tổng tài sản lưu động ngắn hạn,2024,16169548.0,2025-04-12
+TBX,Tổng tài sản,2022,25870120.0,2025-04-12
+TBX,Tổng tài sản,2023,24035285.0,2025-04-12
+TBX,Tổng tài sản,2023,24035285.0,2025-04-12
+TBX,Tổng tài sản,2024,24296033.0,2025-04-12
+TBX,Nợ ngắn hạn,2022,5495145.0,2025-04-12
+TBX,Nợ ngắn hạn,2023,3919495.0,2025-04-12
+TBX,Nợ ngắn hạn,2023,3919495.0,2025-04-12
+TBX,Nợ ngắn hạn,2024,4078373.0,2025-04-12
+TBX,Tổng nợ,2022,5495145.0,2025-04-12
+TBX,Tổng nợ,2023,3919495.0,2025-04-12
+TBX,Tổng nợ,2023,3919495.0,2025-04-12
+TBX,Tổng nợ,2024,4078373.0,2025-04-12
+TBX,Vốn chủ sở hữu,2022,20374975.0,2025-04-12
+TBX,Vốn chủ sở hữu,2023,20115790.0,2025-04-12
+TBX,Vốn chủ sở hữu,2023,20115790.0,2025-04-12
+TBX,Vốn chủ sở hữu,2024,20217660.0,2025-04-12

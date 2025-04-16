@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+VIN,Doanh thu bán hàng và CCDV,2021,226039262.0,2025-04-12
+VIN,Doanh thu bán hàng và CCDV,2022,214175613.0,2025-04-12
+VIN,Doanh thu bán hàng và CCDV,2023,142428665.0,2025-04-12
+VIN,Doanh thu bán hàng và CCDV,2024,165676939.0,2025-04-12
+VIN,Giá vốn hàng bán,2021,218884096.0,2025-04-12
+VIN,Giá vốn hàng bán,2022,187400228.0,2025-04-12
+VIN,Giá vốn hàng bán,2023,118128236.0,2025-04-12
+VIN,Giá vốn hàng bán,2024,143180689.0,2025-04-12
+VIN,Lợi nhuận gộp về BH và CCDV,2021,7155166.0,2025-04-12
+VIN,Lợi nhuận gộp về BH và CCDV,2022,26775386.0,2025-04-12
+VIN,Lợi nhuận gộp về BH và CCDV,2023,24300429.0,2025-04-12
+VIN,Lợi nhuận gộp về BH và CCDV,2024,22496250.0,2025-04-12
+VIN,Lợi nhuận tài chính,2021,44745746.0,2025-04-12
+VIN,Lợi nhuận tài chính,2022,65467206.0,2025-04-12
+VIN,Lợi nhuận tài chính,2023,30517151.0,2025-04-12
+VIN,Lợi nhuận tài chính,2024,26888161.0,2025-04-12
+VIN,Lợi nhuận khác,2021,501129.0,2025-04-12
+VIN,Lợi nhuận khác,2022,149770.0,2025-04-12
+VIN,Lợi nhuận khác,2023,282988.0,2025-04-12
+VIN,Lợi nhuận khác,2024,1065918.0,2025-04-12
+VIN,Tổng lợi nhuận trước thuế,2021,50917075.0,2025-04-12
+VIN,Tổng lợi nhuận trước thuế,2022,86900117.0,2025-04-12
+VIN,Tổng lợi nhuận trước thuế,2023,44607772.0,2025-04-12
+VIN,Tổng lợi nhuận trước thuế,2024,29904136.0,2025-04-12
+VIN,Lợi nhuận sau thuế,2021,49168785.0,2025-04-12
+VIN,Lợi nhuận sau thuế,2022,86100514.0,2025-04-12
+VIN,Lợi nhuận sau thuế,2023,43342137.0,2025-04-12
+VIN,Lợi nhuận sau thuế,2024,29289527.0,2025-04-12
+VIN,Lợi nhuận sau thuế của công ty mẹ,2021,49129023.0,2025-04-12
+VIN,Lợi nhuận sau thuế của công ty mẹ,2022,86156269.0,2025-04-12
+VIN,Lợi nhuận sau thuế của công ty mẹ,2023,43257350.0,2025-04-12
+VIN,Lợi nhuận sau thuế của công ty mẹ,2024,29223785.0,2025-04-12
+VIN,Tổng tài sản lưu động ngắn hạn,2021,214557099.0,2025-04-12
+VIN,Tổng tài sản lưu động ngắn hạn,2022,263544427.0,2025-04-12
+VIN,Tổng tài sản lưu động ngắn hạn,2023,215916432.0,2025-04-12
+VIN,Tổng tài sản lưu động ngắn hạn,2024,190178552.0,2025-04-12
+VIN,Tổng tài sản,2021,541506481.0,2025-04-12
+VIN,Tổng tài sản,2022,607477959.0,2025-04-12
+VIN,Tổng tài sản,2023,592961356.0,2025-04-12
+VIN,Tổng tài sản,2024,596317378.0,2025-04-12
+VIN,Nợ ngắn hạn,2021,43408417.0,2025-04-12
+VIN,Nợ ngắn hạn,2022,45149931.0,2025-04-12
+VIN,Nợ ngắn hạn,2023,31701911.0,2025-04-12
+VIN,Nợ ngắn hạn,2024,23322802.0,2025-04-12
+VIN,Tổng nợ,2021,43867417.0,2025-04-12
+VIN,Tổng nợ,2022,46858026.0,2025-04-12
+VIN,Tổng nợ,2023,32876656.0,2025-04-12
+VIN,Tổng nợ,2024,24802547.0,2025-04-12
+VIN,Vốn chủ sở hữu,2021,497639065.0,2025-04-12
+VIN,Vốn chủ sở hữu,2022,560619932.0,2025-04-12
+VIN,Vốn chủ sở hữu,2023,560084701.0,2025-04-12
+VIN,Vốn chủ sở hữu,2024,571514831.0,2025-04-12

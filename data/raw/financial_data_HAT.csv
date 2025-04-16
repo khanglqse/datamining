@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+HAT,Doanh thu bán hàng và CCDV,2021,448689918.0,2025-04-12
+HAT,Doanh thu bán hàng và CCDV,2022,1079745522.0,2025-04-12
+HAT,Doanh thu bán hàng và CCDV,2023,1234414895.0,2025-04-12
+HAT,Doanh thu bán hàng và CCDV,2024,1349671891.0,2025-04-12
+HAT,Giá vốn hàng bán,2021,425977477.0,2025-04-12
+HAT,Giá vốn hàng bán,2022,999749170.0,2025-04-12
+HAT,Giá vốn hàng bán,2023,1142357690.0,2025-04-12
+HAT,Giá vốn hàng bán,2024,1243479727.0,2025-04-12
+HAT,Lợi nhuận gộp về BH và CCDV,2021,22712441.0,2025-04-12
+HAT,Lợi nhuận gộp về BH và CCDV,2022,79996352.0,2025-04-12
+HAT,Lợi nhuận gộp về BH và CCDV,2023,91724289.0,2025-04-12
+HAT,Lợi nhuận gộp về BH và CCDV,2024,105803645.0,2025-04-12
+HAT,Lợi nhuận tài chính,2021,4276386.0,2025-04-12
+HAT,Lợi nhuận tài chính,2022,4891638.0,2025-04-12
+HAT,Lợi nhuận tài chính,2023,9650885.0,2025-04-12
+HAT,Lợi nhuận tài chính,2024,6653078.0,2025-04-12
+HAT,Lợi nhuận khác,2021,6284266.0,2025-04-12
+HAT,Lợi nhuận khác,2022,2591669.0,2025-04-12
+HAT,Lợi nhuận khác,2023,3018929.0,2025-04-12
+HAT,Lợi nhuận khác,2024,1558352.0,2025-04-12
+HAT,Tổng lợi nhuận trước thuế,2021,1977881.0,2025-04-12
+HAT,Tổng lợi nhuận trước thuế,2022,23780059.0,2025-04-12
+HAT,Tổng lợi nhuận trước thuế,2023,31114454.0,2025-04-12
+HAT,Tổng lợi nhuận trước thuế,2024,23473608.0,2025-04-12
+HAT,Lợi nhuận sau thuế,2021,1065296.0,2025-04-12
+HAT,Lợi nhuận sau thuế,2022,18404543.0,2025-04-12
+HAT,Lợi nhuận sau thuế,2023,24830750.0,2025-04-12
+HAT,Lợi nhuận sau thuế,2024,18760975.0,2025-04-12
+HAT,Lợi nhuận sau thuế của công ty mẹ,2021,1065296.0,2025-04-12
+HAT,Lợi nhuận sau thuế của công ty mẹ,2022,18404543.0,2025-04-12
+HAT,Lợi nhuận sau thuế của công ty mẹ,2023,24830750.0,2025-04-12
+HAT,Lợi nhuận sau thuế của công ty mẹ,2024,18760975.0,2025-04-12
+HAT,Tổng tài sản lưu động ngắn hạn,2021,79276490.0,2025-04-12
+HAT,Tổng tài sản lưu động ngắn hạn,2022,138871550.0,2025-04-12
+HAT,Tổng tài sản lưu động ngắn hạn,2023,162572034.0,2025-04-12
+HAT,Tổng tài sản lưu động ngắn hạn,2024,165660193.0,2025-04-12
+HAT,Tổng tài sản,2021,127728069.0,2025-04-12
+HAT,Tổng tài sản,2022,174383964.0,2025-04-12
+HAT,Tổng tài sản,2023,196524361.0,2025-04-12
+HAT,Tổng tài sản,2024,215392465.0,2025-04-12
+HAT,Nợ ngắn hạn,2021,76238163.0,2025-04-12
+HAT,Nợ ngắn hạn,2022,108036215.0,2025-04-12
+HAT,Nợ ngắn hạn,2023,127549401.0,2025-04-12
+HAT,Nợ ngắn hạn,2024,138307423.0,2025-04-12
+HAT,Tổng nợ,2021,76238163.0,2025-04-12
+HAT,Tổng nợ,2022,108036215.0,2025-04-12
+HAT,Tổng nợ,2023,127549401.0,2025-04-12
+HAT,Tổng nợ,2024,138307423.0,2025-04-12
+HAT,Vốn chủ sở hữu,2021,51489906.0,2025-04-12
+HAT,Vốn chủ sở hữu,2022,66347748.0,2025-04-12
+HAT,Vốn chủ sở hữu,2023,68974960.0,2025-04-12
+HAT,Vốn chủ sở hữu,2024,77085041.0,2025-04-12

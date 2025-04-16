@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+VSC,Doanh thu bán hàng và CCDV,2021,1892131002.0,2025-04-12
+VSC,Doanh thu bán hàng và CCDV,2022,2007397495.0,2025-04-12
+VSC,Doanh thu bán hàng và CCDV,2023,2180945412.0,2025-04-12
+VSC,Doanh thu bán hàng và CCDV,2024,2787912701.0,2025-04-12
+VSC,Giá vốn hàng bán,2021,1289742189.0,2025-04-12
+VSC,Giá vốn hàng bán,2022,1348668597.0,2025-04-12
+VSC,Giá vốn hàng bán,2023,1526506042.0,2025-04-12
+VSC,Giá vốn hàng bán,2024,1944451859.0,2025-04-12
+VSC,Lợi nhuận gộp về BH và CCDV,2021,602388813.0,2025-04-12
+VSC,Lợi nhuận gộp về BH và CCDV,2022,658728897.0,2025-04-12
+VSC,Lợi nhuận gộp về BH và CCDV,2023,654439369.0,2025-04-12
+VSC,Lợi nhuận gộp về BH và CCDV,2024,843460842.0,2025-04-12
+VSC,Lợi nhuận tài chính,2021,11037366.0,2025-04-12
+VSC,Lợi nhuận tài chính,2022,29581054.0,2025-04-12
+VSC,Lợi nhuận tài chính,2023,-141494816.0,2025-04-12
+VSC,Lợi nhuận tài chính,2024,44655191.0,2025-04-12
+VSC,Lợi nhuận khác,2021,-5736750.0,2025-04-12
+VSC,Lợi nhuận khác,2022,-7089961.0,2025-04-12
+VSC,Lợi nhuận khác,2023,-2904459.0,2025-04-12
+VSC,Lợi nhuận khác,2024,-24605521.0,2025-04-12
+VSC,Tổng lợi nhuận trước thuế,2021,482691289.0,2025-04-12
+VSC,Tổng lợi nhuận trước thuế,2022,476912730.0,2025-04-12
+VSC,Tổng lợi nhuận trước thuế,2023,265130587.0,2025-04-12
+VSC,Tổng lợi nhuận trước thuế,2024,524577842.0,2025-04-12
+VSC,Lợi nhuận sau thuế,2021,413802538.0,2025-04-12
+VSC,Lợi nhuận sau thuế,2022,393139127.0,2025-04-12
+VSC,Lợi nhuận sau thuế,2023,199022026.0,2025-04-12
+VSC,Lợi nhuận sau thuế,2024,434539229.0,2025-04-12
+VSC,Lợi nhuận sau thuế của công ty mẹ,2021,349944709.0,2025-04-12
+VSC,Lợi nhuận sau thuế của công ty mẹ,2022,314293593.0,2025-04-12
+VSC,Lợi nhuận sau thuế của công ty mẹ,2023,123623360.0,2025-04-12
+VSC,Lợi nhuận sau thuế của công ty mẹ,2024,336159900.0,2025-04-12
+VSC,Tổng tài sản lưu động ngắn hạn,2021,1442493728.0,2025-04-12
+VSC,Tổng tài sản lưu động ngắn hạn,2022,1305795538.0,2025-04-12
+VSC,Tổng tài sản lưu động ngắn hạn,2023,1346116796.0,2025-04-12
+VSC,Tổng tài sản lưu động ngắn hạn,2024,1811557309.0,2025-04-12
+VSC,Tổng tài sản,2021,3266420441.0,2025-04-12
+VSC,Tổng tài sản,2022,4366810324.0,2025-04-12
+VSC,Tổng tài sản,2023,5190925854.0,2025-04-12
+VSC,Tổng tài sản,2024,7795129595.0,2025-04-12
+VSC,Nợ ngắn hạn,2021,269050115.0,2025-04-12
+VSC,Nợ ngắn hạn,2022,433716637.0,2025-04-12
+VSC,Nợ ngắn hạn,2023,403171566.0,2025-04-12
+VSC,Nợ ngắn hạn,2024,715021124.0,2025-04-12
+VSC,Tổng nợ,2021,270292574.0,2025-04-12
+VSC,Tổng nợ,2022,1165609977.0,2025-04-12
+VSC,Tổng nợ,2023,1896618957.0,2025-04-12
+VSC,Tổng nợ,2024,2899013876.0,2025-04-12
+VSC,Vốn chủ sở hữu,2021,2996127868.0,2025-04-12
+VSC,Vốn chủ sở hữu,2022,3201200347.0,2025-04-12
+VSC,Vốn chủ sở hữu,2023,3294306897.0,2025-04-12
+VSC,Vốn chủ sở hữu,2024,4896115718.0,2025-04-12

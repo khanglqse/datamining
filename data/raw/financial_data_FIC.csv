@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+FIC,Doanh thu bán hàng và CCDV,2021,1500558028.0,2025-04-12
+FIC,Doanh thu bán hàng và CCDV,2022,1675898484.0,2025-04-12
+FIC,Doanh thu bán hàng và CCDV,2023,1347408534.0,2025-04-12
+FIC,Doanh thu bán hàng và CCDV,2024,1380301050.0,2025-04-12
+FIC,Giá vốn hàng bán,2021,1240906758.0,2025-04-12
+FIC,Giá vốn hàng bán,2022,1372947713.0,2025-04-12
+FIC,Giá vốn hàng bán,2023,1100229549.0,2025-04-12
+FIC,Giá vốn hàng bán,2024,1181403033.0,2025-04-12
+FIC,Lợi nhuận gộp về BH và CCDV,2021,219940572.0,2025-04-12
+FIC,Lợi nhuận gộp về BH và CCDV,2022,262599637.0,2025-04-12
+FIC,Lợi nhuận gộp về BH và CCDV,2023,225181829.0,2025-04-12
+FIC,Lợi nhuận gộp về BH và CCDV,2024,187776176.0,2025-04-12
+FIC,Lợi nhuận tài chính,2021,-37396636.0,2025-04-12
+FIC,Lợi nhuận tài chính,2022,-27137026.0,2025-04-12
+FIC,Lợi nhuận tài chính,2023,-29472900.0,2025-04-12
+FIC,Lợi nhuận tài chính,2024,-16386459.0,2025-04-12
+FIC,Lợi nhuận khác,2021,3855090.0,2025-04-12
+FIC,Lợi nhuận khác,2022,-853552.0,2025-04-12
+FIC,Lợi nhuận khác,2023,-1608537.0,2025-04-12
+FIC,Lợi nhuận khác,2024,-3400876.0,2025-04-12
+FIC,Tổng lợi nhuận trước thuế,2021,123211969.0,2025-04-12
+FIC,Tổng lợi nhuận trước thuế,2022,134001310.0,2025-04-12
+FIC,Tổng lợi nhuận trước thuế,2023,74174499.0,2025-04-12
+FIC,Tổng lợi nhuận trước thuế,2024,94946190.0,2025-04-12
+FIC,Lợi nhuận sau thuế,2021,97971987.0,2025-04-12
+FIC,Lợi nhuận sau thuế,2022,114894586.0,2025-04-12
+FIC,Lợi nhuận sau thuế,2023,55608659.0,2025-04-12
+FIC,Lợi nhuận sau thuế,2024,82518091.0,2025-04-12
+FIC,Lợi nhuận sau thuế của công ty mẹ,2021,98815171.0,2025-04-12
+FIC,Lợi nhuận sau thuế của công ty mẹ,2022,98748682.0,2025-04-12
+FIC,Lợi nhuận sau thuế của công ty mẹ,2023,55940407.0,2025-04-12
+FIC,Lợi nhuận sau thuế của công ty mẹ,2024,83441448.0,2025-04-12
+FIC,Tổng tài sản lưu động ngắn hạn,2021,1165141589.0,2025-04-12
+FIC,Tổng tài sản lưu động ngắn hạn,2022,1236495469.0,2025-04-12
+FIC,Tổng tài sản lưu động ngắn hạn,2023,1314147406.0,2025-04-12
+FIC,Tổng tài sản lưu động ngắn hạn,2024,1392183465.0,2025-04-12
+FIC,Tổng tài sản,2021,2764838962.0,2025-04-12
+FIC,Tổng tài sản,2022,2714445628.0,2025-04-12
+FIC,Tổng tài sản,2023,2735554700.0,2025-04-12
+FIC,Tổng tài sản,2024,2730966375.0,2025-04-12
+FIC,Nợ ngắn hạn,2021,1096385414.0,2025-04-12
+FIC,Nợ ngắn hạn,2022,1019192638.0,2025-04-12
+FIC,Nợ ngắn hạn,2023,1078153353.0,2025-04-12
+FIC,Nợ ngắn hạn,2024,1112376719.0,2025-04-12
+FIC,Tổng nợ,2021,1171480236.0,2025-04-12
+FIC,Tổng nợ,2022,1084734591.0,2025-04-12
+FIC,Tổng nợ,2023,1143771934.0,2025-04-12
+FIC,Tổng nợ,2024,1180037914.0,2025-04-12
+FIC,Vốn chủ sở hữu,2021,1593358725.0,2025-04-12
+FIC,Vốn chủ sở hữu,2022,1629711037.0,2025-04-12
+FIC,Vốn chủ sở hữu,2023,1591782764.0,2025-04-12
+FIC,Vốn chủ sở hữu,2024,1550928461.0,2025-04-12

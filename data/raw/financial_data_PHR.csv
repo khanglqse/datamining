@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+PHR,Doanh thu bán hàng và CCDV,2020,1634501074.0,2025-04-12
+PHR,Doanh thu bán hàng và CCDV,2021,1950253483.0,2025-04-12
+PHR,Doanh thu bán hàng và CCDV,2022,1711767583.0,2025-04-12
+PHR,Doanh thu bán hàng và CCDV,2023,1353609068.0,2025-04-12
+PHR,Giá vốn hàng bán,2020,1242917569.0,2025-04-12
+PHR,Giá vốn hàng bán,2021,1428872575.0,2025-04-12
+PHR,Giá vốn hàng bán,2022,1307114101.0,2025-04-12
+PHR,Giá vốn hàng bán,2023,1023979785.0,2025-04-12
+PHR,Lợi nhuận gộp về BH và CCDV,2020,388730676.0,2025-04-12
+PHR,Lợi nhuận gộp về BH và CCDV,2021,516562051.0,2025-04-12
+PHR,Lợi nhuận gộp về BH và CCDV,2022,401465298.0,2025-04-12
+PHR,Lợi nhuận gộp về BH và CCDV,2023,327044284.0,2025-04-12
+PHR,Lợi nhuận tài chính,2020,134127292.0,2025-04-12
+PHR,Lợi nhuận tài chính,2021,210796599.0,2025-04-12
+PHR,Lợi nhuận tài chính,2022,158790592.0,2025-04-12
+PHR,Lợi nhuận tài chính,2023,156420257.0,2025-04-12
+PHR,Lợi nhuận khác,2020,934980982.0,2025-04-12
+PHR,Lợi nhuận khác,2021,30548079.0,2025-04-12
+PHR,Lợi nhuận khác,2022,693715286.0,2025-04-12
+PHR,Lợi nhuận khác,2023,359769682.0,2025-04-12
+PHR,Tổng lợi nhuận trước thuế,2020,1382257983.0,2025-04-12
+PHR,Tổng lợi nhuận trước thuế,2021,597482135.0,2025-04-12
+PHR,Tổng lợi nhuận trước thuế,2022,1127211155.0,2025-04-12
+PHR,Tổng lợi nhuận trước thuế,2023,791961741.0,2025-04-12
+PHR,Lợi nhuận sau thuế,2020,1125049425.0,2025-04-12
+PHR,Lợi nhuận sau thuế,2021,513380268.0,2025-04-12
+PHR,Lợi nhuận sau thuế,2022,925732134.0,2025-04-12
+PHR,Lợi nhuận sau thuế,2023,661288002.0,2025-04-12
+PHR,Lợi nhuận sau thuế của công ty mẹ,2020,1081917777.0,2025-04-12
+PHR,Lợi nhuận sau thuế của công ty mẹ,2021,477512702.0,2025-04-12
+PHR,Lợi nhuận sau thuế của công ty mẹ,2022,885441686.0,2025-04-12
+PHR,Lợi nhuận sau thuế của công ty mẹ,2023,619711049.0,2025-04-12
+PHR,Tổng tài sản lưu động ngắn hạn,2020,3110756991.0,2025-04-12
+PHR,Tổng tài sản lưu động ngắn hạn,2021,2738366419.0,2025-04-12
+PHR,Tổng tài sản lưu động ngắn hạn,2022,3055201601.0,2025-04-12
+PHR,Tổng tài sản lưu động ngắn hạn,2023,2761558840.0,2025-04-12
+PHR,Tổng tài sản,2020,6538924776.0,2025-04-12
+PHR,Tổng tài sản,2021,6027084468.0,2025-04-12
+PHR,Tổng tài sản,2022,6328511411.0,2025-04-12
+PHR,Tổng tài sản,2023,6160532491.0,2025-04-12
+PHR,Nợ ngắn hạn,2020,1136931679.0,2025-04-12
+PHR,Nợ ngắn hạn,2021,1191719829.0,2025-04-12
+PHR,Nợ ngắn hạn,2022,1293854071.0,2025-04-12
+PHR,Nợ ngắn hạn,2023,882868362.0,2025-04-12
+PHR,Tổng nợ,2020,3227633789.0,2025-04-12
+PHR,Tổng nợ,2021,2917913812.0,2025-04-12
+PHR,Tổng nợ,2022,2893288702.0,2025-04-12
+PHR,Tổng nợ,2023,2346294739.0,2025-04-12
+PHR,Vốn chủ sở hữu,2020,3311290987.0,2025-04-12
+PHR,Vốn chủ sở hữu,2021,3109170656.0,2025-04-12
+PHR,Vốn chủ sở hữu,2022,3435222709.0,2025-04-12
+PHR,Vốn chủ sở hữu,2023,3814237751.0,2025-04-12

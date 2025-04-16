@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+CMK,Doanh thu bán hàng và CCDV,2021,189319042.0,2025-04-12
+CMK,Doanh thu bán hàng và CCDV,2022,198501399.0,2025-04-12
+CMK,Doanh thu bán hàng và CCDV,2023,159009333.0,2025-04-12
+CMK,Doanh thu bán hàng và CCDV,2024,173904126.0,2025-04-12
+CMK,Giá vốn hàng bán,2021,163456251.0,2025-04-12
+CMK,Giá vốn hàng bán,2022,172402620.0,2025-04-12
+CMK,Giá vốn hàng bán,2023,134926910.0,2025-04-12
+CMK,Giá vốn hàng bán,2024,142415010.0,2025-04-12
+CMK,Lợi nhuận gộp về BH và CCDV,2021,25862791.0,2025-04-12
+CMK,Lợi nhuận gộp về BH và CCDV,2022,26098779.0,2025-04-12
+CMK,Lợi nhuận gộp về BH và CCDV,2023,24082423.0,2025-04-12
+CMK,Lợi nhuận gộp về BH và CCDV,2024,31489116.0,2025-04-12
+CMK,Lợi nhuận tài chính,2021,-6163370.0,2025-04-12
+CMK,Lợi nhuận tài chính,2022,-5937393.0,2025-04-12
+CMK,Lợi nhuận tài chính,2023,-5657864.0,2025-04-12
+CMK,Lợi nhuận tài chính,2024,-1877504.0,2025-04-12
+CMK,Lợi nhuận khác,2021,-61119.0,2025-04-12
+CMK,Lợi nhuận khác,2022,-90954.0,2025-04-12
+CMK,Lợi nhuận khác,2023,111706.0,2025-04-12
+CMK,Lợi nhuận khác,2024,766643.0,2025-04-12
+CMK,Tổng lợi nhuận trước thuế,2021,2251672.0,2025-04-12
+CMK,Tổng lợi nhuận trước thuế,2022,2550774.0,2025-04-12
+CMK,Tổng lợi nhuận trước thuế,2023,1094035.0,2025-04-12
+CMK,Tổng lợi nhuận trước thuế,2024,1654757.0,2025-04-12
+CMK,Lợi nhuận sau thuế,2021,1752631.0,2025-04-12
+CMK,Lợi nhuận sau thuế,2022,1565334.0,2025-04-12
+CMK,Lợi nhuận sau thuế,2023,88911.0,2025-04-12
+CMK,Lợi nhuận sau thuế,2024,1157576.0,2025-04-12
+CMK,Lợi nhuận sau thuế của công ty mẹ,2021,1752631.0,2025-04-12
+CMK,Lợi nhuận sau thuế của công ty mẹ,2022,1565334.0,2025-04-12
+CMK,Lợi nhuận sau thuế của công ty mẹ,2023,88911.0,2025-04-12
+CMK,Lợi nhuận sau thuế của công ty mẹ,2024,1157576.0,2025-04-12
+CMK,Tổng tài sản lưu động ngắn hạn,2021,135825653.0,2025-04-12
+CMK,Tổng tài sản lưu động ngắn hạn,2022,139375960.0,2025-04-12
+CMK,Tổng tài sản lưu động ngắn hạn,2023,92920167.0,2025-04-12
+CMK,Tổng tài sản lưu động ngắn hạn,2024,85822007.0,2025-04-12
+CMK,Tổng tài sản,2021,163887734.0,2025-04-12
+CMK,Tổng tài sản,2022,167442850.0,2025-04-12
+CMK,Tổng tài sản,2023,116336710.0,2025-04-12
+CMK,Tổng tài sản,2024,112126152.0,2025-04-12
+CMK,Nợ ngắn hạn,2021,144769970.0,2025-04-12
+CMK,Nợ ngắn hạn,2022,144617181.0,2025-04-12
+CMK,Nợ ngắn hạn,2023,97888134.0,2025-04-12
+CMK,Nợ ngắn hạn,2024,93494001.0,2025-04-12
+CMK,Tổng nợ,2021,148048570.0,2025-04-12
+CMK,Tổng nợ,2022,145659942.0,2025-04-12
+CMK,Tổng nợ,2023,97888134.0,2025-04-12
+CMK,Tổng nợ,2024,93494001.0,2025-04-12
+CMK,Vốn chủ sở hữu,2021,15839163.0,2025-04-12
+CMK,Vốn chủ sở hữu,2022,21782907.0,2025-04-12
+CMK,Vốn chủ sở hữu,2023,18026328.0,2025-04-12
+CMK,Vốn chủ sở hữu,2024,18632151.0,2025-04-12

@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+ASP,Doanh thu bán hàng và CCDV,2020,1910483565.0,2025-04-12
+ASP,Doanh thu bán hàng và CCDV,2022,4116613290.0,2025-04-12
+ASP,Doanh thu bán hàng và CCDV,2023,3828566252.0,2025-04-12
+ASP,Doanh thu bán hàng và CCDV,2024,3334606587.0,2025-04-12
+ASP,Giá vốn hàng bán,2020,1818233912.0,2025-04-12
+ASP,Giá vốn hàng bán,2022,3700181202.0,2025-04-12
+ASP,Giá vốn hàng bán,2023,3330814801.0,2025-04-12
+ASP,Giá vốn hàng bán,2024,2986483325.0,2025-04-12
+ASP,Lợi nhuận gộp về BH và CCDV,2020,92249653.0,2025-04-12
+ASP,Lợi nhuận gộp về BH và CCDV,2022,381886734.0,2025-04-12
+ASP,Lợi nhuận gộp về BH và CCDV,2023,391878036.0,2025-04-12
+ASP,Lợi nhuận gộp về BH và CCDV,2024,320253649.0,2025-04-12
+ASP,Lợi nhuận tài chính,2020,-30821186.0,2025-04-12
+ASP,Lợi nhuận tài chính,2022,-44626308.0,2025-04-12
+ASP,Lợi nhuận tài chính,2023,-56665454.0,2025-04-12
+ASP,Lợi nhuận tài chính,2024,-31566737.0,2025-04-12
+ASP,Lợi nhuận khác,2020,90379.0,2025-04-12
+ASP,Lợi nhuận khác,2022,64049377.0,2025-04-12
+ASP,Lợi nhuận khác,2023,52976226.0,2025-04-12
+ASP,Lợi nhuận khác,2024,7294993.0,2025-04-12
+ASP,Tổng lợi nhuận trước thuế,2020,19184511.0,2025-04-12
+ASP,Tổng lợi nhuận trước thuế,2022,22349630.0,2025-04-12
+ASP,Tổng lợi nhuận trước thuế,2023,-71860020.0,2025-04-12
+ASP,Tổng lợi nhuận trước thuế,2024,1329182.0,2025-04-12
+ASP,Lợi nhuận sau thuế,2020,18171310.0,2025-04-12
+ASP,Lợi nhuận sau thuế,2022,13687118.0,2025-04-12
+ASP,Lợi nhuận sau thuế,2023,-84200723.0,2025-04-12
+ASP,Lợi nhuận sau thuế,2024,5339097.0,2025-04-12
+ASP,Lợi nhuận sau thuế của công ty mẹ,2020,18171310.0,2025-04-12
+ASP,Lợi nhuận sau thuế của công ty mẹ,2022,1514241.0,2025-04-12
+ASP,Lợi nhuận sau thuế của công ty mẹ,2023,-83431904.0,2025-04-12
+ASP,Lợi nhuận sau thuế của công ty mẹ,2024,7129426.0,2025-04-12
+ASP,Tổng tài sản lưu động ngắn hạn,2020,730016690.0,2025-04-12
+ASP,Tổng tài sản lưu động ngắn hạn,2022,1097024480.0,2025-04-12
+ASP,Tổng tài sản lưu động ngắn hạn,2023,1309627182.0,2025-04-12
+ASP,Tổng tài sản lưu động ngắn hạn,2024,809260745.0,2025-04-12
+ASP,Tổng tài sản,2020,1546654076.0,2025-04-12
+ASP,Tổng tài sản,2022,2103068828.0,2025-04-12
+ASP,Tổng tài sản,2023,2271855661.0,2025-04-12
+ASP,Tổng tài sản,2024,1560334898.0,2025-04-12
+ASP,Nợ ngắn hạn,2020,901303995.0,2025-04-12
+ASP,Nợ ngắn hạn,2022,1376492456.0,2025-04-12
+ASP,Nợ ngắn hạn,2023,1647573925.0,2025-04-12
+ASP,Nợ ngắn hạn,2024,1198593326.0,2025-04-12
+ASP,Tổng nợ,2020,1069888795.0,2025-04-12
+ASP,Tổng nợ,2022,1612685897.0,2025-04-12
+ASP,Tổng nợ,2023,1881448429.0,2025-04-12
+ASP,Tổng nợ,2024,1253234665.0,2025-04-12
+ASP,Vốn chủ sở hữu,2020,476765281.0,2025-04-12
+ASP,Vốn chủ sở hữu,2022,490382931.0,2025-04-12
+ASP,Vốn chủ sở hữu,2023,390407232.0,2025-04-12
+ASP,Vốn chủ sở hữu,2024,307100233.0,2025-04-12

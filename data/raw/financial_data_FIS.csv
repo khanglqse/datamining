@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+FIS,Doanh thu bán hàng và CCDV,2010,3246543084.0,2025-04-12
+FIS,Doanh thu bán hàng và CCDV,2011,4234357405.0,2025-04-12
+FIS,Doanh thu bán hàng và CCDV,2012,4046023068.0,2025-04-12
+FIS,Doanh thu bán hàng và CCDV,2013,4480252717.0,2025-04-12
+FIS,Giá vốn hàng bán,2010,2449992119.0,2025-04-12
+FIS,Giá vốn hàng bán,2011,3228403895.0,2025-04-12
+FIS,Giá vốn hàng bán,2012,3256323616.0,2025-04-12
+FIS,Giá vốn hàng bán,2013,3561099595.0,2025-04-12
+FIS,Lợi nhuận gộp về BH và CCDV,2010,794277725.0,2025-04-12
+FIS,Lợi nhuận gộp về BH và CCDV,2011,1005007685.0,2025-04-12
+FIS,Lợi nhuận gộp về BH và CCDV,2012,788512838.0,2025-04-12
+FIS,Lợi nhuận gộp về BH và CCDV,2013,918471093.0,2025-04-12
+FIS,Lợi nhuận tài chính,2010,-5325072.0,2025-04-12
+FIS,Lợi nhuận tài chính,2011,-9294294.0,2025-04-12
+FIS,Lợi nhuận tài chính,2012,6796393.0,2025-04-12
+FIS,Lợi nhuận tài chính,2013,-256147.0,2025-04-12
+FIS,Lợi nhuận khác,2010,16583650.0,2025-04-12
+FIS,Lợi nhuận khác,2011,19312190.0,2025-04-12
+FIS,Lợi nhuận khác,2012,8942761.0,2025-04-12
+FIS,Lợi nhuận khác,2013,20986667.0,2025-04-12
+FIS,Tổng lợi nhuận trước thuế,2010,483970719.0,2025-04-12
+FIS,Tổng lợi nhuận trước thuế,2011,578825060.0,2025-04-12
+FIS,Tổng lợi nhuận trước thuế,2012,482837905.0,2025-04-12
+FIS,Tổng lợi nhuận trước thuế,2013,458953333.0,2025-04-12
+FIS,Lợi nhuận sau thuế,2010,396663831.0,2025-04-12
+FIS,Lợi nhuận sau thuế,2011,473867467.0,2025-04-12
+FIS,Lợi nhuận sau thuế,2012,384139130.0,2025-04-12
+FIS,Lợi nhuận sau thuế,2013,372814796.0,2025-04-12
+FIS,Lợi nhuận sau thuế của công ty mẹ,2010,397610001.0,2025-04-12
+FIS,Lợi nhuận sau thuế của công ty mẹ,2011,473839659.0,2025-04-12
+FIS,Lợi nhuận sau thuế của công ty mẹ,2012,384276923.0,2025-04-12
+FIS,Lợi nhuận sau thuế của công ty mẹ,2013,372562661.0,2025-04-12
+FIS,Tổng tài sản lưu động ngắn hạn,2010,1938803832.0,2025-04-12
+FIS,Tổng tài sản lưu động ngắn hạn,2011,2820121046.0,2025-04-12
+FIS,Tổng tài sản lưu động ngắn hạn,2012,2876192735.0,2025-04-12
+FIS,Tổng tài sản lưu động ngắn hạn,2013,3090776864.0,2025-04-12
+FIS,Tổng tài sản,2010,2054644940.0,2025-04-12
+FIS,Tổng tài sản,2011,2951036248.0,2025-04-12
+FIS,Tổng tài sản,2012,3082712616.0,2025-04-12
+FIS,Tổng tài sản,2013,3305290943.0,2025-04-12
+FIS,Nợ ngắn hạn,2010,1219870512.0,2025-04-12
+FIS,Nợ ngắn hạn,2011,1672446789.0,2025-04-12
+FIS,Nợ ngắn hạn,2012,1977656538.0,2025-04-12
+FIS,Nợ ngắn hạn,2013,2154966942.0,2025-04-12
+FIS,Tổng nợ,2010,1220725335.0,2025-04-12
+FIS,Tổng nợ,2011,1713420042.0,2025-04-12
+FIS,Tổng nợ,2012,1979432347.0,2025-04-12
+FIS,Tổng nợ,2013,2155239098.0,2025-04-12
+FIS,Vốn chủ sở hữu,2010,784915775.0,2025-04-12
+FIS,Vốn chủ sở hữu,2011,1188584568.0,2025-04-12
+FIS,Vốn chủ sở hữu,2012,1054236424.0,2025-04-12
+FIS,Vốn chủ sở hữu,2013,1100755865.0,2025-04-12

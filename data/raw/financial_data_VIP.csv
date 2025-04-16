@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+VIP,Doanh thu bán hàng và CCDV,2021,681572163.0,2025-04-12
+VIP,Doanh thu bán hàng và CCDV,2022,876132151.0,2025-04-12
+VIP,Doanh thu bán hàng và CCDV,2023,549613585.0,2025-04-12
+VIP,Doanh thu bán hàng và CCDV,2024,569810705.0,2025-04-12
+VIP,Giá vốn hàng bán,2021,634668890.0,2025-04-12
+VIP,Giá vốn hàng bán,2022,722572857.0,2025-04-12
+VIP,Giá vốn hàng bán,2023,432355191.0,2025-04-12
+VIP,Giá vốn hàng bán,2024,422043696.0,2025-04-12
+VIP,Lợi nhuận gộp về BH và CCDV,2021,46719408.0,2025-04-12
+VIP,Lợi nhuận gộp về BH và CCDV,2022,153559294.0,2025-04-12
+VIP,Lợi nhuận gộp về BH và CCDV,2023,117258395.0,2025-04-12
+VIP,Lợi nhuận gộp về BH và CCDV,2024,147767010.0,2025-04-12
+VIP,Lợi nhuận tài chính,2021,-3076354.0,2025-04-12
+VIP,Lợi nhuận tài chính,2022,12829789.0,2025-04-12
+VIP,Lợi nhuận tài chính,2023,53510485.0,2025-04-12
+VIP,Lợi nhuận tài chính,2024,31859939.0,2025-04-12
+VIP,Lợi nhuận khác,2021,40280086.0,2025-04-12
+VIP,Lợi nhuận khác,2022,217561691.0,2025-04-12
+VIP,Lợi nhuận khác,2023,1109354.0,2025-04-12
+VIP,Lợi nhuận khác,2024,11215496.0,2025-04-12
+VIP,Tổng lợi nhuận trước thuế,2021,21430055.0,2025-04-12
+VIP,Tổng lợi nhuận trước thuế,2022,308799969.0,2025-04-12
+VIP,Tổng lợi nhuận trước thuế,2023,108668478.0,2025-04-12
+VIP,Tổng lợi nhuận trước thuế,2024,118110537.0,2025-04-12
+VIP,Lợi nhuận sau thuế,2021,10497185.0,2025-04-12
+VIP,Lợi nhuận sau thuế,2022,247545366.0,2025-04-12
+VIP,Lợi nhuận sau thuế,2023,86938072.0,2025-04-12
+VIP,Lợi nhuận sau thuế,2024,92905968.0,2025-04-12
+VIP,Lợi nhuận sau thuế của công ty mẹ,2021,10497185.0,2025-04-12
+VIP,Lợi nhuận sau thuế của công ty mẹ,2022,247545366.0,2025-04-12
+VIP,Lợi nhuận sau thuế của công ty mẹ,2023,86938072.0,2025-04-12
+VIP,Lợi nhuận sau thuế của công ty mẹ,2024,92905968.0,2025-04-12
+VIP,Tổng tài sản lưu động ngắn hạn,2021,745687159.0,2025-04-12
+VIP,Tổng tài sản lưu động ngắn hạn,2022,891313538.0,2025-04-12
+VIP,Tổng tài sản lưu động ngắn hạn,2023,952336589.0,2025-04-12
+VIP,Tổng tài sản lưu động ngắn hạn,2024,1019895257.0,2025-04-12
+VIP,Tổng tài sản,2021,1472308329.0,2025-04-12
+VIP,Tổng tài sản,2022,1459307013.0,2025-04-12
+VIP,Tổng tài sản,2023,1427393581.0,2025-04-12
+VIP,Tổng tài sản,2024,1391228301.0,2025-04-12
+VIP,Nợ ngắn hạn,2021,182939043.0,2025-04-12
+VIP,Nợ ngắn hạn,2022,126892970.0,2025-04-12
+VIP,Nợ ngắn hạn,2023,137115977.0,2025-04-12
+VIP,Nợ ngắn hạn,2024,65099003.0,2025-04-12
+VIP,Tổng nợ,2021,388603271.0,2025-04-12
+VIP,Tổng nợ,2022,162715902.0,2025-04-12
+VIP,Tổng nợ,2023,152683345.0,2025-04-12
+VIP,Tổng nợ,2024,109224869.0,2025-04-12
+VIP,Vốn chủ sở hữu,2021,1083705057.0,2025-04-12
+VIP,Vốn chủ sở hữu,2022,1296591111.0,2025-04-12
+VIP,Vốn chủ sở hữu,2023,1274710235.0,2025-04-12
+VIP,Vốn chủ sở hữu,2024,1282003432.0,2025-04-12

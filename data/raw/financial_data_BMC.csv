@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+BMC,Doanh thu bán hàng và CCDV,2021,137444674.0,2025-04-12
+BMC,Doanh thu bán hàng và CCDV,2022,183075772.0,2025-04-12
+BMC,Doanh thu bán hàng và CCDV,2023,179941814.0,2025-04-12
+BMC,Doanh thu bán hàng và CCDV,2024,195319562.0,2025-04-12
+BMC,Giá vốn hàng bán,2021,96388238.0,2025-04-12
+BMC,Giá vốn hàng bán,2022,139641546.0,2025-04-12
+BMC,Giá vốn hàng bán,2023,130515398.0,2025-04-12
+BMC,Giá vốn hàng bán,2024,141510000.0,2025-04-12
+BMC,Lợi nhuận gộp về BH và CCDV,2021,41056436.0,2025-04-12
+BMC,Lợi nhuận gộp về BH và CCDV,2022,43434226.0,2025-04-12
+BMC,Lợi nhuận gộp về BH và CCDV,2023,49426416.0,2025-04-12
+BMC,Lợi nhuận gộp về BH và CCDV,2024,53809562.0,2025-04-12
+BMC,Lợi nhuận tài chính,2021,-1274379.0,2025-04-12
+BMC,Lợi nhuận tài chính,2022,6661633.0,2025-04-12
+BMC,Lợi nhuận tài chính,2023,4390021.0,2025-04-12
+BMC,Lợi nhuận tài chính,2024,4497335.0,2025-04-12
+BMC,Lợi nhuận khác,2021,-840944.0,2025-04-12
+BMC,Lợi nhuận khác,2022,78182.0,2025-04-12
+BMC,Lợi nhuận khác,2023,272727.0,2025-04-12
+BMC,Lợi nhuận khác,2024,1065.0,2025-04-12
+BMC,Tổng lợi nhuận trước thuế,2021,20757655.0,2025-04-12
+BMC,Tổng lợi nhuận trước thuế,2022,26525620.0,2025-04-12
+BMC,Tổng lợi nhuận trước thuế,2023,30788984.0,2025-04-12
+BMC,Tổng lợi nhuận trước thuế,2024,32116848.0,2025-04-12
+BMC,Lợi nhuận sau thuế,2021,17441619.0,2025-04-12
+BMC,Lợi nhuận sau thuế,2022,21339061.0,2025-04-12
+BMC,Lợi nhuận sau thuế,2023,24197137.0,2025-04-12
+BMC,Lợi nhuận sau thuế,2024,25541439.0,2025-04-12
+BMC,Lợi nhuận sau thuế của công ty mẹ,2021,17441619.0,2025-04-12
+BMC,Lợi nhuận sau thuế của công ty mẹ,2022,21339061.0,2025-04-12
+BMC,Lợi nhuận sau thuế của công ty mẹ,2023,24197137.0,2025-04-12
+BMC,Lợi nhuận sau thuế của công ty mẹ,2024,25541439.0,2025-04-12
+BMC,Tổng tài sản lưu động ngắn hạn,2021,188750570.0,2025-04-12
+BMC,Tổng tài sản lưu động ngắn hạn,2022,190015259.0,2025-04-12
+BMC,Tổng tài sản lưu động ngắn hạn,2023,201398044.0,2025-04-12
+BMC,Tổng tài sản lưu động ngắn hạn,2024,211050542.0,2025-04-12
+BMC,Tổng tài sản,2021,243510950.0,2025-04-12
+BMC,Tổng tài sản,2022,239092176.0,2025-04-12
+BMC,Tổng tài sản,2023,250776740.0,2025-04-12
+BMC,Tổng tài sản,2024,257035164.0,2025-04-12
+BMC,Nợ ngắn hạn,2021,35404296.0,2025-04-12
+BMC,Nợ ngắn hạn,2022,21479144.0,2025-04-12
+BMC,Nợ ngắn hạn,2023,22467234.0,2025-04-12
+BMC,Nợ ngắn hạn,2024,20246329.0,2025-04-12
+BMC,Tổng nợ,2021,35404296.0,2025-04-12
+BMC,Tổng nợ,2022,21479144.0,2025-04-12
+BMC,Tổng nợ,2023,22467234.0,2025-04-12
+BMC,Tổng nợ,2024,20246329.0,2025-04-12
+BMC,Vốn chủ sở hữu,2021,208106653.0,2025-04-12
+BMC,Vốn chủ sở hữu,2022,217613033.0,2025-04-12
+BMC,Vốn chủ sở hữu,2023,228309506.0,2025-04-12
+BMC,Vốn chủ sở hữu,2024,236788835.0,2025-04-12

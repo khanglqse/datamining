@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+LCS,Doanh thu bán hàng và CCDV,2017,213171032.0,2025-04-12
+LCS,Doanh thu bán hàng và CCDV,2018,286617254.0,2025-04-12
+LCS,Doanh thu bán hàng và CCDV,2019,275527700.0,2025-04-12
+LCS,Doanh thu bán hàng và CCDV,2020,79028526.0,2025-04-12
+LCS,Giá vốn hàng bán,2017,183347861.0,2025-04-12
+LCS,Giá vốn hàng bán,2018,266208388.0,2025-04-12
+LCS,Giá vốn hàng bán,2019,257113349.0,2025-04-12
+LCS,Giá vốn hàng bán,2020,65004169.0,2025-04-12
+LCS,Lợi nhuận gộp về BH và CCDV,2017,29823170.0,2025-04-12
+LCS,Lợi nhuận gộp về BH và CCDV,2018,20408866.0,2025-04-12
+LCS,Lợi nhuận gộp về BH và CCDV,2019,18414351.0,2025-04-12
+LCS,Lợi nhuận gộp về BH và CCDV,2020,14024358.0,2025-04-12
+LCS,Lợi nhuận tài chính,2017,-7873694.0,2025-04-12
+LCS,Lợi nhuận tài chính,2018,-8849005.0,2025-04-12
+LCS,Lợi nhuận tài chính,2019,-8009731.0,2025-04-12
+LCS,Lợi nhuận tài chính,2020,-8546959.0,2025-04-12
+LCS,Lợi nhuận khác,2017,6348985.0,2025-04-12
+LCS,Lợi nhuận khác,2018,854927.0,2025-04-12
+LCS,Lợi nhuận khác,2019,-2085644.0,2025-04-12
+LCS,Lợi nhuận khác,2020,572727.0,2025-04-12
+LCS,Tổng lợi nhuận trước thuế,2017,17838729.0,2025-04-12
+LCS,Tổng lợi nhuận trước thuế,2018,1112387.0,2025-04-12
+LCS,Tổng lợi nhuận trước thuế,2019,1211196.0,2025-04-12
+LCS,Tổng lợi nhuận trước thuế,2020,256299.0,2025-04-12
+LCS,Lợi nhuận sau thuế,2017,17838729.0,2025-04-12
+LCS,Lợi nhuận sau thuế,2018,1112387.0,2025-04-12
+LCS,Lợi nhuận sau thuế,2019,1211196.0,2025-04-12
+LCS,Lợi nhuận sau thuế,2020,256299.0,2025-04-12
+LCS,Lợi nhuận sau thuế của công ty mẹ,2017,17838729.0,2025-04-12
+LCS,Lợi nhuận sau thuế của công ty mẹ,2018,1112387.0,2025-04-12
+LCS,Lợi nhuận sau thuế của công ty mẹ,2019,1211196.0,2025-04-12
+LCS,Lợi nhuận sau thuế của công ty mẹ,2020,256299.0,2025-04-12
+LCS,Tổng tài sản lưu động ngắn hạn,2017,224798060.0,2025-04-12
+LCS,Tổng tài sản lưu động ngắn hạn,2018,234326838.0,2025-04-12
+LCS,Tổng tài sản lưu động ngắn hạn,2019,253659987.0,2025-04-12
+LCS,Tổng tài sản lưu động ngắn hạn,2020,282506914.0,2025-04-12
+LCS,Tổng tài sản,2017,314360765.0,2025-04-12
+LCS,Tổng tài sản,2018,315660463.0,2025-04-12
+LCS,Tổng tài sản,2019,312719195.0,2025-04-12
+LCS,Tổng tài sản,2020,328550113.0,2025-04-12
+LCS,Nợ ngắn hạn,2017,215082854.0,2025-04-12
+LCS,Nợ ngắn hạn,2018,217721543.0,2025-04-12
+LCS,Nợ ngắn hạn,2019,225786452.0,2025-04-12
+LCS,Nợ ngắn hạn,2020,242937321.0,2025-04-12
+LCS,Tổng nợ,2017,232166880.0,2025-04-12
+LCS,Tổng nợ,2018,232354191.0,2025-04-12
+LCS,Tổng nợ,2019,228201726.0,2025-04-12
+LCS,Tổng nợ,2020,243776345.0,2025-04-12
+LCS,Vốn chủ sở hữu,2017,82193885.0,2025-04-12
+LCS,Vốn chủ sở hữu,2018,83306273.0,2025-04-12
+LCS,Vốn chủ sở hữu,2019,84517469.0,2025-04-12
+LCS,Vốn chủ sở hữu,2020,84773768.0,2025-04-12

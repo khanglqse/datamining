@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+HID,Doanh thu bán hàng và CCDV,2020,338045065.0,2025-04-12
+HID,Doanh thu bán hàng và CCDV,2021,275915471.0,2025-04-12
+HID,Doanh thu bán hàng và CCDV,2022,253331676.0,2025-04-12
+HID,Doanh thu bán hàng và CCDV,2023,315276012.0,2025-04-12
+HID,Giá vốn hàng bán,2020,290106276.0,2025-04-12
+HID,Giá vốn hàng bán,2021,236303245.0,2025-04-12
+HID,Giá vốn hàng bán,2022,216146258.0,2025-04-12
+HID,Giá vốn hàng bán,2023,272724933.0,2025-04-12
+HID,Lợi nhuận gộp về BH và CCDV,2020,47938789.0,2025-04-12
+HID,Lợi nhuận gộp về BH và CCDV,2021,39612226.0,2025-04-12
+HID,Lợi nhuận gộp về BH và CCDV,2022,37185418.0,2025-04-12
+HID,Lợi nhuận gộp về BH và CCDV,2023,42551078.0,2025-04-12
+HID,Lợi nhuận tài chính,2020,-60533000.0,2025-04-12
+HID,Lợi nhuận tài chính,2021,-7092478.0,2025-04-12
+HID,Lợi nhuận tài chính,2022,-36390021.0,2025-04-12
+HID,Lợi nhuận tài chính,2023,-15325398.0,2025-04-12
+HID,Lợi nhuận khác,2020,32441545.0,2025-04-12
+HID,Lợi nhuận khác,2021,-195879.0,2025-04-12
+HID,Lợi nhuận khác,2022,5158832.0,2025-04-12
+HID,Lợi nhuận khác,2023,-3109406.0,2025-04-12
+HID,Tổng lợi nhuận trước thuế,2020,9685317.0,2025-04-12
+HID,Tổng lợi nhuận trước thuế,2021,11317364.0,2025-04-12
+HID,Tổng lợi nhuận trước thuế,2022,-19310394.0,2025-04-12
+HID,Tổng lợi nhuận trước thuế,2023,-6992852.0,2025-04-12
+HID,Lợi nhuận sau thuế,2020,3087481.0,2025-04-12
+HID,Lợi nhuận sau thuế,2021,12003083.0,2025-04-12
+HID,Lợi nhuận sau thuế,2022,-19358085.0,2025-04-12
+HID,Lợi nhuận sau thuế,2023,-12530609.0,2025-04-12
+HID,Lợi nhuận sau thuế của công ty mẹ,2020,10336075.0,2025-04-12
+HID,Lợi nhuận sau thuế của công ty mẹ,2021,5023492.0,2025-04-12
+HID,Lợi nhuận sau thuế của công ty mẹ,2022,-17277936.0,2025-04-12
+HID,Lợi nhuận sau thuế của công ty mẹ,2023,5674743.0,2025-04-12
+HID,Tổng tài sản lưu động ngắn hạn,2020,421085819.0,2025-04-12
+HID,Tổng tài sản lưu động ngắn hạn,2021,390322216.0,2025-04-12
+HID,Tổng tài sản lưu động ngắn hạn,2022,513273471.0,2025-04-12
+HID,Tổng tài sản lưu động ngắn hạn,2023,571671342.0,2025-04-12
+HID,Tổng tài sản,2020,1561880181.0,2025-04-12
+HID,Tổng tài sản,2021,1520346236.0,2025-04-12
+HID,Tổng tài sản,2022,1608188494.0,2025-04-12
+HID,Tổng tài sản,2023,1645534561.0,2025-04-12
+HID,Nợ ngắn hạn,2020,202924202.0,2025-04-12
+HID,Nợ ngắn hạn,2021,192805884.0,2025-04-12
+HID,Nợ ngắn hạn,2022,181152136.0,2025-04-12
+HID,Nợ ngắn hạn,2023,195036640.0,2025-04-12
+HID,Tổng nợ,2020,802903569.0,2025-04-12
+HID,Tổng nợ,2021,729366540.0,2025-04-12
+HID,Tổng nợ,2022,657595488.0,2025-04-12
+HID,Tổng nợ,2023,715524134.0,2025-04-12
+HID,Vốn chủ sở hữu,2020,758976612.0,2025-04-12
+HID,Vốn chủ sở hữu,2021,790979696.0,2025-04-12
+HID,Vốn chủ sở hữu,2022,950593006.0,2025-04-12
+HID,Vốn chủ sở hữu,2023,930010426.0,2025-04-12

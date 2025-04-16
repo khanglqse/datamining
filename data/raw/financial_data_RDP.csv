@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+RDP,Doanh thu bán hàng và CCDV,2020,2757291165.0,2025-04-12
+RDP,Doanh thu bán hàng và CCDV,2021,2721143078.0,2025-04-12
+RDP,Doanh thu bán hàng và CCDV,2022,2862075157.0,2025-04-12
+RDP,Doanh thu bán hàng và CCDV,2023,2608112233.0,2025-04-12
+RDP,Giá vốn hàng bán,2020,2549288942.0,2025-04-12
+RDP,Giá vốn hàng bán,2021,2487882962.0,2025-04-12
+RDP,Giá vốn hàng bán,2022,2612001189.0,2025-04-12
+RDP,Giá vốn hàng bán,2023,2378806829.0,2025-04-12
+RDP,Lợi nhuận gộp về BH và CCDV,2020,195021607.0,2025-04-12
+RDP,Lợi nhuận gộp về BH và CCDV,2021,223493198.0,2025-04-12
+RDP,Lợi nhuận gộp về BH và CCDV,2022,228534488.0,2025-04-12
+RDP,Lợi nhuận gộp về BH và CCDV,2023,214897445.0,2025-04-12
+RDP,Lợi nhuận tài chính,2020,-93477369.0,2025-04-12
+RDP,Lợi nhuận tài chính,2021,-90512114.0,2025-04-12
+RDP,Lợi nhuận tài chính,2022,-91645281.0,2025-04-12
+RDP,Lợi nhuận tài chính,2023,-73240274.0,2025-04-12
+RDP,Lợi nhuận khác,2020,1991690.0,2025-04-12
+RDP,Lợi nhuận khác,2021,15637749.0,2025-04-12
+RDP,Lợi nhuận khác,2022,-1472682.0,2025-04-12
+RDP,Lợi nhuận khác,2023,-84909242.0,2025-04-12
+RDP,Tổng lợi nhuận trước thuế,2020,8736653.0,2025-04-12
+RDP,Tổng lợi nhuận trước thuế,2021,52834935.0,2025-04-12
+RDP,Tổng lợi nhuận trước thuế,2022,21177516.0,2025-04-12
+RDP,Tổng lợi nhuận trước thuế,2023,-134166990.0,2025-04-12
+RDP,Lợi nhuận sau thuế,2020,3201067.0,2025-04-12
+RDP,Lợi nhuận sau thuế,2021,37728816.0,2025-04-12
+RDP,Lợi nhuận sau thuế,2022,12537942.0,2025-04-12
+RDP,Lợi nhuận sau thuế,2023,-146700946.0,2025-04-12
+RDP,Lợi nhuận sau thuế của công ty mẹ,2020,1379174.0,2025-04-12
+RDP,Lợi nhuận sau thuế của công ty mẹ,2021,33031615.0,2025-04-12
+RDP,Lợi nhuận sau thuế của công ty mẹ,2022,7962034.0,2025-04-12
+RDP,Lợi nhuận sau thuế của công ty mẹ,2023,-142559903.0,2025-04-12
+RDP,Tổng tài sản lưu động ngắn hạn,2020,1212067020.0,2025-04-12
+RDP,Tổng tài sản lưu động ngắn hạn,2021,1316724272.0,2025-04-12
+RDP,Tổng tài sản lưu động ngắn hạn,2022,1600057066.0,2025-04-12
+RDP,Tổng tài sản lưu động ngắn hạn,2023,1475538089.0,2025-04-12
+RDP,Tổng tài sản,2020,2184794608.0,2025-04-12
+RDP,Tổng tài sản,2021,2222429385.0,2025-04-12
+RDP,Tổng tài sản,2022,2461293854.0,2025-04-12
+RDP,Tổng tài sản,2023,2144284037.0,2025-04-12
+RDP,Nợ ngắn hạn,2020,1124810970.0,2025-04-12
+RDP,Nợ ngắn hạn,2021,1180785498.0,2025-04-12
+RDP,Nợ ngắn hạn,2022,1312128087.0,2025-04-12
+RDP,Nợ ngắn hạn,2023,1597379672.0,2025-04-12
+RDP,Tổng nợ,2020,1716025229.0,2025-04-12
+RDP,Tổng nợ,2021,1717056189.0,2025-04-12
+RDP,Tổng nợ,2022,1780828747.0,2025-04-12
+RDP,Tổng nợ,2023,1800427375.0,2025-04-12
+RDP,Vốn chủ sở hữu,2020,468769380.0,2025-04-12
+RDP,Vốn chủ sở hữu,2021,505373196.0,2025-04-12
+RDP,Vốn chủ sở hữu,2022,680465108.0,2025-04-12
+RDP,Vốn chủ sở hữu,2023,343856662.0,2025-04-12

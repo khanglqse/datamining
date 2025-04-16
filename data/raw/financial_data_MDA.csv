@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+MDA,Doanh thu bán hàng và CCDV,2020,58923923.0,2025-04-12
+MDA,Doanh thu bán hàng và CCDV,2021,72925334.0,2025-04-12
+MDA,Doanh thu bán hàng và CCDV,2022,85014434.0,2025-04-12
+MDA,Doanh thu bán hàng và CCDV,2023,72503216.0,2025-04-12
+MDA,Giá vốn hàng bán,2020,47729389.0,2025-04-12
+MDA,Giá vốn hàng bán,2021,59239645.0,2025-04-12
+MDA,Giá vốn hàng bán,2022,75016658.0,2025-04-12
+MDA,Giá vốn hàng bán,2023,59813797.0,2025-04-12
+MDA,Lợi nhuận gộp về BH và CCDV,2020,11194534.0,2025-04-12
+MDA,Lợi nhuận gộp về BH và CCDV,2021,13685689.0,2025-04-12
+MDA,Lợi nhuận gộp về BH và CCDV,2022,9997776.0,2025-04-12
+MDA,Lợi nhuận gộp về BH và CCDV,2023,12689419.0,2025-04-12
+MDA,Lợi nhuận tài chính,2020,-835620.0,2025-04-12
+MDA,Lợi nhuận tài chính,2021,-387511.0,2025-04-12
+MDA,Lợi nhuận tài chính,2022,-472248.0,2025-04-12
+MDA,Lợi nhuận tài chính,2023,-466677.0,2025-04-12
+MDA,Lợi nhuận khác,2020,218444.0,2025-04-12
+MDA,Lợi nhuận khác,2021,-259352.0,2025-04-12
+MDA,Lợi nhuận khác,2022,-66823.0,2025-04-12
+MDA,Lợi nhuận khác,2023,-76047.0,2025-04-12
+MDA,Tổng lợi nhuận trước thuế,2020,2207520.0,2025-04-12
+MDA,Tổng lợi nhuận trước thuế,2021,4287196.0,2025-04-12
+MDA,Tổng lợi nhuận trước thuế,2022,932111.0,2025-04-12
+MDA,Tổng lợi nhuận trước thuế,2023,2762471.0,2025-04-12
+MDA,Lợi nhuận sau thuế,2020,1891338.0,2025-04-12
+MDA,Lợi nhuận sau thuế,2021,3517969.0,2025-04-12
+MDA,Lợi nhuận sau thuế,2022,731014.0,2025-04-12
+MDA,Lợi nhuận sau thuế,2023,2191914.0,2025-04-12
+MDA,Lợi nhuận sau thuế của công ty mẹ,2020,1891338.0,2025-04-12
+MDA,Lợi nhuận sau thuế của công ty mẹ,2021,3517969.0,2025-04-12
+MDA,Lợi nhuận sau thuế của công ty mẹ,2022,731014.0,2025-04-12
+MDA,Lợi nhuận sau thuế của công ty mẹ,2023,2191914.0,2025-04-12
+MDA,Tổng tài sản lưu động ngắn hạn,2020,30941623.0,2025-04-12
+MDA,Tổng tài sản lưu động ngắn hạn,2021,33010040.0,2025-04-12
+MDA,Tổng tài sản lưu động ngắn hạn,2022,31275286.0,2025-04-12
+MDA,Tổng tài sản lưu động ngắn hạn,2023,39480803.0,2025-04-12
+MDA,Tổng tài sản,2020,49481100.0,2025-04-12
+MDA,Tổng tài sản,2021,48788698.0,2025-04-12
+MDA,Tổng tài sản,2022,43362433.0,2025-04-12
+MDA,Tổng tài sản,2023,48600258.0,2025-04-12
+MDA,Nợ ngắn hạn,2020,32724074.0,2025-04-12
+MDA,Nợ ngắn hạn,2021,28973903.0,2025-04-12
+MDA,Nợ ngắn hạn,2022,24559009.0,2025-04-12
+MDA,Nợ ngắn hạn,2023,26360086.0,2025-04-12
+MDA,Tổng nợ,2020,33681824.0,2025-04-12
+MDA,Tổng nợ,2021,29471453.0,2025-04-12
+MDA,Tổng nợ,2022,24596359.0,2025-04-12
+MDA,Tổng nợ,2023,26360086.0,2025-04-12
+MDA,Vốn chủ sở hữu,2020,15799276.0,2025-04-12
+MDA,Vốn chủ sở hữu,2021,19317244.0,2025-04-12
+MDA,Vốn chủ sở hữu,2022,18766073.0,2025-04-12
+MDA,Vốn chủ sở hữu,2023,22240172.0,2025-04-12

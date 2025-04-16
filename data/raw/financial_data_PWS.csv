@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+PWS,Doanh thu bán hàng và CCDV,2021,105399422.0,2025-04-12
+PWS,Doanh thu bán hàng và CCDV,2022,109622904.0,2025-04-12
+PWS,Doanh thu bán hàng và CCDV,2023,127923685.0,2025-04-12
+PWS,Doanh thu bán hàng và CCDV,2024,136483957.0,2025-04-12
+PWS,Giá vốn hàng bán,2021,57683273.0,2025-04-12
+PWS,Giá vốn hàng bán,2022,60627161.0,2025-04-12
+PWS,Giá vốn hàng bán,2023,62627165.0,2025-04-12
+PWS,Giá vốn hàng bán,2024,70649827.0,2025-04-12
+PWS,Lợi nhuận gộp về BH và CCDV,2021,47716148.0,2025-04-12
+PWS,Lợi nhuận gộp về BH và CCDV,2022,48995742.0,2025-04-12
+PWS,Lợi nhuận gộp về BH và CCDV,2023,65296520.0,2025-04-12
+PWS,Lợi nhuận gộp về BH và CCDV,2024,65834130.0,2025-04-12
+PWS,Lợi nhuận tài chính,2021,4637126.0,2025-04-12
+PWS,Lợi nhuận tài chính,2022,3972386.0,2025-04-12
+PWS,Lợi nhuận tài chính,2023,5482902.0,2025-04-12
+PWS,Lợi nhuận tài chính,2024,2993543.0,2025-04-12
+PWS,Lợi nhuận khác,2021,-181483.0,2025-04-12
+PWS,Lợi nhuận khác,2022,226544.0,2025-04-12
+PWS,Lợi nhuận khác,2023,-115227.0,2025-04-12
+PWS,Lợi nhuận khác,2024,-74172.0,2025-04-12
+PWS,Tổng lợi nhuận trước thuế,2021,20639120.0,2025-04-12
+PWS,Tổng lợi nhuận trước thuế,2022,17913956.0,2025-04-12
+PWS,Tổng lợi nhuận trước thuế,2023,33766596.0,2025-04-12
+PWS,Tổng lợi nhuận trước thuế,2024,41920678.0,2025-04-12
+PWS,Lợi nhuận sau thuế,2021,19087194.0,2025-04-12
+PWS,Lợi nhuận sau thuế,2022,15612752.0,2025-04-12
+PWS,Lợi nhuận sau thuế,2023,30575774.0,2025-04-12
+PWS,Lợi nhuận sau thuế,2024,38799736.0,2025-04-12
+PWS,Lợi nhuận sau thuế của công ty mẹ,2021,19087194.0,2025-04-12
+PWS,Lợi nhuận sau thuế của công ty mẹ,2022,15612752.0,2025-04-12
+PWS,Lợi nhuận sau thuế của công ty mẹ,2023,30575774.0,2025-04-12
+PWS,Lợi nhuận sau thuế của công ty mẹ,2024,38799736.0,2025-04-12
+PWS,Tổng tài sản lưu động ngắn hạn,2021,191590615.0,2025-04-12
+PWS,Tổng tài sản lưu động ngắn hạn,2022,174757823.0,2025-04-12
+PWS,Tổng tài sản lưu động ngắn hạn,2023,144754294.0,2025-04-12
+PWS,Tổng tài sản lưu động ngắn hạn,2024,127997328.0,2025-04-12
+PWS,Tổng tài sản,2021,518197400.0,2025-04-12
+PWS,Tổng tài sản,2022,500354519.0,2025-04-12
+PWS,Tổng tài sản,2023,516222256.0,2025-04-12
+PWS,Tổng tài sản,2024,495271069.0,2025-04-12
+PWS,Nợ ngắn hạn,2021,27542492.0,2025-04-12
+PWS,Nợ ngắn hạn,2022,27175755.0,2025-04-12
+PWS,Nợ ngắn hạn,2023,38579436.0,2025-04-12
+PWS,Nợ ngắn hạn,2024,19458909.0,2025-04-12
+PWS,Tổng nợ,2021,92167845.0,2025-04-12
+PWS,Tổng nợ,2022,78470714.0,2025-04-12
+PWS,Tổng nợ,2023,78250335.0,2025-04-12
+PWS,Tổng nợ,2024,49212084.0,2025-04-12
+PWS,Vốn chủ sở hữu,2021,426029555.0,2025-04-12
+PWS,Vốn chủ sở hữu,2022,421883805.0,2025-04-12
+PWS,Vốn chủ sở hữu,2023,437971921.0,2025-04-12
+PWS,Vốn chủ sở hữu,2024,446058986.0,2025-04-12

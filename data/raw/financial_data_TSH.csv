@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+TSH,Doanh thu bán hàng và CCDV,2018,295584707.0,2025-04-12
+TSH,Doanh thu bán hàng và CCDV,2019,296395817.0,2025-04-12
+TSH,Doanh thu bán hàng và CCDV,2020,287098932.0,2025-04-12
+TSH,Doanh thu bán hàng và CCDV,2021,473174997.0,2025-04-12
+TSH,Giá vốn hàng bán,2018,245631781.0,2025-04-12
+TSH,Giá vốn hàng bán,2019,253246401.0,2025-04-12
+TSH,Giá vốn hàng bán,2020,251001714.0,2025-04-12
+TSH,Giá vốn hàng bán,2021,415794429.0,2025-04-12
+TSH,Lợi nhuận gộp về BH và CCDV,2018,49952926.0,2025-04-12
+TSH,Lợi nhuận gộp về BH và CCDV,2019,43149416.0,2025-04-12
+TSH,Lợi nhuận gộp về BH và CCDV,2020,36097218.0,2025-04-12
+TSH,Lợi nhuận gộp về BH và CCDV,2021,57380568.0,2025-04-12
+TSH,Lợi nhuận tài chính,2018,-8651876.0,2025-04-12
+TSH,Lợi nhuận tài chính,2019,-9850695.0,2025-04-12
+TSH,Lợi nhuận tài chính,2020,-10423946.0,2025-04-12
+TSH,Lợi nhuận tài chính,2021,-9526129.0,2025-04-12
+TSH,Lợi nhuận khác,2018,376199.0,2025-04-12
+TSH,Lợi nhuận khác,2019,2498713.0,2025-04-12
+TSH,Lợi nhuận khác,2020,5221578.0,2025-04-12
+TSH,Lợi nhuận khác,2021,3646692.0,2025-04-12
+TSH,Tổng lợi nhuận trước thuế,2018,29506222.0,2025-04-12
+TSH,Tổng lợi nhuận trước thuế,2019,25932377.0,2025-04-12
+TSH,Tổng lợi nhuận trước thuế,2020,18630112.0,2025-04-12
+TSH,Tổng lợi nhuận trước thuế,2021,36137154.0,2025-04-12
+TSH,Lợi nhuận sau thuế,2018,23989962.0,2025-04-12
+TSH,Lợi nhuận sau thuế,2019,21147091.0,2025-04-12
+TSH,Lợi nhuận sau thuế,2020,14038468.0,2025-04-12
+TSH,Lợi nhuận sau thuế,2021,28364523.0,2025-04-12
+TSH,Lợi nhuận sau thuế của công ty mẹ,2018,23989962.0,2025-04-12
+TSH,Lợi nhuận sau thuế của công ty mẹ,2019,21147091.0,2025-04-12
+TSH,Lợi nhuận sau thuế của công ty mẹ,2020,14038468.0,2025-04-12
+TSH,Lợi nhuận sau thuế của công ty mẹ,2021,28364523.0,2025-04-12
+TSH,Tổng tài sản lưu động ngắn hạn,2018,128856686.0,2025-04-12
+TSH,Tổng tài sản lưu động ngắn hạn,2019,149166825.0,2025-04-12
+TSH,Tổng tài sản lưu động ngắn hạn,2020,172575490.0,2025-04-12
+TSH,Tổng tài sản lưu động ngắn hạn,2021,342662732.0,2025-04-12
+TSH,Tổng tài sản,2018,593245038.0,2025-04-12
+TSH,Tổng tài sản,2019,600879702.0,2025-04-12
+TSH,Tổng tài sản,2020,579863831.0,2025-04-12
+TSH,Tổng tài sản,2021,976051728.0,2025-04-12
+TSH,Nợ ngắn hạn,2018,83935365.0,2025-04-12
+TSH,Nợ ngắn hạn,2019,71344009.0,2025-04-12
+TSH,Nợ ngắn hạn,2020,92181892.0,2025-04-12
+TSH,Nợ ngắn hạn,2021,105950448.0,2025-04-12
+TSH,Tổng nợ,2018,203497052.0,2025-04-12
+TSH,Tổng nợ,2019,189984625.0,2025-04-12
+TSH,Tổng nợ,2020,154930286.0,2025-04-12
+TSH,Tổng nợ,2021,307764047.0,2025-04-12
+TSH,Vốn chủ sở hữu,2018,389747987.0,2025-04-12
+TSH,Vốn chủ sở hữu,2019,410895077.0,2025-04-12
+TSH,Vốn chủ sở hữu,2020,424933545.0,2025-04-12
+TSH,Vốn chủ sở hữu,2021,668287681.0,2025-04-12

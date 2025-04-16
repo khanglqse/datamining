@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+HSP,Doanh thu bán hàng và CCDV,2021,436760630.0,2025-04-12
+HSP,Doanh thu bán hàng và CCDV,2022,463180962.0,2025-04-12
+HSP,Doanh thu bán hàng và CCDV,2023,419747126.0,2025-04-12
+HSP,Doanh thu bán hàng và CCDV,2024,417500933.0,2025-04-12
+HSP,Giá vốn hàng bán,2021,386204743.0,2025-04-12
+HSP,Giá vốn hàng bán,2022,404952139.0,2025-04-12
+HSP,Giá vốn hàng bán,2023,360234403.0,2025-04-12
+HSP,Giá vốn hàng bán,2024,345764919.0,2025-04-12
+HSP,Lợi nhuận gộp về BH và CCDV,2021,50366092.0,2025-04-12
+HSP,Lợi nhuận gộp về BH và CCDV,2022,57853777.0,2025-04-12
+HSP,Lợi nhuận gộp về BH và CCDV,2023,59204929.0,2025-04-12
+HSP,Lợi nhuận gộp về BH và CCDV,2024,71568946.0,2025-04-12
+HSP,Lợi nhuận tài chính,2021,4102742.0,2025-04-12
+HSP,Lợi nhuận tài chính,2022,1911692.0,2025-04-12
+HSP,Lợi nhuận tài chính,2023,3327880.0,2025-04-12
+HSP,Lợi nhuận tài chính,2024,251712.0,2025-04-12
+HSP,Lợi nhuận khác,2021,319450.0,2025-04-12
+HSP,Lợi nhuận khác,2022,-217372.0,2025-04-12
+HSP,Lợi nhuận khác,2023,15307.0,2025-04-12
+HSP,Lợi nhuận khác,2024,-903019.0,2025-04-12
+HSP,Tổng lợi nhuận trước thuế,2021,14487462.0,2025-04-12
+HSP,Tổng lợi nhuận trước thuế,2022,16163871.0,2025-04-12
+HSP,Tổng lợi nhuận trước thuế,2023,19223112.0,2025-04-12
+HSP,Tổng lợi nhuận trước thuế,2024,26391573.0,2025-04-12
+HSP,Lợi nhuận sau thuế,2021,11529422.0,2025-04-12
+HSP,Lợi nhuận sau thuế,2022,12260636.0,2025-04-12
+HSP,Lợi nhuận sau thuế,2023,15254815.0,2025-04-12
+HSP,Lợi nhuận sau thuế,2024,20772899.0,2025-04-12
+HSP,Lợi nhuận sau thuế của công ty mẹ,2021,11529422.0,2025-04-12
+HSP,Lợi nhuận sau thuế của công ty mẹ,2022,12260636.0,2025-04-12
+HSP,Lợi nhuận sau thuế của công ty mẹ,2023,15254815.0,2025-04-12
+HSP,Lợi nhuận sau thuế của công ty mẹ,2024,20772899.0,2025-04-12
+HSP,Tổng tài sản lưu động ngắn hạn,2021,197075273.0,2025-04-12
+HSP,Tổng tài sản lưu động ngắn hạn,2022,206525648.0,2025-04-12
+HSP,Tổng tài sản lưu động ngắn hạn,2023,203414482.0,2025-04-12
+HSP,Tổng tài sản lưu động ngắn hạn,2024,208582995.0,2025-04-12
+HSP,Tổng tài sản,2021,223443911.0,2025-04-12
+HSP,Tổng tài sản,2022,229189756.0,2025-04-12
+HSP,Tổng tài sản,2023,222784918.0,2025-04-12
+HSP,Tổng tài sản,2024,228822745.0,2025-04-12
+HSP,Nợ ngắn hạn,2021,38582057.0,2025-04-12
+HSP,Nợ ngắn hạn,2022,42443746.0,2025-04-12
+HSP,Nợ ngắn hạn,2023,32431697.0,2025-04-12
+HSP,Nợ ngắn hạn,2024,32188701.0,2025-04-12
+HSP,Tổng nợ,2021,38582057.0,2025-04-12
+HSP,Tổng nợ,2022,42443746.0,2025-04-12
+HSP,Tổng nợ,2023,32431697.0,2025-04-12
+HSP,Tổng nợ,2024,32188701.0,2025-04-12
+HSP,Vốn chủ sở hữu,2021,184861854.0,2025-04-12
+HSP,Vốn chủ sở hữu,2022,186746009.0,2025-04-12
+HSP,Vốn chủ sở hữu,2023,190353220.0,2025-04-12
+HSP,Vốn chủ sở hữu,2024,196634045.0,2025-04-12

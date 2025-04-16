@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+VET,Doanh thu bán hàng và CCDV,2021,607952002.0,2025-04-12
+VET,Doanh thu bán hàng và CCDV,2022,460764232.0,2025-04-12
+VET,Doanh thu bán hàng và CCDV,2023,412646744.0,2025-04-12
+VET,Doanh thu bán hàng và CCDV,2024,371268763.0,2025-04-12
+VET,Giá vốn hàng bán,2021,393314921.0,2025-04-12
+VET,Giá vốn hàng bán,2022,255963710.0,2025-04-12
+VET,Giá vốn hàng bán,2023,232730976.0,2025-04-12
+VET,Giá vốn hàng bán,2024,206637210.0,2025-04-12
+VET,Lợi nhuận gộp về BH và CCDV,2021,214113081.0,2025-04-12
+VET,Lợi nhuận gộp về BH và CCDV,2022,204720761.0,2025-04-12
+VET,Lợi nhuận gộp về BH và CCDV,2023,179915768.0,2025-04-12
+VET,Lợi nhuận gộp về BH và CCDV,2024,164631553.0,2025-04-12
+VET,Lợi nhuận tài chính,2021,-1528994.0,2025-04-12
+VET,Lợi nhuận tài chính,2022,-1887707.0,2025-04-12
+VET,Lợi nhuận tài chính,2023,-7456314.0,2025-04-12
+VET,Lợi nhuận tài chính,2024,-8775036.0,2025-04-12
+VET,Lợi nhuận khác,2021,-6254009.0,2025-04-12
+VET,Lợi nhuận khác,2022,7764006.0,2025-04-12
+VET,Lợi nhuận khác,2023,1479682.0,2025-04-12
+VET,Lợi nhuận khác,2024,-36592535.0,2025-04-12
+VET,Tổng lợi nhuận trước thuế,2021,86092922.0,2025-04-12
+VET,Tổng lợi nhuận trước thuế,2022,66641858.0,2025-04-12
+VET,Tổng lợi nhuận trước thuế,2023,36192808.0,2025-04-12
+VET,Tổng lợi nhuận trước thuế,2024,-39596364.0,2025-04-12
+VET,Lợi nhuận sau thuế,2021,67036454.0,2025-04-12
+VET,Lợi nhuận sau thuế,2022,53108370.0,2025-04-12
+VET,Lợi nhuận sau thuế,2023,28582481.0,2025-04-12
+VET,Lợi nhuận sau thuế,2024,-39596364.0,2025-04-12
+VET,Lợi nhuận sau thuế của công ty mẹ,2021,67036454.0,2025-04-12
+VET,Lợi nhuận sau thuế của công ty mẹ,2022,53108370.0,2025-04-12
+VET,Lợi nhuận sau thuế của công ty mẹ,2023,28582481.0,2025-04-12
+VET,Lợi nhuận sau thuế của công ty mẹ,2024,-39596364.0,2025-04-12
+VET,Tổng tài sản lưu động ngắn hạn,2021,496548212.0,2025-04-12
+VET,Tổng tài sản lưu động ngắn hạn,2022,494481415.0,2025-04-12
+VET,Tổng tài sản lưu động ngắn hạn,2023,544732879.0,2025-04-12
+VET,Tổng tài sản lưu động ngắn hạn,2024,509556477.0,2025-04-12
+VET,Tổng tài sản,2021,918497856.0,2025-04-12
+VET,Tổng tài sản,2022,887885525.0,2025-04-12
+VET,Tổng tài sản,2023,897988687.0,2025-04-12
+VET,Tổng tài sản,2024,831970816.0,2025-04-12
+VET,Nợ ngắn hạn,2021,381780993.0,2025-04-12
+VET,Nợ ngắn hạn,2022,345497584.0,2025-04-12
+VET,Nợ ngắn hạn,2023,355874980.0,2025-04-12
+VET,Nợ ngắn hạn,2024,330129864.0,2025-04-12
+VET,Tổng nợ,2021,583280993.0,2025-04-12
+VET,Tổng nợ,2022,546997584.0,2025-04-12
+VET,Tổng nợ,2023,557374980.0,2025-04-12
+VET,Tổng nợ,2024,531629864.0,2025-04-12
+VET,Vốn chủ sở hữu,2021,335216863.0,2025-04-12
+VET,Vốn chủ sở hữu,2022,340887941.0,2025-04-12
+VET,Vốn chủ sở hữu,2023,340613707.0,2025-04-12
+VET,Vốn chủ sở hữu,2024,300340952.0,2025-04-12

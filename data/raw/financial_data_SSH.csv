@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+SSH,Doanh thu bán hàng và CCDV,2021,1352700108.0,2025-04-12
+SSH,Doanh thu bán hàng và CCDV,2022,858351282.0,2025-04-12
+SSH,Doanh thu bán hàng và CCDV,2023,2901240375.0,2025-04-12
+SSH,Doanh thu bán hàng và CCDV,2024,2933922873.0,2025-04-12
+SSH,Giá vốn hàng bán,2021,835419452.0,2025-04-12
+SSH,Giá vốn hàng bán,2022,617620938.0,2025-04-12
+SSH,Giá vốn hàng bán,2023,1099120870.0,2025-04-12
+SSH,Giá vốn hàng bán,2024,1574276287.0,2025-04-12
+SSH,Lợi nhuận gộp về BH và CCDV,2021,517280656.0,2025-04-12
+SSH,Lợi nhuận gộp về BH và CCDV,2022,240673767.0,2025-04-12
+SSH,Lợi nhuận gộp về BH và CCDV,2023,1802119505.0,2025-04-12
+SSH,Lợi nhuận gộp về BH và CCDV,2024,1359646586.0,2025-04-12
+SSH,Lợi nhuận tài chính,2021,112996318.0,2025-04-12
+SSH,Lợi nhuận tài chính,2022,519305231.0,2025-04-12
+SSH,Lợi nhuận tài chính,2023,215521747.0,2025-04-12
+SSH,Lợi nhuận tài chính,2024,25948900.0,2025-04-12
+SSH,Lợi nhuận khác,2021,-16565066.0,2025-04-12
+SSH,Lợi nhuận khác,2022,-92205450.0,2025-04-12
+SSH,Lợi nhuận khác,2023,-3332410.0,2025-04-12
+SSH,Lợi nhuận khác,2024,-2220538.0,2025-04-12
+SSH,Tổng lợi nhuận trước thuế,2021,405913214.0,2025-04-12
+SSH,Tổng lợi nhuận trước thuế,2022,439191235.0,2025-04-12
+SSH,Tổng lợi nhuận trước thuế,2023,1626889342.0,2025-04-12
+SSH,Tổng lợi nhuận trước thuế,2024,1029266712.0,2025-04-12
+SSH,Lợi nhuận sau thuế,2021,322738269.0,2025-04-12
+SSH,Lợi nhuận sau thuế,2022,329260609.0,2025-04-12
+SSH,Lợi nhuận sau thuế,2023,1299493798.0,2025-04-12
+SSH,Lợi nhuận sau thuế,2024,817169411.0,2025-04-12
+SSH,Lợi nhuận sau thuế của công ty mẹ,2021,298307865.0,2025-04-12
+SSH,Lợi nhuận sau thuế của công ty mẹ,2022,310824383.0,2025-04-12
+SSH,Lợi nhuận sau thuế của công ty mẹ,2023,1161235297.0,2025-04-12
+SSH,Lợi nhuận sau thuế của công ty mẹ,2024,804452645.0,2025-04-12
+SSH,Tổng tài sản lưu động ngắn hạn,2021,4743269210.0,2025-04-12
+SSH,Tổng tài sản lưu động ngắn hạn,2022,7866453353.0,2025-04-12
+SSH,Tổng tài sản lưu động ngắn hạn,2023,6323307619.0,2025-04-12
+SSH,Tổng tài sản lưu động ngắn hạn,2024,8633533226.0,2025-04-12
+SSH,Tổng tài sản,2021,9753180699.0,2025-04-12
+SSH,Tổng tài sản,2022,19326948467.0,2025-04-12
+SSH,Tổng tài sản,2023,13200834909.0,2025-04-12
+SSH,Tổng tài sản,2024,14394873022.0,2025-04-12
+SSH,Nợ ngắn hạn,2021,3712568053.0,2025-04-12
+SSH,Nợ ngắn hạn,2022,5086686803.0,2025-04-12
+SSH,Nợ ngắn hạn,2023,3360619454.0,2025-04-12
+SSH,Nợ ngắn hạn,2024,4533098893.0,2025-04-12
+SSH,Tổng nợ,2021,7161840520.0,2025-04-12
+SSH,Tổng nợ,2022,14056288892.0,2025-04-12
+SSH,Tổng nợ,2023,7360388042.0,2025-04-12
+SSH,Tổng nợ,2024,7875318648.0,2025-04-12
+SSH,Vốn chủ sở hữu,2021,2591340179.0,2025-04-12
+SSH,Vốn chủ sở hữu,2022,5270659575.0,2025-04-12
+SSH,Vốn chủ sở hữu,2023,5840446867.0,2025-04-12
+SSH,Vốn chủ sở hữu,2024,6519554374.0,2025-04-12

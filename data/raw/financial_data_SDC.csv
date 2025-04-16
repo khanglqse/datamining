@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+SDC,Doanh thu bán hàng và CCDV,2021,48353510.0,2025-04-12
+SDC,Doanh thu bán hàng và CCDV,2022,47072191.0,2025-04-12
+SDC,Doanh thu bán hàng và CCDV,2023,52547348.0,2025-04-12
+SDC,Doanh thu bán hàng và CCDV,2024,72983266.0,2025-04-12
+SDC,Giá vốn hàng bán,2021,37768040.0,2025-04-12
+SDC,Giá vốn hàng bán,2022,35919732.0,2025-04-12
+SDC,Giá vốn hàng bán,2023,40971392.0,2025-04-12
+SDC,Giá vốn hàng bán,2024,59596663.0,2025-04-12
+SDC,Lợi nhuận gộp về BH và CCDV,2021,10585470.0,2025-04-12
+SDC,Lợi nhuận gộp về BH và CCDV,2022,11152460.0,2025-04-12
+SDC,Lợi nhuận gộp về BH và CCDV,2023,11575956.0,2025-04-12
+SDC,Lợi nhuận gộp về BH và CCDV,2024,13386603.0,2025-04-12
+SDC,Lợi nhuận tài chính,2021,2310399.0,2025-04-12
+SDC,Lợi nhuận tài chính,2022,973467.0,2025-04-12
+SDC,Lợi nhuận tài chính,2023,172406.0,2025-04-12
+SDC,Lợi nhuận tài chính,2024,-128192.0,2025-04-12
+SDC,Lợi nhuận khác,2021,20457.0,2025-04-12
+SDC,Lợi nhuận khác,2022,15290.0,2025-04-12
+SDC,Lợi nhuận khác,2023,269880.0,2025-04-12
+SDC,Lợi nhuận khác,2024,61615.0,2025-04-12
+SDC,Tổng lợi nhuận trước thuế,2021,2790284.0,2025-04-12
+SDC,Tổng lợi nhuận trước thuế,2022,2145719.0,2025-04-12
+SDC,Tổng lợi nhuận trước thuế,2023,2289681.0,2025-04-12
+SDC,Tổng lợi nhuận trước thuế,2024,2482794.0,2025-04-12
+SDC,Lợi nhuận sau thuế,2021,2379939.0,2025-04-12
+SDC,Lợi nhuận sau thuế,2022,1707689.0,2025-04-12
+SDC,Lợi nhuận sau thuế,2023,1799885.0,2025-04-12
+SDC,Lợi nhuận sau thuế,2024,1614536.0,2025-04-12
+SDC,Lợi nhuận sau thuế của công ty mẹ,2021,2378426.0,2025-04-12
+SDC,Lợi nhuận sau thuế của công ty mẹ,2022,1707641.0,2025-04-12
+SDC,Lợi nhuận sau thuế của công ty mẹ,2023,1820246.0,2025-04-12
+SDC,Lợi nhuận sau thuế của công ty mẹ,2024,1668516.0,2025-04-12
+SDC,Tổng tài sản lưu động ngắn hạn,2021,67480641.0,2025-04-12
+SDC,Tổng tài sản lưu động ngắn hạn,2022,69773174.0,2025-04-12
+SDC,Tổng tài sản lưu động ngắn hạn,2023,73365789.0,2025-04-12
+SDC,Tổng tài sản lưu động ngắn hạn,2024,62724654.0,2025-04-12
+SDC,Tổng tài sản,2021,87937031.0,2025-04-12
+SDC,Tổng tài sản,2022,89310273.0,2025-04-12
+SDC,Tổng tài sản,2023,90239435.0,2025-04-12
+SDC,Tổng tài sản,2024,83876322.0,2025-04-12
+SDC,Nợ ngắn hạn,2021,29913806.0,2025-04-12
+SDC,Nợ ngắn hạn,2022,32127148.0,2025-04-12
+SDC,Nợ ngắn hạn,2023,33182560.0,2025-04-12
+SDC,Nợ ngắn hạn,2024,25301142.0,2025-04-12
+SDC,Tổng nợ,2021,34513077.0,2025-04-12
+SDC,Tổng nợ,2022,36344420.0,2025-04-12
+SDC,Tổng nợ,2023,37378521.0,2025-04-12
+SDC,Tổng nợ,2024,31305696.0,2025-04-12
+SDC,Vốn chủ sở hữu,2021,53423953.0,2025-04-12
+SDC,Vốn chủ sở hữu,2022,52965854.0,2025-04-12
+SDC,Vốn chủ sở hữu,2023,52860914.0,2025-04-12
+SDC,Vốn chủ sở hữu,2024,52570626.0,2025-04-12

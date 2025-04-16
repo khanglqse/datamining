@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+DIG,Doanh thu bán hàng và CCDV,2021,2585736269.0,2025-04-12
+DIG,Doanh thu bán hàng và CCDV,2022,1930222594.0,2025-04-12
+DIG,Doanh thu bán hàng và CCDV,2023,1039100785.0,2025-04-12
+DIG,Doanh thu bán hàng và CCDV,2024,1531489886.0,2025-04-12
+DIG,Giá vốn hàng bán,2021,1729198715.0,2025-04-12
+DIG,Giá vốn hàng bán,2022,1264377256.0,2025-04-12
+DIG,Giá vốn hàng bán,2023,782177229.0,2025-04-12
+DIG,Giá vốn hàng bán,2024,1002803572.0,2025-04-12
+DIG,Lợi nhuận gộp về BH và CCDV,2021,839490129.0,2025-04-12
+DIG,Lợi nhuận gộp về BH và CCDV,2022,632311467.0,2025-04-12
+DIG,Lợi nhuận gộp về BH và CCDV,2023,243569473.0,2025-04-12
+DIG,Lợi nhuận gộp về BH và CCDV,2024,298195371.0,2025-04-12
+DIG,Lợi nhuận tài chính,2021,-70500933.0,2025-04-12
+DIG,Lợi nhuận tài chính,2022,-178082483.0,2025-04-12
+DIG,Lợi nhuận tài chính,2023,109162356.0,2025-04-12
+DIG,Lợi nhuận tài chính,2024,88664336.0,2025-04-12
+DIG,Lợi nhuận khác,2021,797531436.0,2025-04-12
+DIG,Lợi nhuận khác,2022,14626342.0,2025-04-12
+DIG,Lợi nhuận khác,2023,27006922.0,2025-04-12
+DIG,Lợi nhuận khác,2024,-4416308.0,2025-04-12
+DIG,Tổng lợi nhuận trước thuế,2021,1281556949.0,2025-04-12
+DIG,Tổng lợi nhuận trước thuế,2022,198787025.0,2025-04-12
+DIG,Tổng lợi nhuận trước thuế,2023,165886101.0,2025-04-12
+DIG,Tổng lợi nhuận trước thuế,2024,158088412.0,2025-04-12
+DIG,Lợi nhuận sau thuế,2021,989941273.0,2025-04-12
+DIG,Lợi nhuận sau thuế,2022,191366036.0,2025-04-12
+DIG,Lợi nhuận sau thuế,2023,111623209.0,2025-04-12
+DIG,Lợi nhuận sau thuế,2024,101904299.0,2025-04-12
+DIG,Lợi nhuận sau thuế của công ty mẹ,2021,986154281.0,2025-04-12
+DIG,Lợi nhuận sau thuế của công ty mẹ,2022,144128259.0,2025-04-12
+DIG,Lợi nhuận sau thuế của công ty mẹ,2023,118727080.0,2025-04-12
+DIG,Lợi nhuận sau thuế của công ty mẹ,2024,114535927.0,2025-04-12
+DIG,Tổng tài sản lưu động ngắn hạn,2021,11214616632.0,2025-04-12
+DIG,Tổng tài sản lưu động ngắn hạn,2022,10877019373.0,2025-04-12
+DIG,Tổng tài sản lưu động ngắn hạn,2023,13978090757.0,2025-04-12
+DIG,Tổng tài sản lưu động ngắn hạn,2024,15985757394.0,2025-04-12
+DIG,Tổng tài sản,2021,16846904641.0,2025-04-12
+DIG,Tổng tài sản,2022,14747796228.0,2025-04-12
+DIG,Tổng tài sản,2023,16827606939.0,2025-04-12
+DIG,Tổng tài sản,2024,18539323581.0,2025-04-12
+DIG,Nợ ngắn hạn,2021,4670430681.0,2025-04-12
+DIG,Nợ ngắn hạn,2022,3945743305.0,2025-04-12
+DIG,Nợ ngắn hạn,2023,7807921731.0,2025-04-12
+DIG,Nợ ngắn hạn,2024,7961859075.0,2025-04-12
+DIG,Tổng nợ,2021,9175421701.0,2025-04-12
+DIG,Tổng nợ,2022,6953061221.0,2025-04-12
+DIG,Tổng nợ,2023,8934049057.0,2025-04-12
+DIG,Tổng nợ,2024,10498013036.0,2025-04-12
+DIG,Vốn chủ sở hữu,2021,7671482939.0,2025-04-12
+DIG,Vốn chủ sở hữu,2022,7794735007.0,2025-04-12
+DIG,Vốn chủ sở hữu,2023,7893557882.0,2025-04-12
+DIG,Vốn chủ sở hữu,2024,8041310545.0,2025-04-12

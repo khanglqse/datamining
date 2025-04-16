@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+ISG,Doanh thu bán hàng và CCDV,2021,489010931.0,2025-04-12
+ISG,Doanh thu bán hàng và CCDV,2022,656759752.0,2025-04-12
+ISG,Doanh thu bán hàng và CCDV,2023,349750069.0,2025-04-12
+ISG,Doanh thu bán hàng và CCDV,2024,383813800.0,2025-04-12
+ISG,Giá vốn hàng bán,2021,305859208.0,2025-04-12
+ISG,Giá vốn hàng bán,2022,394399971.0,2025-04-12
+ISG,Giá vốn hàng bán,2023,386437125.0,2025-04-12
+ISG,Giá vốn hàng bán,2024,443014661.0,2025-04-12
+ISG,Lợi nhuận gộp về BH và CCDV,2021,183151723.0,2025-04-12
+ISG,Lợi nhuận gộp về BH và CCDV,2022,262359781.0,2025-04-12
+ISG,Lợi nhuận gộp về BH và CCDV,2023,-36687056.0,2025-04-12
+ISG,Lợi nhuận gộp về BH và CCDV,2024,-59200860.0,2025-04-12
+ISG,Lợi nhuận tài chính,2021,-22281788.0,2025-04-12
+ISG,Lợi nhuận tài chính,2022,-77983435.0,2025-04-12
+ISG,Lợi nhuận tài chính,2023,-65309844.0,2025-04-12
+ISG,Lợi nhuận tài chính,2024,6844400.0,2025-04-12
+ISG,Lợi nhuận khác,2021,3569566.0,2025-04-12
+ISG,Lợi nhuận khác,2022,8940105.0,2025-04-12
+ISG,Lợi nhuận khác,2023,8704946.0,2025-04-12
+ISG,Lợi nhuận khác,2024,655354426.0,2025-04-12
+ISG,Tổng lợi nhuận trước thuế,2021,135557118.0,2025-04-12
+ISG,Tổng lợi nhuận trước thuế,2022,154518870.0,2025-04-12
+ISG,Tổng lợi nhuận trước thuế,2023,-120474175.0,2025-04-12
+ISG,Tổng lợi nhuận trước thuế,2024,570292710.0,2025-04-12
+ISG,Lợi nhuận sau thuế,2021,135557118.0,2025-04-12
+ISG,Lợi nhuận sau thuế,2022,154518870.0,2025-04-12
+ISG,Lợi nhuận sau thuế,2023,-120474175.0,2025-04-12
+ISG,Lợi nhuận sau thuế,2024,530812957.0,2025-04-12
+ISG,Lợi nhuận sau thuế của công ty mẹ,2021,135557118.0,2025-04-12
+ISG,Lợi nhuận sau thuế của công ty mẹ,2022,154518870.0,2025-04-12
+ISG,Lợi nhuận sau thuế của công ty mẹ,2023,-120474175.0,2025-04-12
+ISG,Lợi nhuận sau thuế của công ty mẹ,2024,530812957.0,2025-04-12
+ISG,Tổng tài sản lưu động ngắn hạn,2021,295859577.0,2025-04-12
+ISG,Tổng tài sản lưu động ngắn hạn,2022,212308246.0,2025-04-12
+ISG,Tổng tài sản lưu động ngắn hạn,2023,225122052.0,2025-04-12
+ISG,Tổng tài sản lưu động ngắn hạn,2024,166449607.0,2025-04-12
+ISG,Tổng tài sản,2021,612784005.0,2025-04-12
+ISG,Tổng tài sản,2022,500459746.0,2025-04-12
+ISG,Tổng tài sản,2023,413573607.0,2025-04-12
+ISG,Tổng tài sản,2024,628391324.0,2025-04-12
+ISG,Nợ ngắn hạn,2021,872290137.0,2025-04-12
+ISG,Nợ ngắn hạn,2022,1079801430.0,2025-04-12
+ISG,Nợ ngắn hạn,2023,1138480196.0,2025-04-12
+ISG,Nợ ngắn hạn,2024,671673279.0,2025-04-12
+ISG,Tổng nợ,2021,947125817.0,2025-04-12
+ISG,Tổng nợ,2022,1104892160.0,2025-04-12
+ISG,Tổng nợ,2023,1138480196.0,2025-04-12
+ISG,Tổng nợ,2024,827888279.0,2025-04-12
+ISG,Vốn chủ sở hữu,2021,-334341812.0,2025-04-12
+ISG,Vốn chủ sở hữu,2022,-604432414.0,2025-04-12
+ISG,Vốn chủ sở hữu,2023,-724906589.0,2025-04-12
+ISG,Vốn chủ sở hữu,2024,-199496955.0,2025-04-12

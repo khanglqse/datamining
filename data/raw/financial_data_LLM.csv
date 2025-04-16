@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+LLM,Doanh thu bán hàng và CCDV,2021,3826141768.0,2025-04-12
+LLM,Doanh thu bán hàng và CCDV,2022,2892079411.0,2025-04-12
+LLM,Doanh thu bán hàng và CCDV,2023,5079029833.0,2025-04-12
+LLM,Doanh thu bán hàng và CCDV,2024,6101321679.0,2025-04-12
+LLM,Giá vốn hàng bán,2021,3634336135.0,2025-04-12
+LLM,Giá vốn hàng bán,2022,2801850410.0,2025-04-12
+LLM,Giá vốn hàng bán,2023,4959391429.0,2025-04-12
+LLM,Giá vốn hàng bán,2024,5995282722.0,2025-04-12
+LLM,Lợi nhuận gộp về BH và CCDV,2021,191805633.0,2025-04-12
+LLM,Lợi nhuận gộp về BH và CCDV,2022,90229001.0,2025-04-12
+LLM,Lợi nhuận gộp về BH và CCDV,2023,119638404.0,2025-04-12
+LLM,Lợi nhuận gộp về BH và CCDV,2024,106038957.0,2025-04-12
+LLM,Lợi nhuận tài chính,2021,-90976484.0,2025-04-12
+LLM,Lợi nhuận tài chính,2022,-17453835.0,2025-04-12
+LLM,Lợi nhuận tài chính,2023,8146332.0,2025-04-12
+LLM,Lợi nhuận tài chính,2024,14777628.0,2025-04-12
+LLM,Lợi nhuận khác,2021,14721276.0,2025-04-12
+LLM,Lợi nhuận khác,2022,-7038934.0,2025-04-12
+LLM,Lợi nhuận khác,2023,2296614.0,2025-04-12
+LLM,Lợi nhuận khác,2024,16675374.0,2025-04-12
+LLM,Tổng lợi nhuận trước thuế,2021,8115785.0,2025-04-12
+LLM,Tổng lợi nhuận trước thuế,2022,-28826483.0,2025-04-12
+LLM,Tổng lợi nhuận trước thuế,2023,-12101910.0,2025-04-12
+LLM,Tổng lợi nhuận trước thuế,2024,82811510.0,2025-04-12
+LLM,Lợi nhuận sau thuế,2021,-19407264.0,2025-04-12
+LLM,Lợi nhuận sau thuế,2022,-54264073.0,2025-04-12
+LLM,Lợi nhuận sau thuế,2023,-19497740.0,2025-04-12
+LLM,Lợi nhuận sau thuế,2024,79224944.0,2025-04-12
+LLM,Lợi nhuận sau thuế của công ty mẹ,2021,15034447.0,2025-04-12
+LLM,Lợi nhuận sau thuế của công ty mẹ,2022,-25247312.0,2025-04-12
+LLM,Lợi nhuận sau thuế của công ty mẹ,2023,4224093.0,2025-04-12
+LLM,Lợi nhuận sau thuế của công ty mẹ,2024,92694656.0,2025-04-12
+LLM,Tổng tài sản lưu động ngắn hạn,2021,6451439190.0,2025-04-12
+LLM,Tổng tài sản lưu động ngắn hạn,2022,5330719427.0,2025-04-12
+LLM,Tổng tài sản lưu động ngắn hạn,2023,5541120738.0,2025-04-12
+LLM,Tổng tài sản lưu động ngắn hạn,2024,5257743842.0,2025-04-12
+LLM,Tổng tài sản,2021,7393135259.0,2025-04-12
+LLM,Tổng tài sản,2022,6203590855.0,2025-04-12
+LLM,Tổng tài sản,2023,6370126254.0,2025-04-12
+LLM,Tổng tài sản,2024,6116540525.0,2025-04-12
+LLM,Nợ ngắn hạn,2021,6319206856.0,2025-04-12
+LLM,Nợ ngắn hạn,2022,5148493096.0,2025-04-12
+LLM,Nợ ngắn hạn,2023,5315338481.0,2025-04-12
+LLM,Nợ ngắn hạn,2024,4685143488.0,2025-04-12
+LLM,Tổng nợ,2021,6341962721.0,2025-04-12
+LLM,Tổng nợ,2022,5223247749.0,2025-04-12
+LLM,Tổng nợ,2023,5426644547.0,2025-04-12
+LLM,Tổng nợ,2024,5138300958.0,2025-04-12
+LLM,Vốn chủ sở hữu,2021,1051172539.0,2025-04-12
+LLM,Vốn chủ sở hữu,2022,980343106.0,2025-04-12
+LLM,Vốn chủ sở hữu,2023,943481707.0,2025-04-12
+LLM,Vốn chủ sở hữu,2024,978239567.0,2025-04-12

@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+EVE,Doanh thu bán hàng và CCDV,2020,855774884.0,2025-04-12
+EVE,Doanh thu bán hàng và CCDV,2021,866451099.0,2025-04-12
+EVE,Doanh thu bán hàng và CCDV,2022,1021675009.0,2025-04-12
+EVE,Doanh thu bán hàng và CCDV,2023,787684320.0,2025-04-12
+EVE,Giá vốn hàng bán,2020,593077233.0,2025-04-12
+EVE,Giá vốn hàng bán,2021,570738932.0,2025-04-12
+EVE,Giá vốn hàng bán,2022,637064757.0,2025-04-12
+EVE,Giá vốn hàng bán,2023,535771596.0,2025-04-12
+EVE,Lợi nhuận gộp về BH và CCDV,2020,262280979.0,2025-04-12
+EVE,Lợi nhuận gộp về BH và CCDV,2021,295208369.0,2025-04-12
+EVE,Lợi nhuận gộp về BH và CCDV,2022,384183761.0,2025-04-12
+EVE,Lợi nhuận gộp về BH và CCDV,2023,251082310.0,2025-04-12
+EVE,Lợi nhuận tài chính,2020,29825265.0,2025-04-12
+EVE,Lợi nhuận tài chính,2021,14714054.0,2025-04-12
+EVE,Lợi nhuận tài chính,2022,-8046695.0,2025-04-12
+EVE,Lợi nhuận tài chính,2023,26805572.0,2025-04-12
+EVE,Lợi nhuận khác,2020,-736694.0,2025-04-12
+EVE,Lợi nhuận khác,2021,783551.0,2025-04-12
+EVE,Lợi nhuận khác,2022,522223.0,2025-04-12
+EVE,Lợi nhuận khác,2023,6752653.0,2025-04-12
+EVE,Tổng lợi nhuận trước thuế,2020,56491878.0,2025-04-12
+EVE,Tổng lợi nhuận trước thuế,2021,74637344.0,2025-04-12
+EVE,Tổng lợi nhuận trước thuế,2022,115334904.0,2025-04-12
+EVE,Tổng lợi nhuận trước thuế,2023,24246728.0,2025-04-12
+EVE,Lợi nhuận sau thuế,2020,42056931.0,2025-04-12
+EVE,Lợi nhuận sau thuế,2021,59720671.0,2025-04-12
+EVE,Lợi nhuận sau thuế,2022,91829421.0,2025-04-12
+EVE,Lợi nhuận sau thuế,2023,18641773.0,2025-04-12
+EVE,Lợi nhuận sau thuế của công ty mẹ,2020,42056931.0,2025-04-12
+EVE,Lợi nhuận sau thuế của công ty mẹ,2021,59720671.0,2025-04-12
+EVE,Lợi nhuận sau thuế của công ty mẹ,2022,91574835.0,2025-04-12
+EVE,Lợi nhuận sau thuế của công ty mẹ,2023,17825395.0,2025-04-12
+EVE,Tổng tài sản lưu động ngắn hạn,2020,1087289633.0,2025-04-12
+EVE,Tổng tài sản lưu động ngắn hạn,2021,965611048.0,2025-04-12
+EVE,Tổng tài sản lưu động ngắn hạn,2022,1055145769.0,2025-04-12
+EVE,Tổng tài sản lưu động ngắn hạn,2023,770385094.0,2025-04-12
+EVE,Tổng tài sản,2020,1353033082.0,2025-04-12
+EVE,Tổng tài sản,2021,1268743493.0,2025-04-12
+EVE,Tổng tài sản,2022,1456695376.0,2025-04-12
+EVE,Tổng tài sản,2023,1355871069.0,2025-04-12
+EVE,Nợ ngắn hạn,2020,153166781.0,2025-04-12
+EVE,Nợ ngắn hạn,2021,271923340.0,2025-04-12
+EVE,Nợ ngắn hạn,2022,312013033.0,2025-04-12
+EVE,Nợ ngắn hạn,2023,233682771.0,2025-04-12
+EVE,Tổng nợ,2020,408705879.0,2025-04-12
+EVE,Tổng nợ,2021,304707255.0,2025-04-12
+EVE,Tổng nợ,2022,428854173.0,2025-04-12
+EVE,Tổng nợ,2023,355899754.0,2025-04-12
+EVE,Vốn chủ sở hữu,2020,944327203.0,2025-04-12
+EVE,Vốn chủ sở hữu,2021,964036238.0,2025-04-12
+EVE,Vốn chủ sở hữu,2022,1027841203.0,2025-04-12
+EVE,Vốn chủ sở hữu,2023,999971316.0,2025-04-12

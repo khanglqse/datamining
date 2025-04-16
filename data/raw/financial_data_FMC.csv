@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+FMC,Doanh thu bán hàng và CCDV,2021,5204375250.0,2025-04-12
+FMC,Doanh thu bán hàng và CCDV,2022,5707202573.0,2025-04-12
+FMC,Doanh thu bán hàng và CCDV,2023,5089081008.0,2025-04-12
+FMC,Doanh thu bán hàng và CCDV,2024,6920256746.0,2025-04-12
+FMC,Giá vốn hàng bán,2021,4669821259.0,2025-04-12
+FMC,Giá vốn hàng bán,2022,5075987794.0,2025-04-12
+FMC,Giá vốn hàng bán,2023,4594468806.0,2025-04-12
+FMC,Giá vốn hàng bán,2024,6160943041.0,2025-04-12
+FMC,Lợi nhuận gộp về BH và CCDV,2021,529283595.0,2025-04-12
+FMC,Lợi nhuận gộp về BH và CCDV,2022,625575868.0,2025-04-12
+FMC,Lợi nhuận gộp về BH và CCDV,2023,492924193.0,2025-04-12
+FMC,Lợi nhuận gộp về BH và CCDV,2024,751680449.0,2025-04-12
+FMC,Lợi nhuận tài chính,2021,20843827.0,2025-04-12
+FMC,Lợi nhuận tài chính,2022,16948192.0,2025-04-12
+FMC,Lợi nhuận tài chính,2023,11478358.0,2025-04-12
+FMC,Lợi nhuận tài chính,2024,58894346.0,2025-04-12
+FMC,Lợi nhuận khác,2021,3190517.0,2025-04-12
+FMC,Lợi nhuận khác,2022,4609340.0,2025-04-12
+FMC,Lợi nhuận khác,2023,957257.0,2025-04-12
+FMC,Lợi nhuận khác,2024,-306402.0,2025-04-12
+FMC,Tổng lợi nhuận trước thuế,2021,288962223.0,2025-04-12
+FMC,Tổng lợi nhuận trước thuế,2022,328414078.0,2025-04-12
+FMC,Tổng lợi nhuận trước thuế,2023,304595891.0,2025-04-12
+FMC,Tổng lợi nhuận trước thuế,2024,421810405.0,2025-04-12
+FMC,Lợi nhuận sau thuế,2021,287089388.0,2025-04-12
+FMC,Lợi nhuận sau thuế,2022,321017891.0,2025-04-12
+FMC,Lợi nhuận sau thuế,2023,302336331.0,2025-04-12
+FMC,Lợi nhuận sau thuế,2024,422616029.0,2025-04-12
+FMC,Lợi nhuận sau thuế của công ty mẹ,2021,267038168.0,2025-04-12
+FMC,Lợi nhuận sau thuế của công ty mẹ,2022,309023014.0,2025-04-12
+FMC,Lợi nhuận sau thuế của công ty mẹ,2023,276067089.0,2025-04-12
+FMC,Lợi nhuận sau thuế của công ty mẹ,2024,305700512.0,2025-04-12
+FMC,Tổng tài sản lưu động ngắn hạn,2021,2150121694.0,2025-04-12
+FMC,Tổng tài sản lưu động ngắn hạn,2022,1876998079.0,2025-04-12
+FMC,Tổng tài sản lưu động ngắn hạn,2023,2127050626.0,2025-04-12
+FMC,Tổng tài sản lưu động ngắn hạn,2024,2641239438.0,2025-04-12
+FMC,Tổng tài sản,2021,2699782948.0,2025-04-12
+FMC,Tổng tài sản,2022,2988806967.0,2025-04-12
+FMC,Tổng tài sản,2023,3356184077.0,2025-04-12
+FMC,Tổng tài sản,2024,3774888903.0,2025-04-12
+FMC,Nợ ngắn hạn,2021,713095459.0,2025-04-12
+FMC,Nợ ngắn hạn,2022,862554104.0,2025-04-12
+FMC,Nợ ngắn hạn,2023,1111721605.0,2025-04-12
+FMC,Nợ ngắn hạn,2024,1297239674.0,2025-04-12
+FMC,Tổng nợ,2021,723028145.0,2025-04-12
+FMC,Tổng nợ,2022,872745442.0,2025-04-12
+FMC,Tổng nợ,2023,1122043529.0,2025-04-12
+FMC,Tổng nợ,2024,1308985491.0,2025-04-12
+FMC,Vốn chủ sở hữu,2021,1976754803.0,2025-04-12
+FMC,Vốn chủ sở hữu,2022,2116061524.0,2025-04-12
+FMC,Vốn chủ sở hữu,2023,2234140548.0,2025-04-12
+FMC,Vốn chủ sở hữu,2024,2465903412.0,2025-04-12

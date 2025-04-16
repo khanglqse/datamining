@@ -1,0 +1,49 @@
+symbol,metric,year,value,crawled_date
+BFI,Doanh thu bán hàng và CCDV,2009,1037343.0,2025-04-12
+BFI,Doanh thu bán hàng và CCDV,2010,2177785.0,2025-04-12
+BFI,Doanh thu bán hàng và CCDV,2011,307617.0,2025-04-12
+BFI,Doanh thu bán hàng và CCDV,2012,175603.0,2025-04-12
+BFI,Lợi nhuận gộp về BH và cung cấp DV,2009,1037343.0,2025-04-12
+BFI,Lợi nhuận gộp về BH và cung cấp DV,2010,2177785.0,2025-04-12
+BFI,Lợi nhuận gộp về BH và cung cấp DV,2011,307617.0,2025-04-12
+BFI,Lợi nhuận gộp về BH và cung cấp DV,2012,175603.0,2025-04-12
+BFI,Lợi nhuận tài chính,2009,51859382.0,2025-04-12
+BFI,Lợi nhuận tài chính,2010,13634481.0,2025-04-12
+BFI,Lợi nhuận tài chính,2011,9026714.0,2025-04-12
+BFI,Lợi nhuận tài chính,2012,27859372.0,2025-04-12
+BFI,Lợi nhuận khác,2009,-579.0,2025-04-12
+BFI,Lợi nhuận khác,2010,3559840.0,2025-04-12
+BFI,Lợi nhuận khác,2011,648635.0,2025-04-12
+BFI,Lợi nhuận khác,2012,342402.0,2025-04-12
+BFI,Tổng lợi nhuận trước thuế,2009,45581751.0,2025-04-12
+BFI,Tổng lợi nhuận trước thuế,2010,13307201.0,2025-04-12
+BFI,Tổng lợi nhuận trước thuế,2011,4787387.0,2025-04-12
+BFI,Tổng lợi nhuận trước thuế,2012,24436657.0,2025-04-12
+BFI,Lợi nhuận sau thuế,2009,45581751.0,2025-04-12
+BFI,Lợi nhuận sau thuế,2010,13307201.0,2025-04-12
+BFI,Lợi nhuận sau thuế,2011,4787387.0,2025-04-12
+BFI,Lợi nhuận sau thuế,2012,24436657.0,2025-04-12
+BFI,Lợi nhuận sau thuế của công ty mẹ,2009,45581751.0,2025-04-12
+BFI,Lợi nhuận sau thuế của công ty mẹ,2010,13307201.0,2025-04-12
+BFI,Lợi nhuận sau thuế của công ty mẹ,2011,4787387.0,2025-04-12
+BFI,Lợi nhuận sau thuế của công ty mẹ,2012,24436657.0,2025-04-12
+BFI,Tổng tài sản lưu động ngắn hạn,2009,396864380.0,2025-04-12
+BFI,Tổng tài sản lưu động ngắn hạn,2010,1294314570.0,2025-04-12
+BFI,Tổng tài sản lưu động ngắn hạn,2011,365071532.0,2025-04-12
+BFI,Tổng tài sản lưu động ngắn hạn,2012,193881710.0,2025-04-12
+BFI,Tổng tài sản,2009,549953399.0,2025-04-12
+BFI,Tổng tài sản,2010,1379148236.0,2025-04-12
+BFI,Tổng tài sản,2011,482093485.0,2025-04-12
+BFI,Tổng tài sản,2012,302903640.0,2025-04-12
+BFI,Nợ ngắn hạn,2009,295770737.0,2025-04-12
+BFI,Nợ ngắn hạn,2010,1111658373.0,2025-04-12
+BFI,Nợ ngắn hạn,2011,209816235.0,2025-04-12
+BFI,Nợ ngắn hạn,2012,6189733.0,2025-04-12
+BFI,Tổng nợ,2009,295770737.0,2025-04-12
+BFI,Tổng nợ,2010,1111658373.0,2025-04-12
+BFI,Tổng nợ,2011,209816235.0,2025-04-12
+BFI,Tổng nợ,2012,6189733.0,2025-04-12
+BFI,Vốn chủ sở hữu,2009,254182661.0,2025-04-12
+BFI,Vốn chủ sở hữu,2010,267489862.0,2025-04-12
+BFI,Vốn chủ sở hữu,2011,272277250.0,2025-04-12
+BFI,Vốn chủ sở hữu,2012,296713907.0,2025-04-12

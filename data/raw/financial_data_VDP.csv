@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+VDP,Doanh thu bán hàng và CCDV,2020,702450329.0,2025-04-12
+VDP,Doanh thu bán hàng và CCDV,2021,824117959.0,2025-04-12
+VDP,Doanh thu bán hàng và CCDV,2022,1093707278.0,2025-04-12
+VDP,Doanh thu bán hàng và CCDV,2023,1075906263.0,2025-04-12
+VDP,Giá vốn hàng bán,2020,530545049.0,2025-04-12
+VDP,Giá vốn hàng bán,2021,598071570.0,2025-04-12
+VDP,Giá vốn hàng bán,2022,755407878.0,2025-04-12
+VDP,Giá vốn hàng bán,2023,748736586.0,2025-04-12
+VDP,Lợi nhuận gộp về BH và CCDV,2020,155935889.0,2025-04-12
+VDP,Lợi nhuận gộp về BH và CCDV,2021,187284007.0,2025-04-12
+VDP,Lợi nhuận gộp về BH và CCDV,2022,252388266.0,2025-04-12
+VDP,Lợi nhuận gộp về BH và CCDV,2023,270580100.0,2025-04-12
+VDP,Lợi nhuận tài chính,2020,-3299411.0,2025-04-12
+VDP,Lợi nhuận tài chính,2021,14559413.0,2025-04-12
+VDP,Lợi nhuận tài chính,2022,1559808.0,2025-04-12
+VDP,Lợi nhuận tài chính,2023,-7979821.0,2025-04-12
+VDP,Lợi nhuận khác,2020,6782635.0,2025-04-12
+VDP,Lợi nhuận khác,2021,7195903.0,2025-04-12
+VDP,Lợi nhuận khác,2022,1095067.0,2025-04-12
+VDP,Lợi nhuận khác,2023,9388631.0,2025-04-12
+VDP,Tổng lợi nhuận trước thuế,2020,63167295.0,2025-04-12
+VDP,Tổng lợi nhuận trước thuế,2021,77110210.0,2025-04-12
+VDP,Tổng lợi nhuận trước thuế,2022,93313552.0,2025-04-12
+VDP,Tổng lợi nhuận trước thuế,2023,100568586.0,2025-04-12
+VDP,Lợi nhuận sau thuế,2020,50181432.0,2025-04-12
+VDP,Lợi nhuận sau thuế,2021,60217022.0,2025-04-12
+VDP,Lợi nhuận sau thuế,2022,73548374.0,2025-04-12
+VDP,Lợi nhuận sau thuế,2023,80218844.0,2025-04-12
+VDP,Lợi nhuận sau thuế của công ty mẹ,2020,50181432.0,2025-04-12
+VDP,Lợi nhuận sau thuế của công ty mẹ,2021,60217022.0,2025-04-12
+VDP,Lợi nhuận sau thuế của công ty mẹ,2022,73548374.0,2025-04-12
+VDP,Lợi nhuận sau thuế của công ty mẹ,2023,80218844.0,2025-04-12
+VDP,Tổng tài sản lưu động ngắn hạn,2020,631146870.0,2025-04-12
+VDP,Tổng tài sản lưu động ngắn hạn,2021,744273613.0,2025-04-12
+VDP,Tổng tài sản lưu động ngắn hạn,2022,920691609.0,2025-04-12
+VDP,Tổng tài sản lưu động ngắn hạn,2023,875016373.0,2025-04-12
+VDP,Tổng tài sản,2020,895798184.0,2025-04-12
+VDP,Tổng tài sản,2021,1031599035.0,2025-04-12
+VDP,Tổng tài sản,2022,1102194442.0,2025-04-12
+VDP,Tổng tài sản,2023,1093445379.0,2025-04-12
+VDP,Nợ ngắn hạn,2020,351725593.0,2025-04-12
+VDP,Nợ ngắn hạn,2021,447373441.0,2025-04-12
+VDP,Nợ ngắn hạn,2022,475600945.0,2025-04-12
+VDP,Nợ ngắn hạn,2023,361463196.0,2025-04-12
+VDP,Tổng nợ,2020,351725593.0,2025-04-12
+VDP,Tổng nợ,2021,447373441.0,2025-04-12
+VDP,Tổng nợ,2022,475600945.0,2025-04-12
+VDP,Tổng nợ,2023,361463196.0,2025-04-12
+VDP,Vốn chủ sở hữu,2020,544072591.0,2025-04-12
+VDP,Vốn chủ sở hữu,2021,584225594.0,2025-04-12
+VDP,Vốn chủ sở hữu,2022,626593498.0,2025-04-12
+VDP,Vốn chủ sở hữu,2023,731982183.0,2025-04-12

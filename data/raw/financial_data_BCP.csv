@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+BCP,Doanh thu bán hàng và CCDV,2021,75630790.0,2025-04-12
+BCP,Doanh thu bán hàng và CCDV,2022,119168011.0,2025-04-12
+BCP,Doanh thu bán hàng và CCDV,2023,144099985.0,2025-04-12
+BCP,Doanh thu bán hàng và CCDV,2024,147185608.0,2025-04-12
+BCP,Giá vốn hàng bán,2021,66594886.0,2025-04-12
+BCP,Giá vốn hàng bán,2022,102593078.0,2025-04-12
+BCP,Giá vốn hàng bán,2023,134756674.0,2025-04-12
+BCP,Giá vốn hàng bán,2024,131424143.0,2025-04-12
+BCP,Lợi nhuận gộp về BH và CCDV,2021,8912350.0,2025-04-12
+BCP,Lợi nhuận gộp về BH và CCDV,2022,16392966.0,2025-04-12
+BCP,Lợi nhuận gộp về BH và CCDV,2023,8293341.0,2025-04-12
+BCP,Lợi nhuận gộp về BH và CCDV,2024,15608072.0,2025-04-12
+BCP,Lợi nhuận tài chính,2021,-1318390.0,2025-04-12
+BCP,Lợi nhuận tài chính,2022,-3523319.0,2025-04-12
+BCP,Lợi nhuận tài chính,2023,-3842762.0,2025-04-12
+BCP,Lợi nhuận tài chính,2024,-3157577.0,2025-04-12
+BCP,Lợi nhuận khác,2021,2099463.0,2025-04-12
+BCP,Lợi nhuận khác,2022,323144.0,2025-04-12
+BCP,Lợi nhuận khác,2023,1989935.0,2025-04-12
+BCP,Lợi nhuận khác,2024,-170419.0,2025-04-12
+BCP,Tổng lợi nhuận trước thuế,2021,-3938340.0,2025-04-12
+BCP,Tổng lợi nhuận trước thuế,2022,-1408936.0,2025-04-12
+BCP,Tổng lợi nhuận trước thuế,2023,-5674557.0,2025-04-12
+BCP,Tổng lợi nhuận trước thuế,2024,344945.0,2025-04-12
+BCP,Lợi nhuận sau thuế,2021,-4302782.0,2025-04-12
+BCP,Lợi nhuận sau thuế,2022,-1440863.0,2025-04-12
+BCP,Lợi nhuận sau thuế,2023,-5674557.0,2025-04-12
+BCP,Lợi nhuận sau thuế,2024,344945.0,2025-04-12
+BCP,Lợi nhuận sau thuế của công ty mẹ,2021,-4302782.0,2025-04-12
+BCP,Lợi nhuận sau thuế của công ty mẹ,2022,-1440863.0,2025-04-12
+BCP,Lợi nhuận sau thuế của công ty mẹ,2023,-5674557.0,2025-04-12
+BCP,Lợi nhuận sau thuế của công ty mẹ,2024,344945.0,2025-04-12
+BCP,Tổng tài sản lưu động ngắn hạn,2021,46404916.0,2025-04-12
+BCP,Tổng tài sản lưu động ngắn hạn,2022,68860500.0,2025-04-12
+BCP,Tổng tài sản lưu động ngắn hạn,2023,54546976.0,2025-04-12
+BCP,Tổng tài sản lưu động ngắn hạn,2024,60989972.0,2025-04-12
+BCP,Tổng tài sản,2021,85847582.0,2025-04-12
+BCP,Tổng tài sản,2022,116001721.0,2025-04-12
+BCP,Tổng tài sản,2023,101977986.0,2025-04-12
+BCP,Tổng tài sản,2024,111094284.0,2025-04-12
+BCP,Nợ ngắn hạn,2021,41293335.0,2025-04-12
+BCP,Nợ ngắn hạn,2022,71986157.0,2025-04-12
+BCP,Nợ ngắn hạn,2023,63377342.0,2025-04-12
+BCP,Nợ ngắn hạn,2024,70558295.0,2025-04-12
+BCP,Tổng nợ,2021,44220871.0,2025-04-12
+BCP,Tổng nợ,2022,75838616.0,2025-04-12
+BCP,Tổng nợ,2023,67498269.0,2025-04-12
+BCP,Tổng nợ,2024,76269622.0,2025-04-12
+BCP,Vốn chủ sở hữu,2021,41626712.0,2025-04-12
+BCP,Vốn chủ sở hữu,2022,40163105.0,2025-04-12
+BCP,Vốn chủ sở hữu,2023,34479717.0,2025-04-12
+BCP,Vốn chủ sở hữu,2024,34824662.0,2025-04-12

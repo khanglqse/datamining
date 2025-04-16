@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+EMS,Doanh thu bán hàng và CCDV,2021,2495605811.0,2025-04-12
+EMS,Doanh thu bán hàng và CCDV,2022,2235889414.0,2025-04-12
+EMS,Doanh thu bán hàng và CCDV,2023,1797058667.0,2025-04-12
+EMS,Doanh thu bán hàng và CCDV,2024,1848069710.0,2025-04-12
+EMS,Giá vốn hàng bán,2021,2024077805.0,2025-04-12
+EMS,Giá vốn hàng bán,2022,1864406958.0,2025-04-12
+EMS,Giá vốn hàng bán,2023,1466672345.0,2025-04-12
+EMS,Giá vốn hàng bán,2024,1540024700.0,2025-04-12
+EMS,Lợi nhuận gộp về BH và CCDV,2021,471528006.0,2025-04-12
+EMS,Lợi nhuận gộp về BH và CCDV,2022,371482456.0,2025-04-12
+EMS,Lợi nhuận gộp về BH và CCDV,2023,330386322.0,2025-04-12
+EMS,Lợi nhuận gộp về BH và CCDV,2024,308045010.0,2025-04-12
+EMS,Lợi nhuận tài chính,2021,2997333.0,2025-04-12
+EMS,Lợi nhuận tài chính,2022,4721985.0,2025-04-12
+EMS,Lợi nhuận tài chính,2023,4014541.0,2025-04-12
+EMS,Lợi nhuận tài chính,2024,4372396.0,2025-04-12
+EMS,Lợi nhuận khác,2021,282932.0,2025-04-12
+EMS,Lợi nhuận khác,2022,-32404.0,2025-04-12
+EMS,Lợi nhuận khác,2023,1025871.0,2025-04-12
+EMS,Lợi nhuận khác,2024,316013.0,2025-04-12
+EMS,Tổng lợi nhuận trước thuế,2021,84546886.0,2025-04-12
+EMS,Tổng lợi nhuận trước thuế,2022,89531388.0,2025-04-12
+EMS,Tổng lợi nhuận trước thuế,2023,81058308.0,2025-04-12
+EMS,Tổng lợi nhuận trước thuế,2024,87024149.0,2025-04-12
+EMS,Lợi nhuận sau thuế,2021,67327107.0,2025-04-12
+EMS,Lợi nhuận sau thuế,2022,71347508.0,2025-04-12
+EMS,Lợi nhuận sau thuế,2023,64745287.0,2025-04-12
+EMS,Lợi nhuận sau thuế,2024,65626194.0,2025-04-12
+EMS,Lợi nhuận sau thuế của công ty mẹ,2021,67327107.0,2025-04-12
+EMS,Lợi nhuận sau thuế của công ty mẹ,2022,71347508.0,2025-04-12
+EMS,Lợi nhuận sau thuế của công ty mẹ,2023,64745287.0,2025-04-12
+EMS,Lợi nhuận sau thuế của công ty mẹ,2024,65626194.0,2025-04-12
+EMS,Tổng tài sản lưu động ngắn hạn,2021,737390012.0,2025-04-12
+EMS,Tổng tài sản lưu động ngắn hạn,2022,645472070.0,2025-04-12
+EMS,Tổng tài sản lưu động ngắn hạn,2023,531300423.0,2025-04-12
+EMS,Tổng tài sản lưu động ngắn hạn,2024,610444670.0,2025-04-12
+EMS,Tổng tài sản,2021,818937143.0,2025-04-12
+EMS,Tổng tài sản,2022,726565245.0,2025-04-12
+EMS,Tổng tài sản,2023,675922788.0,2025-04-12
+EMS,Tổng tài sản,2024,748773808.0,2025-04-12
+EMS,Nợ ngắn hạn,2021,547580418.0,2025-04-12
+EMS,Nợ ngắn hạn,2022,417914810.0,2025-04-12
+EMS,Nợ ngắn hạn,2023,373695139.0,2025-04-12
+EMS,Nợ ngắn hạn,2024,432334013.0,2025-04-12
+EMS,Tổng nợ,2021,547580418.0,2025-04-12
+EMS,Tổng nợ,2022,417914810.0,2025-04-12
+EMS,Tổng nợ,2023,373695139.0,2025-04-12
+EMS,Tổng nợ,2024,432619785.0,2025-04-12
+EMS,Vốn chủ sở hữu,2021,271356725.0,2025-04-12
+EMS,Vốn chủ sở hữu,2022,308650435.0,2025-04-12
+EMS,Vốn chủ sở hữu,2023,302227649.0,2025-04-12
+EMS,Vốn chủ sở hữu,2024,316154023.0,2025-04-12

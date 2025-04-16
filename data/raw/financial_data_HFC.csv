@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+HFC,Doanh thu bán hàng và CCDV,2021,1513258652.0,2025-04-12
+HFC,Doanh thu bán hàng và CCDV,2022,2233107353.0,2025-04-12
+HFC,Doanh thu bán hàng và CCDV,2023,2005085558.0,2025-04-12
+HFC,Doanh thu bán hàng và CCDV,2024,2032400251.0,2025-04-12
+HFC,Giá vốn hàng bán,2021,1431658694.0,2025-04-12
+HFC,Giá vốn hàng bán,2022,2170494247.0,2025-04-12
+HFC,Giá vốn hàng bán,2023,1921531317.0,2025-04-12
+HFC,Giá vốn hàng bán,2024,1913776199.0,2025-04-12
+HFC,Lợi nhuận gộp về BH và CCDV,2021,81599957.0,2025-04-12
+HFC,Lợi nhuận gộp về BH và CCDV,2022,62613106.0,2025-04-12
+HFC,Lợi nhuận gộp về BH và CCDV,2023,83554241.0,2025-04-12
+HFC,Lợi nhuận gộp về BH và CCDV,2024,115377339.0,2025-04-12
+HFC,Lợi nhuận tài chính,2021,-9428170.0,2025-04-12
+HFC,Lợi nhuận tài chính,2022,-11984717.0,2025-04-12
+HFC,Lợi nhuận tài chính,2023,-18788745.0,2025-04-12
+HFC,Lợi nhuận tài chính,2024,-13065711.0,2025-04-12
+HFC,Lợi nhuận khác,2021,1118366.0,2025-04-12
+HFC,Lợi nhuận khác,2022,1776688.0,2025-04-12
+HFC,Lợi nhuận khác,2023,2448443.0,2025-04-12
+HFC,Lợi nhuận khác,2024,3891188.0,2025-04-12
+HFC,Tổng lợi nhuận trước thuế,2021,3536552.0,2025-04-12
+HFC,Tổng lợi nhuận trước thuế,2022,-12443813.0,2025-04-12
+HFC,Tổng lợi nhuận trước thuế,2023,5555552.0,2025-04-12
+HFC,Tổng lợi nhuận trước thuế,2024,12730125.0,2025-04-12
+HFC,Lợi nhuận sau thuế,2021,3142046.0,2025-04-12
+HFC,Lợi nhuận sau thuế,2022,-12443813.0,2025-04-12
+HFC,Lợi nhuận sau thuế,2023,3043566.0,2025-04-12
+HFC,Lợi nhuận sau thuế,2024,9251033.0,2025-04-12
+HFC,Lợi nhuận sau thuế của công ty mẹ,2021,2956910.0,2025-04-12
+HFC,Lợi nhuận sau thuế của công ty mẹ,2022,-12443813.0,2025-04-12
+HFC,Lợi nhuận sau thuế của công ty mẹ,2023,3043566.0,2025-04-12
+HFC,Lợi nhuận sau thuế của công ty mẹ,2024,9251033.0,2025-04-12
+HFC,Tổng tài sản lưu động ngắn hạn,2021,220480578.0,2025-04-12
+HFC,Tổng tài sản lưu động ngắn hạn,2022,272052174.0,2025-04-12
+HFC,Tổng tài sản lưu động ngắn hạn,2023,252622238.0,2025-04-12
+HFC,Tổng tài sản lưu động ngắn hạn,2024,198108504.0,2025-04-12
+HFC,Tổng tài sản,2021,299878892.0,2025-04-12
+HFC,Tổng tài sản,2022,346731698.0,2025-04-12
+HFC,Tổng tài sản,2023,320510072.0,2025-04-12
+HFC,Tổng tài sản,2024,264151173.0,2025-04-12
+HFC,Nợ ngắn hạn,2021,222968902.0,2025-04-12
+HFC,Nợ ngắn hạn,2022,282357873.0,2025-04-12
+HFC,Nợ ngắn hạn,2023,235135970.0,2025-04-12
+HFC,Nợ ngắn hạn,2024,172276569.0,2025-04-12
+HFC,Tổng nợ,2021,225125084.0,2025-04-12
+HFC,Tổng nợ,2022,285886940.0,2025-04-12
+HFC,Tổng nợ,2023,239757347.0,2025-04-12
+HFC,Tổng nợ,2024,177163016.0,2025-04-12
+HFC,Vốn chủ sở hữu,2021,74753807.0,2025-04-12
+HFC,Vốn chủ sở hữu,2022,60844759.0,2025-04-12
+HFC,Vốn chủ sở hữu,2023,80752725.0,2025-04-12
+HFC,Vốn chủ sở hữu,2024,86988157.0,2025-04-12

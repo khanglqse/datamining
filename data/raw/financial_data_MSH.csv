@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+MSH,Doanh thu bán hàng và CCDV,2021,4749097549.0,2025-04-12
+MSH,Doanh thu bán hàng và CCDV,2022,5522914527.0,2025-04-12
+MSH,Doanh thu bán hàng và CCDV,2023,4541917426.0,2025-04-12
+MSH,Doanh thu bán hàng và CCDV,2024,5280403155.0,2025-04-12
+MSH,Giá vốn hàng bán,2021,3817037706.0,2025-04-12
+MSH,Giá vốn hàng bán,2022,4692290660.0,2025-04-12
+MSH,Giá vốn hàng bán,2023,3977925202.0,2025-04-12
+MSH,Giá vốn hàng bán,2024,4450894974.0,2025-04-12
+MSH,Lợi nhuận gộp về BH và CCDV,2021,930585045.0,2025-04-12
+MSH,Lợi nhuận gộp về BH và CCDV,2022,828666909.0,2025-04-12
+MSH,Lợi nhuận gộp về BH và CCDV,2023,563982363.0,2025-04-12
+MSH,Lợi nhuận gộp về BH và CCDV,2024,829508181.0,2025-04-12
+MSH,Lợi nhuận tài chính,2021,58934496.0,2025-04-12
+MSH,Lợi nhuận tài chính,2022,87016427.0,2025-04-12
+MSH,Lợi nhuận tài chính,2023,118552366.0,2025-04-12
+MSH,Lợi nhuận tài chính,2024,126000034.0,2025-04-12
+MSH,Lợi nhuận khác,2021,-3220682.0,2025-04-12
+MSH,Lợi nhuận khác,2022,-6505088.0,2025-04-12
+MSH,Lợi nhuận khác,2023,1471392.0,2025-04-12
+MSH,Lợi nhuận khác,2024,-16218585.0,2025-04-12
+MSH,Tổng lợi nhuận trước thuế,2021,542658358.0,2025-04-12
+MSH,Tổng lợi nhuận trước thuế,2022,439052547.0,2025-04-12
+MSH,Tổng lợi nhuận trước thuế,2023,306583213.0,2025-04-12
+MSH,Tổng lợi nhuận trước thuế,2024,543807597.0,2025-04-12
+MSH,Lợi nhuận sau thuế,2021,442365883.0,2025-04-12
+MSH,Lợi nhuận sau thuế,2022,337685216.0,2025-04-12
+MSH,Lợi nhuận sau thuế,2023,245245383.0,2025-04-12
+MSH,Lợi nhuận sau thuế,2024,442490050.0,2025-04-12
+MSH,Lợi nhuận sau thuế của công ty mẹ,2021,442381431.0,2025-04-12
+MSH,Lợi nhuận sau thuế của công ty mẹ,2022,374889816.0,2025-04-12
+MSH,Lợi nhuận sau thuế của công ty mẹ,2023,244549615.0,2025-04-12
+MSH,Lợi nhuận sau thuế của công ty mẹ,2024,412522765.0,2025-04-12
+MSH,Tổng tài sản lưu động ngắn hạn,2021,2489368113.0,2025-04-12
+MSH,Tổng tài sản lưu động ngắn hạn,2022,2341793866.0,2025-04-12
+MSH,Tổng tài sản lưu động ngắn hạn,2023,2552594388.0,2025-04-12
+MSH,Tổng tài sản lưu động ngắn hạn,2024,3249615904.0,2025-04-12
+MSH,Tổng tài sản,2021,3202636670.0,2025-04-12
+MSH,Tổng tài sản,2022,3294196007.0,2025-04-12
+MSH,Tổng tài sản,2023,3453089147.0,2025-04-12
+MSH,Tổng tài sản,2024,4520599554.0,2025-04-12
+MSH,Nợ ngắn hạn,2021,1528822237.0,2025-04-12
+MSH,Nợ ngắn hạn,2022,1269232052.0,2025-04-12
+MSH,Nợ ngắn hạn,2023,1335421448.0,2025-04-12
+MSH,Nợ ngắn hạn,2024,1860132583.0,2025-04-12
+MSH,Tổng nợ,2021,1707235719.0,2025-04-12
+MSH,Tổng nợ,2022,1575145089.0,2025-04-12
+MSH,Tổng nợ,2023,1643334484.0,2025-04-12
+MSH,Tổng nợ,2024,2467655848.0,2025-04-12
+MSH,Vốn chủ sở hữu,2021,1495400951.0,2025-04-12
+MSH,Vốn chủ sở hữu,2022,1719050918.0,2025-04-12
+MSH,Vốn chủ sở hữu,2023,1809754663.0,2025-04-12
+MSH,Vốn chủ sở hữu,2024,2055533083.0,2025-04-12

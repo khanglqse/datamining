@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+NCS,Doanh thu bán hàng và CCDV,2021,141343177.0,2025-04-12
+NCS,Doanh thu bán hàng và CCDV,2022,413427193.0,2025-04-12
+NCS,Doanh thu bán hàng và CCDV,2023,633855856.0,2025-04-12
+NCS,Doanh thu bán hàng và CCDV,2024,758843118.0,2025-04-12
+NCS,Giá vốn hàng bán,2021,182031586.0,2025-04-12
+NCS,Giá vốn hàng bán,2022,353423705.0,2025-04-12
+NCS,Giá vốn hàng bán,2023,510394752.0,2025-04-12
+NCS,Giá vốn hàng bán,2024,615109381.0,2025-04-12
+NCS,Lợi nhuận gộp về BH và CCDV,2021,-42408587.0,2025-04-12
+NCS,Lợi nhuận gộp về BH và CCDV,2022,56340919.0,2025-04-12
+NCS,Lợi nhuận gộp về BH và CCDV,2023,103319129.0,2025-04-12
+NCS,Lợi nhuận gộp về BH và CCDV,2024,116957185.0,2025-04-12
+NCS,Lợi nhuận tài chính,2021,-19828542.0,2025-04-12
+NCS,Lợi nhuận tài chính,2022,-22676396.0,2025-04-12
+NCS,Lợi nhuận tài chính,2023,-20684648.0,2025-04-12
+NCS,Lợi nhuận tài chính,2024,-9568584.0,2025-04-12
+NCS,Lợi nhuận khác,2021,183850.0,2025-04-12
+NCS,Lợi nhuận khác,2022,296072.0,2025-04-12
+NCS,Lợi nhuận khác,2023,232097.0,2025-04-12
+NCS,Lợi nhuận khác,2024,173707.0,2025-04-12
+NCS,Tổng lợi nhuận trước thuế,2021,-76823330.0,2025-04-12
+NCS,Tổng lợi nhuận trước thuế,2022,5303895.0,2025-04-12
+NCS,Tổng lợi nhuận trước thuế,2023,46183513.0,2025-04-12
+NCS,Tổng lợi nhuận trước thuế,2024,67608548.0,2025-04-12
+NCS,Lợi nhuận sau thuế,2021,-76823330.0,2025-04-12
+NCS,Lợi nhuận sau thuế,2022,5303895.0,2025-04-12
+NCS,Lợi nhuận sau thuế,2023,46183513.0,2025-04-12
+NCS,Lợi nhuận sau thuế,2024,54769102.0,2025-04-12
+NCS,Lợi nhuận sau thuế của công ty mẹ,2021,-76823330.0,2025-04-12
+NCS,Lợi nhuận sau thuế của công ty mẹ,2022,5303895.0,2025-04-12
+NCS,Lợi nhuận sau thuế của công ty mẹ,2023,46183513.0,2025-04-12
+NCS,Lợi nhuận sau thuế của công ty mẹ,2024,54769102.0,2025-04-12
+NCS,Tổng tài sản lưu động ngắn hạn,2021,118030034.0,2025-04-12
+NCS,Tổng tài sản lưu động ngắn hạn,2022,151493257.0,2025-04-12
+NCS,Tổng tài sản lưu động ngắn hạn,2023,132216625.0,2025-04-12
+NCS,Tổng tài sản lưu động ngắn hạn,2024,161154140.0,2025-04-12
+NCS,Tổng tài sản,2021,508470555.0,2025-04-12
+NCS,Tổng tài sản,2022,513613807.0,2025-04-12
+NCS,Tổng tài sản,2023,463218386.0,2025-04-12
+NCS,Tổng tài sản,2024,472003856.0,2025-04-12
+NCS,Nợ ngắn hạn,2021,193620989.0,2025-04-12
+NCS,Nợ ngắn hạn,2022,241360346.0,2025-04-12
+NCS,Nợ ngắn hạn,2023,216981411.0,2025-04-12
+NCS,Nợ ngắn hạn,2024,231597780.0,2025-04-12
+NCS,Tổng nợ,2021,432233022.0,2025-04-12
+NCS,Tổng nợ,2022,432072379.0,2025-04-12
+NCS,Tổng nợ,2023,335493444.0,2025-04-12
+NCS,Tổng nợ,2024,289509813.0,2025-04-12
+NCS,Vốn chủ sở hữu,2021,76237533.0,2025-04-12
+NCS,Vốn chủ sở hữu,2022,81541429.0,2025-04-12
+NCS,Vốn chủ sở hữu,2023,127724942.0,2025-04-12
+NCS,Vốn chủ sở hữu,2024,182494043.0,2025-04-12

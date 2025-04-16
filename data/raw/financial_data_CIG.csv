@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+CIG,Doanh thu bán hàng và CCDV,2020,25610386.0,2025-04-12
+CIG,Doanh thu bán hàng và CCDV,2021,29583835.0,2025-04-12
+CIG,Doanh thu bán hàng và CCDV,2022,83224739.0,2025-04-12
+CIG,Doanh thu bán hàng và CCDV,2023,66138358.0,2025-04-12
+CIG,Giá vốn hàng bán,2020,201620453.0,2025-04-12
+CIG,Giá vốn hàng bán,2021,13737141.0,2025-04-12
+CIG,Giá vốn hàng bán,2022,87860742.0,2025-04-12
+CIG,Giá vốn hàng bán,2023,45048874.0,2025-04-12
+CIG,Lợi nhuận gộp về BH và CCDV,2020,-176010068.0,2025-04-12
+CIG,Lợi nhuận gộp về BH và CCDV,2021,15846694.0,2025-04-12
+CIG,Lợi nhuận gộp về BH và CCDV,2022,-4636003.0,2025-04-12
+CIG,Lợi nhuận gộp về BH và CCDV,2023,21089484.0,2025-04-12
+CIG,Lợi nhuận tài chính,2020,-789340.0,2025-04-12
+CIG,Lợi nhuận tài chính,2021,-495944.0,2025-04-12
+CIG,Lợi nhuận tài chính,2022,9136293.0,2025-04-12
+CIG,Lợi nhuận tài chính,2023,-3322197.0,2025-04-12
+CIG,Lợi nhuận khác,2020,8257933.0,2025-04-12
+CIG,Lợi nhuận khác,2021,7379839.0,2025-04-12
+CIG,Lợi nhuận khác,2022,199076.0,2025-04-12
+CIG,Lợi nhuận khác,2023,-6174877.0,2025-04-12
+CIG,Tổng lợi nhuận trước thuế,2020,-174896570.0,2025-04-12
+CIG,Tổng lợi nhuận trước thuế,2021,16552136.0,2025-04-12
+CIG,Tổng lợi nhuận trước thuế,2022,-6631292.0,2025-04-12
+CIG,Tổng lợi nhuận trước thuế,2023,-7208306.0,2025-04-12
+CIG,Lợi nhuận sau thuế,2020,-174896570.0,2025-04-12
+CIG,Lợi nhuận sau thuế,2021,16548612.0,2025-04-12
+CIG,Lợi nhuận sau thuế,2022,-6656969.0,2025-04-12
+CIG,Lợi nhuận sau thuế,2023,-7212366.0,2025-04-12
+CIG,Lợi nhuận sau thuế của công ty mẹ,2020,-174893246.0,2025-04-12
+CIG,Lợi nhuận sau thuế của công ty mẹ,2021,16463143.0,2025-04-12
+CIG,Lợi nhuận sau thuế của công ty mẹ,2022,-6565739.0,2025-04-12
+CIG,Lợi nhuận sau thuế của công ty mẹ,2023,-7198834.0,2025-04-12
+CIG,Tổng tài sản lưu động ngắn hạn,2020,497608255.0,2025-04-12
+CIG,Tổng tài sản lưu động ngắn hạn,2021,291217182.0,2025-04-12
+CIG,Tổng tài sản lưu động ngắn hạn,2022,614233105.0,2025-04-12
+CIG,Tổng tài sản lưu động ngắn hạn,2023,477120970.0,2025-04-12
+CIG,Tổng tài sản,2020,687011930.0,2025-04-12
+CIG,Tổng tài sản,2021,707502591.0,2025-04-12
+CIG,Tổng tài sản,2022,729551648.0,2025-04-12
+CIG,Tổng tài sản,2023,699078942.0,2025-04-12
+CIG,Nợ ngắn hạn,2020,438131539.0,2025-04-12
+CIG,Nợ ngắn hạn,2021,443794049.0,2025-04-12
+CIG,Nợ ngắn hạn,2022,567454062.0,2025-04-12
+CIG,Nợ ngắn hạn,2023,544904872.0,2025-04-12
+CIG,Tổng nợ,2020,531474454.0,2025-04-12
+CIG,Tổng nợ,2021,536185112.0,2025-04-12
+CIG,Tổng nợ,2022,567677339.0,2025-04-12
+CIG,Tổng nợ,2023,544939610.0,2025-04-12
+CIG,Vốn chủ sở hữu,2020,155537476.0,2025-04-12
+CIG,Vốn chủ sở hữu,2021,171317478.0,2025-04-12
+CIG,Vốn chủ sở hữu,2022,161874309.0,2025-04-12
+CIG,Vốn chủ sở hữu,2023,154139332.0,2025-04-12

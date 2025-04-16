@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+NFC,Doanh thu bán hàng và CCDV,2021,556302662.0,2025-04-12
+NFC,Doanh thu bán hàng và CCDV,2022,698301527.0,2025-04-12
+NFC,Doanh thu bán hàng và CCDV,2023,727048526.0,2025-04-12
+NFC,Doanh thu bán hàng và CCDV,2024,914853215.0,2025-04-12
+NFC,Giá vốn hàng bán,2021,487281831.0,2025-04-12
+NFC,Giá vốn hàng bán,2022,596593124.0,2025-04-12
+NFC,Giá vốn hàng bán,2023,621769178.0,2025-04-12
+NFC,Giá vốn hàng bán,2024,762761126.0,2025-04-12
+NFC,Lợi nhuận gộp về BH và CCDV,2021,68993531.0,2025-04-12
+NFC,Lợi nhuận gộp về BH và CCDV,2022,101708403.0,2025-04-12
+NFC,Lợi nhuận gộp về BH và CCDV,2023,104780885.0,2025-04-12
+NFC,Lợi nhuận gộp về BH và CCDV,2024,151619905.0,2025-04-12
+NFC,Lợi nhuận tài chính,2021,-1462111.0,2025-04-12
+NFC,Lợi nhuận tài chính,2022,-3322954.0,2025-04-12
+NFC,Lợi nhuận tài chính,2023,-5074451.0,2025-04-12
+NFC,Lợi nhuận tài chính,2024,-2208287.0,2025-04-12
+NFC,Lợi nhuận khác,2021,2751053.0,2025-04-12
+NFC,Lợi nhuận khác,2022,2033746.0,2025-04-12
+NFC,Lợi nhuận khác,2023,4230635.0,2025-04-12
+NFC,Lợi nhuận khác,2024,4722848.0,2025-04-12
+NFC,Tổng lợi nhuận trước thuế,2021,17110092.0,2025-04-12
+NFC,Tổng lợi nhuận trước thuế,2022,32023479.0,2025-04-12
+NFC,Tổng lợi nhuận trước thuế,2023,35036125.0,2025-04-12
+NFC,Tổng lợi nhuận trước thuế,2024,55903777.0,2025-04-12
+NFC,Lợi nhuận sau thuế,2021,13588642.0,2025-04-12
+NFC,Lợi nhuận sau thuế,2022,25613903.0,2025-04-12
+NFC,Lợi nhuận sau thuế,2023,28141147.0,2025-04-12
+NFC,Lợi nhuận sau thuế,2024,44732601.0,2025-04-12
+NFC,Lợi nhuận sau thuế của công ty mẹ,2021,13588642.0,2025-04-12
+NFC,Lợi nhuận sau thuế của công ty mẹ,2022,2.0,2025-04-12
+NFC,Lợi nhuận sau thuế của công ty mẹ,2023,28141147.0,2025-04-12
+NFC,Lợi nhuận sau thuế của công ty mẹ,2024,44732601.0,2025-04-12
+NFC,Tổng tài sản lưu động ngắn hạn,2021,225408318.0,2025-04-12
+NFC,Tổng tài sản lưu động ngắn hạn,2022,308104223.0,2025-04-12
+NFC,Tổng tài sản lưu động ngắn hạn,2023,282328074.0,2025-04-12
+NFC,Tổng tài sản lưu động ngắn hạn,2024,341311146.0,2025-04-12
+NFC,Tổng tài sản,2021,238905385.0,2025-04-12
+NFC,Tổng tài sản,2022,319837715.0,2025-04-12
+NFC,Tổng tài sản,2023,290102677.0,2025-04-12
+NFC,Tổng tài sản,2024,348901225.0,2025-04-12
+NFC,Nợ ngắn hạn,2021,52583640.0,2025-04-12
+NFC,Nợ ngắn hạn,2022,122222464.0,2025-04-12
+NFC,Nợ ngắn hạn,2023,84979348.0,2025-04-12
+NFC,Nợ ngắn hạn,2024,127216699.0,2025-04-12
+NFC,Tổng nợ,2021,52739415.0,2025-04-12
+NFC,Tổng nợ,2022,122222464.0,2025-04-12
+NFC,Tổng nợ,2023,84979348.0,2025-04-12
+NFC,Tổng nợ,2024,127216699.0,2025-04-12
+NFC,Vốn chủ sở hữu,2021,186165970.0,2025-04-12
+NFC,Vốn chủ sở hữu,2022,197615251.0,2025-04-12
+NFC,Vốn chủ sở hữu,2023,205123328.0,2025-04-12
+NFC,Vốn chủ sở hữu,2024,221684526.0,2025-04-12

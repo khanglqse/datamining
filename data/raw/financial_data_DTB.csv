@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+DTB,Doanh thu bán hàng và CCDV,2021,48061054.0,2025-04-12
+DTB,Doanh thu bán hàng và CCDV,2022,53837220.0,2025-04-12
+DTB,Doanh thu bán hàng và CCDV,2023,44147888.0,2025-04-12
+DTB,Doanh thu bán hàng và CCDV,2024,52962937.0,2025-04-12
+DTB,Giá vốn hàng bán,2021,38812179.0,2025-04-12
+DTB,Giá vốn hàng bán,2022,43459664.0,2025-04-12
+DTB,Giá vốn hàng bán,2023,34514475.0,2025-04-12
+DTB,Giá vốn hàng bán,2024,41824943.0,2025-04-12
+DTB,Lợi nhuận gộp về BH và CCDV,2021,9248875.0,2025-04-12
+DTB,Lợi nhuận gộp về BH và CCDV,2022,10377555.0,2025-04-12
+DTB,Lợi nhuận gộp về BH và CCDV,2023,9633413.0,2025-04-12
+DTB,Lợi nhuận gộp về BH và CCDV,2024,11137994.0,2025-04-12
+DTB,Lợi nhuận tài chính,2021,86209.0,2025-04-12
+DTB,Lợi nhuận tài chính,2022,145583.0,2025-04-12
+DTB,Lợi nhuận tài chính,2023,160398.0,2025-04-12
+DTB,Lợi nhuận tài chính,2024,129629.0,2025-04-12
+DTB,Lợi nhuận khác,2021,-241125.0,2025-04-12
+DTB,Lợi nhuận khác,2022,53350.0,2025-04-12
+DTB,Lợi nhuận khác,2023,-45981.0,2025-04-12
+DTB,Lợi nhuận khác,2024,-161846.0,2025-04-12
+DTB,Tổng lợi nhuận trước thuế,2021,4185068.0,2025-04-12
+DTB,Tổng lợi nhuận trước thuế,2022,3814928.0,2025-04-12
+DTB,Tổng lợi nhuận trước thuế,2023,3418263.0,2025-04-12
+DTB,Tổng lợi nhuận trước thuế,2024,3907401.0,2025-04-12
+DTB,Lợi nhuận sau thuế,2021,3101061.0,2025-04-12
+DTB,Lợi nhuận sau thuế,2022,3024315.0,2025-04-12
+DTB,Lợi nhuận sau thuế,2023,2571634.0,2025-04-12
+DTB,Lợi nhuận sau thuế,2024,3032772.0,2025-04-12
+DTB,Lợi nhuận sau thuế của công ty mẹ,2021,3101061.0,2025-04-12
+DTB,Lợi nhuận sau thuế của công ty mẹ,2022,3024315.0,2025-04-12
+DTB,Lợi nhuận sau thuế của công ty mẹ,2023,2571634.0,2025-04-12
+DTB,Lợi nhuận sau thuế của công ty mẹ,2024,3032772.0,2025-04-12
+DTB,Tổng tài sản lưu động ngắn hạn,2021,32332660.0,2025-04-12
+DTB,Tổng tài sản lưu động ngắn hạn,2022,27150236.0,2025-04-12
+DTB,Tổng tài sản lưu động ngắn hạn,2023,28122878.0,2025-04-12
+DTB,Tổng tài sản lưu động ngắn hạn,2024,32187598.0,2025-04-12
+DTB,Tổng tài sản,2021,38844080.0,2025-04-12
+DTB,Tổng tài sản,2022,33620704.0,2025-04-12
+DTB,Tổng tài sản,2023,36103503.0,2025-04-12
+DTB,Tổng tài sản,2024,38212649.0,2025-04-12
+DTB,Nợ ngắn hạn,2021,18406192.0,2025-04-12
+DTB,Nợ ngắn hạn,2022,12949456.0,2025-04-12
+DTB,Nợ ngắn hạn,2023,16517671.0,2025-04-12
+DTB,Nợ ngắn hạn,2024,17908516.0,2025-04-12
+DTB,Tổng nợ,2021,18406192.0,2025-04-12
+DTB,Tổng nợ,2022,12949456.0,2025-04-12
+DTB,Tổng nợ,2023,16517671.0,2025-04-12
+DTB,Tổng nợ,2024,17908516.0,2025-04-12
+DTB,Vốn chủ sở hữu,2021,20437888.0,2025-04-12
+DTB,Vốn chủ sở hữu,2022,20671248.0,2025-04-12
+DTB,Vốn chủ sở hữu,2023,19585832.0,2025-04-12
+DTB,Vốn chủ sở hữu,2024,20304133.0,2025-04-12

@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+CDR,Doanh thu bán hàng và CCDV,2020,162300824.0,2025-04-12
+CDR,Doanh thu bán hàng và CCDV,2021,139747162.0,2025-04-12
+CDR,Doanh thu bán hàng và CCDV,2022,60131224.0,2025-04-12
+CDR,Doanh thu bán hàng và CCDV,2023,115802028.0,2025-04-12
+CDR,Giá vốn hàng bán,2020,152514168.0,2025-04-12
+CDR,Giá vốn hàng bán,2021,132796832.0,2025-04-12
+CDR,Giá vốn hàng bán,2022,53893389.0,2025-04-12
+CDR,Giá vốn hàng bán,2023,106860230.0,2025-04-12
+CDR,Lợi nhuận gộp về BH và CCDV,2020,9089370.0,2025-04-12
+CDR,Lợi nhuận gộp về BH và CCDV,2021,6705497.0,2025-04-12
+CDR,Lợi nhuận gộp về BH và CCDV,2022,6237835.0,2025-04-12
+CDR,Lợi nhuận gộp về BH và CCDV,2023,8708182.0,2025-04-12
+CDR,Lợi nhuận tài chính,2020,-1419163.0,2025-04-12
+CDR,Lợi nhuận tài chính,2021,-157399.0,2025-04-12
+CDR,Lợi nhuận tài chính,2022,-567063.0,2025-04-12
+CDR,Lợi nhuận tài chính,2023,-1075015.0,2025-04-12
+CDR,Lợi nhuận khác,2020,88922.0,2025-04-12
+CDR,Lợi nhuận khác,2021,334838.0,2025-04-12
+CDR,Lợi nhuận khác,2022,199146.0,2025-04-12
+CDR,Lợi nhuận khác,2023,222417.0,2025-04-12
+CDR,Tổng lợi nhuận trước thuế,2020,1041992.0,2025-04-12
+CDR,Tổng lợi nhuận trước thuế,2021,978351.0,2025-04-12
+CDR,Tổng lợi nhuận trước thuế,2022,596187.0,2025-04-12
+CDR,Tổng lợi nhuận trước thuế,2023,1598827.0,2025-04-12
+CDR,Lợi nhuận sau thuế,2020,731123.0,2025-04-12
+CDR,Lợi nhuận sau thuế,2021,508973.0,2025-04-12
+CDR,Lợi nhuận sau thuế,2022,427772.0,2025-04-12
+CDR,Lợi nhuận sau thuế,2023,1257458.0,2025-04-12
+CDR,Lợi nhuận sau thuế của công ty mẹ,2020,731123.0,2025-04-12
+CDR,Lợi nhuận sau thuế của công ty mẹ,2021,508973.0,2025-04-12
+CDR,Lợi nhuận sau thuế của công ty mẹ,2022,427772.0,2025-04-12
+CDR,Lợi nhuận sau thuế của công ty mẹ,2023,1257458.0,2025-04-12
+CDR,Tổng tài sản lưu động ngắn hạn,2020,84650552.0,2025-04-12
+CDR,Tổng tài sản lưu động ngắn hạn,2021,51392734.0,2025-04-12
+CDR,Tổng tài sản lưu động ngắn hạn,2022,51087581.0,2025-04-12
+CDR,Tổng tài sản lưu động ngắn hạn,2023,93595795.0,2025-04-12
+CDR,Tổng tài sản,2020,86416981.0,2025-04-12
+CDR,Tổng tài sản,2021,52634641.0,2025-04-12
+CDR,Tổng tài sản,2022,52081933.0,2025-04-12
+CDR,Tổng tài sản,2023,94446914.0,2025-04-12
+CDR,Nợ ngắn hạn,2020,60778968.0,2025-04-12
+CDR,Nợ ngắn hạn,2021,27852578.0,2025-04-12
+CDR,Nợ ngắn hạn,2022,26978276.0,2025-04-12
+CDR,Nợ ngắn hạn,2023,68400356.0,2025-04-12
+CDR,Tổng nợ,2020,60778968.0,2025-04-12
+CDR,Tổng nợ,2021,27852578.0,2025-04-12
+CDR,Tổng nợ,2022,26978276.0,2025-04-12
+CDR,Tổng nợ,2023,68400356.0,2025-04-12
+CDR,Vốn chủ sở hữu,2020,25638013.0,2025-04-12
+CDR,Vốn chủ sở hữu,2021,24782063.0,2025-04-12
+CDR,Vốn chủ sở hữu,2022,25103657.0,2025-04-12
+CDR,Vốn chủ sở hữu,2023,26046558.0,2025-04-12

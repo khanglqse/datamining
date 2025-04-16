@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+LKW,Doanh thu bán hàng và CCDV,2021,52208895.0,2025-04-12
+LKW,Doanh thu bán hàng và CCDV,2022,52834138.0,2025-04-12
+LKW,Doanh thu bán hàng và CCDV,2023,40165945.0,2025-04-12
+LKW,Doanh thu bán hàng và CCDV,2024,45045559.0,2025-04-12
+LKW,Giá vốn hàng bán,2021,22428734.0,2025-04-12
+LKW,Giá vốn hàng bán,2022,21187449.0,2025-04-12
+LKW,Giá vốn hàng bán,2023,17060588.0,2025-04-12
+LKW,Giá vốn hàng bán,2024,19855288.0,2025-04-12
+LKW,Lợi nhuận gộp về BH và CCDV,2021,29779944.0,2025-04-12
+LKW,Lợi nhuận gộp về BH và CCDV,2022,31646690.0,2025-04-12
+LKW,Lợi nhuận gộp về BH và CCDV,2023,23105057.0,2025-04-12
+LKW,Lợi nhuận gộp về BH và CCDV,2024,25190271.0,2025-04-12
+LKW,Lợi nhuận tài chính,2021,1288062.0,2025-04-12
+LKW,Lợi nhuận tài chính,2022,1851353.0,2025-04-12
+LKW,Lợi nhuận tài chính,2023,3241547.0,2025-04-12
+LKW,Lợi nhuận tài chính,2024,2434469.0,2025-04-12
+LKW,Lợi nhuận khác,2021,68547.0,2025-04-12
+LKW,Lợi nhuận khác,2022,-896027.0,2025-04-12
+LKW,Lợi nhuận khác,2023,-371113.0,2025-04-12
+LKW,Lợi nhuận khác,2024,-249820.0,2025-04-12
+LKW,Tổng lợi nhuận trước thuế,2021,18102532.0,2025-04-12
+LKW,Tổng lợi nhuận trước thuế,2022,18846734.0,2025-04-12
+LKW,Tổng lợi nhuận trước thuế,2023,15244592.0,2025-04-12
+LKW,Tổng lợi nhuận trước thuế,2024,15967731.0,2025-04-12
+LKW,Lợi nhuận sau thuế,2021,16048395.0,2025-04-12
+LKW,Lợi nhuận sau thuế,2022,16642253.0,2025-04-12
+LKW,Lợi nhuận sau thuế,2023,13352892.0,2025-04-12
+LKW,Lợi nhuận sau thuế,2024,14056327.0,2025-04-12
+LKW,Lợi nhuận sau thuế của công ty mẹ,2021,16048395.0,2025-04-12
+LKW,Lợi nhuận sau thuế của công ty mẹ,2022,16642253.0,2025-04-12
+LKW,Lợi nhuận sau thuế của công ty mẹ,2023,13352892.0,2025-04-12
+LKW,Lợi nhuận sau thuế của công ty mẹ,2024,14056327.0,2025-04-12
+LKW,Tổng tài sản lưu động ngắn hạn,2021,42079353.0,2025-04-12
+LKW,Tổng tài sản lưu động ngắn hạn,2022,51729156.0,2025-04-12
+LKW,Tổng tài sản lưu động ngắn hạn,2023,54474429.0,2025-04-12
+LKW,Tổng tài sản lưu động ngắn hạn,2024,52760921.0,2025-04-12
+LKW,Tổng tài sản,2021,74615438.0,2025-04-12
+LKW,Tổng tài sản,2022,86693879.0,2025-04-12
+LKW,Tổng tài sản,2023,92603898.0,2025-04-12
+LKW,Tổng tài sản,2024,100653008.0,2025-04-12
+LKW,Nợ ngắn hạn,2021,10970969.0,2025-04-12
+LKW,Nợ ngắn hạn,2022,13532146.0,2025-04-12
+LKW,Nợ ngắn hạn,2023,11436149.0,2025-04-12
+LKW,Nợ ngắn hạn,2024,11657412.0,2025-04-12
+LKW,Tổng nợ,2021,10970969.0,2025-04-12
+LKW,Tổng nợ,2022,13532146.0,2025-04-12
+LKW,Tổng nợ,2023,11436149.0,2025-04-12
+LKW,Tổng nợ,2024,11657412.0,2025-04-12
+LKW,Vốn chủ sở hữu,2021,63644469.0,2025-04-12
+LKW,Vốn chủ sở hữu,2022,73161732.0,2025-04-12
+LKW,Vốn chủ sở hữu,2023,81167749.0,2025-04-12
+LKW,Vốn chủ sở hữu,2024,88995596.0,2025-04-12

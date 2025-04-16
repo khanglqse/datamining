@@ -1,0 +1,43 @@
+symbol,metric,year,value,crawled_date
+CSI,Doanh thu bán hàng và CCDV,2020,30813600.0,2025-04-12
+CSI,Doanh thu bán hàng và CCDV,2021,32865200.0,2025-04-12
+CSI,Doanh thu bán hàng và CCDV,2022,38337860.0,2025-04-12
+CSI,Doanh thu bán hàng và CCDV,2023,12596730.0,2025-04-12
+CSI,Lợi nhuận tài chính,2020,30680.0,2025-04-12
+CSI,Lợi nhuận tài chính,2021,40120.0,2025-04-12
+CSI,Lợi nhuận tài chính,2022,20150.0,2025-04-12
+CSI,Lợi nhuận tài chính,2023,9311.0,2025-04-12
+CSI,Tổng lợi nhuận KT trước thuế,2020,14575920.0,2025-04-12
+CSI,Tổng lợi nhuận KT trước thuế,2021,11840610.0,2025-04-12
+CSI,Tổng lợi nhuận KT trước thuế,2022,14423900.0,2025-04-12
+CSI,Tổng lợi nhuận KT trước thuế,2023,-11505452.0,2025-04-12
+CSI,Lợi nhuận KT sau thuế TNDN,2020,13478140.0,2025-04-12
+CSI,Lợi nhuận KT sau thuế TNDN,2021,9507540.0,2025-04-12
+CSI,Lợi nhuận KT sau thuế TNDN,2022,12698270.0,2025-04-12
+CSI,Lợi nhuận KT sau thuế TNDN,2023,-12664839.0,2025-04-12
+CSI,Lợi nhuận sau thuế của công ty mẹ,2020,13478140.0,2025-04-12
+CSI,Lợi nhuận sau thuế của công ty mẹ,2021,9507540.0,2025-04-12
+CSI,Lợi nhuận sau thuế của công ty mẹ,2022,12698270.0,2025-04-12
+CSI,Lợi nhuận sau thuế của công ty mẹ,2023,-12664839.0,2025-04-12
+CSI,Lợi nhuận khác,2020,-345660.0,2025-04-12
+CSI,Lợi nhuận khác,2021,-30000.0,2025-04-12
+CSI,Lợi nhuận khác,2022,-1200.0,2025-04-12
+CSI,Lợi nhuận khác,2023,-1399946.0,2025-04-12
+CSI,Tổng tài sản lưu động ngắn hạn,2020,166901020.0,2025-04-12
+CSI,Tổng tài sản lưu động ngắn hạn,2021,176804590.0,2025-04-12
+CSI,Tổng tài sản lưu động ngắn hạn,2022,187009390.0,2025-04-12
+CSI,Tổng tài sản lưu động ngắn hạn,2023,173648814.0,2025-04-12
+CSI,Tổng tài sản,2020,173807040.0,2025-04-12
+CSI,Tổng tài sản,2021,182882060.0,2025-04-12
+CSI,Tổng tài sản,2022,197483080.0,2025-04-12
+CSI,Tổng tài sản,2023,181574460.0,2025-04-12
+CSI,Nợ ngắn hạn,2020,2370040.0,2025-04-12
+CSI,Nợ ngắn hạn,2021,2385360.0,2025-04-12
+CSI,Nợ ngắn hạn,2022,4288110.0,2025-04-12
+CSI,Tổng nợ,2020,2370040.0,2025-04-12
+CSI,Tổng nợ,2021,2385360.0,2025-04-12
+CSI,Tổng nợ,2022,4288110.0,2025-04-12
+CSI,Vốn chủ sở hữu,2020,171437000.0,2025-04-12
+CSI,Vốn chủ sở hữu,2021,180496700.0,2025-04-12
+CSI,Vốn chủ sở hữu,2022,193194970.0,2025-04-12
+CSI,Vốn chủ sở hữu,2023,180530129.0,2025-04-12

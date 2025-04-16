@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+TIX,Doanh thu bán hàng và CCDV,2021,265446786.0,2025-04-12
+TIX,Doanh thu bán hàng và CCDV,2022,230645835.0,2025-04-12
+TIX,Doanh thu bán hàng và CCDV,2023,209234306.0,2025-04-12
+TIX,Doanh thu bán hàng và CCDV,2024,217995997.0,2025-04-12
+TIX,Giá vốn hàng bán,2021,76855938.0,2025-04-12
+TIX,Giá vốn hàng bán,2022,55439046.0,2025-04-12
+TIX,Giá vốn hàng bán,2023,48022237.0,2025-04-12
+TIX,Giá vốn hàng bán,2024,62528011.0,2025-04-12
+TIX,Lợi nhuận gộp về BH và CCDV,2021,188590849.0,2025-04-12
+TIX,Lợi nhuận gộp về BH và CCDV,2022,175206789.0,2025-04-12
+TIX,Lợi nhuận gộp về BH và CCDV,2023,161212069.0,2025-04-12
+TIX,Lợi nhuận gộp về BH và CCDV,2024,155467987.0,2025-04-12
+TIX,Lợi nhuận tài chính,2021,26258790.0,2025-04-12
+TIX,Lợi nhuận tài chính,2022,36982509.0,2025-04-12
+TIX,Lợi nhuận tài chính,2023,34810638.0,2025-04-12
+TIX,Lợi nhuận tài chính,2024,37395877.0,2025-04-12
+TIX,Lợi nhuận khác,2021,-2438862.0,2025-04-12
+TIX,Lợi nhuận khác,2022,-1388504.0,2025-04-12
+TIX,Lợi nhuận khác,2023,8022658.0,2025-04-12
+TIX,Lợi nhuận khác,2024,7783422.0,2025-04-12
+TIX,Tổng lợi nhuận trước thuế,2021,145888596.0,2025-04-12
+TIX,Tổng lợi nhuận trước thuế,2022,136861056.0,2025-04-12
+TIX,Tổng lợi nhuận trước thuế,2023,129547923.0,2025-04-12
+TIX,Tổng lợi nhuận trước thuế,2024,129133181.0,2025-04-12
+TIX,Lợi nhuận sau thuế,2021,117547324.0,2025-04-12
+TIX,Lợi nhuận sau thuế,2022,110969092.0,2025-04-12
+TIX,Lợi nhuận sau thuế,2023,105439257.0,2025-04-12
+TIX,Lợi nhuận sau thuế,2024,105150718.0,2025-04-12
+TIX,Lợi nhuận sau thuế của công ty mẹ,2021,117547324.0,2025-04-12
+TIX,Lợi nhuận sau thuế của công ty mẹ,2022,110969092.0,2025-04-12
+TIX,Lợi nhuận sau thuế của công ty mẹ,2023,105439257.0,2025-04-12
+TIX,Lợi nhuận sau thuế của công ty mẹ,2024,105150718.0,2025-04-12
+TIX,Tổng tài sản lưu động ngắn hạn,2021,390655306.0,2025-04-12
+TIX,Tổng tài sản lưu động ngắn hạn,2022,386104298.0,2025-04-12
+TIX,Tổng tài sản lưu động ngắn hạn,2023,395806328.0,2025-04-12
+TIX,Tổng tài sản lưu động ngắn hạn,2024,534100597.0,2025-04-12
+TIX,Tổng tài sản,2021,1210537814.0,2025-04-12
+TIX,Tổng tài sản,2022,1206771158.0,2025-04-12
+TIX,Tổng tài sản,2023,1213809333.0,2025-04-12
+TIX,Tổng tài sản,2024,1212026189.0,2025-04-12
+TIX,Nợ ngắn hạn,2021,93112602.0,2025-04-12
+TIX,Nợ ngắn hạn,2022,102711741.0,2025-04-12
+TIX,Nợ ngắn hạn,2023,86816126.0,2025-04-12
+TIX,Nợ ngắn hạn,2024,114613404.0,2025-04-12
+TIX,Tổng nợ,2021,385051891.0,2025-04-12
+TIX,Tổng nợ,2022,363153332.0,2025-04-12
+TIX,Tổng nợ,2023,370623793.0,2025-04-12
+TIX,Tổng nợ,2024,368718531.0,2025-04-12
+TIX,Vốn chủ sở hữu,2021,825485922.0,2025-04-12
+TIX,Vốn chủ sở hữu,2022,843617827.0,2025-04-12
+TIX,Vốn chủ sở hữu,2023,843185540.0,2025-04-12
+TIX,Vốn chủ sở hữu,2024,843307658.0,2025-04-12

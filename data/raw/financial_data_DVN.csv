@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+DVN,Doanh thu bán hàng và CCDV,2020,5334174801.0,2025-04-12
+DVN,Doanh thu bán hàng và CCDV,2021,4907442172.0,2025-04-12
+DVN,Doanh thu bán hàng và CCDV,2022,5584968754.0,2025-04-12
+DVN,Doanh thu bán hàng và CCDV,2023,5609381374.0,2025-04-12
+DVN,Giá vốn hàng bán,2020,4797711489.0,2025-04-12
+DVN,Giá vốn hàng bán,2021,4433827644.0,2025-04-12
+DVN,Giá vốn hàng bán,2022,4996581338.0,2025-04-12
+DVN,Giá vốn hàng bán,2023,4985381241.0,2025-04-12
+DVN,Lợi nhuận gộp về BH và CCDV,2020,513498325.0,2025-04-12
+DVN,Lợi nhuận gộp về BH và CCDV,2021,439749071.0,2025-04-12
+DVN,Lợi nhuận gộp về BH và CCDV,2022,544003476.0,2025-04-12
+DVN,Lợi nhuận gộp về BH và CCDV,2023,597838176.0,2025-04-12
+DVN,Lợi nhuận tài chính,2020,-33296298.0,2025-04-12
+DVN,Lợi nhuận tài chính,2021,79529375.0,2025-04-12
+DVN,Lợi nhuận tài chính,2022,-72215534.0,2025-04-12
+DVN,Lợi nhuận tài chính,2023,132266216.0,2025-04-12
+DVN,Lợi nhuận khác,2020,2488402.0,2025-04-12
+DVN,Lợi nhuận khác,2021,64441.0,2025-04-12
+DVN,Lợi nhuận khác,2022,152914.0,2025-04-12
+DVN,Lợi nhuận khác,2023,-2258919.0,2025-04-12
+DVN,Tổng lợi nhuận trước thuế,2020,238032164.0,2025-04-12
+DVN,Tổng lợi nhuận trước thuế,2021,234445263.0,2025-04-12
+DVN,Tổng lợi nhuận trước thuế,2022,131904016.0,2025-04-12
+DVN,Tổng lợi nhuận trước thuế,2023,425029943.0,2025-04-12
+DVN,Lợi nhuận sau thuế,2020,215875139.0,2025-04-12
+DVN,Lợi nhuận sau thuế,2021,217350765.0,2025-04-12
+DVN,Lợi nhuận sau thuế,2022,110372607.0,2025-04-12
+DVN,Lợi nhuận sau thuế,2023,390270865.0,2025-04-12
+DVN,Lợi nhuận sau thuế của công ty mẹ,2020,195070302.0,2025-04-12
+DVN,Lợi nhuận sau thuế của công ty mẹ,2021,195351574.0,2025-04-12
+DVN,Lợi nhuận sau thuế của công ty mẹ,2022,84122330.0,2025-04-12
+DVN,Lợi nhuận sau thuế của công ty mẹ,2023,345999864.0,2025-04-12
+DVN,Tổng tài sản lưu động ngắn hạn,2020,3943433008.0,2025-04-12
+DVN,Tổng tài sản lưu động ngắn hạn,2021,3767717623.0,2025-04-12
+DVN,Tổng tài sản lưu động ngắn hạn,2022,3766572170.0,2025-04-12
+DVN,Tổng tài sản lưu động ngắn hạn,2023,4079938916.0,2025-04-12
+DVN,Tổng tài sản,2020,6103135625.0,2025-04-12
+DVN,Tổng tài sản,2021,5862093978.0,2025-04-12
+DVN,Tổng tài sản,2022,5778024266.0,2025-04-12
+DVN,Tổng tài sản,2023,6077658773.0,2025-04-12
+DVN,Nợ ngắn hạn,2020,3136938848.0,2025-04-12
+DVN,Nợ ngắn hạn,2021,2816370849.0,2025-04-12
+DVN,Nợ ngắn hạn,2022,2946015049.0,2025-04-12
+DVN,Nợ ngắn hạn,2023,2885741810.0,2025-04-12
+DVN,Tổng nợ,2020,3194218954.0,2025-04-12
+DVN,Tổng nợ,2021,2867374220.0,2025-04-12
+DVN,Tổng nợ,2022,3012501830.0,2025-04-12
+DVN,Tổng nợ,2023,2947076385.0,2025-04-12
+DVN,Vốn chủ sở hữu,2020,2908916671.0,2025-04-12
+DVN,Vốn chủ sở hữu,2021,2994719758.0,2025-04-12
+DVN,Vốn chủ sở hữu,2022,2765522436.0,2025-04-12
+DVN,Vốn chủ sở hữu,2023,3130582388.0,2025-04-12

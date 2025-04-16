@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+DNC,Doanh thu bán hàng và CCDV,2021,567630676.0,2025-04-12
+DNC,Doanh thu bán hàng và CCDV,2022,658676029.0,2025-04-12
+DNC,Doanh thu bán hàng và CCDV,2023,802482862.0,2025-04-12
+DNC,Doanh thu bán hàng và CCDV,2024,937408788.0,2025-04-12
+DNC,Giá vốn hàng bán,2021,521290448.0,2025-04-12
+DNC,Giá vốn hàng bán,2022,601355947.0,2025-04-12
+DNC,Giá vốn hàng bán,2023,734609525.0,2025-04-12
+DNC,Giá vốn hàng bán,2024,860603511.0,2025-04-12
+DNC,Lợi nhuận gộp về BH và CCDV,2021,46340228.0,2025-04-12
+DNC,Lợi nhuận gộp về BH và CCDV,2022,57320082.0,2025-04-12
+DNC,Lợi nhuận gộp về BH và CCDV,2023,67873336.0,2025-04-12
+DNC,Lợi nhuận gộp về BH và CCDV,2024,76805277.0,2025-04-12
+DNC,Lợi nhuận tài chính,2021,339260.0,2025-04-12
+DNC,Lợi nhuận tài chính,2022,-2547273.0,2025-04-12
+DNC,Lợi nhuận tài chính,2023,2451490.0,2025-04-12
+DNC,Lợi nhuận tài chính,2024,-488546.0,2025-04-12
+DNC,Lợi nhuận khác,2021,1178762.0,2025-04-12
+DNC,Lợi nhuận khác,2022,-3246.0,2025-04-12
+DNC,Lợi nhuận khác,2023,-1934220.0,2025-04-12
+DNC,Lợi nhuận khác,2024,102878.0,2025-04-12
+DNC,Tổng lợi nhuận trước thuế,2021,33381963.0,2025-04-12
+DNC,Tổng lợi nhuận trước thuế,2022,36807829.0,2025-04-12
+DNC,Tổng lợi nhuận trước thuế,2023,48075614.0,2025-04-12
+DNC,Tổng lợi nhuận trước thuế,2024,53194131.0,2025-04-12
+DNC,Lợi nhuận sau thuế,2021,26319119.0,2025-04-12
+DNC,Lợi nhuận sau thuế,2022,29194416.0,2025-04-12
+DNC,Lợi nhuận sau thuế,2023,37393801.0,2025-04-12
+DNC,Lợi nhuận sau thuế,2024,42140544.0,2025-04-12
+DNC,Lợi nhuận sau thuế của công ty mẹ,2021,26319119.0,2025-04-12
+DNC,Lợi nhuận sau thuế của công ty mẹ,2022,29194416.0,2025-04-12
+DNC,Lợi nhuận sau thuế của công ty mẹ,2023,37393801.0,2025-04-12
+DNC,Lợi nhuận sau thuế của công ty mẹ,2024,42140544.0,2025-04-12
+DNC,Tổng tài sản lưu động ngắn hạn,2021,67148619.0,2025-04-12
+DNC,Tổng tài sản lưu động ngắn hạn,2022,62006388.0,2025-04-12
+DNC,Tổng tài sản lưu động ngắn hạn,2023,98821192.0,2025-04-12
+DNC,Tổng tài sản lưu động ngắn hạn,2024,113460963.0,2025-04-12
+DNC,Tổng tài sản,2021,113864053.0,2025-04-12
+DNC,Tổng tài sản,2022,122385109.0,2025-04-12
+DNC,Tổng tài sản,2023,173690877.0,2025-04-12
+DNC,Tổng tài sản,2024,202740930.0,2025-04-12
+DNC,Nợ ngắn hạn,2021,30384996.0,2025-04-12
+DNC,Nợ ngắn hạn,2022,27346133.0,2025-04-12
+DNC,Nợ ngắn hạn,2023,60087428.0,2025-04-12
+DNC,Nợ ngắn hạn,2024,68789409.0,2025-04-12
+DNC,Tổng nợ,2021,30384996.0,2025-04-12
+DNC,Tổng nợ,2022,27346133.0,2025-04-12
+DNC,Tổng nợ,2023,60245964.0,2025-04-12
+DNC,Tổng nợ,2024,69478793.0,2025-04-12
+DNC,Vốn chủ sở hữu,2021,83479057.0,2025-04-12
+DNC,Vốn chủ sở hữu,2022,95038976.0,2025-04-12
+DNC,Vốn chủ sở hữu,2023,113444913.0,2025-04-12
+DNC,Vốn chủ sở hữu,2024,133262136.0,2025-04-12

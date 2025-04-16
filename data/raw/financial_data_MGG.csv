@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+MGG,Doanh thu bán hàng và CCDV,2021,1917994979.0,2025-04-12
+MGG,Doanh thu bán hàng và CCDV,2022,1988743988.0,2025-04-12
+MGG,Doanh thu bán hàng và CCDV,2023,1765089963.0,2025-04-12
+MGG,Doanh thu bán hàng và CCDV,2024,1534124295.0,2025-04-12
+MGG,Giá vốn hàng bán,2021,1633206698.0,2025-04-12
+MGG,Giá vốn hàng bán,2022,1733673391.0,2025-04-12
+MGG,Giá vốn hàng bán,2023,1550758677.0,2025-04-12
+MGG,Giá vốn hàng bán,2024,1324426651.0,2025-04-12
+MGG,Lợi nhuận gộp về BH và CCDV,2021,282200146.0,2025-04-12
+MGG,Lợi nhuận gộp về BH và CCDV,2022,254987405.0,2025-04-12
+MGG,Lợi nhuận gộp về BH và CCDV,2023,214283347.0,2025-04-12
+MGG,Lợi nhuận gộp về BH và CCDV,2024,209567433.0,2025-04-12
+MGG,Lợi nhuận tài chính,2021,15024374.0,2025-04-12
+MGG,Lợi nhuận tài chính,2022,-41113.0,2025-04-12
+MGG,Lợi nhuận tài chính,2023,11914369.0,2025-04-12
+MGG,Lợi nhuận tài chính,2024,-5381588.0,2025-04-12
+MGG,Lợi nhuận khác,2021,653561.0,2025-04-12
+MGG,Lợi nhuận khác,2022,731800.0,2025-04-12
+MGG,Lợi nhuận khác,2023,281958.0,2025-04-12
+MGG,Lợi nhuận khác,2024,561704.0,2025-04-12
+MGG,Tổng lợi nhuận trước thuế,2021,32536232.0,2025-04-12
+MGG,Tổng lợi nhuận trước thuế,2022,43067420.0,2025-04-12
+MGG,Tổng lợi nhuận trước thuế,2023,26821653.0,2025-04-12
+MGG,Tổng lợi nhuận trước thuế,2024,30638157.0,2025-04-12
+MGG,Lợi nhuận sau thuế,2021,27931021.0,2025-04-12
+MGG,Lợi nhuận sau thuế,2022,36073310.0,2025-04-12
+MGG,Lợi nhuận sau thuế,2023,23166200.0,2025-04-12
+MGG,Lợi nhuận sau thuế,2024,26481681.0,2025-04-12
+MGG,Lợi nhuận sau thuế của công ty mẹ,2021,27931021.0,2025-04-12
+MGG,Lợi nhuận sau thuế của công ty mẹ,2022,36073310.0,2025-04-12
+MGG,Lợi nhuận sau thuế của công ty mẹ,2023,23166200.0,2025-04-12
+MGG,Lợi nhuận sau thuế của công ty mẹ,2024,26481681.0,2025-04-12
+MGG,Tổng tài sản lưu động ngắn hạn,2021,850633128.0,2025-04-12
+MGG,Tổng tài sản lưu động ngắn hạn,2022,861084700.0,2025-04-12
+MGG,Tổng tài sản lưu động ngắn hạn,2023,757114008.0,2025-04-12
+MGG,Tổng tài sản lưu động ngắn hạn,2024,794042885.0,2025-04-12
+MGG,Tổng tài sản,2021,1000014656.0,2025-04-12
+MGG,Tổng tài sản,2022,1013220782.0,2025-04-12
+MGG,Tổng tài sản,2023,921923855.0,2025-04-12
+MGG,Tổng tài sản,2024,966126564.0,2025-04-12
+MGG,Nợ ngắn hạn,2021,776805642.0,2025-04-12
+MGG,Nợ ngắn hạn,2022,783503837.0,2025-04-12
+MGG,Nợ ngắn hạn,2023,685741663.0,2025-04-12
+MGG,Nợ ngắn hạn,2024,709169365.0,2025-04-12
+MGG,Tổng nợ,2021,779959472.0,2025-04-12
+MGG,Tổng nợ,2022,786509766.0,2025-04-12
+MGG,Tổng nợ,2023,689314070.0,2025-04-12
+MGG,Tổng nợ,2024,712702670.0,2025-04-12
+MGG,Vốn chủ sở hữu,2021,220055184.0,2025-04-12
+MGG,Vốn chủ sở hữu,2022,226711016.0,2025-04-12
+MGG,Vốn chủ sở hữu,2023,232609785.0,2025-04-12
+MGG,Vốn chủ sở hữu,2024,253423894.0,2025-04-12

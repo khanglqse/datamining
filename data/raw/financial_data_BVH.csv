@@ -1,0 +1,45 @@
+symbol,metric,year,value,crawled_date
+BVH,Doanh thu thuần HĐKD bảo hiểm,2020,34485238420.0,2025-04-12
+BVH,Doanh thu thuần HĐKD bảo hiểm,2021,36827961500.0,2025-04-12
+BVH,Doanh thu thuần HĐKD bảo hiểm,2022,40688247070.0,2025-04-12
+BVH,Doanh thu thuần HĐKD bảo hiểm,2023,40080480186.0,2025-04-12
+BVH,Lợi nhuận từ HĐKD bảo hiểm,2020,-2408898740.0,2025-04-12
+BVH,Lợi nhuận từ HĐKD bảo hiểm,2021,603177060.0,2025-04-12
+BVH,Lợi nhuận từ HĐKD bảo hiểm,2022,104851180.0,2025-04-12
+BVH,Lợi nhuận từ HĐKD bảo hiểm,2023,-2539018567.0,2025-04-12
+BVH,Lợi nhuận từ HĐ tài chính,2020,7742035100.0,2025-04-12
+BVH,Lợi nhuận từ HĐ tài chính,2021,7851890120.0,2025-04-12
+BVH,Lợi nhuận từ HĐ tài chính,2022,8082123830.0,2025-04-12
+BVH,Lợi nhuận từ HĐ tài chính,2023,10716442910.0,2025-04-12
+BVH,Tổng lợi nhuận trước thuế,2020,1908047700.0,2025-04-12
+BVH,Tổng lợi nhuận trước thuế,2021,2376488710.0,2025-04-12
+BVH,Tổng lợi nhuận trước thuế,2022,2010163560.0,2025-04-12
+BVH,Tổng lợi nhuận trước thuế,2023,2236298700.0,2025-04-12
+BVH,Lợi nhuận sau thuế,2020,1604306640.0,2025-04-12
+BVH,Lợi nhuận sau thuế,2021,2003419190.0,2025-04-12
+BVH,Lợi nhuận sau thuế,2022,1625606380.0,2025-04-12
+BVH,Lợi nhuận sau thuế,2023,1859989244.0,2025-04-12
+BVH,Lợi nhuận sau thuế Công ty mẹ,2020,1569618710.0,2025-04-12
+BVH,Lợi nhuận sau thuế Công ty mẹ,2021,1896699440.0,2025-04-12
+BVH,Lợi nhuận sau thuế Công ty mẹ,2022,1550994190.0,2025-04-12
+BVH,Lợi nhuận sau thuế Công ty mẹ,2023,1784861041.0,2025-04-12
+BVH,Tổng tài sản lưu động ngắn hạn,2020,92791583080.0,2025-04-12
+BVH,Tổng tài sản lưu động ngắn hạn,2021,99467964400.0,2025-04-12
+BVH,Tổng tài sản lưu động ngắn hạn,2022,117373071560.0,2025-04-12
+BVH,Tổng tài sản lưu động ngắn hạn,2023,122398176223.0,2025-04-12
+BVH,Tổng tài sản,2020,147283426770.0,2025-04-12
+BVH,Tổng tài sản,2021,169504122980.0,2025-04-12
+BVH,Tổng tài sản,2022,201663976390.0,2025-04-12
+BVH,Tổng tài sản,2023,221101602594.0,2025-04-12
+BVH,Nợ ngắn hạn,2020,20582147510.0,2025-04-12
+BVH,Nợ ngắn hạn,2021,21455029170.0,2025-04-12
+BVH,Nợ ngắn hạn,2022,32184894640.0,2025-04-12
+BVH,Nợ ngắn hạn,2023,30823017940.0,2025-04-12
+BVH,Tổng nợ,2020,126445365510.0,2025-04-12
+BVH,Tổng nợ,2021,147277693120.0,2025-04-12
+BVH,Tổng nợ,2022,180197776820.0,2025-04-12
+BVH,Tổng nợ,2023,198842579485.0,2025-04-12
+BVH,Vốn chủ sở hữu,2020,20013878400.0,2025-04-12
+BVH,Vốn chủ sở hữu,2021,21190545800.0,2025-04-12
+BVH,Vốn chủ sở hữu,2022,20390422130.0,2025-04-12
+BVH,Vốn chủ sở hữu,2023,22259023109.0,2025-04-12

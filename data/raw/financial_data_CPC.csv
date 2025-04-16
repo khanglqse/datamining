@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+CPC,Doanh thu bán hàng và CCDV,2021,190205071.0,2025-04-12
+CPC,Doanh thu bán hàng và CCDV,2022,188606084.0,2025-04-12
+CPC,Doanh thu bán hàng và CCDV,2023,189364227.0,2025-04-12
+CPC,Doanh thu bán hàng và CCDV,2024,190029518.0,2025-04-12
+CPC,Giá vốn hàng bán,2021,151068581.0,2025-04-12
+CPC,Giá vốn hàng bán,2022,155578379.0,2025-04-12
+CPC,Giá vốn hàng bán,2023,147011961.0,2025-04-12
+CPC,Giá vốn hàng bán,2024,148494335.0,2025-04-12
+CPC,Lợi nhuận gộp về BH và CCDV,2021,39136490.0,2025-04-12
+CPC,Lợi nhuận gộp về BH và CCDV,2022,33027706.0,2025-04-12
+CPC,Lợi nhuận gộp về BH và CCDV,2023,42352266.0,2025-04-12
+CPC,Lợi nhuận gộp về BH và CCDV,2024,41535183.0,2025-04-12
+CPC,Lợi nhuận tài chính,2021,659477.0,2025-04-12
+CPC,Lợi nhuận tài chính,2022,664240.0,2025-04-12
+CPC,Lợi nhuận tài chính,2023,695937.0,2025-04-12
+CPC,Lợi nhuận tài chính,2024,-304893.0,2025-04-12
+CPC,Lợi nhuận khác,2021,-58356.0,2025-04-12
+CPC,Lợi nhuận khác,2022,-198297.0,2025-04-12
+CPC,Lợi nhuận khác,2023,180122.0,2025-04-12
+CPC,Lợi nhuận khác,2024,877983.0,2025-04-12
+CPC,Tổng lợi nhuận trước thuế,2021,12122365.0,2025-04-12
+CPC,Tổng lợi nhuận trước thuế,2022,12086793.0,2025-04-12
+CPC,Tổng lợi nhuận trước thuế,2023,12810349.0,2025-04-12
+CPC,Tổng lợi nhuận trước thuế,2024,14977680.0,2025-04-12
+CPC,Lợi nhuận sau thuế,2021,10401437.0,2025-04-12
+CPC,Lợi nhuận sau thuế,2022,9560043.0,2025-04-12
+CPC,Lợi nhuận sau thuế,2023,10207461.0,2025-04-12
+CPC,Lợi nhuận sau thuế,2024,10001481.0,2025-04-12
+CPC,Lợi nhuận sau thuế của công ty mẹ,2021,10401437.0,2025-04-12
+CPC,Lợi nhuận sau thuế của công ty mẹ,2022,9560043.0,2025-04-12
+CPC,Lợi nhuận sau thuế của công ty mẹ,2023,10207461.0,2025-04-12
+CPC,Lợi nhuận sau thuế của công ty mẹ,2024,10001481.0,2025-04-12
+CPC,Tổng tài sản lưu động ngắn hạn,2021,106093466.0,2025-04-12
+CPC,Tổng tài sản lưu động ngắn hạn,2022,105911680.0,2025-04-12
+CPC,Tổng tài sản lưu động ngắn hạn,2023,115971893.0,2025-04-12
+CPC,Tổng tài sản lưu động ngắn hạn,2024,103827206.0,2025-04-12
+CPC,Tổng tài sản,2021,121595544.0,2025-04-12
+CPC,Tổng tài sản,2022,123750792.0,2025-04-12
+CPC,Tổng tài sản,2023,133689294.0,2025-04-12
+CPC,Tổng tài sản,2024,123226130.0,2025-04-12
+CPC,Nợ ngắn hạn,2021,38336167.0,2025-04-12
+CPC,Nợ ngắn hạn,2022,40395269.0,2025-04-12
+CPC,Nợ ngắn hạn,2023,48186353.0,2025-04-12
+CPC,Nợ ngắn hạn,2024,36929168.0,2025-04-12
+CPC,Tổng nợ,2021,38336167.0,2025-04-12
+CPC,Tổng nợ,2022,40395269.0,2025-04-12
+CPC,Tổng nợ,2023,48186353.0,2025-04-12
+CPC,Tổng nợ,2024,36929168.0,2025-04-12
+CPC,Vốn chủ sở hữu,2021,83259377.0,2025-04-12
+CPC,Vốn chủ sở hữu,2022,83355524.0,2025-04-12
+CPC,Vốn chủ sở hữu,2023,85502941.0,2025-04-12
+CPC,Vốn chủ sở hữu,2024,86296961.0,2025-04-12

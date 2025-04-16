@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+PLE,Doanh thu bán hàng và CCDV,2021,50115892.0,2025-04-12
+PLE,Doanh thu bán hàng và CCDV,2022,41940256.0,2025-04-12
+PLE,Doanh thu bán hàng và CCDV,2023,27941453.0,2025-04-12
+PLE,Doanh thu bán hàng và CCDV,2024,175055724.0,2025-04-12
+PLE,Giá vốn hàng bán,2021,43602717.0,2025-04-12
+PLE,Giá vốn hàng bán,2022,34329489.0,2025-04-12
+PLE,Giá vốn hàng bán,2023,24025504.0,2025-04-12
+PLE,Giá vốn hàng bán,2024,166285673.0,2025-04-12
+PLE,Lợi nhuận gộp về BH và CCDV,2021,6513175.0,2025-04-12
+PLE,Lợi nhuận gộp về BH và CCDV,2022,7610767.0,2025-04-12
+PLE,Lợi nhuận gộp về BH và CCDV,2023,3915948.0,2025-04-12
+PLE,Lợi nhuận gộp về BH và CCDV,2024,8770051.0,2025-04-12
+PLE,Lợi nhuận tài chính,2021,728748.0,2025-04-12
+PLE,Lợi nhuận tài chính,2022,1017718.0,2025-04-12
+PLE,Lợi nhuận tài chính,2023,1249890.0,2025-04-12
+PLE,Lợi nhuận tài chính,2024,352854.0,2025-04-12
+PLE,Lợi nhuận khác,2021,-1197.0,2025-04-12
+PLE,Lợi nhuận khác,2022,793850.0,2025-04-12
+PLE,Lợi nhuận khác,2023,5291.0,2025-04-12
+PLE,Lợi nhuận khác,2024,964561.0,2025-04-12
+PLE,Tổng lợi nhuận trước thuế,2021,1380507.0,2025-04-12
+PLE,Tổng lợi nhuận trước thuế,2022,2060949.0,2025-04-12
+PLE,Tổng lợi nhuận trước thuế,2023,358790.0,2025-04-12
+PLE,Tổng lợi nhuận trước thuế,2024,1827075.0,2025-04-12
+PLE,Lợi nhuận sau thuế,2021,1153390.0,2025-04-12
+PLE,Lợi nhuận sau thuế,2022,1598439.0,2025-04-12
+PLE,Lợi nhuận sau thuế,2023,228655.0,2025-04-12
+PLE,Lợi nhuận sau thuế,2024,1372087.0,2025-04-12
+PLE,Lợi nhuận sau thuế của công ty mẹ,2021,1153390.0,2025-04-12
+PLE,Lợi nhuận sau thuế của công ty mẹ,2022,1598439.0,2025-04-12
+PLE,Lợi nhuận sau thuế của công ty mẹ,2023,228655.0,2025-04-12
+PLE,Lợi nhuận sau thuế của công ty mẹ,2024,1372087.0,2025-04-12
+PLE,Tổng tài sản lưu động ngắn hạn,2021,62568170.0,2025-04-12
+PLE,Tổng tài sản lưu động ngắn hạn,2022,51455899.0,2025-04-12
+PLE,Tổng tài sản lưu động ngắn hạn,2023,52024947.0,2025-04-12
+PLE,Tổng tài sản lưu động ngắn hạn,2024,102065346.0,2025-04-12
+PLE,Tổng tài sản,2021,72028078.0,2025-04-12
+PLE,Tổng tài sản,2022,60335483.0,2025-04-12
+PLE,Tổng tài sản,2023,60592917.0,2025-04-12
+PLE,Tổng tài sản,2024,110965710.0,2025-04-12
+PLE,Nợ ngắn hạn,2021,51409688.0,2025-04-12
+PLE,Nợ ngắn hạn,2022,39212153.0,2025-04-12
+PLE,Nợ ngắn hạn,2023,40839372.0,2025-04-12
+PLE,Nợ ngắn hạn,2024,90069030.0,2025-04-12
+PLE,Tổng nợ,2021,51409688.0,2025-04-12
+PLE,Tổng nợ,2022,39212153.0,2025-04-12
+PLE,Tổng nợ,2023,40839372.0,2025-04-12
+PLE,Tổng nợ,2024,90069030.0,2025-04-12
+PLE,Vốn chủ sở hữu,2021,20618390.0,2025-04-12
+PLE,Vốn chủ sở hữu,2022,21123329.0,2025-04-12
+PLE,Vốn chủ sở hữu,2023,19753545.0,2025-04-12
+PLE,Vốn chủ sở hữu,2024,20896680.0,2025-04-12

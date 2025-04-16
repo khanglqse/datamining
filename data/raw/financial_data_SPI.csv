@@ -1,0 +1,52 @@
+symbol,metric,year,value,crawled_date
+SPI,Doanh thu bán hàng và CCDV,2020,120116782.0,2025-04-12
+SPI,Doanh thu bán hàng và CCDV,2021,16150113.0,2025-04-12
+SPI,Doanh thu bán hàng và CCDV,2022,3987182.0,2025-04-12
+SPI,Doanh thu bán hàng và CCDV,2023,2459338.0,2025-04-12
+SPI,Giá vốn hàng bán,2020,119338561.0,2025-04-12
+SPI,Giá vốn hàng bán,2021,15405047.0,2025-04-12
+SPI,Giá vốn hàng bán,2022,3838070.0,2025-04-12
+SPI,Giá vốn hàng bán,2023,11962804.0,2025-04-12
+SPI,Lợi nhuận gộp về BH và CCDV,2020,778220.0,2025-04-12
+SPI,Lợi nhuận gộp về BH và CCDV,2021,745065.0,2025-04-12
+SPI,Lợi nhuận gộp về BH và CCDV,2022,149112.0,2025-04-12
+SPI,Lợi nhuận gộp về BH và CCDV,2023,-9503466.0,2025-04-12
+SPI,Lợi nhuận tài chính,2020,1513455.0,2025-04-12
+SPI,Lợi nhuận tài chính,2021,881151.0,2025-04-12
+SPI,Lợi nhuận tài chính,2022,1505354.0,2025-04-12
+SPI,Lợi nhuận tài chính,2023,-24288049.0,2025-04-12
+SPI,Lợi nhuận khác,2021,333589.0,2025-04-12
+SPI,Lợi nhuận khác,2022,-116226.0,2025-04-12
+SPI,Lợi nhuận khác,2023,3713.0,2025-04-12
+SPI,Tổng lợi nhuận trước thuế,2020,-15494082.0,2025-04-12
+SPI,Tổng lợi nhuận trước thuế,2021,5738514.0,2025-04-12
+SPI,Tổng lợi nhuận trước thuế,2022,-7388889.0,2025-04-12
+SPI,Tổng lợi nhuận trước thuế,2023,-44818683.0,2025-04-12
+SPI,Lợi nhuận sau thuế,2020,-15494082.0,2025-04-12
+SPI,Lợi nhuận sau thuế,2021,5738514.0,2025-04-12
+SPI,Lợi nhuận sau thuế,2022,-7388889.0,2025-04-12
+SPI,Lợi nhuận sau thuế,2023,-44818683.0,2025-04-12
+SPI,Lợi nhuận sau thuế của công ty mẹ,2020,-15494082.0,2025-04-12
+SPI,Lợi nhuận sau thuế của công ty mẹ,2021,5738514.0,2025-04-12
+SPI,Lợi nhuận sau thuế của công ty mẹ,2022,-7579006.0,2025-04-12
+SPI,Lợi nhuận sau thuế của công ty mẹ,2023,-42779318.0,2025-04-12
+SPI,Tổng tài sản lưu động ngắn hạn,2020,140882226.0,2025-04-12
+SPI,Tổng tài sản lưu động ngắn hạn,2021,48348488.0,2025-04-12
+SPI,Tổng tài sản lưu động ngắn hạn,2022,178288357.0,2025-04-12
+SPI,Tổng tài sản lưu động ngắn hạn,2023,167199311.0,2025-04-12
+SPI,Tổng tài sản,2020,215509079.0,2025-04-12
+SPI,Tổng tài sản,2021,174586586.0,2025-04-12
+SPI,Tổng tài sản,2022,297646418.0,2025-04-12
+SPI,Tổng tài sản,2023,252078978.0,2025-04-12
+SPI,Nợ ngắn hạn,2020,65324589.0,2025-04-12
+SPI,Nợ ngắn hạn,2021,16915819.0,2025-04-12
+SPI,Nợ ngắn hạn,2022,134368541.0,2025-04-12
+SPI,Nợ ngắn hạn,2023,133619783.0,2025-04-12
+SPI,Tổng nợ,2020,65324589.0,2025-04-12
+SPI,Tổng nợ,2021,17139819.0,2025-04-12
+SPI,Tổng nợ,2022,134368541.0,2025-04-12
+SPI,Tổng nợ,2023,133619783.0,2025-04-12
+SPI,Vốn chủ sở hữu,2020,150184491.0,2025-04-12
+SPI,Vốn chủ sở hữu,2021,157446767.0,2025-04-12
+SPI,Vốn chủ sở hữu,2022,163277878.0,2025-04-12
+SPI,Vốn chủ sở hữu,2023,118459195.0,2025-04-12

@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+CTX,Doanh thu bán hàng và CCDV,2021,95174438.0,2025-04-12
+CTX,Doanh thu bán hàng và CCDV,2022,183933333.0,2025-04-12
+CTX,Doanh thu bán hàng và CCDV,2023,336593141.0,2025-04-12
+CTX,Doanh thu bán hàng và CCDV,2024,160560665.0,2025-04-12
+CTX,Giá vốn hàng bán,2021,102860407.0,2025-04-12
+CTX,Giá vốn hàng bán,2022,145159700.0,2025-04-12
+CTX,Giá vốn hàng bán,2023,223590524.0,2025-04-12
+CTX,Giá vốn hàng bán,2024,111563417.0,2025-04-12
+CTX,Lợi nhuận gộp về BH và CCDV,2021,-7685969.0,2025-04-12
+CTX,Lợi nhuận gộp về BH và CCDV,2022,38773633.0,2025-04-12
+CTX,Lợi nhuận gộp về BH và CCDV,2023,113002617.0,2025-04-12
+CTX,Lợi nhuận gộp về BH và CCDV,2024,48997248.0,2025-04-12
+CTX,Lợi nhuận tài chính,2021,966256.0,2025-04-12
+CTX,Lợi nhuận tài chính,2022,1364393.0,2025-04-12
+CTX,Lợi nhuận tài chính,2023,1821961.0,2025-04-12
+CTX,Lợi nhuận tài chính,2024,973592.0,2025-04-12
+CTX,Lợi nhuận khác,2021,29164823.0,2025-04-12
+CTX,Lợi nhuận khác,2022,1456858.0,2025-04-12
+CTX,Lợi nhuận khác,2023,-295805.0,2025-04-12
+CTX,Lợi nhuận khác,2024,12949112.0,2025-04-12
+CTX,Tổng lợi nhuận trước thuế,2021,1381813.0,2025-04-12
+CTX,Tổng lợi nhuận trước thuế,2022,6505141.0,2025-04-12
+CTX,Tổng lợi nhuận trước thuế,2023,45241000.0,2025-04-12
+CTX,Tổng lợi nhuận trước thuế,2024,14219642.0,2025-04-12
+CTX,Lợi nhuận sau thuế,2021,96999.0,2025-04-12
+CTX,Lợi nhuận sau thuế,2022,5672628.0,2025-04-12
+CTX,Lợi nhuận sau thuế,2023,35729266.0,2025-04-12
+CTX,Lợi nhuận sau thuế,2024,11278967.0,2025-04-12
+CTX,Lợi nhuận sau thuế của công ty mẹ,2021,189752.0,2025-04-12
+CTX,Lợi nhuận sau thuế của công ty mẹ,2022,6103804.0,2025-04-12
+CTX,Lợi nhuận sau thuế của công ty mẹ,2023,35779988.0,2025-04-12
+CTX,Lợi nhuận sau thuế của công ty mẹ,2024,11345133.0,2025-04-12
+CTX,Tổng tài sản lưu động ngắn hạn,2021,660885942.0,2025-04-12
+CTX,Tổng tài sản lưu động ngắn hạn,2022,768931510.0,2025-04-12
+CTX,Tổng tài sản lưu động ngắn hạn,2023,589604146.0,2025-04-12
+CTX,Tổng tài sản lưu động ngắn hạn,2024,524673039.0,2025-04-12
+CTX,Tổng tài sản,2021,2116681450.0,2025-04-12
+CTX,Tổng tài sản,2022,2230856071.0,2025-04-12
+CTX,Tổng tài sản,2023,1966142082.0,2025-04-12
+CTX,Tổng tài sản,2024,1930490155.0,2025-04-12
+CTX,Nợ ngắn hạn,2021,948997494.0,2025-04-12
+CTX,Nợ ngắn hạn,2022,1056130867.0,2025-04-12
+CTX,Nợ ngắn hạn,2023,775025106.0,2025-04-12
+CTX,Nợ ngắn hạn,2024,748199520.0,2025-04-12
+CTX,Tổng nợ,2021,1129179698.0,2025-04-12
+CTX,Tổng nợ,2022,1249381778.0,2025-04-12
+CTX,Tổng nợ,2023,948938523.0,2025-04-12
+CTX,Tổng nợ,2024,904995128.0,2025-04-12
+CTX,Vốn chủ sở hữu,2021,987501752.0,2025-04-12
+CTX,Vốn chủ sở hữu,2022,981474293.0,2025-04-12
+CTX,Vốn chủ sở hữu,2023,1017203560.0,2025-04-12
+CTX,Vốn chủ sở hữu,2024,1025495027.0,2025-04-12

@@ -1,0 +1,46 @@
+symbol,metric,year,value,crawled_date
+GLC,Giá vốn hàng bán,2021,10197005.0,2025-04-12
+GLC,Giá vốn hàng bán,2022,4844991.0,2025-04-12
+GLC,Giá vốn hàng bán,2023,9879702.0,2025-04-12
+GLC,Lợi nhuận gộp về BH và CCDV,2021,-10197005.0,2025-04-12
+GLC,Lợi nhuận gộp về BH và CCDV,2022,-4844991.0,2025-04-12
+GLC,Lợi nhuận gộp về BH và CCDV,2023,-1745790.0,2025-04-12
+GLC,Lợi nhuận khác,2020,-12376529.0,2025-04-12
+GLC,Lợi nhuận khác,2021,-182620.0,2025-04-12
+GLC,Lợi nhuận khác,2022,-5000.0,2025-04-12
+GLC,Tổng lợi nhuận trước thuế,2020,-15450704.0,2025-04-12
+GLC,Tổng lợi nhuận trước thuế,2021,-16130296.0,2025-04-12
+GLC,Tổng lợi nhuận trước thuế,2022,-9037769.0,2025-04-12
+GLC,Tổng lợi nhuận trước thuế,2023,-13901307.0,2025-04-12
+GLC,Lợi nhuận sau thuế,2020,-15450704.0,2025-04-12
+GLC,Lợi nhuận sau thuế,2021,-16130296.0,2025-04-12
+GLC,Lợi nhuận sau thuế,2022,-9037769.0,2025-04-12
+GLC,Lợi nhuận sau thuế,2023,-13901307.0,2025-04-12
+GLC,Lợi nhuận sau thuế của công ty mẹ,2020,-15450704.0,2025-04-12
+GLC,Lợi nhuận sau thuế của công ty mẹ,2021,-16130296.0,2025-04-12
+GLC,Lợi nhuận sau thuế của công ty mẹ,2022,-9037769.0,2025-04-12
+GLC,Lợi nhuận sau thuế của công ty mẹ,2023,-13901307.0,2025-04-12
+GLC,Lợi nhuận tài chính,2020,2674.0,2025-04-12
+GLC,Lợi nhuận tài chính,2021,110.0,2025-04-12
+GLC,Lợi nhuận tài chính,2022,-2019130.0,2025-04-12
+GLC,Lợi nhuận tài chính,2023,-1453994.0,2025-04-12
+GLC,Tổng tài sản lưu động ngắn hạn,2020,1725390.0,2025-04-12
+GLC,Tổng tài sản lưu động ngắn hạn,2021,1294898.0,2025-04-12
+GLC,Tổng tài sản lưu động ngắn hạn,2022,7295143.0,2025-04-12
+GLC,Tổng tài sản lưu động ngắn hạn,2023,2228736.0,2025-04-12
+GLC,Tổng tài sản,2020,51821207.0,2025-04-12
+GLC,Tổng tài sản,2021,41130942.0,2025-04-12
+GLC,Tổng tài sản,2022,31624695.0,2025-04-12
+GLC,Tổng tài sản,2023,16188425.0,2025-04-12
+GLC,Nợ ngắn hạn,2020,20911634.0,2025-04-12
+GLC,Nợ ngắn hạn,2021,26351666.0,2025-04-12
+GLC,Nợ ngắn hạn,2022,25883188.0,2025-04-12
+GLC,Nợ ngắn hạn,2023,24348225.0,2025-04-12
+GLC,Tổng nợ,2020,20911634.0,2025-04-12
+GLC,Tổng nợ,2021,26351666.0,2025-04-12
+GLC,Tổng nợ,2022,25883188.0,2025-04-12
+GLC,Tổng nợ,2023,24348225.0,2025-04-12
+GLC,Vốn chủ sở hữu,2020,30909572.0,2025-04-12
+GLC,Vốn chủ sở hữu,2021,14779276.0,2025-04-12
+GLC,Vốn chủ sở hữu,2022,5741507.0,2025-04-12
+GLC,Vốn chủ sở hữu,2023,-8159800.0,2025-04-12

@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+SGI,Doanh thu bán hàng và CCDV,2021,1469986045.0,2025-04-12
+SGI,Doanh thu bán hàng và CCDV,2022,1655978768.0,2025-04-12
+SGI,Doanh thu bán hàng và CCDV,2023,1306667484.0,2025-04-12
+SGI,Doanh thu bán hàng và CCDV,2024,1588340887.0,2025-04-12
+SGI,Giá vốn hàng bán,2021,1204813776.0,2025-04-12
+SGI,Giá vốn hàng bán,2022,1285237289.0,2025-04-12
+SGI,Giá vốn hàng bán,2023,1035510925.0,2025-04-12
+SGI,Giá vốn hàng bán,2024,1294167253.0,2025-04-12
+SGI,Lợi nhuận gộp về BH và CCDV,2021,248151644.0,2025-04-12
+SGI,Lợi nhuận gộp về BH và CCDV,2022,353741375.0,2025-04-12
+SGI,Lợi nhuận gộp về BH và CCDV,2023,251719874.0,2025-04-12
+SGI,Lợi nhuận gộp về BH và CCDV,2024,275137679.0,2025-04-12
+SGI,Lợi nhuận tài chính,2021,223156403.0,2025-04-12
+SGI,Lợi nhuận tài chính,2022,304962752.0,2025-04-12
+SGI,Lợi nhuận tài chính,2023,231118224.0,2025-04-12
+SGI,Lợi nhuận tài chính,2024,76511201.0,2025-04-12
+SGI,Lợi nhuận khác,2021,-5515672.0,2025-04-12
+SGI,Lợi nhuận khác,2022,5384781.0,2025-04-12
+SGI,Lợi nhuận khác,2023,-5244498.0,2025-04-12
+SGI,Lợi nhuận khác,2024,5977127.0,2025-04-12
+SGI,Tổng lợi nhuận trước thuế,2021,216388529.0,2025-04-12
+SGI,Tổng lợi nhuận trước thuế,2022,341177868.0,2025-04-12
+SGI,Tổng lợi nhuận trước thuế,2023,216433168.0,2025-04-12
+SGI,Tổng lợi nhuận trước thuế,2024,10105978.0,2025-04-12
+SGI,Lợi nhuận sau thuế,2021,119920497.0,2025-04-12
+SGI,Lợi nhuận sau thuế,2022,295910389.0,2025-04-12
+SGI,Lợi nhuận sau thuế,2023,166192125.0,2025-04-12
+SGI,Lợi nhuận sau thuế,2024,2210840.0,2025-04-12
+SGI,Lợi nhuận sau thuế của công ty mẹ,2021,80234678.0,2025-04-12
+SGI,Lợi nhuận sau thuế của công ty mẹ,2022,304865778.0,2025-04-12
+SGI,Lợi nhuận sau thuế của công ty mẹ,2023,118821921.0,2025-04-12
+SGI,Lợi nhuận sau thuế của công ty mẹ,2024,7735327.0,2025-04-12
+SGI,Tổng tài sản lưu động ngắn hạn,2021,3021242475.0,2025-04-12
+SGI,Tổng tài sản lưu động ngắn hạn,2022,2948773815.0,2025-04-12
+SGI,Tổng tài sản lưu động ngắn hạn,2023,3429801184.0,2025-04-12
+SGI,Tổng tài sản lưu động ngắn hạn,2024,3470062884.0,2025-04-12
+SGI,Tổng tài sản,2021,4006881097.0,2025-04-12
+SGI,Tổng tài sản,2022,4156203953.0,2025-04-12
+SGI,Tổng tài sản,2023,4565718287.0,2025-04-12
+SGI,Tổng tài sản,2024,5263418644.0,2025-04-12
+SGI,Nợ ngắn hạn,2021,1299318053.0,2025-04-12
+SGI,Nợ ngắn hạn,2022,919343344.0,2025-04-12
+SGI,Nợ ngắn hạn,2023,1413336493.0,2025-04-12
+SGI,Nợ ngắn hạn,2024,2131291272.0,2025-04-12
+SGI,Tổng nợ,2021,1744619823.0,2025-04-12
+SGI,Tổng nợ,2022,1439105079.0,2025-04-12
+SGI,Tổng nợ,2023,1709084013.0,2025-04-12
+SGI,Tổng nợ,2024,2481078669.0,2025-04-12
+SGI,Vốn chủ sở hữu,2021,2262261274.0,2025-04-12
+SGI,Vốn chủ sở hữu,2022,2717098874.0,2025-04-12
+SGI,Vốn chủ sở hữu,2023,2856634274.0,2025-04-12
+SGI,Vốn chủ sở hữu,2024,2782339975.0,2025-04-12

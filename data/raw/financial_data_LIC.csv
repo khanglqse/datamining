@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+LIC,Doanh thu bán hàng và CCDV,2021,1991489295.0,2025-04-12
+LIC,Doanh thu bán hàng và CCDV,2022,1989195011.0,2025-04-12
+LIC,Doanh thu bán hàng và CCDV,2023,2035962622.0,2025-04-12
+LIC,Doanh thu bán hàng và CCDV,2024,2250355273.0,2025-04-12
+LIC,Giá vốn hàng bán,2021,1763928313.0,2025-04-12
+LIC,Giá vốn hàng bán,2022,1787673174.0,2025-04-12
+LIC,Giá vốn hàng bán,2023,1857597059.0,2025-04-12
+LIC,Giá vốn hàng bán,2024,1998928693.0,2025-04-12
+LIC,Lợi nhuận gộp về BH và CCDV,2021,224486494.0,2025-04-12
+LIC,Lợi nhuận gộp về BH và CCDV,2022,200532169.0,2025-04-12
+LIC,Lợi nhuận gộp về BH và CCDV,2023,178256684.0,2025-04-12
+LIC,Lợi nhuận gộp về BH và CCDV,2024,250765597.0,2025-04-12
+LIC,Lợi nhuận tài chính,2021,60885230.0,2025-04-12
+LIC,Lợi nhuận tài chính,2022,42445304.0,2025-04-12
+LIC,Lợi nhuận tài chính,2023,11343798.0,2025-04-12
+LIC,Lợi nhuận tài chính,2024,32438.0,2025-04-12
+LIC,Lợi nhuận khác,2021,-29143457.0,2025-04-12
+LIC,Lợi nhuận khác,2022,-37943483.0,2025-04-12
+LIC,Lợi nhuận khác,2023,-13658682.0,2025-04-12
+LIC,Lợi nhuận khác,2024,-10381232.0,2025-04-12
+LIC,Tổng lợi nhuận trước thuế,2021,116816000.0,2025-04-12
+LIC,Tổng lợi nhuận trước thuế,2022,52474445.0,2025-04-12
+LIC,Tổng lợi nhuận trước thuế,2023,15718574.0,2025-04-12
+LIC,Tổng lợi nhuận trước thuế,2024,85023255.0,2025-04-12
+LIC,Lợi nhuận sau thuế,2021,103487224.0,2025-04-12
+LIC,Lợi nhuận sau thuế,2022,44290844.0,2025-04-12
+LIC,Lợi nhuận sau thuế,2023,6795352.0,2025-04-12
+LIC,Lợi nhuận sau thuế,2024,73351698.0,2025-04-12
+LIC,Lợi nhuận sau thuế của công ty mẹ,2021,93413115.0,2025-04-12
+LIC,Lợi nhuận sau thuế của công ty mẹ,2022,34475991.0,2025-04-12
+LIC,Lợi nhuận sau thuế của công ty mẹ,2023,-1288699.0,2025-04-12
+LIC,Lợi nhuận sau thuế của công ty mẹ,2024,59670734.0,2025-04-12
+LIC,Tổng tài sản lưu động ngắn hạn,2021,2269675515.0,2025-04-12
+LIC,Tổng tài sản lưu động ngắn hạn,2022,1958649877.0,2025-04-12
+LIC,Tổng tài sản lưu động ngắn hạn,2023,1941654612.0,2025-04-12
+LIC,Tổng tài sản lưu động ngắn hạn,2024,2164613684.0,2025-04-12
+LIC,Tổng tài sản,2021,4542158536.0,2025-04-12
+LIC,Tổng tài sản,2022,4158197092.0,2025-04-12
+LIC,Tổng tài sản,2023,4314313905.0,2025-04-12
+LIC,Tổng tài sản,2024,4616642289.0,2025-04-12
+LIC,Nợ ngắn hạn,2021,3588309652.0,2025-04-12
+LIC,Nợ ngắn hạn,2022,3241627303.0,2025-04-12
+LIC,Nợ ngắn hạn,2023,3290851286.0,2025-04-12
+LIC,Nợ ngắn hạn,2024,3436552706.0,2025-04-12
+LIC,Tổng nợ,2021,4066755234.0,2025-04-12
+LIC,Tổng nợ,2022,3713062940.0,2025-04-12
+LIC,Tổng nợ,2023,3894214910.0,2025-04-12
+LIC,Tổng nợ,2024,4126710246.0,2025-04-12
+LIC,Vốn chủ sở hữu,2021,475403302.0,2025-04-12
+LIC,Vốn chủ sở hữu,2022,445134151.0,2025-04-12
+LIC,Vốn chủ sở hữu,2023,420098995.0,2025-04-12
+LIC,Vốn chủ sở hữu,2024,489932043.0,2025-04-12

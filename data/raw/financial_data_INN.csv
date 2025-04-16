@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+INN,Doanh thu bán hàng và CCDV,2020,1210773886.0,2025-04-12
+INN,Doanh thu bán hàng và CCDV,2021,1538796226.0,2025-04-12
+INN,Doanh thu bán hàng và CCDV,2022,1710685507.0,2025-04-12
+INN,Doanh thu bán hàng và CCDV,2023,1533265809.0,2025-04-12
+INN,Giá vốn hàng bán,2020,1029379481.0,2025-04-12
+INN,Giá vốn hàng bán,2021,1320259882.0,2025-04-12
+INN,Giá vốn hàng bán,2022,1447832546.0,2025-04-12
+INN,Giá vốn hàng bán,2023,1255490512.0,2025-04-12
+INN,Lợi nhuận gộp về BH và CCDV,2020,180682684.0,2025-04-12
+INN,Lợi nhuận gộp về BH và CCDV,2021,216163722.0,2025-04-12
+INN,Lợi nhuận gộp về BH và CCDV,2022,262369770.0,2025-04-12
+INN,Lợi nhuận gộp về BH và CCDV,2023,7595865.0,2025-04-12
+INN,Lợi nhuận tài chính,2020,-691651.0,2025-04-12
+INN,Lợi nhuận tài chính,2021,-2242520.0,2025-04-12
+INN,Lợi nhuận tài chính,2022,-4005687.0,2025-04-12
+INN,Lợi nhuận tài chính,2023,-7432243.0,2025-04-12
+INN,Lợi nhuận khác,2020,2289394.0,2025-04-12
+INN,Lợi nhuận khác,2021,8304742.0,2025-04-12
+INN,Lợi nhuận khác,2022,1618447.0,2025-04-12
+INN,Lợi nhuận khác,2023,1594883.0,2025-04-12
+INN,Tổng lợi nhuận trước thuế,2020,83643109.0,2025-04-12
+INN,Tổng lợi nhuận trước thuế,2021,88621334.0,2025-04-12
+INN,Tổng lợi nhuận trước thuế,2022,103189477.0,2025-04-12
+INN,Tổng lợi nhuận trước thuế,2023,113101288.0,2025-04-12
+INN,Lợi nhuận sau thuế,2020,67079985.0,2025-04-12
+INN,Lợi nhuận sau thuế,2021,70897067.0,2025-04-12
+INN,Lợi nhuận sau thuế,2022,82551582.0,2025-04-12
+INN,Lợi nhuận sau thuế,2023,99240928.0,2025-04-12
+INN,Lợi nhuận sau thuế của công ty mẹ,2020,67079985.0,2025-04-12
+INN,Lợi nhuận sau thuế của công ty mẹ,2021,70897067.0,2025-04-12
+INN,Lợi nhuận sau thuế của công ty mẹ,2022,82551582.0,2025-04-12
+INN,Lợi nhuận sau thuế của công ty mẹ,2023,99240928.0,2025-04-12
+INN,Tổng tài sản lưu động ngắn hạn,2020,445907260.0,2025-04-12
+INN,Tổng tài sản lưu động ngắn hạn,2021,712764360.0,2025-04-12
+INN,Tổng tài sản lưu động ngắn hạn,2022,598054188.0,2025-04-12
+INN,Tổng tài sản lưu động ngắn hạn,2023,769517691.0,2025-04-12
+INN,Tổng tài sản,2020,802553849.0,2025-04-12
+INN,Tổng tài sản,2021,1122460164.0,2025-04-12
+INN,Tổng tài sản,2022,992749063.0,2025-04-12
+INN,Tổng tài sản,2023,1089703549.0,2025-04-12
+INN,Nợ ngắn hạn,2020,283650128.0,2025-04-12
+INN,Nợ ngắn hạn,2021,495550849.0,2025-04-12
+INN,Nợ ngắn hạn,2022,399398216.0,2025-04-12
+INN,Nợ ngắn hạn,2023,431462298.0,2025-04-12
+INN,Tổng nợ,2020,283850128.0,2025-04-12
+INN,Tổng nợ,2021,572430419.0,2025-04-12
+INN,Tổng nợ,2022,400678216.0,2025-04-12
+INN,Tổng nợ,2023,432742298.0,2025-04-12
+INN,Vốn chủ sở hữu,2020,518703721.0,2025-04-12
+INN,Vốn chủ sở hữu,2021,550029745.0,2025-04-12
+INN,Vốn chủ sở hữu,2022,592070848.0,2025-04-12
+INN,Vốn chủ sở hữu,2023,656961251.0,2025-04-12

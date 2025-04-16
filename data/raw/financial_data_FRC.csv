@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+FRC,Doanh thu bán hàng và CCDV,2020,264031522.0,2025-04-12
+FRC,Doanh thu bán hàng và CCDV,2021,336150550.0,2025-04-12
+FRC,Doanh thu bán hàng và CCDV,2022,229211784.0,2025-04-12
+FRC,Doanh thu bán hàng và CCDV,2023,150089937.0,2025-04-12
+FRC,Giá vốn hàng bán,2020,199918323.0,2025-04-12
+FRC,Giá vốn hàng bán,2021,244959043.0,2025-04-12
+FRC,Giá vốn hàng bán,2022,167897440.0,2025-04-12
+FRC,Giá vốn hàng bán,2023,120900143.0,2025-04-12
+FRC,Lợi nhuận gộp về BH và CCDV,2020,64113199.0,2025-04-12
+FRC,Lợi nhuận gộp về BH và CCDV,2021,91058754.0,2025-04-12
+FRC,Lợi nhuận gộp về BH và CCDV,2022,61314344.0,2025-04-12
+FRC,Lợi nhuận gộp về BH và CCDV,2023,29189793.0,2025-04-12
+FRC,Lợi nhuận tài chính,2020,1123393.0,2025-04-12
+FRC,Lợi nhuận tài chính,2021,-1052032.0,2025-04-12
+FRC,Lợi nhuận tài chính,2022,-75684.0,2025-04-12
+FRC,Lợi nhuận tài chính,2023,3159428.0,2025-04-12
+FRC,Lợi nhuận khác,2020,-387987.0,2025-04-12
+FRC,Lợi nhuận khác,2021,-138936.0,2025-04-12
+FRC,Lợi nhuận khác,2022,-875591.0,2025-04-12
+FRC,Lợi nhuận khác,2023,315049.0,2025-04-12
+FRC,Tổng lợi nhuận trước thuế,2020,28290786.0,2025-04-12
+FRC,Tổng lợi nhuận trước thuế,2021,41307972.0,2025-04-12
+FRC,Tổng lợi nhuận trước thuế,2022,27088904.0,2025-04-12
+FRC,Tổng lợi nhuận trước thuế,2023,736359.0,2025-04-12
+FRC,Lợi nhuận sau thuế,2020,21645245.0,2025-04-12
+FRC,Lợi nhuận sau thuế,2021,32978662.0,2025-04-12
+FRC,Lợi nhuận sau thuế,2022,21353712.0,2025-04-12
+FRC,Lợi nhuận sau thuế,2023,366057.0,2025-04-12
+FRC,Lợi nhuận sau thuế của công ty mẹ,2020,21645245.0,2025-04-12
+FRC,Lợi nhuận sau thuế của công ty mẹ,2021,32978662.0,2025-04-12
+FRC,Lợi nhuận sau thuế của công ty mẹ,2022,21353712.0,2025-04-12
+FRC,Lợi nhuận sau thuế của công ty mẹ,2023,366057.0,2025-04-12
+FRC,Tổng tài sản lưu động ngắn hạn,2020,185201208.0,2025-04-12
+FRC,Tổng tài sản lưu động ngắn hạn,2021,194970245.0,2025-04-12
+FRC,Tổng tài sản lưu động ngắn hạn,2022,220514762.0,2025-04-12
+FRC,Tổng tài sản lưu động ngắn hạn,2023,153289654.0,2025-04-12
+FRC,Tổng tài sản,2020,219481080.0,2025-04-12
+FRC,Tổng tài sản,2021,291688189.0,2025-04-12
+FRC,Tổng tài sản,2022,304924961.0,2025-04-12
+FRC,Tổng tài sản,2023,223138722.0,2025-04-12
+FRC,Nợ ngắn hạn,2020,122373858.0,2025-04-12
+FRC,Nợ ngắn hạn,2021,161778638.0,2025-04-12
+FRC,Nợ ngắn hạn,2022,156661698.0,2025-04-12
+FRC,Nợ ngắn hạn,2023,74905393.0,2025-04-12
+FRC,Tổng nợ,2020,123470365.0,2025-04-12
+FRC,Tổng nợ,2021,162698811.0,2025-04-12
+FRC,Tổng nợ,2022,157581872.0,2025-04-12
+FRC,Tổng nợ,2023,75429576.0,2025-04-12
+FRC,Vốn chủ sở hữu,2020,96010715.0,2025-04-12
+FRC,Vốn chủ sở hữu,2021,128989377.0,2025-04-12
+FRC,Vốn chủ sở hữu,2022,147343090.0,2025-04-12
+FRC,Vốn chủ sở hữu,2023,147709147.0,2025-04-12

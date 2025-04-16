@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+ILA,Doanh thu bán hàng và CCDV,2021,7789740.0,2025-04-12
+ILA,Doanh thu bán hàng và CCDV,2022,111272923.0,2025-04-12
+ILA,Doanh thu bán hàng và CCDV,2023,60178753.0,2025-04-12
+ILA,Doanh thu bán hàng và CCDV,2024,140157852.0,2025-04-12
+ILA,Giá vốn hàng bán,2021,7273942.0,2025-04-12
+ILA,Giá vốn hàng bán,2022,106229461.0,2025-04-12
+ILA,Giá vốn hàng bán,2023,56197355.0,2025-04-12
+ILA,Giá vốn hàng bán,2024,126355337.0,2025-04-12
+ILA,Lợi nhuận gộp về BH và CCDV,2021,515799.0,2025-04-12
+ILA,Lợi nhuận gộp về BH và CCDV,2022,5043463.0,2025-04-12
+ILA,Lợi nhuận gộp về BH và CCDV,2023,3586142.0,2025-04-12
+ILA,Lợi nhuận gộp về BH và CCDV,2024,13032196.0,2025-04-12
+ILA,Lợi nhuận tài chính,2021,14944450.0,2025-04-12
+ILA,Lợi nhuận tài chính,2022,-4815526.0,2025-04-12
+ILA,Lợi nhuận tài chính,2023,-225410.0,2025-04-12
+ILA,Lợi nhuận tài chính,2024,-5184240.0,2025-04-12
+ILA,Lợi nhuận khác,2021,-725867.0,2025-04-12
+ILA,Lợi nhuận khác,2022,-291663.0,2025-04-12
+ILA,Lợi nhuận khác,2023,7653357.0,2025-04-12
+ILA,Lợi nhuận khác,2024,-320340.0,2025-04-12
+ILA,Tổng lợi nhuận trước thuế,2021,13192602.0,2025-04-12
+ILA,Tổng lợi nhuận trước thuế,2022,-1887135.0,2025-04-12
+ILA,Tổng lợi nhuận trước thuế,2023,5616478.0,2025-04-12
+ILA,Tổng lợi nhuận trước thuế,2024,-1810899.0,2025-04-12
+ILA,Lợi nhuận sau thuế,2021,11244016.0,2025-04-12
+ILA,Lợi nhuận sau thuế,2022,-1887135.0,2025-04-12
+ILA,Lợi nhuận sau thuế,2023,5616478.0,2025-04-12
+ILA,Lợi nhuận sau thuế,2024,-2065120.0,2025-04-12
+ILA,Lợi nhuận sau thuế của công ty mẹ,2021,11244016.0,2025-04-12
+ILA,Lợi nhuận sau thuế của công ty mẹ,2022,-1887135.0,2025-04-12
+ILA,Lợi nhuận sau thuế của công ty mẹ,2023,5655097.0,2025-04-12
+ILA,Lợi nhuận sau thuế của công ty mẹ,2024,-2091213.0,2025-04-12
+ILA,Tổng tài sản lưu động ngắn hạn,2021,202358122.0,2025-04-12
+ILA,Tổng tài sản lưu động ngắn hạn,2022,38594157.0,2025-04-12
+ILA,Tổng tài sản lưu động ngắn hạn,2023,335395075.0,2025-04-12
+ILA,Tổng tài sản lưu động ngắn hạn,2024,276175672.0,2025-04-12
+ILA,Tổng tài sản,2021,202358122.0,2025-04-12
+ILA,Tổng tài sản,2022,225388761.0,2025-04-12
+ILA,Tổng tài sản,2023,394698838.0,2025-04-12
+ILA,Tổng tài sản,2024,358949907.0,2025-04-12
+ILA,Nợ ngắn hạn,2021,4197203.0,2025-04-12
+ILA,Nợ ngắn hạn,2022,29114977.0,2025-04-12
+ILA,Nợ ngắn hạn,2023,97827322.0,2025-04-12
+ILA,Nợ ngắn hạn,2024,113474349.0,2025-04-12
+ILA,Tổng nợ,2021,4197203.0,2025-04-12
+ILA,Tổng nợ,2022,29114977.0,2025-04-12
+ILA,Tổng nợ,2023,188105842.0,2025-04-12
+ILA,Tổng nợ,2024,154425090.0,2025-04-12
+ILA,Vốn chủ sở hữu,2021,198160919.0,2025-04-12
+ILA,Vốn chủ sở hữu,2022,196273784.0,2025-04-12
+ILA,Vốn chủ sở hữu,2023,206592996.0,2025-04-12
+ILA,Vốn chủ sở hữu,2024,204524816.0,2025-04-12

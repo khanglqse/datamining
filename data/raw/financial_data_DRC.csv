@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+DRC,Doanh thu bán hàng và CCDV,2022,5139167143.0,2025-04-12
+DRC,Doanh thu bán hàng và CCDV,2023,4657643187.0,2025-04-12
+DRC,Doanh thu bán hàng và CCDV,2023,4657643187.0,2025-04-12
+DRC,Doanh thu bán hàng và CCDV,2024,4852424350.0,2025-04-12
+DRC,Giá vốn hàng bán,2022,4087848994.0,2025-04-12
+DRC,Giá vốn hàng bán,2023,3846521058.0,2025-04-12
+DRC,Giá vốn hàng bán,2023,3846521058.0,2025-04-12
+DRC,Giá vốn hàng bán,2024,3943643090.0,2025-04-12
+DRC,Lợi nhuận gộp về BH và CCDV,2022,810738729.0,2025-04-12
+DRC,Lợi nhuận gộp về BH và CCDV,2023,648653463.0,2025-04-12
+DRC,Lợi nhuận gộp về BH và CCDV,2023,648653463.0,2025-04-12
+DRC,Lợi nhuận gộp về BH và CCDV,2024,729385767.0,2025-04-12
+DRC,Lợi nhuận tài chính,2022,-30230183.0,2025-04-12
+DRC,Lợi nhuận tài chính,2023,-2010937.0,2025-04-12
+DRC,Lợi nhuận tài chính,2023,-2010937.0,2025-04-12
+DRC,Lợi nhuận tài chính,2024,3690607.0,2025-04-12
+DRC,Lợi nhuận khác,2022,1144671.0,2025-04-12
+DRC,Lợi nhuận khác,2023,102524.0,2025-04-12
+DRC,Lợi nhuận khác,2023,102524.0,2025-04-12
+DRC,Lợi nhuận khác,2024,-1532718.0,2025-04-12
+DRC,Tổng lợi nhuận trước thuế,2022,386460635.0,2025-04-12
+DRC,Tổng lợi nhuận trước thuế,2023,307067158.0,2025-04-12
+DRC,Tổng lợi nhuận trước thuế,2023,307067158.0,2025-04-12
+DRC,Tổng lợi nhuận trước thuế,2024,289023116.0,2025-04-12
+DRC,Lợi nhuận sau thuế,2022,307184677.0,2025-04-12
+DRC,Lợi nhuận sau thuế,2023,246334433.0,2025-04-12
+DRC,Lợi nhuận sau thuế,2023,246334433.0,2025-04-12
+DRC,Lợi nhuận sau thuế,2024,231618562.0,2025-04-12
+DRC,Lợi nhuận sau thuế của công ty mẹ,2022,307184677.0,2025-04-12
+DRC,Lợi nhuận sau thuế của công ty mẹ,2023,246334433.0,2025-04-12
+DRC,Lợi nhuận sau thuế của công ty mẹ,2023,246334433.0,2025-04-12
+DRC,Lợi nhuận sau thuế của công ty mẹ,2024,231618562.0,2025-04-12
+DRC,Tổng tài sản lưu động ngắn hạn,2022,2457425816.0,2025-04-12
+DRC,Tổng tài sản lưu động ngắn hạn,2023,2291883109.0,2025-04-12
+DRC,Tổng tài sản lưu động ngắn hạn,2023,2291883109.0,2025-04-12
+DRC,Tổng tài sản lưu động ngắn hạn,2024,2794028277.0,2025-04-12
+DRC,Tổng tài sản,2022,3417798778.0,2025-04-12
+DRC,Tổng tài sản,2023,3384337032.0,2025-04-12
+DRC,Tổng tài sản,2023,3384337032.0,2025-04-12
+DRC,Tổng tài sản,2024,4200077503.0,2025-04-12
+DRC,Nợ ngắn hạn,2022,1506929882.0,2025-04-12
+DRC,Nợ ngắn hạn,2023,1508140151.0,2025-04-12
+DRC,Nợ ngắn hạn,2023,1508140151.0,2025-04-12
+DRC,Nợ ngắn hạn,2024,2138999851.0,2025-04-12
+DRC,Tổng nợ,2022,1508035857.0,2025-04-12
+DRC,Tổng nợ,2023,1532959435.0,2025-04-12
+DRC,Tổng nợ,2023,1532959435.0,2025-04-12
+DRC,Tổng nợ,2024,2284621711.0,2025-04-12
+DRC,Vốn chủ sở hữu,2022,1909762921.0,2025-04-12
+DRC,Vốn chủ sở hữu,2023,1851377597.0,2025-04-12
+DRC,Vốn chủ sở hữu,2023,1851377597.0,2025-04-12
+DRC,Vốn chủ sở hữu,2024,1915455792.0,2025-04-12

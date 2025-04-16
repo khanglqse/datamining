@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+EMG,Doanh thu bán hàng và CCDV,2020,108453358.0,2025-04-12
+EMG,Doanh thu bán hàng và CCDV,2021,75145452.0,2025-04-12
+EMG,Doanh thu bán hàng và CCDV,2022,65385612.0,2025-04-12
+EMG,Doanh thu bán hàng và CCDV,2023,57630977.0,2025-04-12
+EMG,Giá vốn hàng bán,2020,79820227.0,2025-04-12
+EMG,Giá vốn hàng bán,2021,47815487.0,2025-04-12
+EMG,Giá vốn hàng bán,2022,37012328.0,2025-04-12
+EMG,Giá vốn hàng bán,2023,31542291.0,2025-04-12
+EMG,Lợi nhuận gộp về BH và CCDV,2020,28633131.0,2025-04-12
+EMG,Lợi nhuận gộp về BH và CCDV,2021,27329965.0,2025-04-12
+EMG,Lợi nhuận gộp về BH và CCDV,2022,28373284.0,2025-04-12
+EMG,Lợi nhuận gộp về BH và CCDV,2023,26088687.0,2025-04-12
+EMG,Lợi nhuận tài chính,2020,-1192496.0,2025-04-12
+EMG,Lợi nhuận tài chính,2021,-1345344.0,2025-04-12
+EMG,Lợi nhuận tài chính,2022,-489714.0,2025-04-12
+EMG,Lợi nhuận tài chính,2023,-171516.0,2025-04-12
+EMG,Lợi nhuận khác,2020,35831.0,2025-04-12
+EMG,Lợi nhuận khác,2021,109547.0,2025-04-12
+EMG,Lợi nhuận khác,2022,-37462.0,2025-04-12
+EMG,Lợi nhuận khác,2023,590053.0,2025-04-12
+EMG,Tổng lợi nhuận trước thuế,2020,14866452.0,2025-04-12
+EMG,Tổng lợi nhuận trước thuế,2021,14612090.0,2025-04-12
+EMG,Tổng lợi nhuận trước thuế,2022,16441012.0,2025-04-12
+EMG,Tổng lợi nhuận trước thuế,2023,15679247.0,2025-04-12
+EMG,Lợi nhuận sau thuế,2020,12750458.0,2025-04-12
+EMG,Lợi nhuận sau thuế,2021,12524558.0,2025-04-12
+EMG,Lợi nhuận sau thuế,2022,13095715.0,2025-04-12
+EMG,Lợi nhuận sau thuế,2023,12372354.0,2025-04-12
+EMG,Lợi nhuận sau thuế của công ty mẹ,2020,12750458.0,2025-04-12
+EMG,Lợi nhuận sau thuế của công ty mẹ,2021,12524558.0,2025-04-12
+EMG,Lợi nhuận sau thuế của công ty mẹ,2022,13095715.0,2025-04-12
+EMG,Lợi nhuận sau thuế của công ty mẹ,2023,12372354.0,2025-04-12
+EMG,Tổng tài sản lưu động ngắn hạn,2020,107746088.0,2025-04-12
+EMG,Tổng tài sản lưu động ngắn hạn,2021,96917061.0,2025-04-12
+EMG,Tổng tài sản lưu động ngắn hạn,2022,96221166.0,2025-04-12
+EMG,Tổng tài sản lưu động ngắn hạn,2023,101976369.0,2025-04-12
+EMG,Tổng tài sản,2020,120569879.0,2025-04-12
+EMG,Tổng tài sản,2021,109401010.0,2025-04-12
+EMG,Tổng tài sản,2022,108740640.0,2025-04-12
+EMG,Tổng tài sản,2023,112072172.0,2025-04-12
+EMG,Nợ ngắn hạn,2020,34882299.0,2025-04-12
+EMG,Nợ ngắn hạn,2021,18381570.0,2025-04-12
+EMG,Nợ ngắn hạn,2022,12198432.0,2025-04-12
+EMG,Nợ ngắn hạn,2023,10932471.0,2025-04-12
+EMG,Tổng nợ,2020,39257263.0,2025-04-12
+EMG,Tổng nợ,2021,22140370.0,2025-04-12
+EMG,Tổng nợ,2022,14817975.0,2025-04-12
+EMG,Tổng nợ,2023,12934294.0,2025-04-12
+EMG,Vốn chủ sở hữu,2020,81312617.0,2025-04-12
+EMG,Vốn chủ sở hữu,2021,87260641.0,2025-04-12
+EMG,Vốn chủ sở hữu,2022,93922665.0,2025-04-12
+EMG,Vốn chủ sở hữu,2023,99137878.0,2025-04-12

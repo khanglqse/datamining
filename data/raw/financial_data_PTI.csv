@@ -1,0 +1,45 @@
+symbol,metric,year,value,crawled_date
+PTI,Doanh thu thuần HĐKD bảo hiểm,2020,4734129120.0,2025-04-12
+PTI,Doanh thu thuần HĐKD bảo hiểm,2021,4963702480.0,2025-04-12
+PTI,Doanh thu thuần HĐKD bảo hiểm,2022,5152967380.0,2025-04-12
+PTI,Doanh thu thuần HĐKD bảo hiểm,2023,4878341417.0,2025-04-12
+PTI,Lợi nhuận từ HĐKD bảo hiểm,2020,699651250.0,2025-04-12
+PTI,Lợi nhuận từ HĐKD bảo hiểm,2021,753724630.0,2025-04-12
+PTI,Lợi nhuận từ HĐKD bảo hiểm,2022,-200438980.0,2025-04-12
+PTI,Lợi nhuận từ HĐKD bảo hiểm,2023,310590240.0,2025-04-12
+PTI,Lợi nhuận từ HĐ tài chính,2020,179851420.0,2025-04-12
+PTI,Lợi nhuận từ HĐ tài chính,2021,141846460.0,2025-04-12
+PTI,Lợi nhuận từ HĐ tài chính,2022,100499530.0,2025-04-12
+PTI,Lợi nhuận từ HĐ tài chính,2023,205967543.0,2025-04-12
+PTI,Tổng lợi nhuận trước thuế,2020,294094550.0,2025-04-12
+PTI,Tổng lợi nhuận trước thuế,2021,328004140.0,2025-04-12
+PTI,Tổng lợi nhuận trước thuế,2022,-343573780.0,2025-04-12
+PTI,Tổng lợi nhuận trước thuế,2023,319758228.0,2025-04-12
+PTI,Lợi nhuận sau thuế,2020,239146460.0,2025-04-12
+PTI,Lợi nhuận sau thuế,2021,257482740.0,2025-04-12
+PTI,Lợi nhuận sau thuế,2022,-347376220.0,2025-04-12
+PTI,Lợi nhuận sau thuế,2023,252869257.0,2025-04-12
+PTI,Lợi nhuận sau thuế Công ty mẹ,2020,240096400.0,2025-04-12
+PTI,Lợi nhuận sau thuế Công ty mẹ,2021,257367260.0,2025-04-12
+PTI,Lợi nhuận sau thuế Công ty mẹ,2022,-347394510.0,2025-04-12
+PTI,Lợi nhuận sau thuế Công ty mẹ,2023,252788326.0,2025-04-12
+PTI,Tổng tài sản lưu động ngắn hạn,2020,6427661280.0,2025-04-12
+PTI,Tổng tài sản lưu động ngắn hạn,2021,7327979030.0,2025-04-12
+PTI,Tổng tài sản lưu động ngắn hạn,2022,7466558160.0,2025-04-12
+PTI,Tổng tài sản lưu động ngắn hạn,2023,7127718367.0,2025-04-12
+PTI,Tổng tài sản,2020,7767255240.0,2025-04-12
+PTI,Tổng tài sản,2021,8564759560.0,2025-04-12
+PTI,Tổng tài sản,2022,8374884660.0,2025-04-12
+PTI,Tổng tài sản,2023,8218792122.0,2025-04-12
+PTI,Nợ ngắn hạn,2020,1359013890.0,2025-04-12
+PTI,Nợ ngắn hạn,2021,1459450470.0,2025-04-12
+PTI,Nợ ngắn hạn,2022,1238465680.0,2025-04-12
+PTI,Nợ ngắn hạn,2023,1437116673.0,2025-04-12
+PTI,Tổng nợ,2020,5746072810.0,2025-04-12
+PTI,Tổng nợ,2021,6384509790.0,2025-04-12
+PTI,Tổng nợ,2022,6563298420.0,2025-04-12
+PTI,Tổng nợ,2023,6154474300.0,2025-04-12
+PTI,Vốn chủ sở hữu,2020,2017749270.0,2025-04-12
+PTI,Vốn chủ sở hữu,2021,2176703880.0,2025-04-12
+PTI,Vốn chủ sở hữu,2022,1807609620.0,2025-04-12
+PTI,Vốn chủ sở hữu,2023,2060260268.0,2025-04-12

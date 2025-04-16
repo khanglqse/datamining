@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+SSN,Doanh thu bán hàng và CCDV,2018,11600910.0,2025-04-12
+SSN,Doanh thu bán hàng và CCDV,2019,16448648.0,2025-04-12
+SSN,Doanh thu bán hàng và CCDV,2020,40431967.0,2025-04-12
+SSN,Doanh thu bán hàng và CCDV,2021,16141519.0,2025-04-12
+SSN,Giá vốn hàng bán,2018,6230701.0,2025-04-12
+SSN,Giá vốn hàng bán,2019,8486220.0,2025-04-12
+SSN,Giá vốn hàng bán,2020,31181958.0,2025-04-12
+SSN,Giá vốn hàng bán,2021,10964116.0,2025-04-12
+SSN,Lợi nhuận gộp về BH và CCDV,2018,5370208.0,2025-04-12
+SSN,Lợi nhuận gộp về BH và CCDV,2019,7962429.0,2025-04-12
+SSN,Lợi nhuận gộp về BH và CCDV,2020,9250010.0,2025-04-12
+SSN,Lợi nhuận gộp về BH và CCDV,2021,5177403.0,2025-04-12
+SSN,Lợi nhuận tài chính,2018,32432027.0,2025-04-12
+SSN,Lợi nhuận tài chính,2019,10400942.0,2025-04-12
+SSN,Lợi nhuận tài chính,2020,8057186.0,2025-04-12
+SSN,Lợi nhuận tài chính,2021,5980432.0,2025-04-12
+SSN,Lợi nhuận khác,2018,-16060114.0,2025-04-12
+SSN,Lợi nhuận khác,2019,-4000102.0,2025-04-12
+SSN,Lợi nhuận khác,2020,-5074561.0,2025-04-12
+SSN,Lợi nhuận khác,2021,-1322255.0,2025-04-12
+SSN,Tổng lợi nhuận trước thuế,2018,1123092.0,2025-04-12
+SSN,Tổng lợi nhuận trước thuế,2019,452027.0,2025-04-12
+SSN,Tổng lợi nhuận trước thuế,2020,291773.0,2025-04-12
+SSN,Tổng lợi nhuận trước thuế,2021,218022.0,2025-04-12
+SSN,Lợi nhuận sau thuế,2018,656985.0,2025-04-12
+SSN,Lợi nhuận sau thuế,2019,23630.0,2025-04-12
+SSN,Lợi nhuận sau thuế,2020,57867.0,2025-04-12
+SSN,Lợi nhuận sau thuế,2021,66197.0,2025-04-12
+SSN,Lợi nhuận sau thuế của công ty mẹ,2018,656985.0,2025-04-12
+SSN,Lợi nhuận sau thuế của công ty mẹ,2019,23630.0,2025-04-12
+SSN,Lợi nhuận sau thuế của công ty mẹ,2020,57867.0,2025-04-12
+SSN,Lợi nhuận sau thuế của công ty mẹ,2021,66197.0,2025-04-12
+SSN,Tổng tài sản lưu động ngắn hạn,2018,341737167.0,2025-04-12
+SSN,Tổng tài sản lưu động ngắn hạn,2019,1100228823.0,2025-04-12
+SSN,Tổng tài sản lưu động ngắn hạn,2020,789549674.0,2025-04-12
+SSN,Tổng tài sản lưu động ngắn hạn,2021,794911461.0,2025-04-12
+SSN,Tổng tài sản,2018,1130290971.0,2025-04-12
+SSN,Tổng tài sản,2019,1156194271.0,2025-04-12
+SSN,Tổng tài sản,2020,1086440999.0,2025-04-12
+SSN,Tổng tài sản,2021,1083968270.0,2025-04-12
+SSN,Nợ ngắn hạn,2018,673945466.0,2025-04-12
+SSN,Nợ ngắn hạn,2019,702448337.0,2025-04-12
+SSN,Nợ ngắn hạn,2020,633868397.0,2025-04-12
+SSN,Nợ ngắn hạn,2021,632195705.0,2025-04-12
+SSN,Tổng nợ,2018,678666099.0,2025-04-12
+SSN,Tổng nợ,2019,704545770.0,2025-04-12
+SSN,Tổng nợ,2020,634734631.0,2025-04-12
+SSN,Tổng nợ,2021,632195705.0,2025-04-12
+SSN,Vốn chủ sở hữu,2018,451624872.0,2025-04-12
+SSN,Vốn chủ sở hữu,2019,451648501.0,2025-04-12
+SSN,Vốn chủ sở hữu,2020,451706368.0,2025-04-12
+SSN,Vốn chủ sở hữu,2021,451772565.0,2025-04-12

@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+HAH,Doanh thu bán hàng và CCDV,2021,1955301419.0,2025-04-12
+HAH,Doanh thu bán hàng và CCDV,2022,3205610066.0,2025-04-12
+HAH,Doanh thu bán hàng và CCDV,2023,2612689734.0,2025-04-12
+HAH,Doanh thu bán hàng và CCDV,2024,3992094957.0,2025-04-12
+HAH,Giá vốn hàng bán,2021,1241007564.0,2025-04-12
+HAH,Giá vốn hàng bán,2022,1783865289.0,2025-04-12
+HAH,Giá vốn hàng bán,2023,2001623878.0,2025-04-12
+HAH,Giá vốn hàng bán,2024,2725389313.0,2025-04-12
+HAH,Lợi nhuận gộp về BH và CCDV,2021,714293856.0,2025-04-12
+HAH,Lợi nhuận gộp về BH và CCDV,2022,1421744777.0,2025-04-12
+HAH,Lợi nhuận gộp về BH và CCDV,2023,611065856.0,2025-04-12
+HAH,Lợi nhuận gộp về BH và CCDV,2024,1266705644.0,2025-04-12
+HAH,Lợi nhuận tài chính,2021,-6650852.0,2025-04-12
+HAH,Lợi nhuận tài chính,2022,-37620704.0,2025-04-12
+HAH,Lợi nhuận tài chính,2023,-53583525.0,2025-04-12
+HAH,Lợi nhuận tài chính,2024,-94067144.0,2025-04-12
+HAH,Lợi nhuận khác,2021,20388927.0,2025-04-12
+HAH,Lợi nhuận khác,2022,-27282158.0,2025-04-12
+HAH,Lợi nhuận khác,2023,2989349.0,2025-04-12
+HAH,Lợi nhuận khác,2024,-3147217.0,2025-04-12
+HAH,Tổng lợi nhuận trước thuế,2021,662317363.0,2025-04-12
+HAH,Tổng lợi nhuận trước thuế,2022,1272416253.0,2025-04-12
+HAH,Tổng lợi nhuận trước thuế,2023,450043973.0,2025-04-12
+HAH,Tổng lợi nhuận trước thuế,2024,977289020.0,2025-04-12
+HAH,Lợi nhuận sau thuế,2021,550615355.0,2025-04-12
+HAH,Lợi nhuận sau thuế,2022,1040793234.0,2025-04-12
+HAH,Lợi nhuận sau thuế,2023,357825466.0,2025-04-12
+HAH,Lợi nhuận sau thuế,2024,800226211.0,2025-04-12
+HAH,Lợi nhuận sau thuế của công ty mẹ,2021,445513497.0,2025-04-12
+HAH,Lợi nhuận sau thuế của công ty mẹ,2022,821937123.0,2025-04-12
+HAH,Lợi nhuận sau thuế của công ty mẹ,2023,384900627.0,2025-04-12
+HAH,Lợi nhuận sau thuế của công ty mẹ,2024,650499312.0,2025-04-12
+HAH,Tổng tài sản lưu động ngắn hạn,2021,1287237970.0,2025-04-12
+HAH,Tổng tài sản lưu động ngắn hạn,2022,1744506986.0,2025-04-12
+HAH,Tổng tài sản lưu động ngắn hạn,2023,1600183520.0,2025-04-12
+HAH,Tổng tài sản lưu động ngắn hạn,2024,1752839556.0,2025-04-12
+HAH,Tổng tài sản,2021,3232345374.0,2025-04-12
+HAH,Tổng tài sản,2022,5049419497.0,2025-04-12
+HAH,Tổng tài sản,2023,5358949358.0,2025-04-12
+HAH,Tổng tài sản,2024,7217231202.0,2025-04-12
+HAH,Nợ ngắn hạn,2021,620603863.0,2025-04-12
+HAH,Nợ ngắn hạn,2022,910335414.0,2025-04-12
+HAH,Nợ ngắn hạn,2023,937258800.0,2025-04-12
+HAH,Nợ ngắn hạn,2024,1210096530.0,2025-04-12
+HAH,Tổng nợ,2021,1330315412.0,2025-04-12
+HAH,Tổng nợ,2022,2162498792.0,2025-04-12
+HAH,Tổng nợ,2023,2188203556.0,2025-04-12
+HAH,Tổng nợ,2024,3317831641.0,2025-04-12
+HAH,Vốn chủ sở hữu,2021,1902029962.0,2025-04-12
+HAH,Vốn chủ sở hữu,2022,2886920705.0,2025-04-12
+HAH,Vốn chủ sở hữu,2023,3170745802.0,2025-04-12
+HAH,Vốn chủ sở hữu,2024,3971692928.0,2025-04-12

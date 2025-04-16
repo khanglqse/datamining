@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+GIC,Doanh thu bán hàng và CCDV,2021,162658231.0,2025-04-12
+GIC,Doanh thu bán hàng và CCDV,2022,168327880.0,2025-04-12
+GIC,Doanh thu bán hàng và CCDV,2023,172273666.0,2025-04-12
+GIC,Doanh thu bán hàng và CCDV,2024,159342954.0,2025-04-12
+GIC,Giá vốn hàng bán,2021,108236821.0,2025-04-12
+GIC,Giá vốn hàng bán,2022,107259797.0,2025-04-12
+GIC,Giá vốn hàng bán,2023,102670926.0,2025-04-12
+GIC,Giá vốn hàng bán,2024,94283782.0,2025-04-12
+GIC,Lợi nhuận gộp về BH và CCDV,2021,54421410.0,2025-04-12
+GIC,Lợi nhuận gộp về BH và CCDV,2022,61068084.0,2025-04-12
+GIC,Lợi nhuận gộp về BH và CCDV,2023,69602740.0,2025-04-12
+GIC,Lợi nhuận gộp về BH và CCDV,2024,65059172.0,2025-04-12
+GIC,Lợi nhuận tài chính,2021,458082.0,2025-04-12
+GIC,Lợi nhuận tài chính,2022,1288230.0,2025-04-12
+GIC,Lợi nhuận tài chính,2023,1732004.0,2025-04-12
+GIC,Lợi nhuận tài chính,2024,-651117.0,2025-04-12
+GIC,Lợi nhuận khác,2021,128039.0,2025-04-12
+GIC,Lợi nhuận khác,2022,298380.0,2025-04-12
+GIC,Lợi nhuận khác,2023,-61117.0,2025-04-12
+GIC,Lợi nhuận khác,2024,264077.0,2025-04-12
+GIC,Tổng lợi nhuận trước thuế,2021,26106334.0,2025-04-12
+GIC,Tổng lợi nhuận trước thuế,2022,18480833.0,2025-04-12
+GIC,Tổng lợi nhuận trước thuế,2023,18592683.0,2025-04-12
+GIC,Tổng lợi nhuận trước thuế,2024,18091674.0,2025-04-12
+GIC,Lợi nhuận sau thuế,2021,24474605.0,2025-04-12
+GIC,Lợi nhuận sau thuế,2022,16648391.0,2025-04-12
+GIC,Lợi nhuận sau thuế,2023,16631179.0,2025-04-12
+GIC,Lợi nhuận sau thuế,2024,16238925.0,2025-04-12
+GIC,Lợi nhuận sau thuế của công ty mẹ,2021,24474605.0,2025-04-12
+GIC,Lợi nhuận sau thuế của công ty mẹ,2022,16648391.0,2025-04-12
+GIC,Lợi nhuận sau thuế của công ty mẹ,2023,16631179.0,2025-04-12
+GIC,Lợi nhuận sau thuế của công ty mẹ,2024,16238925.0,2025-04-12
+GIC,Tổng tài sản lưu động ngắn hạn,2021,37939674.0,2025-04-12
+GIC,Tổng tài sản lưu động ngắn hạn,2022,77129463.0,2025-04-12
+GIC,Tổng tài sản lưu động ngắn hạn,2023,59473566.0,2025-04-12
+GIC,Tổng tài sản lưu động ngắn hạn,2024,54068821.0,2025-04-12
+GIC,Tổng tài sản,2021,250767173.0,2025-04-12
+GIC,Tổng tài sản,2022,255476562.0,2025-04-12
+GIC,Tổng tài sản,2023,267426930.0,2025-04-12
+GIC,Tổng tài sản,2024,262562041.0,2025-04-12
+GIC,Nợ ngắn hạn,2021,19226404.0,2025-04-12
+GIC,Nợ ngắn hạn,2022,15592401.0,2025-04-12
+GIC,Nợ ngắn hạn,2023,24136829.0,2025-04-12
+GIC,Nợ ngắn hạn,2024,19543015.0,2025-04-12
+GIC,Tổng nợ,2021,19226404.0,2025-04-12
+GIC,Tổng nợ,2022,15592401.0,2025-04-12
+GIC,Tổng nợ,2023,24791591.0,2025-04-12
+GIC,Tổng nợ,2024,20197777.0,2025-04-12
+GIC,Vốn chủ sở hữu,2021,231540769.0,2025-04-12
+GIC,Vốn chủ sở hữu,2022,239884160.0,2025-04-12
+GIC,Vốn chủ sở hữu,2023,242635339.0,2025-04-12
+GIC,Vốn chủ sở hữu,2024,242364264.0,2025-04-12

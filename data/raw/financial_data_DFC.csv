@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+DFC,Doanh thu bán hàng và CCDV,2021,1072081795.0,2025-04-12
+DFC,Doanh thu bán hàng và CCDV,2022,1425132662.0,2025-04-12
+DFC,Doanh thu bán hàng và CCDV,2023,1202614134.0,2025-04-12
+DFC,Doanh thu bán hàng và CCDV,2024,1303167247.0,2025-04-12
+DFC,Giá vốn hàng bán,2021,975364688.0,2025-04-12
+DFC,Giá vốn hàng bán,2022,1265347495.0,2025-04-12
+DFC,Giá vốn hàng bán,2023,1046777516.0,2025-04-12
+DFC,Giá vốn hàng bán,2024,1136472911.0,2025-04-12
+DFC,Lợi nhuận gộp về BH và CCDV,2021,96717107.0,2025-04-12
+DFC,Lợi nhuận gộp về BH và CCDV,2022,157885167.0,2025-04-12
+DFC,Lợi nhuận gộp về BH và CCDV,2023,155370249.0,2025-04-12
+DFC,Lợi nhuận gộp về BH và CCDV,2024,166499229.0,2025-04-12
+DFC,Lợi nhuận tài chính,2021,-11366547.0,2025-04-12
+DFC,Lợi nhuận tài chính,2022,-14648492.0,2025-04-12
+DFC,Lợi nhuận tài chính,2023,-14857094.0,2025-04-12
+DFC,Lợi nhuận tài chính,2024,-7995053.0,2025-04-12
+DFC,Lợi nhuận khác,2021,4463444.0,2025-04-12
+DFC,Lợi nhuận khác,2022,2107048.0,2025-04-12
+DFC,Lợi nhuận khác,2023,5554691.0,2025-04-12
+DFC,Lợi nhuận khác,2024,4436952.0,2025-04-12
+DFC,Tổng lợi nhuận trước thuế,2021,1177938.0,2025-04-12
+DFC,Tổng lợi nhuận trước thuế,2022,34635607.0,2025-04-12
+DFC,Tổng lợi nhuận trước thuế,2023,39217794.0,2025-04-12
+DFC,Tổng lợi nhuận trước thuế,2024,51111851.0,2025-04-12
+DFC,Lợi nhuận sau thuế,2021,456735.0,2025-04-12
+DFC,Lợi nhuận sau thuế,2022,26864010.0,2025-04-12
+DFC,Lợi nhuận sau thuế,2023,31374235.0,2025-04-12
+DFC,Lợi nhuận sau thuế,2024,40042720.0,2025-04-12
+DFC,Lợi nhuận sau thuế của công ty mẹ,2021,456735.0,2025-04-12
+DFC,Lợi nhuận sau thuế của công ty mẹ,2022,26864010.0,2025-04-12
+DFC,Lợi nhuận sau thuế của công ty mẹ,2023,31374235.0,2025-04-12
+DFC,Lợi nhuận sau thuế của công ty mẹ,2024,40042720.0,2025-04-12
+DFC,Tổng tài sản lưu động ngắn hạn,2021,376192964.0,2025-04-12
+DFC,Tổng tài sản lưu động ngắn hạn,2022,450706408.0,2025-04-12
+DFC,Tổng tài sản lưu động ngắn hạn,2023,370116352.0,2025-04-12
+DFC,Tổng tài sản lưu động ngắn hạn,2024,367154537.0,2025-04-12
+DFC,Tổng tài sản,2021,515293427.0,2025-04-12
+DFC,Tổng tài sản,2022,611100973.0,2025-04-12
+DFC,Tổng tài sản,2023,516171426.0,2025-04-12
+DFC,Tổng tài sản,2024,503531216.0,2025-04-12
+DFC,Nợ ngắn hạn,2021,322634560.0,2025-04-12
+DFC,Nợ ngắn hạn,2022,389680435.0,2025-04-12
+DFC,Nợ ngắn hạn,2023,235871563.0,2025-04-12
+DFC,Nợ ngắn hạn,2024,214571011.0,2025-04-12
+DFC,Tổng nợ,2021,365822614.0,2025-04-12
+DFC,Tổng nợ,2022,438258471.0,2025-04-12
+DFC,Tổng nợ,2023,282048140.0,2025-04-12
+DFC,Tổng nợ,2024,255265210.0,2025-04-12
+DFC,Vốn chủ sở hữu,2021,149470813.0,2025-04-12
+DFC,Vốn chủ sở hữu,2022,172842501.0,2025-04-12
+DFC,Vốn chủ sở hữu,2023,234123286.0,2025-04-12
+DFC,Vốn chủ sở hữu,2024,248266006.0,2025-04-12

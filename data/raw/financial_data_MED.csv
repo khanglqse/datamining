@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+MED,Doanh thu bán hàng và CCDV,2020,522972825.0,2025-04-12
+MED,Doanh thu bán hàng và CCDV,2021,344669376.0,2025-04-12
+MED,Doanh thu bán hàng và CCDV,2022,402045623.0,2025-04-12
+MED,Doanh thu bán hàng và CCDV,2023,404292691.0,2025-04-12
+MED,Giá vốn hàng bán,2020,404518757.0,2025-04-12
+MED,Giá vốn hàng bán,2021,276038733.0,2025-04-12
+MED,Giá vốn hàng bán,2022,322634868.0,2025-04-12
+MED,Giá vốn hàng bán,2023,319663181.0,2025-04-12
+MED,Lợi nhuận gộp về BH và CCDV,2020,116871816.0,2025-04-12
+MED,Lợi nhuận gộp về BH và CCDV,2021,67878283.0,2025-04-12
+MED,Lợi nhuận gộp về BH và CCDV,2022,78416286.0,2025-04-12
+MED,Lợi nhuận gộp về BH và CCDV,2023,83077987.0,2025-04-12
+MED,Lợi nhuận tài chính,2020,-1028140.0,2025-04-12
+MED,Lợi nhuận tài chính,2021,-116145.0,2025-04-12
+MED,Lợi nhuận tài chính,2022,-1642162.0,2025-04-12
+MED,Lợi nhuận tài chính,2023,1140675.0,2025-04-12
+MED,Lợi nhuận khác,2020,4791443.0,2025-04-12
+MED,Lợi nhuận khác,2021,-2662002.0,2025-04-12
+MED,Lợi nhuận khác,2022,792708.0,2025-04-12
+MED,Lợi nhuận khác,2023,-398621.0,2025-04-12
+MED,Tổng lợi nhuận trước thuế,2020,30984043.0,2025-04-12
+MED,Tổng lợi nhuận trước thuế,2021,5369492.0,2025-04-12
+MED,Tổng lợi nhuận trước thuế,2022,8236313.0,2025-04-12
+MED,Tổng lợi nhuận trước thuế,2023,14923065.0,2025-04-12
+MED,Lợi nhuận sau thuế,2020,24422000.0,2025-04-12
+MED,Lợi nhuận sau thuế,2021,3619506.0,2025-04-12
+MED,Lợi nhuận sau thuế,2022,6021864.0,2025-04-12
+MED,Lợi nhuận sau thuế,2023,11743892.0,2025-04-12
+MED,Lợi nhuận sau thuế của công ty mẹ,2020,24422000.0,2025-04-12
+MED,Lợi nhuận sau thuế của công ty mẹ,2021,3619506.0,2025-04-12
+MED,Lợi nhuận sau thuế của công ty mẹ,2022,6021864.0,2025-04-12
+MED,Lợi nhuận sau thuế của công ty mẹ,2023,11743892.0,2025-04-12
+MED,Tổng tài sản lưu động ngắn hạn,2020,412350477.0,2025-04-12
+MED,Tổng tài sản lưu động ngắn hạn,2021,344464680.0,2025-04-12
+MED,Tổng tài sản lưu động ngắn hạn,2022,456513775.0,2025-04-12
+MED,Tổng tài sản lưu động ngắn hạn,2023,344479320.0,2025-04-12
+MED,Tổng tài sản,2020,522851729.0,2025-04-12
+MED,Tổng tài sản,2021,500527281.0,2025-04-12
+MED,Tổng tài sản,2022,697886820.0,2025-04-12
+MED,Tổng tài sản,2023,598854027.0,2025-04-12
+MED,Nợ ngắn hạn,2020,341058205.0,2025-04-12
+MED,Nợ ngắn hạn,2021,334874536.0,2025-04-12
+MED,Nợ ngắn hạn,2022,376229120.0,2025-04-12
+MED,Nợ ngắn hạn,2023,271657435.0,2025-04-12
+MED,Tổng nợ,2020,341058205.0,2025-04-12
+MED,Tổng nợ,2021,334874536.0,2025-04-12
+MED,Tổng nợ,2022,376229120.0,2025-04-12
+MED,Tổng nợ,2023,271657435.0,2025-04-12
+MED,Vốn chủ sở hữu,2020,181793524.0,2025-04-12
+MED,Vốn chủ sở hữu,2021,165652745.0,2025-04-12
+MED,Vốn chủ sở hữu,2022,321657700.0,2025-04-12
+MED,Vốn chủ sở hữu,2023,327196593.0,2025-04-12

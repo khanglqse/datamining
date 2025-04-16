@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+BRC,Doanh thu bán hàng và CCDV,2021,348107053.0,2025-04-12
+BRC,Doanh thu bán hàng và CCDV,2022,338061552.0,2025-04-12
+BRC,Doanh thu bán hàng và CCDV,2023,332278418.0,2025-04-12
+BRC,Doanh thu bán hàng và CCDV,2024,419309645.0,2025-04-12
+BRC,Giá vốn hàng bán,2021,268554542.0,2025-04-12
+BRC,Giá vốn hàng bán,2022,262907525.0,2025-04-12
+BRC,Giá vốn hàng bán,2023,260259533.0,2025-04-12
+BRC,Giá vốn hàng bán,2024,336437697.0,2025-04-12
+BRC,Lợi nhuận gộp về BH và CCDV,2021,79522511.0,2025-04-12
+BRC,Lợi nhuận gộp về BH và CCDV,2022,75150367.0,2025-04-12
+BRC,Lợi nhuận gộp về BH và CCDV,2023,71983671.0,2025-04-12
+BRC,Lợi nhuận gộp về BH và CCDV,2024,82616595.0,2025-04-12
+BRC,Lợi nhuận tài chính,2021,-1764864.0,2025-04-12
+BRC,Lợi nhuận tài chính,2022,-1755835.0,2025-04-12
+BRC,Lợi nhuận tài chính,2023,-1403103.0,2025-04-12
+BRC,Lợi nhuận tài chính,2024,402650.0,2025-04-12
+BRC,Lợi nhuận khác,2021,345691.0,2025-04-12
+BRC,Lợi nhuận khác,2022,-290751.0,2025-04-12
+BRC,Lợi nhuận khác,2023,-212792.0,2025-04-12
+BRC,Lợi nhuận khác,2024,120924.0,2025-04-12
+BRC,Tổng lợi nhuận trước thuế,2021,27257345.0,2025-04-12
+BRC,Tổng lợi nhuận trước thuế,2022,23498743.0,2025-04-12
+BRC,Tổng lợi nhuận trước thuế,2023,24188447.0,2025-04-12
+BRC,Tổng lợi nhuận trước thuế,2024,27137674.0,2025-04-12
+BRC,Lợi nhuận sau thuế,2021,21697184.0,2025-04-12
+BRC,Lợi nhuận sau thuế,2022,18621365.0,2025-04-12
+BRC,Lợi nhuận sau thuế,2023,19420087.0,2025-04-12
+BRC,Lợi nhuận sau thuế,2024,21751243.0,2025-04-12
+BRC,Lợi nhuận sau thuế của công ty mẹ,2021,21697184.0,2025-04-12
+BRC,Lợi nhuận sau thuế của công ty mẹ,2022,18621365.0,2025-04-12
+BRC,Lợi nhuận sau thuế của công ty mẹ,2023,19420087.0,2025-04-12
+BRC,Lợi nhuận sau thuế của công ty mẹ,2024,21751243.0,2025-04-12
+BRC,Tổng tài sản lưu động ngắn hạn,2021,201178200.0,2025-04-12
+BRC,Tổng tài sản lưu động ngắn hạn,2022,208382746.0,2025-04-12
+BRC,Tổng tài sản lưu động ngắn hạn,2023,197175028.0,2025-04-12
+BRC,Tổng tài sản lưu động ngắn hạn,2024,224600631.0,2025-04-12
+BRC,Tổng tài sản,2021,311352235.0,2025-04-12
+BRC,Tổng tài sản,2022,309231205.0,2025-04-12
+BRC,Tổng tài sản,2023,290609560.0,2025-04-12
+BRC,Tổng tài sản,2024,309086397.0,2025-04-12
+BRC,Nợ ngắn hạn,2021,99808466.0,2025-04-12
+BRC,Nợ ngắn hạn,2022,98933269.0,2025-04-12
+BRC,Nợ ngắn hạn,2023,80799953.0,2025-04-12
+BRC,Nợ ngắn hạn,2024,96508882.0,2025-04-12
+BRC,Tổng nợ,2021,99808466.0,2025-04-12
+BRC,Tổng nợ,2022,98933269.0,2025-04-12
+BRC,Tổng nợ,2023,80799953.0,2025-04-12
+BRC,Tổng nợ,2024,96508882.0,2025-04-12
+BRC,Vốn chủ sở hữu,2021,211543768.0,2025-04-12
+BRC,Vốn chủ sở hữu,2022,210297935.0,2025-04-12
+BRC,Vốn chủ sở hữu,2023,209809606.0,2025-04-12
+BRC,Vốn chủ sở hữu,2024,212577515.0,2025-04-12

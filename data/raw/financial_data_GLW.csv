@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+GLW,Doanh thu bán hàng và CCDV,2021,53027306.0,2025-04-12
+GLW,Doanh thu bán hàng và CCDV,2022,54615560.0,2025-04-12
+GLW,Doanh thu bán hàng và CCDV,2023,58712857.0,2025-04-12
+GLW,Doanh thu bán hàng và CCDV,2024,71833658.0,2025-04-12
+GLW,Giá vốn hàng bán,2021,42215696.0,2025-04-12
+GLW,Giá vốn hàng bán,2022,44130802.0,2025-04-12
+GLW,Giá vốn hàng bán,2023,45715203.0,2025-04-12
+GLW,Giá vốn hàng bán,2024,47552816.0,2025-04-12
+GLW,Lợi nhuận gộp về BH và CCDV,2021,10811610.0,2025-04-12
+GLW,Lợi nhuận gộp về BH và CCDV,2022,10484759.0,2025-04-12
+GLW,Lợi nhuận gộp về BH và CCDV,2023,12997655.0,2025-04-12
+GLW,Lợi nhuận gộp về BH và CCDV,2024,24280842.0,2025-04-12
+GLW,Lợi nhuận tài chính,2021,1265210.0,2025-04-12
+GLW,Lợi nhuận tài chính,2022,1445324.0,2025-04-12
+GLW,Lợi nhuận tài chính,2023,2162676.0,2025-04-12
+GLW,Lợi nhuận tài chính,2024,1274356.0,2025-04-12
+GLW,Lợi nhuận khác,2021,2800570.0,2025-04-12
+GLW,Lợi nhuận khác,2022,6058174.0,2025-04-12
+GLW,Lợi nhuận khác,2023,1672263.0,2025-04-12
+GLW,Lợi nhuận khác,2024,1426360.0,2025-04-12
+GLW,Tổng lợi nhuận trước thuế,2021,5481863.0,2025-04-12
+GLW,Tổng lợi nhuận trước thuế,2022,8106389.0,2025-04-12
+GLW,Tổng lợi nhuận trước thuế,2023,5576502.0,2025-04-12
+GLW,Tổng lợi nhuận trước thuế,2024,15676061.0,2025-04-12
+GLW,Lợi nhuận sau thuế,2021,4317116.0,2025-04-12
+GLW,Lợi nhuận sau thuế,2022,6430401.0,2025-04-12
+GLW,Lợi nhuận sau thuế,2023,4386356.0,2025-04-12
+GLW,Lợi nhuận sau thuế,2024,12442767.0,2025-04-12
+GLW,Lợi nhuận sau thuế của công ty mẹ,2021,4317116.0,2025-04-12
+GLW,Lợi nhuận sau thuế của công ty mẹ,2022,6430401.0,2025-04-12
+GLW,Lợi nhuận sau thuế của công ty mẹ,2023,4386356.0,2025-04-12
+GLW,Lợi nhuận sau thuế của công ty mẹ,2024,12442767.0,2025-04-12
+GLW,Tổng tài sản lưu động ngắn hạn,2021,29706966.0,2025-04-12
+GLW,Tổng tài sản lưu động ngắn hạn,2022,35043309.0,2025-04-12
+GLW,Tổng tài sản lưu động ngắn hạn,2023,27803877.0,2025-04-12
+GLW,Tổng tài sản lưu động ngắn hạn,2024,44330044.0,2025-04-12
+GLW,Tổng tài sản,2021,197804682.0,2025-04-12
+GLW,Tổng tài sản,2022,202522867.0,2025-04-12
+GLW,Tổng tài sản,2023,194850524.0,2025-04-12
+GLW,Tổng tài sản,2024,207080966.0,2025-04-12
+GLW,Nợ ngắn hạn,2021,6170324.0,2025-04-12
+GLW,Nợ ngắn hạn,2022,5840857.0,2025-04-12
+GLW,Nợ ngắn hạn,2023,3653291.0,2025-04-12
+GLW,Nợ ngắn hạn,2024,9060284.0,2025-04-12
+GLW,Tổng nợ,2021,7819172.0,2025-04-12
+GLW,Tổng nợ,2022,6390471.0,2025-04-12
+GLW,Tổng nợ,2023,3653291.0,2025-04-12
+GLW,Tổng nợ,2024,9060284.0,2025-04-12
+GLW,Vốn chủ sở hữu,2021,189985510.0,2025-04-12
+GLW,Vốn chủ sở hữu,2022,196132397.0,2025-04-12
+GLW,Vốn chủ sở hữu,2023,191197233.0,2025-04-12
+GLW,Vốn chủ sở hữu,2024,198020682.0,2025-04-12

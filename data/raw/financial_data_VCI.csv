@@ -1,0 +1,45 @@
+symbol,metric,year,value,crawled_date
+VCI,Doanh thu bán hàng và CCDV,2020,1729591590.0,2025-04-12
+VCI,Doanh thu bán hàng và CCDV,2021,3707068720.0,2025-04-12
+VCI,Doanh thu bán hàng và CCDV,2022,3156242740.0,2025-04-12
+VCI,Doanh thu bán hàng và CCDV,2023,2472460543.0,2025-04-12
+VCI,Lợi nhuận tài chính,2020,-184764200.0,2025-04-12
+VCI,Lợi nhuận tài chính,2021,-342223490.0,2025-04-12
+VCI,Lợi nhuận tài chính,2022,-664901650.0,2025-04-12
+VCI,Lợi nhuận tài chính,2023,-716465014.0,2025-04-12
+VCI,Tổng lợi nhuận KT trước thuế,2020,951038960.0,2025-04-12
+VCI,Tổng lợi nhuận KT trước thuế,2021,1850585390.0,2025-04-12
+VCI,Tổng lợi nhuận KT trước thuế,2022,1059738710.0,2025-04-12
+VCI,Tổng lợi nhuận KT trước thuế,2023,570138640.0,2025-04-12
+VCI,Lợi nhuận KT sau thuế TNDN,2020,768912290.0,2025-04-12
+VCI,Lợi nhuận KT sau thuế TNDN,2021,1498718380.0,2025-04-12
+VCI,Lợi nhuận KT sau thuế TNDN,2022,868978190.0,2025-04-12
+VCI,Lợi nhuận KT sau thuế TNDN,2023,491904659.0,2025-04-12
+VCI,Lợi nhuận sau thuế của công ty mẹ,2020,768912290.0,2025-04-12
+VCI,Lợi nhuận sau thuế của công ty mẹ,2021,1498718380.0,2025-04-12
+VCI,Lợi nhuận sau thuế của công ty mẹ,2022,868978190.0,2025-04-12
+VCI,Lợi nhuận sau thuế của công ty mẹ,2023,491904659.0,2025-04-12
+VCI,Lợi nhuận khác,2020,621080.0,2025-04-12
+VCI,Lợi nhuận khác,2021,-267790.0,2025-04-12
+VCI,Lợi nhuận khác,2022,43696280.0,2025-04-12
+VCI,Lợi nhuận khác,2023,128411.0,2025-04-12
+VCI,Tổng tài sản lưu động ngắn hạn,2020,8312170800.0,2025-04-12
+VCI,Tổng tài sản lưu động ngắn hạn,2021,16568965940.0,2025-04-12
+VCI,Tổng tài sản lưu động ngắn hạn,2022,14157693070.0,2025-04-12
+VCI,Tổng tài sản lưu động ngắn hạn,2023,17174448617.0,2025-04-12
+VCI,Tổng tài sản,2020,8382405130.0,2025-04-12
+VCI,Tổng tài sản,2021,16636264950.0,2025-04-12
+VCI,Tổng tài sản,2022,14242751320.0,2025-04-12
+VCI,Tổng tài sản,2023,17255134657.0,2025-04-12
+VCI,Nợ ngắn hạn,2020,3733857120.0,2025-04-12
+VCI,Nợ ngắn hạn,2021,9615482120.0,2025-04-12
+VCI,Nợ ngắn hạn,2022,7487464950.0,2025-04-12
+VCI,Nợ ngắn hạn,2023,9465772066.0,2025-04-12
+VCI,Tổng nợ,2020,3860918610.0,2025-04-12
+VCI,Tổng nợ,2021,10094401700.0,2025-04-12
+VCI,Tổng nợ,2022,7747283150.0,2025-04-12
+VCI,Tổng nợ,2023,9883905148.0,2025-04-12
+VCI,Vốn chủ sở hữu,2020,4521486520.0,2025-04-12
+VCI,Vốn chủ sở hữu,2021,6541863250.0,2025-04-12
+VCI,Vốn chủ sở hữu,2022,6495468170.0,2025-04-12
+VCI,Vốn chủ sở hữu,2023,7371229508.0,2025-04-12

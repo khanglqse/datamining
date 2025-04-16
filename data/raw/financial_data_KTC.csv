@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+KTC,Doanh thu bán hàng và CCDV,2020,5718108270.0,2025-04-12
+KTC,Doanh thu bán hàng và CCDV,2022,6856112624.0,2025-04-12
+KTC,Doanh thu bán hàng và CCDV,2023,6096281949.0,2025-04-12
+KTC,Doanh thu bán hàng và CCDV,2024,5509882600.0,2025-04-12
+KTC,Giá vốn hàng bán,2020,5473497708.0,2025-04-12
+KTC,Giá vốn hàng bán,2022,6590214566.0,2025-04-12
+KTC,Giá vốn hàng bán,2023,5853086701.0,2025-04-12
+KTC,Giá vốn hàng bán,2024,5289896959.0,2025-04-12
+KTC,Lợi nhuận gộp về BH và CCDV,2020,244456651.0,2025-04-12
+KTC,Lợi nhuận gộp về BH và CCDV,2022,262865624.0,2025-04-12
+KTC,Lợi nhuận gộp về BH và CCDV,2023,230325574.0,2025-04-12
+KTC,Lợi nhuận gộp về BH và CCDV,2024,208735812.0,2025-04-12
+KTC,Lợi nhuận tài chính,2020,-15745332.0,2025-04-12
+KTC,Lợi nhuận tài chính,2022,-29077955.0,2025-04-12
+KTC,Lợi nhuận tài chính,2023,-22196417.0,2025-04-12
+KTC,Lợi nhuận tài chính,2024,-17234465.0,2025-04-12
+KTC,Lợi nhuận khác,2020,2536308.0,2025-04-12
+KTC,Lợi nhuận khác,2022,6414456.0,2025-04-12
+KTC,Lợi nhuận khác,2023,5729891.0,2025-04-12
+KTC,Lợi nhuận khác,2024,7600193.0,2025-04-12
+KTC,Tổng lợi nhuận trước thuế,2020,40342008.0,2025-04-12
+KTC,Tổng lợi nhuận trước thuế,2022,19768126.0,2025-04-12
+KTC,Tổng lợi nhuận trước thuế,2023,29581514.0,2025-04-12
+KTC,Tổng lợi nhuận trước thuế,2024,29525528.0,2025-04-12
+KTC,Lợi nhuận sau thuế,2020,39457680.0,2025-04-12
+KTC,Lợi nhuận sau thuế,2022,17443677.0,2025-04-12
+KTC,Lợi nhuận sau thuế,2023,25488524.0,2025-04-12
+KTC,Lợi nhuận sau thuế,2024,25564416.0,2025-04-12
+KTC,Lợi nhuận sau thuế của công ty mẹ,2020,39506610.0,2025-04-12
+KTC,Lợi nhuận sau thuế của công ty mẹ,2022,17435006.0,2025-04-12
+KTC,Lợi nhuận sau thuế của công ty mẹ,2023,25468434.0,2025-04-12
+KTC,Lợi nhuận sau thuế của công ty mẹ,2024,25550000.0,2025-04-12
+KTC,Tổng tài sản lưu động ngắn hạn,2020,724797877.0,2025-04-12
+KTC,Tổng tài sản lưu động ngắn hạn,2022,880867768.0,2025-04-12
+KTC,Tổng tài sản lưu động ngắn hạn,2023,846169410.0,2025-04-12
+KTC,Tổng tài sản lưu động ngắn hạn,2024,913370992.0,2025-04-12
+KTC,Tổng tài sản,2020,1231848528.0,2025-04-12
+KTC,Tổng tài sản,2022,1358585066.0,2025-04-12
+KTC,Tổng tài sản,2023,1297567395.0,2025-04-12
+KTC,Tổng tài sản,2024,1321140413.0,2025-04-12
+KTC,Nợ ngắn hạn,2020,808562878.0,2025-04-12
+KTC,Nợ ngắn hạn,2022,952954636.0,2025-04-12
+KTC,Nợ ngắn hạn,2023,891668771.0,2025-04-12
+KTC,Nợ ngắn hạn,2024,910731328.0,2025-04-12
+KTC,Tổng nợ,2020,816562878.0,2025-04-12
+KTC,Tổng nợ,2022,952954636.0,2025-04-12
+KTC,Tổng nợ,2023,891668771.0,2025-04-12
+KTC,Tổng nợ,2024,910731328.0,2025-04-12
+KTC,Vốn chủ sở hữu,2020,415285650.0,2025-04-12
+KTC,Vốn chủ sở hữu,2022,405630430.0,2025-04-12
+KTC,Vốn chủ sở hữu,2023,405898624.0,2025-04-12
+KTC,Vốn chủ sở hữu,2024,410409085.0,2025-04-12

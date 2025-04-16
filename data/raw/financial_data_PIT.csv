@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+PIT,Doanh thu bán hàng và CCDV,2020,555815341.0,2025-04-12
+PIT,Doanh thu bán hàng và CCDV,2021,874063223.0,2025-04-12
+PIT,Doanh thu bán hàng và CCDV,2022,792306509.0,2025-04-12
+PIT,Doanh thu bán hàng và CCDV,2023,709130405.0,2025-04-12
+PIT,Giá vốn hàng bán,2020,475192424.0,2025-04-12
+PIT,Giá vốn hàng bán,2021,777923543.0,2025-04-12
+PIT,Giá vốn hàng bán,2022,699658742.0,2025-04-12
+PIT,Giá vốn hàng bán,2023,637613508.0,2025-04-12
+PIT,Lợi nhuận gộp về BH và CCDV,2020,75908729.0,2025-04-12
+PIT,Lợi nhuận gộp về BH và CCDV,2021,95322310.0,2025-04-12
+PIT,Lợi nhuận gộp về BH và CCDV,2022,92092133.0,2025-04-12
+PIT,Lợi nhuận gộp về BH và CCDV,2023,71040041.0,2025-04-12
+PIT,Lợi nhuận tài chính,2020,-12463007.0,2025-04-12
+PIT,Lợi nhuận tài chính,2021,-14956238.0,2025-04-12
+PIT,Lợi nhuận tài chính,2022,-10034717.0,2025-04-12
+PIT,Lợi nhuận tài chính,2023,-10391226.0,2025-04-12
+PIT,Lợi nhuận khác,2020,-207549.0,2025-04-12
+PIT,Lợi nhuận khác,2021,-548296.0,2025-04-12
+PIT,Lợi nhuận khác,2022,-585092.0,2025-04-12
+PIT,Lợi nhuận khác,2023,111492.0,2025-04-12
+PIT,Tổng lợi nhuận trước thuế,2020,1854718.0,2025-04-12
+PIT,Tổng lợi nhuận trước thuế,2021,-5593276.0,2025-04-12
+PIT,Tổng lợi nhuận trước thuế,2022,3819466.0,2025-04-12
+PIT,Tổng lợi nhuận trước thuế,2023,-8929441.0,2025-04-12
+PIT,Lợi nhuận sau thuế,2020,1851284.0,2025-04-12
+PIT,Lợi nhuận sau thuế,2021,-5673008.0,2025-04-12
+PIT,Lợi nhuận sau thuế,2022,3167718.0,2025-04-12
+PIT,Lợi nhuận sau thuế,2023,-8951107.0,2025-04-12
+PIT,Lợi nhuận sau thuế của công ty mẹ,2020,1851284.0,2025-04-12
+PIT,Lợi nhuận sau thuế của công ty mẹ,2021,-5673008.0,2025-04-12
+PIT,Lợi nhuận sau thuế của công ty mẹ,2022,3167718.0,2025-04-12
+PIT,Lợi nhuận sau thuế của công ty mẹ,2023,-8951107.0,2025-04-12
+PIT,Tổng tài sản lưu động ngắn hạn,2020,231874385.0,2025-04-12
+PIT,Tổng tài sản lưu động ngắn hạn,2021,243036853.0,2025-04-12
+PIT,Tổng tài sản lưu động ngắn hạn,2022,195124947.0,2025-04-12
+PIT,Tổng tài sản lưu động ngắn hạn,2023,217163310.0,2025-04-12
+PIT,Tổng tài sản,2020,333124109.0,2025-04-12
+PIT,Tổng tài sản,2021,329595166.0,2025-04-12
+PIT,Tổng tài sản,2022,272449746.0,2025-04-12
+PIT,Tổng tài sản,2023,285929063.0,2025-04-12
+PIT,Nợ ngắn hạn,2020,209764344.0,2025-04-12
+PIT,Nợ ngắn hạn,2021,211482301.0,2025-04-12
+PIT,Nợ ngắn hạn,2022,151492066.0,2025-04-12
+PIT,Nợ ngắn hạn,2023,173922491.0,2025-04-12
+PIT,Tổng nợ,2020,212500552.0,2025-04-12
+PIT,Tổng nợ,2021,214431411.0,2025-04-12
+PIT,Tổng nợ,2022,154118273.0,2025-04-12
+PIT,Tổng nợ,2023,176548698.0,2025-04-12
+PIT,Vốn chủ sở hữu,2020,120623557.0,2025-04-12
+PIT,Vốn chủ sở hữu,2021,115163755.0,2025-04-12
+PIT,Vốn chủ sở hữu,2022,118331472.0,2025-04-12
+PIT,Vốn chủ sở hữu,2023,109380365.0,2025-04-12

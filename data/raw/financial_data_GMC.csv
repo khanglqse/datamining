@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+GMC,Doanh thu bán hàng và CCDV,2021,1064772326.0,2025-04-12
+GMC,Doanh thu bán hàng và CCDV,2022,292176219.0,2025-04-12
+GMC,Doanh thu bán hàng và CCDV,2023,8296583.0,2025-04-12
+GMC,Doanh thu bán hàng và CCDV,2024,2127944.0,2025-04-12
+GMC,Giá vốn hàng bán,2021,897680446.0,2025-04-12
+GMC,Giá vốn hàng bán,2022,295515152.0,2025-04-12
+GMC,Giá vốn hàng bán,2023,12299993.0,2025-04-12
+GMC,Giá vốn hàng bán,2024,192127.0,2025-04-12
+GMC,Lợi nhuận gộp về BH và CCDV,2021,167091880.0,2025-04-12
+GMC,Lợi nhuận gộp về BH và CCDV,2022,-3338933.0,2025-04-12
+GMC,Lợi nhuận gộp về BH và CCDV,2023,-4003410.0,2025-04-12
+GMC,Lợi nhuận gộp về BH và CCDV,2024,1935817.0,2025-04-12
+GMC,Lợi nhuận tài chính,2021,-4372790.0,2025-04-12
+GMC,Lợi nhuận tài chính,2022,17989986.0,2025-04-12
+GMC,Lợi nhuận tài chính,2023,6304274.0,2025-04-12
+GMC,Lợi nhuận tài chính,2024,4343745.0,2025-04-12
+GMC,Lợi nhuận khác,2021,4364933.0,2025-04-12
+GMC,Lợi nhuận khác,2022,8709433.0,2025-04-12
+GMC,Lợi nhuận khác,2023,1307234.0,2025-04-12
+GMC,Lợi nhuận khác,2024,5568623.0,2025-04-12
+GMC,Tổng lợi nhuận trước thuế,2021,55155146.0,2025-04-12
+GMC,Tổng lợi nhuận trước thuế,2022,-85479683.0,2025-04-12
+GMC,Tổng lợi nhuận trước thuế,2023,-44553550.0,2025-04-12
+GMC,Tổng lợi nhuận trước thuế,2024,-40228638.0,2025-04-12
+GMC,Lợi nhuận sau thuế,2021,43591418.0,2025-04-12
+GMC,Lợi nhuận sau thuế,2022,-84701878.0,2025-04-12
+GMC,Lợi nhuận sau thuế,2023,-51944754.0,2025-04-12
+GMC,Lợi nhuận sau thuế,2024,-29881480.0,2025-04-12
+GMC,Lợi nhuận sau thuế của công ty mẹ,2021,43591418.0,2025-04-12
+GMC,Lợi nhuận sau thuế của công ty mẹ,2022,-84701878.0,2025-04-12
+GMC,Lợi nhuận sau thuế của công ty mẹ,2023,-51944754.0,2025-04-12
+GMC,Lợi nhuận sau thuế của công ty mẹ,2024,-29881480.0,2025-04-12
+GMC,Tổng tài sản lưu động ngắn hạn,2021,618952688.0,2025-04-12
+GMC,Tổng tài sản lưu động ngắn hạn,2022,328335193.0,2025-04-12
+GMC,Tổng tài sản lưu động ngắn hạn,2023,204687573.0,2025-04-12
+GMC,Tổng tài sản lưu động ngắn hạn,2024,187315471.0,2025-04-12
+GMC,Tổng tài sản,2021,827382115.0,2025-04-12
+GMC,Tổng tài sản,2022,535392208.0,2025-04-12
+GMC,Tổng tài sản,2023,419077780.0,2025-04-12
+GMC,Tổng tài sản,2024,375947252.0,2025-04-12
+GMC,Nợ ngắn hạn,2021,107623645.0,2025-04-12
+GMC,Nợ ngắn hạn,2022,73140672.0,2025-04-12
+GMC,Nợ ngắn hạn,2023,10606323.0,2025-04-12
+GMC,Nợ ngắn hạn,2024,4440536.0,2025-04-12
+GMC,Tổng nợ,2021,124745489.0,2025-04-12
+GMC,Tổng nợ,2022,87346314.0,2025-04-12
+GMC,Tổng nợ,2023,26699717.0,2025-04-12
+GMC,Tổng nợ,2024,10102345.0,2025-04-12
+GMC,Vốn chủ sở hữu,2021,702636626.0,2025-04-12
+GMC,Vốn chủ sở hữu,2022,448045895.0,2025-04-12
+GMC,Vốn chủ sở hữu,2023,392378063.0,2025-04-12
+GMC,Vốn chủ sở hữu,2024,365844906.0,2025-04-12

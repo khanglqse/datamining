@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+RCL,Doanh thu bán hàng và CCDV,2020,144812554.0,2025-04-12
+RCL,Doanh thu bán hàng và CCDV,2021,122017027.0,2025-04-12
+RCL,Doanh thu bán hàng và CCDV,2022,81396422.0,2025-04-12
+RCL,Doanh thu bán hàng và CCDV,2023,13590357.0,2025-04-12
+RCL,Giá vốn hàng bán,2020,114452227.0,2025-04-12
+RCL,Giá vốn hàng bán,2021,92387605.0,2025-04-12
+RCL,Giá vốn hàng bán,2022,57059307.0,2025-04-12
+RCL,Giá vốn hàng bán,2023,7243322.0,2025-04-12
+RCL,Lợi nhuận gộp về BH và CCDV,2020,30360327.0,2025-04-12
+RCL,Lợi nhuận gộp về BH và CCDV,2021,29629422.0,2025-04-12
+RCL,Lợi nhuận gộp về BH và CCDV,2022,24337116.0,2025-04-12
+RCL,Lợi nhuận gộp về BH và CCDV,2023,6347035.0,2025-04-12
+RCL,Lợi nhuận tài chính,2020,6709650.0,2025-04-12
+RCL,Lợi nhuận tài chính,2021,1165291.0,2025-04-12
+RCL,Lợi nhuận tài chính,2022,-149046.0,2025-04-12
+RCL,Lợi nhuận tài chính,2023,1725267.0,2025-04-12
+RCL,Lợi nhuận khác,2020,30864.0,2025-04-12
+RCL,Lợi nhuận khác,2021,5002296.0,2025-04-12
+RCL,Lợi nhuận khác,2022,-60293.0,2025-04-12
+RCL,Lợi nhuận khác,2023,-947.0,2025-04-12
+RCL,Tổng lợi nhuận trước thuế,2020,16275589.0,2025-04-12
+RCL,Tổng lợi nhuận trước thuế,2021,19765525.0,2025-04-12
+RCL,Tổng lợi nhuận trước thuế,2022,9876537.0,2025-04-12
+RCL,Tổng lợi nhuận trước thuế,2023,1365006.0,2025-04-12
+RCL,Lợi nhuận sau thuế,2020,15016819.0,2025-04-12
+RCL,Lợi nhuận sau thuế,2021,16972851.0,2025-04-12
+RCL,Lợi nhuận sau thuế,2022,7913320.0,2025-04-12
+RCL,Lợi nhuận sau thuế,2023,1160720.0,2025-04-12
+RCL,Lợi nhuận sau thuế của công ty mẹ,2020,15016819.0,2025-04-12
+RCL,Lợi nhuận sau thuế của công ty mẹ,2021,16972851.0,2025-04-12
+RCL,Lợi nhuận sau thuế của công ty mẹ,2022,7913320.0,2025-04-12
+RCL,Lợi nhuận sau thuế của công ty mẹ,2023,1160720.0,2025-04-12
+RCL,Tổng tài sản lưu động ngắn hạn,2020,491972368.0,2025-04-12
+RCL,Tổng tài sản lưu động ngắn hạn,2021,363830677.0,2025-04-12
+RCL,Tổng tài sản lưu động ngắn hạn,2022,310879193.0,2025-04-12
+RCL,Tổng tài sản lưu động ngắn hạn,2023,304777551.0,2025-04-12
+RCL,Tổng tài sản,2020,667401564.0,2025-04-12
+RCL,Tổng tài sản,2021,533256375.0,2025-04-12
+RCL,Tổng tài sản,2022,476838983.0,2025-04-12
+RCL,Tổng tài sản,2023,471017105.0,2025-04-12
+RCL,Nợ ngắn hạn,2020,383043466.0,2025-04-12
+RCL,Nợ ngắn hạn,2021,245559784.0,2025-04-12
+RCL,Nợ ngắn hạn,2022,184793370.0,2025-04-12
+RCL,Nợ ngắn hạn,2023,183630183.0,2025-04-12
+RCL,Tổng nợ,2020,383043466.0,2025-04-12
+RCL,Tổng nợ,2021,245559784.0,2025-04-12
+RCL,Tổng nợ,2022,184793370.0,2025-04-12
+RCL,Tổng nợ,2023,183630183.0,2025-04-12
+RCL,Vốn chủ sở hữu,2020,284358098.0,2025-04-12
+RCL,Vốn chủ sở hữu,2021,287696591.0,2025-04-12
+RCL,Vốn chủ sở hữu,2022,292045613.0,2025-04-12
+RCL,Vốn chủ sở hữu,2023,287386922.0,2025-04-12

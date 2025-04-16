@@ -1,0 +1,50 @@
+symbol,metric,year,value,crawled_date
+LUT,Doanh thu bán hàng và CCDV,2020,253339302.0,2025-04-12
+LUT,Doanh thu bán hàng và CCDV,2021,79166243.0,2025-04-12
+LUT,Doanh thu bán hàng và CCDV,2022,53699930.0,2025-04-12
+LUT,Giá vốn hàng bán,2020,228743278.0,2025-04-12
+LUT,Giá vốn hàng bán,2021,73653887.0,2025-04-12
+LUT,Giá vốn hàng bán,2022,73103053.0,2025-04-12
+LUT,Lợi nhuận gộp về BH và CCDV,2020,24596024.0,2025-04-12
+LUT,Lợi nhuận gộp về BH và CCDV,2021,5512355.0,2025-04-12
+LUT,Lợi nhuận gộp về BH và CCDV,2022,-19403123.0,2025-04-12
+LUT,Lợi nhuận tài chính,2020,-19024762.0,2025-04-12
+LUT,Lợi nhuận tài chính,2021,-1506830.0,2025-04-12
+LUT,Lợi nhuận tài chính,2022,-2237979.0,2025-04-12
+LUT,Lợi nhuận tài chính,2023,81.0,2025-04-12
+LUT,Lợi nhuận khác,2020,84627.0,2025-04-12
+LUT,Lợi nhuận khác,2021,-621500.0,2025-04-12
+LUT,Lợi nhuận khác,2022,-6621761.0,2025-04-12
+LUT,Lợi nhuận khác,2023,-542.0,2025-04-12
+LUT,Tổng lợi nhuận trước thuế,2020,65646.0,2025-04-12
+LUT,Tổng lợi nhuận trước thuế,2021,485830.0,2025-04-12
+LUT,Tổng lợi nhuận trước thuế,2022,-74616238.0,2025-04-12
+LUT,Tổng lợi nhuận trước thuế,2023,-2401412.0,2025-04-12
+LUT,Lợi nhuận sau thuế,2020,48122.0,2025-04-12
+LUT,Lợi nhuận sau thuế,2021,236587.0,2025-04-12
+LUT,Lợi nhuận sau thuế,2022,-74820665.0,2025-04-12
+LUT,Lợi nhuận sau thuế,2023,-2401412.0,2025-04-12
+LUT,Lợi nhuận sau thuế của công ty mẹ,2020,48122.0,2025-04-12
+LUT,Lợi nhuận sau thuế của công ty mẹ,2021,236587.0,2025-04-12
+LUT,Lợi nhuận sau thuế của công ty mẹ,2022,-74820665.0,2025-04-12
+LUT,Lợi nhuận sau thuế của công ty mẹ,2023,-2401412.0,2025-04-12
+LUT,Tổng tài sản lưu động ngắn hạn,2020,511288879.0,2025-04-12
+LUT,Tổng tài sản lưu động ngắn hạn,2021,412994147.0,2025-04-12
+LUT,Tổng tài sản lưu động ngắn hạn,2022,415663449.0,2025-04-12
+LUT,Tổng tài sản lưu động ngắn hạn,2023,420129052.0,2025-04-12
+LUT,Tổng tài sản,2020,562996522.0,2025-04-12
+LUT,Tổng tài sản,2021,489473578.0,2025-04-12
+LUT,Tổng tài sản,2022,479629777.0,2025-04-12
+LUT,Tổng tài sản,2023,478898420.0,2025-04-12
+LUT,Nợ ngắn hạn,2020,379422527.0,2025-04-12
+LUT,Nợ ngắn hạn,2021,305909995.0,2025-04-12
+LUT,Nợ ngắn hạn,2022,370886859.0,2025-04-12
+LUT,Nợ ngắn hạn,2023,372569405.0,2025-04-12
+LUT,Tổng nợ,2020,379669527.0,2025-04-12
+LUT,Tổng nợ,2021,305909995.0,2025-04-12
+LUT,Tổng nợ,2022,370886859.0,2025-04-12
+LUT,Tổng nợ,2023,372569405.0,2025-04-12
+LUT,Vốn chủ sở hữu,2020,183326996.0,2025-04-12
+LUT,Vốn chủ sở hữu,2021,183563583.0,2025-04-12
+LUT,Vốn chủ sở hữu,2022,108742918.0,2025-04-12
+LUT,Vốn chủ sở hữu,2023,106329015.0,2025-04-12

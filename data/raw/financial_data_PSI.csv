@@ -1,0 +1,45 @@
+symbol,metric,year,value,crawled_date
+PSI,Doanh thu bán hàng và CCDV,2021,453403680.0,2025-04-12
+PSI,Doanh thu bán hàng và CCDV,2022,482160660.0,2025-04-12
+PSI,Doanh thu bán hàng và CCDV,2023,299618573.0,2025-04-12
+PSI,Doanh thu bán hàng và CCDV,2024,343536436.0,2025-04-12
+PSI,Lợi nhuận tài chính,2021,-57337800.0,2025-04-12
+PSI,Lợi nhuận tài chính,2022,-86236140.0,2025-04-12
+PSI,Lợi nhuận tài chính,2023,-41685619.0,2025-04-12
+PSI,Lợi nhuận tài chính,2024,-91627381.0,2025-04-12
+PSI,Tổng lợi nhuận KT trước thuế,2021,43565670.0,2025-04-12
+PSI,Tổng lợi nhuận KT trước thuế,2022,26577180.0,2025-04-12
+PSI,Tổng lợi nhuận KT trước thuế,2023,30774224.0,2025-04-12
+PSI,Tổng lợi nhuận KT trước thuế,2024,34245494.0,2025-04-12
+PSI,Lợi nhuận KT sau thuế TNDN,2021,35152850.0,2025-04-12
+PSI,Lợi nhuận KT sau thuế TNDN,2022,26577180.0,2025-04-12
+PSI,Lợi nhuận KT sau thuế TNDN,2023,24456336.0,2025-04-12
+PSI,Lợi nhuận KT sau thuế TNDN,2024,26976996.0,2025-04-12
+PSI,Lợi nhuận sau thuế của công ty mẹ,2021,35152850.0,2025-04-12
+PSI,Lợi nhuận sau thuế của công ty mẹ,2022,26577180.0,2025-04-12
+PSI,Lợi nhuận sau thuế của công ty mẹ,2023,24456336.0,2025-04-12
+PSI,Lợi nhuận sau thuế của công ty mẹ,2024,25904263.0,2025-04-12
+PSI,Lợi nhuận khác,2021,127420.0,2025-04-12
+PSI,Lợi nhuận khác,2022,241610.0,2025-04-12
+PSI,Lợi nhuận khác,2023,188227.0,2025-04-12
+PSI,Lợi nhuận khác,2024,-575223.0,2025-04-12
+PSI,Tổng tài sản lưu động ngắn hạn,2021,2126272220.0,2025-04-12
+PSI,Tổng tài sản lưu động ngắn hạn,2022,1976670870.0,2025-04-12
+PSI,Tổng tài sản lưu động ngắn hạn,2023,2227367042.0,2025-04-12
+PSI,Tổng tài sản lưu động ngắn hạn,2024,2554954970.0,2025-04-12
+PSI,Tổng tài sản,2021,2215989670.0,2025-04-12
+PSI,Tổng tài sản,2022,2015326950.0,2025-04-12
+PSI,Tổng tài sản,2023,2261610184.0,2025-04-12
+PSI,Tổng tài sản,2024,2598633695.0,2025-04-12
+PSI,Nợ ngắn hạn,2021,1564002400.0,2025-04-12
+PSI,Nợ ngắn hạn,2022,1356180170.0,2025-04-12
+PSI,Nợ ngắn hạn,2023,2899630361.0,2025-04-12
+PSI,Nợ ngắn hạn,2024,1820976871.0,2025-04-12
+PSI,Tổng nợ,2021,1564102870.0,2025-04-12
+PSI,Tổng nợ,2022,1356280650.0,2025-04-12
+PSI,Tổng nợ,2023,2899730834.0,2025-04-12
+PSI,Tổng nợ,2024,1890976789.0,2025-04-12
+PSI,Vốn chủ sở hữu,2021,651886790.0,2025-04-12
+PSI,Vốn chủ sở hữu,2022,659046310.0,2025-04-12
+PSI,Vốn chủ sở hữu,2023,682752642.0,2025-04-12
+PSI,Vốn chủ sở hữu,2024,109243905.0,2025-04-12

@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+HNI,Doanh thu bán hàng và CCDV,2021,779295990.0,2025-04-12
+HNI,Doanh thu bán hàng và CCDV,2022,1128871679.0,2025-04-12
+HNI,Doanh thu bán hàng và CCDV,2023,869534864.0,2025-04-12
+HNI,Doanh thu bán hàng và CCDV,2024,1182125637.0,2025-04-12
+HNI,Giá vốn hàng bán,2021,672601272.0,2025-04-12
+HNI,Giá vốn hàng bán,2022,945502277.0,2025-04-12
+HNI,Giá vốn hàng bán,2023,726801258.0,2025-04-12
+HNI,Giá vốn hàng bán,2024,983757880.0,2025-04-12
+HNI,Lợi nhuận gộp về BH và CCDV,2021,106681072.0,2025-04-12
+HNI,Lợi nhuận gộp về BH và CCDV,2022,183369401.0,2025-04-12
+HNI,Lợi nhuận gộp về BH và CCDV,2023,142733607.0,2025-04-12
+HNI,Lợi nhuận gộp về BH và CCDV,2024,198367757.0,2025-04-12
+HNI,Lợi nhuận tài chính,2021,-1461795.0,2025-04-12
+HNI,Lợi nhuận tài chính,2022,7763716.0,2025-04-12
+HNI,Lợi nhuận tài chính,2023,14273897.0,2025-04-12
+HNI,Lợi nhuận tài chính,2024,14404178.0,2025-04-12
+HNI,Lợi nhuận khác,2021,1796692.0,2025-04-12
+HNI,Lợi nhuận khác,2022,-1005734.0,2025-04-12
+HNI,Lợi nhuận khác,2023,1536681.0,2025-04-12
+HNI,Lợi nhuận khác,2024,2709602.0,2025-04-12
+HNI,Tổng lợi nhuận trước thuế,2021,44883218.0,2025-04-12
+HNI,Tổng lợi nhuận trước thuế,2022,115948638.0,2025-04-12
+HNI,Tổng lợi nhuận trước thuế,2023,91576863.0,2025-04-12
+HNI,Tổng lợi nhuận trước thuế,2024,133740193.0,2025-04-12
+HNI,Lợi nhuận sau thuế,2021,35258073.0,2025-04-12
+HNI,Lợi nhuận sau thuế,2022,90411383.0,2025-04-12
+HNI,Lợi nhuận sau thuế,2023,73473859.0,2025-04-12
+HNI,Lợi nhuận sau thuế,2024,105901871.0,2025-04-12
+HNI,Lợi nhuận sau thuế của công ty mẹ,2021,35258073.0,2025-04-12
+HNI,Lợi nhuận sau thuế của công ty mẹ,2022,90411383.0,2025-04-12
+HNI,Lợi nhuận sau thuế của công ty mẹ,2023,73473859.0,2025-04-12
+HNI,Lợi nhuận sau thuế của công ty mẹ,2024,105901871.0,2025-04-12
+HNI,Tổng tài sản lưu động ngắn hạn,2021,396497494.0,2025-04-12
+HNI,Tổng tài sản lưu động ngắn hạn,2022,494964352.0,2025-04-12
+HNI,Tổng tài sản lưu động ngắn hạn,2023,520762095.0,2025-04-12
+HNI,Tổng tài sản lưu động ngắn hạn,2024,620029095.0,2025-04-12
+HNI,Tổng tài sản,2021,538989719.0,2025-04-12
+HNI,Tổng tài sản,2022,641097222.0,2025-04-12
+HNI,Tổng tài sản,2023,649681496.0,2025-04-12
+HNI,Tổng tài sản,2024,758725728.0,2025-04-12
+HNI,Nợ ngắn hạn,2021,199711525.0,2025-04-12
+HNI,Nợ ngắn hạn,2022,243139912.0,2025-04-12
+HNI,Nợ ngắn hạn,2023,229684393.0,2025-04-12
+HNI,Nợ ngắn hạn,2024,276668317.0,2025-04-12
+HNI,Tổng nợ,2021,199711525.0,2025-04-12
+HNI,Tổng nợ,2022,243139912.0,2025-04-12
+HNI,Tổng nợ,2023,229684393.0,2025-04-12
+HNI,Tổng nợ,2024,276668317.0,2025-04-12
+HNI,Vốn chủ sở hữu,2021,339278193.0,2025-04-12
+HNI,Vốn chủ sở hữu,2022,397957310.0,2025-04-12
+HNI,Vốn chủ sở hữu,2023,419997103.0,2025-04-12
+HNI,Vốn chủ sở hữu,2024,482057411.0,2025-04-12

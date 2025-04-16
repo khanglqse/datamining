@@ -1,0 +1,51 @@
+symbol,metric,year,value,crawled_date
+BOT,Doanh thu bán hàng và CCDV,2020,25694359.0,2025-04-12
+BOT,Doanh thu bán hàng và CCDV,2021,114850164.0,2025-04-12
+BOT,Doanh thu bán hàng và CCDV,2022,45876192.0,2025-04-12
+BOT,Doanh thu bán hàng và CCDV,2023,44751230.0,2025-04-12
+BOT,Giá vốn hàng bán,2020,12897166.0,2025-04-12
+BOT,Giá vốn hàng bán,2021,85374653.0,2025-04-12
+BOT,Giá vốn hàng bán,2022,21523619.0,2025-04-12
+BOT,Giá vốn hàng bán,2023,16964921.0,2025-04-12
+BOT,Lợi nhuận gộp về BH và CCDV,2020,12797193.0,2025-04-12
+BOT,Lợi nhuận gộp về BH và CCDV,2021,29475511.0,2025-04-12
+BOT,Lợi nhuận gộp về BH và CCDV,2022,24319372.0,2025-04-12
+BOT,Lợi nhuận gộp về BH và CCDV,2023,27786309.0,2025-04-12
+BOT,Lợi nhuận tài chính,2020,-108136098.0,2025-04-12
+BOT,Lợi nhuận tài chính,2021,-102914387.0,2025-04-12
+BOT,Lợi nhuận tài chính,2022,-106694236.0,2025-04-12
+BOT,Lợi nhuận tài chính,2023,-102818894.0,2025-04-12
+BOT,Lợi nhuận khác,2021,-185553.0,2025-04-12
+BOT,Lợi nhuận khác,2022,-3767.0,2025-04-12
+BOT,Tổng lợi nhuận trước thuế,2020,-96433211.0,2025-04-12
+BOT,Tổng lợi nhuận trước thuế,2021,-81106760.0,2025-04-12
+BOT,Tổng lợi nhuận trước thuế,2022,-79485966.0,2025-04-12
+BOT,Tổng lợi nhuận trước thuế,2023,-83064682.0,2025-04-12
+BOT,Lợi nhuận sau thuế,2020,-96433211.0,2025-04-12
+BOT,Lợi nhuận sau thuế,2021,-81106760.0,2025-04-12
+BOT,Lợi nhuận sau thuế,2022,-79485966.0,2025-04-12
+BOT,Lợi nhuận sau thuế,2023,-83064682.0,2025-04-12
+BOT,Lợi nhuận sau thuế của công ty mẹ,2020,-96433211.0,2025-04-12
+BOT,Lợi nhuận sau thuế của công ty mẹ,2021,-81106760.0,2025-04-12
+BOT,Lợi nhuận sau thuế của công ty mẹ,2022,-79485966.0,2025-04-12
+BOT,Lợi nhuận sau thuế của công ty mẹ,2023,-83064682.0,2025-04-12
+BOT,Tổng tài sản lưu động ngắn hạn,2020,106445706.0,2025-04-12
+BOT,Tổng tài sản lưu động ngắn hạn,2021,172168690.0,2025-04-12
+BOT,Tổng tài sản lưu động ngắn hạn,2022,121458219.0,2025-04-12
+BOT,Tổng tài sản lưu động ngắn hạn,2023,132225236.0,2025-04-12
+BOT,Tổng tài sản,2020,1471568288.0,2025-04-12
+BOT,Tổng tài sản,2021,1522827670.0,2025-04-12
+BOT,Tổng tài sản,2022,1460052724.0,2025-04-12
+BOT,Tổng tài sản,2023,1456293640.0,2025-04-12
+BOT,Nợ ngắn hạn,2020,82227184.0,2025-04-12
+BOT,Nợ ngắn hạn,2021,240793327.0,2025-04-12
+BOT,Nợ ngắn hạn,2022,358755346.0,2025-04-12
+BOT,Nợ ngắn hạn,2023,630209943.0,2025-04-12
+BOT,Tổng nợ,2020,1072251059.0,2025-04-12
+BOT,Tổng nợ,2021,1204617201.0,2025-04-12
+BOT,Tổng nợ,2022,1221328221.0,2025-04-12
+BOT,Tổng nợ,2023,1300633818.0,2025-04-12
+BOT,Vốn chủ sở hữu,2020,399317229.0,2025-04-12
+BOT,Vốn chủ sở hữu,2021,318210469.0,2025-04-12
+BOT,Vốn chủ sở hữu,2022,238724503.0,2025-04-12
+BOT,Vốn chủ sở hữu,2023,155659822.0,2025-04-12

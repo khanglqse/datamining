@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+IDI,Doanh thu bán hàng và CCDV,2021,5722220127.0,2025-04-12
+IDI,Doanh thu bán hàng và CCDV,2022,7936928513.0,2025-04-12
+IDI,Doanh thu bán hàng và CCDV,2023,7224145254.0,2025-04-12
+IDI,Doanh thu bán hàng và CCDV,2024,7142101148.0,2025-04-12
+IDI,Giá vốn hàng bán,2021,5208339029.0,2025-04-12
+IDI,Giá vốn hàng bán,2022,6835567555.0,2025-04-12
+IDI,Giá vốn hàng bán,2023,6696637583.0,2025-04-12
+IDI,Giá vốn hàng bán,2024,6577973021.0,2025-04-12
+IDI,Lợi nhuận gộp về BH và CCDV,2021,510508587.0,2025-04-12
+IDI,Lợi nhuận gộp về BH và CCDV,2022,1094956653.0,2025-04-12
+IDI,Lợi nhuận gộp về BH và CCDV,2023,524601906.0,2025-04-12
+IDI,Lợi nhuận gộp về BH và CCDV,2024,558800373.0,2025-04-12
+IDI,Lợi nhuận tài chính,2021,-141629515.0,2025-04-12
+IDI,Lợi nhuận tài chính,2022,-140283135.0,2025-04-12
+IDI,Lợi nhuận tài chính,2023,-194125450.0,2025-04-12
+IDI,Lợi nhuận tài chính,2024,-181155671.0,2025-04-12
+IDI,Lợi nhuận khác,2021,22334697.0,2025-04-12
+IDI,Lợi nhuận khác,2022,32086585.0,2025-04-12
+IDI,Lợi nhuận khác,2023,-1597852.0,2025-04-12
+IDI,Lợi nhuận khác,2024,1680075.0,2025-04-12
+IDI,Tổng lợi nhuận trước thuế,2021,181109814.0,2025-04-12
+IDI,Tổng lợi nhuận trước thuế,2022,617872927.0,2025-04-12
+IDI,Tổng lợi nhuận trước thuế,2023,107170437.0,2025-04-12
+IDI,Tổng lợi nhuận trước thuế,2024,108167012.0,2025-04-12
+IDI,Lợi nhuận sau thuế,2021,143297848.0,2025-04-12
+IDI,Lợi nhuận sau thuế,2022,563146439.0,2025-04-12
+IDI,Lợi nhuận sau thuế,2023,73354175.0,2025-04-12
+IDI,Lợi nhuận sau thuế,2024,72676468.0,2025-04-12
+IDI,Lợi nhuận sau thuế của công ty mẹ,2021,136630948.0,2025-04-12
+IDI,Lợi nhuận sau thuế của công ty mẹ,2022,547355662.0,2025-04-12
+IDI,Lợi nhuận sau thuế của công ty mẹ,2023,57765947.0,2025-04-12
+IDI,Lợi nhuận sau thuế của công ty mẹ,2024,60461529.0,2025-04-12
+IDI,Tổng tài sản lưu động ngắn hạn,2021,5515277881.0,2025-04-12
+IDI,Tổng tài sản lưu động ngắn hạn,2022,5449762498.0,2025-04-12
+IDI,Tổng tài sản lưu động ngắn hạn,2023,5537285855.0,2025-04-12
+IDI,Tổng tài sản lưu động ngắn hạn,2024,7223258908.0,2025-04-12
+IDI,Tổng tài sản,2021,7553858513.0,2025-04-12
+IDI,Tổng tài sản,2022,8084108338.0,2025-04-12
+IDI,Tổng tài sản,2023,8277448262.0,2025-04-12
+IDI,Tổng tài sản,2024,9377380009.0,2025-04-12
+IDI,Nợ ngắn hạn,2021,4115887462.0,2025-04-12
+IDI,Nợ ngắn hạn,2022,4524450645.0,2025-04-12
+IDI,Nợ ngắn hạn,2023,4530157213.0,2025-04-12
+IDI,Nợ ngắn hạn,2024,4734278436.0,2025-04-12
+IDI,Tổng nợ,2021,4411250204.0,2025-04-12
+IDI,Tổng nợ,2022,4717688381.0,2025-04-12
+IDI,Tổng nợ,2023,4855891649.0,2025-04-12
+IDI,Tổng nợ,2024,5885146928.0,2025-04-12
+IDI,Vốn chủ sở hữu,2021,3142608308.0,2025-04-12
+IDI,Vốn chủ sở hữu,2022,3366419957.0,2025-04-12
+IDI,Vốn chủ sở hữu,2023,3421556613.0,2025-04-12
+IDI,Vốn chủ sở hữu,2024,3492233081.0,2025-04-12

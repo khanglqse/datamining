@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+CDH,Doanh thu bán hàng và CCDV,2021,116221210.0,2025-04-12
+CDH,Doanh thu bán hàng và CCDV,2022,124310559.0,2025-04-12
+CDH,Doanh thu bán hàng và CCDV,2023,123401937.0,2025-04-12
+CDH,Doanh thu bán hàng và CCDV,2024,130654269.0,2025-04-12
+CDH,Giá vốn hàng bán,2021,100823400.0,2025-04-12
+CDH,Giá vốn hàng bán,2022,106524324.0,2025-04-12
+CDH,Giá vốn hàng bán,2023,104720704.0,2025-04-12
+CDH,Giá vốn hàng bán,2024,111326391.0,2025-04-12
+CDH,Lợi nhuận gộp về BH và CCDV,2021,15333747.0,2025-04-12
+CDH,Lợi nhuận gộp về BH và CCDV,2022,17786235.0,2025-04-12
+CDH,Lợi nhuận gộp về BH và CCDV,2023,18681233.0,2025-04-12
+CDH,Lợi nhuận gộp về BH và CCDV,2024,19177974.0,2025-04-12
+CDH,Lợi nhuận tài chính,2021,299695.0,2025-04-12
+CDH,Lợi nhuận tài chính,2022,579293.0,2025-04-12
+CDH,Lợi nhuận tài chính,2023,783504.0,2025-04-12
+CDH,Lợi nhuận tài chính,2024,393775.0,2025-04-12
+CDH,Lợi nhuận khác,2021,43007.0,2025-04-12
+CDH,Lợi nhuận khác,2022,-817131.0,2025-04-12
+CDH,Lợi nhuận khác,2023,245638.0,2025-04-12
+CDH,Lợi nhuận khác,2024,99242.0,2025-04-12
+CDH,Tổng lợi nhuận trước thuế,2021,4489206.0,2025-04-12
+CDH,Tổng lợi nhuận trước thuế,2022,4698320.0,2025-04-12
+CDH,Tổng lợi nhuận trước thuế,2023,5112821.0,2025-04-12
+CDH,Tổng lợi nhuận trước thuế,2024,5146784.0,2025-04-12
+CDH,Lợi nhuận sau thuế,2021,3590169.0,2025-04-12
+CDH,Lợi nhuận sau thuế,2022,3617572.0,2025-04-12
+CDH,Lợi nhuận sau thuế,2023,3926678.0,2025-04-12
+CDH,Lợi nhuận sau thuế,2024,4115415.0,2025-04-12
+CDH,Lợi nhuận sau thuế của công ty mẹ,2021,3590169.0,2025-04-12
+CDH,Lợi nhuận sau thuế của công ty mẹ,2022,3617572.0,2025-04-12
+CDH,Lợi nhuận sau thuế của công ty mẹ,2023,3926678.0,2025-04-12
+CDH,Lợi nhuận sau thuế của công ty mẹ,2024,4115415.0,2025-04-12
+CDH,Tổng tài sản lưu động ngắn hạn,2021,31193145.0,2025-04-12
+CDH,Tổng tài sản lưu động ngắn hạn,2022,42966424.0,2025-04-12
+CDH,Tổng tài sản lưu động ngắn hạn,2023,52467531.0,2025-04-12
+CDH,Tổng tài sản lưu động ngắn hạn,2024,61125676.0,2025-04-12
+CDH,Tổng tài sản,2021,58880933.0,2025-04-12
+CDH,Tổng tài sản,2022,68446987.0,2025-04-12
+CDH,Tổng tài sản,2023,76116926.0,2025-04-12
+CDH,Tổng tài sản,2024,81917697.0,2025-04-12
+CDH,Nợ ngắn hạn,2021,20201794.0,2025-04-12
+CDH,Nợ ngắn hạn,2022,30861944.0,2025-04-12
+CDH,Nợ ngắn hạn,2023,38474945.0,2025-04-12
+CDH,Nợ ngắn hạn,2024,44512127.0,2025-04-12
+CDH,Tổng nợ,2021,20201794.0,2025-04-12
+CDH,Tổng nợ,2022,30861944.0,2025-04-12
+CDH,Tổng nợ,2023,38474945.0,2025-04-12
+CDH,Tổng nợ,2024,44512127.0,2025-04-12
+CDH,Vốn chủ sở hữu,2021,38679139.0,2025-04-12
+CDH,Vốn chủ sở hữu,2022,37585042.0,2025-04-12
+CDH,Vốn chủ sở hữu,2023,37641981.0,2025-04-12
+CDH,Vốn chủ sở hữu,2024,37405570.0,2025-04-12

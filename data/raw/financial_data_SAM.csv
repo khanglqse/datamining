@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+SAM,Doanh thu bán hàng và CCDV,2021,1907465387.0,2025-04-12
+SAM,Doanh thu bán hàng và CCDV,2022,2124387044.0,2025-04-12
+SAM,Doanh thu bán hàng và CCDV,2023,2204487662.0,2025-04-12
+SAM,Doanh thu bán hàng và CCDV,2024,4049207199.0,2025-04-12
+SAM,Giá vốn hàng bán,2021,1807940692.0,2025-04-12
+SAM,Giá vốn hàng bán,2022,1944479372.0,2025-04-12
+SAM,Giá vốn hàng bán,2023,2042904428.0,2025-04-12
+SAM,Giá vốn hàng bán,2024,3834551479.0,2025-04-12
+SAM,Lợi nhuận gộp về BH và CCDV,2021,80755847.0,2025-04-12
+SAM,Lợi nhuận gộp về BH và CCDV,2022,164585214.0,2025-04-12
+SAM,Lợi nhuận gộp về BH và CCDV,2023,157211317.0,2025-04-12
+SAM,Lợi nhuận gộp về BH và CCDV,2024,203679743.0,2025-04-12
+SAM,Lợi nhuận tài chính,2021,280014691.0,2025-04-12
+SAM,Lợi nhuận tài chính,2022,64141841.0,2025-04-12
+SAM,Lợi nhuận tài chính,2023,100496499.0,2025-04-12
+SAM,Lợi nhuận tài chính,2024,48084967.0,2025-04-12
+SAM,Lợi nhuận khác,2021,3786485.0,2025-04-12
+SAM,Lợi nhuận khác,2022,6346670.0,2025-04-12
+SAM,Lợi nhuận khác,2023,359633.0,2025-04-12
+SAM,Lợi nhuận khác,2024,-22356489.0,2025-04-12
+SAM,Tổng lợi nhuận trước thuế,2021,207374508.0,2025-04-12
+SAM,Tổng lợi nhuận trước thuế,2022,40627811.0,2025-04-12
+SAM,Tổng lợi nhuận trước thuế,2023,62884078.0,2025-04-12
+SAM,Tổng lợi nhuận trước thuế,2024,110603745.0,2025-04-12
+SAM,Lợi nhuận sau thuế,2021,159921949.0,2025-04-12
+SAM,Lợi nhuận sau thuế,2022,7147463.0,2025-04-12
+SAM,Lợi nhuận sau thuế,2023,33239920.0,2025-04-12
+SAM,Lợi nhuận sau thuế,2024,95295842.0,2025-04-12
+SAM,Lợi nhuận sau thuế của công ty mẹ,2021,154339657.0,2025-04-12
+SAM,Lợi nhuận sau thuế của công ty mẹ,2022,2763159.0,2025-04-12
+SAM,Lợi nhuận sau thuế của công ty mẹ,2023,18332577.0,2025-04-12
+SAM,Lợi nhuận sau thuế của công ty mẹ,2024,84340302.0,2025-04-12
+SAM,Tổng tài sản lưu động ngắn hạn,2021,3460860299.0,2025-04-12
+SAM,Tổng tài sản lưu động ngắn hạn,2022,2852384185.0,2025-04-12
+SAM,Tổng tài sản lưu động ngắn hạn,2023,2283692109.0,2025-04-12
+SAM,Tổng tài sản lưu động ngắn hạn,2024,2203990476.0,2025-04-12
+SAM,Tổng tài sản,2021,7544296539.0,2025-04-12
+SAM,Tổng tài sản,2022,7237333687.0,2025-04-12
+SAM,Tổng tài sản,2023,6591891799.0,2025-04-12
+SAM,Tổng tài sản,2024,6375567403.0,2025-04-12
+SAM,Nợ ngắn hạn,2021,2167544193.0,2025-04-12
+SAM,Nợ ngắn hạn,2022,2093379367.0,2025-04-12
+SAM,Nợ ngắn hạn,2023,1723049166.0,2025-04-12
+SAM,Nợ ngắn hạn,2024,1320348119.0,2025-04-12
+SAM,Tổng nợ,2021,2947792016.0,2025-04-12
+SAM,Tổng nợ,2022,2633964634.0,2025-04-12
+SAM,Tổng nợ,2023,1985823553.0,2025-04-12
+SAM,Tổng nợ,2024,1694902123.0,2025-04-12
+SAM,Vốn chủ sở hữu,2021,4596504523.0,2025-04-12
+SAM,Vốn chủ sở hữu,2022,4603369053.0,2025-04-12
+SAM,Vốn chủ sở hữu,2023,4606068246.0,2025-04-12
+SAM,Vốn chủ sở hữu,2024,4680665280.0,2025-04-12

@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+SAL,Doanh thu bán hàng và CCDV,2021,122492897.0,2025-04-12
+SAL,Doanh thu bán hàng và CCDV,2022,102926148.0,2025-04-12
+SAL,Doanh thu bán hàng và CCDV,2023,100680578.0,2025-04-12
+SAL,Doanh thu bán hàng và CCDV,2024,112013888.0,2025-04-12
+SAL,Giá vốn hàng bán,2021,97035064.0,2025-04-12
+SAL,Giá vốn hàng bán,2022,86798260.0,2025-04-12
+SAL,Giá vốn hàng bán,2023,78593177.0,2025-04-12
+SAL,Giá vốn hàng bán,2024,91602822.0,2025-04-12
+SAL,Lợi nhuận gộp về BH và CCDV,2021,25457833.0,2025-04-12
+SAL,Lợi nhuận gộp về BH và CCDV,2022,16127888.0,2025-04-12
+SAL,Lợi nhuận gộp về BH và CCDV,2023,22087401.0,2025-04-12
+SAL,Lợi nhuận gộp về BH và CCDV,2024,20411066.0,2025-04-12
+SAL,Lợi nhuận tài chính,2021,3269770.0,2025-04-12
+SAL,Lợi nhuận tài chính,2022,3208860.0,2025-04-12
+SAL,Lợi nhuận tài chính,2023,4053827.0,2025-04-12
+SAL,Lợi nhuận tài chính,2024,2936689.0,2025-04-12
+SAL,Lợi nhuận khác,2021,3286011.0,2025-04-12
+SAL,Lợi nhuận khác,2022,1759669.0,2025-04-12
+SAL,Lợi nhuận khác,2023,877932.0,2025-04-12
+SAL,Lợi nhuận khác,2024,3767846.0,2025-04-12
+SAL,Tổng lợi nhuận trước thuế,2021,7855638.0,2025-04-12
+SAL,Tổng lợi nhuận trước thuế,2022,3565716.0,2025-04-12
+SAL,Tổng lợi nhuận trước thuế,2023,5506199.0,2025-04-12
+SAL,Tổng lợi nhuận trước thuế,2024,5750439.0,2025-04-12
+SAL,Lợi nhuận sau thuế,2021,6259210.0,2025-04-12
+SAL,Lợi nhuận sau thuế,2022,2852573.0,2025-04-12
+SAL,Lợi nhuận sau thuế,2023,4366518.0,2025-04-12
+SAL,Lợi nhuận sau thuế,2024,4572416.0,2025-04-12
+SAL,Lợi nhuận sau thuế của công ty mẹ,2021,6259210.0,2025-04-12
+SAL,Lợi nhuận sau thuế của công ty mẹ,2022,2852573.0,2025-04-12
+SAL,Lợi nhuận sau thuế của công ty mẹ,2023,4366518.0,2025-04-12
+SAL,Lợi nhuận sau thuế của công ty mẹ,2024,4572416.0,2025-04-12
+SAL,Tổng tài sản lưu động ngắn hạn,2021,50029979.0,2025-04-12
+SAL,Tổng tài sản lưu động ngắn hạn,2022,71985857.0,2025-04-12
+SAL,Tổng tài sản lưu động ngắn hạn,2023,96749515.0,2025-04-12
+SAL,Tổng tài sản lưu động ngắn hạn,2024,95010382.0,2025-04-12
+SAL,Tổng tài sản,2021,112272621.0,2025-04-12
+SAL,Tổng tài sản,2022,114081073.0,2025-04-12
+SAL,Tổng tài sản,2023,111813141.0,2025-04-12
+SAL,Tổng tài sản,2024,108486410.0,2025-04-12
+SAL,Nợ ngắn hạn,2021,21890767.0,2025-04-12
+SAL,Nợ ngắn hạn,2022,26888591.0,2025-04-12
+SAL,Nợ ngắn hạn,2023,23071456.0,2025-04-12
+SAL,Nợ ngắn hạn,2024,18144176.0,2025-04-12
+SAL,Tổng nợ,2021,21890767.0,2025-04-12
+SAL,Tổng nợ,2022,26888591.0,2025-04-12
+SAL,Tổng nợ,2023,23071456.0,2025-04-12
+SAL,Tổng nợ,2024,19102176.0,2025-04-12
+SAL,Vốn chủ sở hữu,2021,90381854.0,2025-04-12
+SAL,Vốn chủ sở hữu,2022,87192482.0,2025-04-12
+SAL,Vốn chủ sở hữu,2023,88741684.0,2025-04-12
+SAL,Vốn chủ sở hữu,2024,89384234.0,2025-04-12

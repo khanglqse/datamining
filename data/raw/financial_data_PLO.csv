@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+PLO,Doanh thu bán hàng và CCDV,2020,69259294.0,2025-04-12
+PLO,Doanh thu bán hàng và CCDV,2021,82312293.0,2025-04-12
+PLO,Doanh thu bán hàng và CCDV,2022,93994315.0,2025-04-12
+PLO,Doanh thu bán hàng và CCDV,2023,66178902.0,2025-04-12
+PLO,Giá vốn hàng bán,2020,58180829.0,2025-04-12
+PLO,Giá vốn hàng bán,2021,71001595.0,2025-04-12
+PLO,Giá vốn hàng bán,2022,82242537.0,2025-04-12
+PLO,Giá vốn hàng bán,2023,53671679.0,2025-04-12
+PLO,Lợi nhuận gộp về BH và CCDV,2020,11078465.0,2025-04-12
+PLO,Lợi nhuận gộp về BH và CCDV,2021,11310699.0,2025-04-12
+PLO,Lợi nhuận gộp về BH và CCDV,2022,11751778.0,2025-04-12
+PLO,Lợi nhuận gộp về BH và CCDV,2023,12507223.0,2025-04-12
+PLO,Lợi nhuận tài chính,2020,-3139737.0,2025-04-12
+PLO,Lợi nhuận tài chính,2021,-1289939.0,2025-04-12
+PLO,Lợi nhuận tài chính,2022,-3247078.0,2025-04-12
+PLO,Lợi nhuận tài chính,2023,-3439580.0,2025-04-12
+PLO,Lợi nhuận khác,2020,225609.0,2025-04-12
+PLO,Lợi nhuận khác,2021,-70000.0,2025-04-12
+PLO,Lợi nhuận khác,2022,372651.0,2025-04-12
+PLO,Lợi nhuận khác,2023,17503361.0,2025-04-12
+PLO,Tổng lợi nhuận trước thuế,2020,1418122.0,2025-04-12
+PLO,Tổng lợi nhuận trước thuế,2021,2550114.0,2025-04-12
+PLO,Tổng lợi nhuận trước thuế,2022,2384016.0,2025-04-12
+PLO,Tổng lợi nhuận trước thuế,2023,18955412.0,2025-04-12
+PLO,Lợi nhuận sau thuế,2020,1418122.0,2025-04-12
+PLO,Lợi nhuận sau thuế,2021,2550114.0,2025-04-12
+PLO,Lợi nhuận sau thuế,2022,2384016.0,2025-04-12
+PLO,Lợi nhuận sau thuế,2023,15032227.0,2025-04-12
+PLO,Lợi nhuận sau thuế của công ty mẹ,2020,1418122.0,2025-04-12
+PLO,Lợi nhuận sau thuế của công ty mẹ,2021,2550114.0,2025-04-12
+PLO,Lợi nhuận sau thuế của công ty mẹ,2022,2384016.0,2025-04-12
+PLO,Lợi nhuận sau thuế của công ty mẹ,2023,15032227.0,2025-04-12
+PLO,Tổng tài sản lưu động ngắn hạn,2020,4760397.0,2025-04-12
+PLO,Tổng tài sản lưu động ngắn hạn,2021,4646164.0,2025-04-12
+PLO,Tổng tài sản lưu động ngắn hạn,2022,3225831.0,2025-04-12
+PLO,Tổng tài sản lưu động ngắn hạn,2023,4238051.0,2025-04-12
+PLO,Tổng tài sản,2020,39043429.0,2025-04-12
+PLO,Tổng tài sản,2021,37945770.0,2025-04-12
+PLO,Tổng tài sản,2022,34234880.0,2025-04-12
+PLO,Tổng tài sản,2023,27777358.0,2025-04-12
+PLO,Nợ ngắn hạn,2020,42198955.0,2025-04-12
+PLO,Nợ ngắn hạn,2021,39872666.0,2025-04-12
+PLO,Nợ ngắn hạn,2022,33502725.0,2025-04-12
+PLO,Nợ ngắn hạn,2023,10448111.0,2025-04-12
+PLO,Tổng nợ,2020,48664504.0,2025-04-12
+PLO,Tổng nợ,2021,45016731.0,2025-04-12
+PLO,Tổng nợ,2022,38921825.0,2025-04-12
+PLO,Tổng nợ,2023,17432076.0,2025-04-12
+PLO,Vốn chủ sở hữu,2020,-9621075.0,2025-04-12
+PLO,Vốn chủ sở hữu,2021,-7070961.0,2025-04-12
+PLO,Vốn chủ sở hữu,2022,-4686945.0,2025-04-12
+PLO,Vốn chủ sở hữu,2023,10345282.0,2025-04-12

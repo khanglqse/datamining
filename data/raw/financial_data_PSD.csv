@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+PSD,Doanh thu bán hàng và CCDV,2021,8804424152.0,2025-04-12
+PSD,Doanh thu bán hàng và CCDV,2022,8956495589.0,2025-04-12
+PSD,Doanh thu bán hàng và CCDV,2023,6937893867.0,2025-04-12
+PSD,Doanh thu bán hàng và CCDV,2024,5896934190.0,2025-04-12
+PSD,Giá vốn hàng bán,2021,8125677911.0,2025-04-12
+PSD,Giá vốn hàng bán,2022,8213743407.0,2025-04-12
+PSD,Giá vốn hàng bán,2023,6469859681.0,2025-04-12
+PSD,Giá vốn hàng bán,2024,5379911763.0,2025-04-12
+PSD,Lợi nhuận gộp về BH và CCDV,2021,469717851.0,2025-04-12
+PSD,Lợi nhuận gộp về BH và CCDV,2022,420876892.0,2025-04-12
+PSD,Lợi nhuận gộp về BH và CCDV,2023,294580577.0,2025-04-12
+PSD,Lợi nhuận gộp về BH và CCDV,2024,320924390.0,2025-04-12
+PSD,Lợi nhuận tài chính,2021,13865182.0,2025-04-12
+PSD,Lợi nhuận tài chính,2022,-50956920.0,2025-04-12
+PSD,Lợi nhuận tài chính,2023,-9117106.0,2025-04-12
+PSD,Lợi nhuận tài chính,2024,22816749.0,2025-04-12
+PSD,Lợi nhuận khác,2021,3766226.0,2025-04-12
+PSD,Lợi nhuận khác,2022,-2057084.0,2025-04-12
+PSD,Lợi nhuận khác,2023,4304093.0,2025-04-12
+PSD,Lợi nhuận khác,2024,7033386.0,2025-04-12
+PSD,Tổng lợi nhuận trước thuế,2021,193918073.0,2025-04-12
+PSD,Tổng lợi nhuận trước thuế,2022,138572320.0,2025-04-12
+PSD,Tổng lợi nhuận trước thuế,2023,83202910.0,2025-04-12
+PSD,Tổng lợi nhuận trước thuế,2024,104826707.0,2025-04-12
+PSD,Lợi nhuận sau thuế,2021,138763042.0,2025-04-12
+PSD,Lợi nhuận sau thuế,2022,112880543.0,2025-04-12
+PSD,Lợi nhuận sau thuế,2023,63322112.0,2025-04-12
+PSD,Lợi nhuận sau thuế,2024,82571530.0,2025-04-12
+PSD,Lợi nhuận sau thuế của công ty mẹ,2021,143500587.0,2025-04-12
+PSD,Lợi nhuận sau thuế của công ty mẹ,2022,112526931.0,2025-04-12
+PSD,Lợi nhuận sau thuế của công ty mẹ,2023,62198280.0,2025-04-12
+PSD,Lợi nhuận sau thuế của công ty mẹ,2024,82610486.0,2025-04-12
+PSD,Tổng tài sản lưu động ngắn hạn,2021,2502859204.0,2025-04-12
+PSD,Tổng tài sản lưu động ngắn hạn,2022,3343691677.0,2025-04-12
+PSD,Tổng tài sản lưu động ngắn hạn,2023,3036692486.0,2025-04-12
+PSD,Tổng tài sản lưu động ngắn hạn,2024,2724937039.0,2025-04-12
+PSD,Tổng tài sản,2021,2586613595.0,2025-04-12
+PSD,Tổng tài sản,2022,3430851366.0,2025-04-12
+PSD,Tổng tài sản,2023,3116898662.0,2025-04-12
+PSD,Tổng tài sản,2024,2790463777.0,2025-04-12
+PSD,Nợ ngắn hạn,2021,2155046449.0,2025-04-12
+PSD,Nợ ngắn hạn,2022,2918696411.0,2025-04-12
+PSD,Nợ ngắn hạn,2023,2567083530.0,2025-04-12
+PSD,Nợ ngắn hạn,2024,2211949304.0,2025-04-12
+PSD,Tổng nợ,2021,2156853467.0,2025-04-12
+PSD,Tổng nợ,2022,2919803429.0,2025-04-12
+PSD,Tổng nợ,2023,2569618265.0,2025-04-12
+PSD,Tổng nợ,2024,2214233516.0,2025-04-12
+PSD,Vốn chủ sở hữu,2021,429760128.0,2025-04-12
+PSD,Vốn chủ sở hữu,2022,511047937.0,2025-04-12
+PSD,Vốn chủ sở hữu,2023,547280397.0,2025-04-12
+PSD,Vốn chủ sở hữu,2024,576230260.0,2025-04-12

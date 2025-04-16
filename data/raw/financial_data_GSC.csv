@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+GSC,Doanh thu thuần về BH và cung cấp DV,2016,171201728.0,2025-04-12
+GSC,Doanh thu thuần về BH và cung cấp DV,2017,238641370.0,2025-04-12
+GSC,Doanh thu thuần về BH và cung cấp DV,2018,129107820.0,2025-04-12
+GSC,Doanh thu thuần về BH và cung cấp DV,2019,123627911.0,2025-04-12
+GSC,Giá vốn hàng bán,2016,89686214.0,2025-04-12
+GSC,Giá vốn hàng bán,2017,118021576.0,2025-04-12
+GSC,Giá vốn hàng bán,2018,85379629.0,2025-04-12
+GSC,Giá vốn hàng bán,2019,94656596.0,2025-04-12
+GSC,Lợi nhuận gộp về BH và cung cấp DV,2016,81515514.0,2025-04-12
+GSC,Lợi nhuận gộp về BH và cung cấp DV,2017,120619794.0,2025-04-12
+GSC,Lợi nhuận gộp về BH và cung cấp DV,2018,43728191.0,2025-04-12
+GSC,Lợi nhuận gộp về BH và cung cấp DV,2019,28971315.0,2025-04-12
+GSC,Lợi nhuận tài chính,2016,-50666701.0,2025-04-12
+GSC,Lợi nhuận tài chính,2017,-34411611.0,2025-04-12
+GSC,Lợi nhuận tài chính,2018,-29442740.0,2025-04-12
+GSC,Lợi nhuận tài chính,2019,-14021990.0,2025-04-12
+GSC,Lợi nhuận khác,2016,-5076.0,2025-04-12
+GSC,Lợi nhuận khác,2017,-113172.0,2025-04-12
+GSC,Lợi nhuận khác,2018,33891.0,2025-04-12
+GSC,Lợi nhuận khác,2019,315591.0,2025-04-12
+GSC,Tổng lợi nhuận trước thuế,2016,17538577.0,2025-04-12
+GSC,Tổng lợi nhuận trước thuế,2017,70433929.0,2025-04-12
+GSC,Tổng lợi nhuận trước thuế,2018,2084819.0,2025-04-12
+GSC,Tổng lợi nhuận trước thuế,2019,2290562.0,2025-04-12
+GSC,Lợi nhuận sau thuế,2016,16627753.0,2025-04-12
+GSC,Lợi nhuận sau thuế,2017,66871020.0,2025-04-12
+GSC,Lợi nhuận sau thuế,2018,1952632.0,2025-04-12
+GSC,Lợi nhuận sau thuế,2019,2095251.0,2025-04-12
+GSC,Lợi nhuận sau thuế của công ty mẹ,2016,16627753.0,2025-04-12
+GSC,Lợi nhuận sau thuế của công ty mẹ,2017,66871020.0,2025-04-12
+GSC,Lợi nhuận sau thuế của công ty mẹ,2018,1952632.0,2025-04-12
+GSC,Lợi nhuận sau thuế của công ty mẹ,2019,2095251.0,2025-04-12
+GSC,Tổng tài sản lưu động ngắn hạn,2016,79414712.0,2025-04-12
+GSC,Tổng tài sản lưu động ngắn hạn,2017,111380932.0,2025-04-12
+GSC,Tổng tài sản lưu động ngắn hạn,2018,48475863.0,2025-04-12
+GSC,Tổng tài sản lưu động ngắn hạn,2019,58981464.0,2025-04-12
+GSC,Tổng tài sản,2016,889341152.0,2025-04-12
+GSC,Tổng tài sản,2017,862073095.0,2025-04-12
+GSC,Tổng tài sản,2018,763682785.0,2025-04-12
+GSC,Tổng tài sản,2019,758331213.0,2025-04-12
+GSC,Nợ ngắn hạn,2016,148164981.0,2025-04-12
+GSC,Nợ ngắn hạn,2017,113093736.0,2025-04-12
+GSC,Nợ ngắn hạn,2018,57527957.0,2025-04-12
+GSC,Nợ ngắn hạn,2019,59738135.0,2025-04-12
+GSC,Tổng nợ,2016,495082981.0,2025-04-12
+GSC,Tổng nợ,2017,404151736.0,2025-04-12
+GSC,Tổng nợ,2018,310585957.0,2025-04-12
+GSC,Tổng nợ,2019,304796135.0,2025-04-12
+GSC,Vốn chủ sở hữu,2016,394258171.0,2025-04-12
+GSC,Vốn chủ sở hữu,2017,457921359.0,2025-04-12
+GSC,Vốn chủ sở hữu,2018,453096827.0,2025-04-12
+GSC,Vốn chủ sở hữu,2019,453535078.0,2025-04-12

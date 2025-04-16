@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+GLT,Doanh thu bán hàng và CCDV,2019,121387712.0,2025-04-12
+GLT,Doanh thu bán hàng và CCDV,2020,136514484.0,2025-04-12
+GLT,Doanh thu bán hàng và CCDV,2021,168162340.0,2025-04-12
+GLT,Doanh thu bán hàng và CCDV,2022,645698609.0,2025-04-12
+GLT,Giá vốn hàng bán,2019,75622251.0,2025-04-12
+GLT,Giá vốn hàng bán,2020,83006316.0,2025-04-12
+GLT,Giá vốn hàng bán,2021,120933501.0,2025-04-12
+GLT,Giá vốn hàng bán,2022,586985609.0,2025-04-12
+GLT,Lợi nhuận gộp về BH và CCDV,2019,45737002.0,2025-04-12
+GLT,Lợi nhuận gộp về BH và CCDV,2020,53488732.0,2025-04-12
+GLT,Lợi nhuận gộp về BH và CCDV,2021,47185276.0,2025-04-12
+GLT,Lợi nhuận gộp về BH và CCDV,2022,58694437.0,2025-04-12
+GLT,Lợi nhuận tài chính,2019,2412139.0,2025-04-12
+GLT,Lợi nhuận tài chính,2020,1004283.0,2025-04-12
+GLT,Lợi nhuận tài chính,2021,56745450.0,2025-04-12
+GLT,Lợi nhuận tài chính,2022,5433873.0,2025-04-12
+GLT,Lợi nhuận khác,2019,-125654.0,2025-04-12
+GLT,Lợi nhuận khác,2020,9182111.0,2025-04-12
+GLT,Lợi nhuận khác,2021,170094.0,2025-04-12
+GLT,Lợi nhuận khác,2022,-819802.0,2025-04-12
+GLT,Tổng lợi nhuận trước thuế,2019,18642822.0,2025-04-12
+GLT,Tổng lợi nhuận trước thuế,2020,33656305.0,2025-04-12
+GLT,Tổng lợi nhuận trước thuế,2021,73311949.0,2025-04-12
+GLT,Tổng lợi nhuận trước thuế,2022,32376082.0,2025-04-12
+GLT,Lợi nhuận sau thuế,2019,14728044.0,2025-04-12
+GLT,Lợi nhuận sau thuế,2020,28364986.0,2025-04-12
+GLT,Lợi nhuận sau thuế,2021,59094813.0,2025-04-12
+GLT,Lợi nhuận sau thuế,2022,25781164.0,2025-04-12
+GLT,Lợi nhuận sau thuế của công ty mẹ,2019,14152600.0,2025-04-12
+GLT,Lợi nhuận sau thuế của công ty mẹ,2020,26865850.0,2025-04-12
+GLT,Lợi nhuận sau thuế của công ty mẹ,2021,58071350.0,2025-04-12
+GLT,Lợi nhuận sau thuế của công ty mẹ,2022,22731883.0,2025-04-12
+GLT,Tổng tài sản lưu động ngắn hạn,2019,96018426.0,2025-04-12
+GLT,Tổng tài sản lưu động ngắn hạn,2020,128431592.0,2025-04-12
+GLT,Tổng tài sản lưu động ngắn hạn,2021,285939056.0,2025-04-12
+GLT,Tổng tài sản lưu động ngắn hạn,2022,244218232.0,2025-04-12
+GLT,Tổng tài sản,2019,131742394.0,2025-04-12
+GLT,Tổng tài sản,2020,159881863.0,2025-04-12
+GLT,Tổng tài sản,2021,299973120.0,2025-04-12
+GLT,Tổng tài sản,2022,267383143.0,2025-04-12
+GLT,Nợ ngắn hạn,2019,32402935.0,2025-04-12
+GLT,Nợ ngắn hạn,2020,50228337.0,2025-04-12
+GLT,Nợ ngắn hạn,2021,140314468.0,2025-04-12
+GLT,Nợ ngắn hạn,2022,116135426.0,2025-04-12
+GLT,Tổng nợ,2019,34235060.0,2025-04-12
+GLT,Tổng nợ,2020,52923469.0,2025-04-12
+GLT,Tổng nợ,2021,142467588.0,2025-04-12
+GLT,Tổng nợ,2022,119133001.0,2025-04-12
+GLT,Vốn chủ sở hữu,2019,97507333.0,2025-04-12
+GLT,Vốn chủ sở hữu,2020,106958394.0,2025-04-12
+GLT,Vốn chủ sở hữu,2021,157505532.0,2025-04-12
+GLT,Vốn chủ sở hữu,2022,148250142.0,2025-04-12

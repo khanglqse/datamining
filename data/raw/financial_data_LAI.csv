@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+LAI,Doanh thu bán hàng và CCDV,2021,262905278.0,2025-04-12
+LAI,Doanh thu bán hàng và CCDV,2022,250570119.0,2025-04-12
+LAI,Doanh thu bán hàng và CCDV,2023,214571401.0,2025-04-12
+LAI,Doanh thu bán hàng và CCDV,2024,392266100.0,2025-04-12
+LAI,Giá vốn hàng bán,2021,199681677.0,2025-04-12
+LAI,Giá vốn hàng bán,2022,176356381.0,2025-04-12
+LAI,Giá vốn hàng bán,2023,138293058.0,2025-04-12
+LAI,Giá vốn hàng bán,2024,158240285.0,2025-04-12
+LAI,Lợi nhuận gộp về BH và CCDV,2021,63223601.0,2025-04-12
+LAI,Lợi nhuận gộp về BH và CCDV,2022,74213738.0,2025-04-12
+LAI,Lợi nhuận gộp về BH và CCDV,2023,76278343.0,2025-04-12
+LAI,Lợi nhuận gộp về BH và CCDV,2024,234025814.0,2025-04-12
+LAI,Lợi nhuận tài chính,2021,-4915411.0,2025-04-12
+LAI,Lợi nhuận tài chính,2022,-5411021.0,2025-04-12
+LAI,Lợi nhuận tài chính,2023,-6558572.0,2025-04-12
+LAI,Lợi nhuận tài chính,2024,-19070858.0,2025-04-12
+LAI,Lợi nhuận khác,2021,1116548.0,2025-04-12
+LAI,Lợi nhuận khác,2022,518229.0,2025-04-12
+LAI,Lợi nhuận khác,2023,2678919.0,2025-04-12
+LAI,Lợi nhuận khác,2024,119217.0,2025-04-12
+LAI,Tổng lợi nhuận trước thuế,2021,33183650.0,2025-04-12
+LAI,Tổng lợi nhuận trước thuế,2022,43976299.0,2025-04-12
+LAI,Tổng lợi nhuận trước thuế,2023,47347100.0,2025-04-12
+LAI,Tổng lợi nhuận trước thuế,2024,178851446.0,2025-04-12
+LAI,Lợi nhuận sau thuế,2021,26546920.0,2025-04-12
+LAI,Lợi nhuận sau thuế,2022,35246953.0,2025-04-12
+LAI,Lợi nhuận sau thuế,2023,37877680.0,2025-04-12
+LAI,Lợi nhuận sau thuế,2024,142965206.0,2025-04-12
+LAI,Lợi nhuận sau thuế của công ty mẹ,2021,26546920.0,2025-04-12
+LAI,Lợi nhuận sau thuế của công ty mẹ,2022,35246953.0,2025-04-12
+LAI,Lợi nhuận sau thuế của công ty mẹ,2023,37877680.0,2025-04-12
+LAI,Lợi nhuận sau thuế của công ty mẹ,2024,142965206.0,2025-04-12
+LAI,Tổng tài sản lưu động ngắn hạn,2021,257606101.0,2025-04-12
+LAI,Tổng tài sản lưu động ngắn hạn,2022,600387112.0,2025-04-12
+LAI,Tổng tài sản lưu động ngắn hạn,2023,817513030.0,2025-04-12
+LAI,Tổng tài sản lưu động ngắn hạn,2024,988648967.0,2025-04-12
+LAI,Tổng tài sản,2021,732519593.0,2025-04-12
+LAI,Tổng tài sản,2022,901454210.0,2025-04-12
+LAI,Tổng tài sản,2023,1164096156.0,2025-04-12
+LAI,Tổng tài sản,2024,1325650336.0,2025-04-12
+LAI,Nợ ngắn hạn,2021,246757057.0,2025-04-12
+LAI,Nợ ngắn hạn,2022,242271162.0,2025-04-12
+LAI,Nợ ngắn hạn,2023,619959153.0,2025-04-12
+LAI,Nợ ngắn hạn,2024,326428082.0,2025-04-12
+LAI,Tổng nợ,2021,583665831.0,2025-04-12
+LAI,Tổng nợ,2022,734307496.0,2025-04-12
+LAI,Tổng nợ,2023,961759109.0,2025-04-12
+LAI,Tổng nợ,2024,983148082.0,2025-04-12
+LAI,Vốn chủ sở hữu,2021,148853762.0,2025-04-12
+LAI,Vốn chủ sở hữu,2022,167146715.0,2025-04-12
+LAI,Vốn chủ sở hữu,2023,202337048.0,2025-04-12
+LAI,Vốn chủ sở hữu,2024,342502254.0,2025-04-12

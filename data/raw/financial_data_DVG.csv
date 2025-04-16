@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+DVG,Doanh thu bán hàng và CCDV,2020,130285141.0,2025-04-12
+DVG,Doanh thu bán hàng và CCDV,2021,344892643.0,2025-04-12
+DVG,Doanh thu bán hàng và CCDV,2022,126908493.0,2025-04-12
+DVG,Doanh thu bán hàng và CCDV,2023,82825333.0,2025-04-12
+DVG,Giá vốn hàng bán,2020,115727882.0,2025-04-12
+DVG,Giá vốn hàng bán,2021,313163842.0,2025-04-12
+DVG,Giá vốn hàng bán,2022,118059804.0,2025-04-12
+DVG,Giá vốn hàng bán,2023,76946938.0,2025-04-12
+DVG,Lợi nhuận gộp về BH và CCDV,2020,14557259.0,2025-04-12
+DVG,Lợi nhuận gộp về BH và CCDV,2021,31728801.0,2025-04-12
+DVG,Lợi nhuận gộp về BH và CCDV,2022,8848689.0,2025-04-12
+DVG,Lợi nhuận gộp về BH và CCDV,2023,5878395.0,2025-04-12
+DVG,Lợi nhuận tài chính,2020,-917996.0,2025-04-12
+DVG,Lợi nhuận tài chính,2021,-197458.0,2025-04-12
+DVG,Lợi nhuận tài chính,2022,-397577.0,2025-04-12
+DVG,Lợi nhuận tài chính,2023,455.0,2025-04-12
+DVG,Lợi nhuận khác,2020,2855235.0,2025-04-12
+DVG,Lợi nhuận khác,2021,-196172.0,2025-04-12
+DVG,Lợi nhuận khác,2022,-28394.0,2025-04-12
+DVG,Lợi nhuận khác,2023,1638055.0,2025-04-12
+DVG,Tổng lợi nhuận trước thuế,2020,9238492.0,2025-04-12
+DVG,Tổng lợi nhuận trước thuế,2021,18972505.0,2025-04-12
+DVG,Tổng lợi nhuận trước thuế,2022,2534461.0,2025-04-12
+DVG,Tổng lợi nhuận trước thuế,2023,4588096.0,2025-04-12
+DVG,Lợi nhuận sau thuế,2020,8309080.0,2025-04-12
+DVG,Lợi nhuận sau thuế,2021,14942120.0,2025-04-12
+DVG,Lợi nhuận sau thuế,2022,1936310.0,2025-04-12
+DVG,Lợi nhuận sau thuế,2023,4486182.0,2025-04-12
+DVG,Lợi nhuận sau thuế của công ty mẹ,2020,8309080.0,2025-04-12
+DVG,Lợi nhuận sau thuế của công ty mẹ,2021,13434652.0,2025-04-12
+DVG,Lợi nhuận sau thuế của công ty mẹ,2022,1936310.0,2025-04-12
+DVG,Lợi nhuận sau thuế của công ty mẹ,2023,4485818.0,2025-04-12
+DVG,Tổng tài sản lưu động ngắn hạn,2020,346185250.0,2025-04-12
+DVG,Tổng tài sản lưu động ngắn hạn,2021,338067478.0,2025-04-12
+DVG,Tổng tài sản lưu động ngắn hạn,2022,69545812.0,2025-04-12
+DVG,Tổng tài sản lưu động ngắn hạn,2023,104993779.0,2025-04-12
+DVG,Tổng tài sản,2020,396059676.0,2025-04-12
+DVG,Tổng tài sản,2021,518895820.0,2025-04-12
+DVG,Tổng tài sản,2022,306289578.0,2025-04-12
+DVG,Tổng tài sản,2023,339998963.0,2025-04-12
+DVG,Nợ ngắn hạn,2020,52292902.0,2025-04-12
+DVG,Nợ ngắn hạn,2021,160724589.0,2025-04-12
+DVG,Nợ ngắn hạn,2022,7529518.0,2025-04-12
+DVG,Nợ ngắn hạn,2023,31735575.0,2025-04-12
+DVG,Tổng nợ,2020,52752323.0,2025-04-12
+DVG,Tổng nợ,2021,160978710.0,2025-04-12
+DVG,Tổng nợ,2022,7529518.0,2025-04-12
+DVG,Tổng nợ,2023,31735575.0,2025-04-12
+DVG,Vốn chủ sở hữu,2020,343307353.0,2025-04-12
+DVG,Vốn chủ sở hữu,2021,357917110.0,2025-04-12
+DVG,Vốn chủ sở hữu,2022,298760060.0,2025-04-12
+DVG,Vốn chủ sở hữu,2023,308263388.0,2025-04-12

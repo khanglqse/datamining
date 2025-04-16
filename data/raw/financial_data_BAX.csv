@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+BAX,Doanh thu bán hàng và CCDV,2021,171905798.0,2025-04-12
+BAX,Doanh thu bán hàng và CCDV,2022,232289678.0,2025-04-12
+BAX,Doanh thu bán hàng và CCDV,2023,74522861.0,2025-04-12
+BAX,Doanh thu bán hàng và CCDV,2024,72989805.0,2025-04-12
+BAX,Giá vốn hàng bán,2021,101864617.0,2025-04-12
+BAX,Giá vốn hàng bán,2022,145001204.0,2025-04-12
+BAX,Giá vốn hàng bán,2023,38491470.0,2025-04-12
+BAX,Giá vốn hàng bán,2024,31689832.0,2025-04-12
+BAX,Lợi nhuận gộp về BH và CCDV,2021,70041182.0,2025-04-12
+BAX,Lợi nhuận gộp về BH và CCDV,2022,87288474.0,2025-04-12
+BAX,Lợi nhuận gộp về BH và CCDV,2023,36031391.0,2025-04-12
+BAX,Lợi nhuận gộp về BH và CCDV,2024,41299973.0,2025-04-12
+BAX,Lợi nhuận tài chính,2021,15930765.0,2025-04-12
+BAX,Lợi nhuận tài chính,2022,14578233.0,2025-04-12
+BAX,Lợi nhuận tài chính,2023,23022202.0,2025-04-12
+BAX,Lợi nhuận tài chính,2024,12372694.0,2025-04-12
+BAX,Lợi nhuận khác,2021,6687605.0,2025-04-12
+BAX,Lợi nhuận khác,2022,6949334.0,2025-04-12
+BAX,Lợi nhuận khác,2023,-268300.0,2025-04-12
+BAX,Lợi nhuận khác,2024,315817.0,2025-04-12
+BAX,Tổng lợi nhuận trước thuế,2021,68573192.0,2025-04-12
+BAX,Tổng lợi nhuận trước thuế,2022,82756818.0,2025-04-12
+BAX,Tổng lợi nhuận trước thuế,2023,36589182.0,2025-04-12
+BAX,Tổng lợi nhuận trước thuế,2024,33865002.0,2025-04-12
+BAX,Lợi nhuận sau thuế,2021,60333386.0,2025-04-12
+BAX,Lợi nhuận sau thuế,2022,64658858.0,2025-04-12
+BAX,Lợi nhuận sau thuế,2023,28766332.0,2025-04-12
+BAX,Lợi nhuận sau thuế,2024,26578738.0,2025-04-12
+BAX,Lợi nhuận sau thuế của công ty mẹ,2021,60333386.0,2025-04-12
+BAX,Lợi nhuận sau thuế của công ty mẹ,2022,64658858.0,2025-04-12
+BAX,Lợi nhuận sau thuế của công ty mẹ,2023,28766332.0,2025-04-12
+BAX,Lợi nhuận sau thuế của công ty mẹ,2024,26578738.0,2025-04-12
+BAX,Tổng tài sản lưu động ngắn hạn,2021,363074829.0,2025-04-12
+BAX,Tổng tài sản lưu động ngắn hạn,2022,306303361.0,2025-04-12
+BAX,Tổng tài sản lưu động ngắn hạn,2023,270287279.0,2025-04-12
+BAX,Tổng tài sản lưu động ngắn hạn,2024,300182254.0,2025-04-12
+BAX,Tổng tài sản,2021,828373197.0,2025-04-12
+BAX,Tổng tài sản,2022,767757105.0,2025-04-12
+BAX,Tổng tài sản,2023,724830592.0,2025-04-12
+BAX,Tổng tài sản,2024,724328064.0,2025-04-12
+BAX,Nợ ngắn hạn,2021,136799243.0,2025-04-12
+BAX,Nợ ngắn hạn,2022,39363658.0,2025-04-12
+BAX,Nợ ngắn hạn,2023,45047590.0,2025-04-12
+BAX,Nợ ngắn hạn,2024,58911780.0,2025-04-12
+BAX,Tổng nợ,2021,601956769.0,2025-04-12
+BAX,Tổng nợ,2022,522671268.0,2025-04-12
+BAX,Tổng nợ,2023,514174691.0,2025-04-12
+BAX,Tổng nợ,2024,513890957.0,2025-04-12
+BAX,Vốn chủ sở hữu,2021,226416428.0,2025-04-12
+BAX,Vốn chủ sở hữu,2022,245085837.0,2025-04-12
+BAX,Vốn chủ sở hữu,2023,210655901.0,2025-04-12
+BAX,Vốn chủ sở hữu,2024,210437107.0,2025-04-12

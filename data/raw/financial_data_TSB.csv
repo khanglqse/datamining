@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+TSB,Doanh thu bán hàng và CCDV,2021,182297057.0,2025-04-12
+TSB,Doanh thu bán hàng và CCDV,2022,184976278.0,2025-04-12
+TSB,Doanh thu bán hàng và CCDV,2023,160833648.0,2025-04-12
+TSB,Doanh thu bán hàng và CCDV,2024,187739564.0,2025-04-12
+TSB,Giá vốn hàng bán,2021,154605987.0,2025-04-12
+TSB,Giá vốn hàng bán,2022,156253661.0,2025-04-12
+TSB,Giá vốn hàng bán,2023,135618440.0,2025-04-12
+TSB,Giá vốn hàng bán,2024,155331213.0,2025-04-12
+TSB,Lợi nhuận gộp về BH và CCDV,2021,25507469.0,2025-04-12
+TSB,Lợi nhuận gộp về BH và CCDV,2022,26377975.0,2025-04-12
+TSB,Lợi nhuận gộp về BH và CCDV,2023,21928577.0,2025-04-12
+TSB,Lợi nhuận gộp về BH và CCDV,2024,26722680.0,2025-04-12
+TSB,Lợi nhuận tài chính,2021,-105039.0,2025-04-12
+TSB,Lợi nhuận tài chính,2022,-635015.0,2025-04-12
+TSB,Lợi nhuận tài chính,2023,294265.0,2025-04-12
+TSB,Lợi nhuận tài chính,2024,1127621.0,2025-04-12
+TSB,Lợi nhuận khác,2021,55810.0,2025-04-12
+TSB,Lợi nhuận khác,2022,20102.0,2025-04-12
+TSB,Lợi nhuận khác,2023,22946.0,2025-04-12
+TSB,Lợi nhuận khác,2024,-3737.0,2025-04-12
+TSB,Tổng lợi nhuận trước thuế,2021,5360552.0,2025-04-12
+TSB,Tổng lợi nhuận trước thuế,2022,4391706.0,2025-04-12
+TSB,Tổng lợi nhuận trước thuế,2023,5319465.0,2025-04-12
+TSB,Tổng lợi nhuận trước thuế,2024,6544132.0,2025-04-12
+TSB,Lợi nhuận sau thuế,2021,4599994.0,2025-04-12
+TSB,Lợi nhuận sau thuế,2022,3449498.0,2025-04-12
+TSB,Lợi nhuận sau thuế,2023,4231512.0,2025-04-12
+TSB,Lợi nhuận sau thuế,2024,5214771.0,2025-04-12
+TSB,Lợi nhuận sau thuế của công ty mẹ,2021,4599994.0,2025-04-12
+TSB,Lợi nhuận sau thuế của công ty mẹ,2022,3449498.0,2025-04-12
+TSB,Lợi nhuận sau thuế của công ty mẹ,2023,4231512.0,2025-04-12
+TSB,Lợi nhuận sau thuế của công ty mẹ,2024,5214771.0,2025-04-12
+TSB,Tổng tài sản lưu động ngắn hạn,2021,69350690.0,2025-04-12
+TSB,Tổng tài sản lưu động ngắn hạn,2022,74486946.0,2025-04-12
+TSB,Tổng tài sản lưu động ngắn hạn,2023,85810416.0,2025-04-12
+TSB,Tổng tài sản lưu động ngắn hạn,2024,96299832.0,2025-04-12
+TSB,Tổng tài sản,2021,102594673.0,2025-04-12
+TSB,Tổng tài sản,2022,102513589.0,2025-04-12
+TSB,Tổng tài sản,2023,108919067.0,2025-04-12
+TSB,Tổng tài sản,2024,116566680.0,2025-04-12
+TSB,Nợ ngắn hạn,2021,21452068.0,2025-04-12
+TSB,Nợ ngắn hạn,2022,22854255.0,2025-04-12
+TSB,Nợ ngắn hạn,2023,29381314.0,2025-04-12
+TSB,Nợ ngắn hạn,2024,35977504.0,2025-04-12
+TSB,Tổng nợ,2021,23251585.0,2025-04-12
+TSB,Tổng nợ,2022,23653743.0,2025-04-12
+TSB,Tổng nợ,2023,29552246.0,2025-04-12
+TSB,Tổng nợ,2024,36158726.0,2025-04-12
+TSB,Vốn chủ sở hữu,2021,79343088.0,2025-04-12
+TSB,Vốn chủ sở hữu,2022,78859846.0,2025-04-12
+TSB,Vốn chủ sở hữu,2023,79366821.0,2025-04-12
+TSB,Vốn chủ sở hữu,2024,80407954.0,2025-04-12

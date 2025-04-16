@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+SDA,Doanh thu bán hàng và CCDV,2020,27636301.0,2025-04-12
+SDA,Doanh thu bán hàng và CCDV,2021,46705893.0,2025-04-12
+SDA,Doanh thu bán hàng và CCDV,2022,62038315.0,2025-04-12
+SDA,Doanh thu bán hàng và CCDV,2023,44676611.0,2025-04-12
+SDA,Giá vốn hàng bán,2020,23245993.0,2025-04-12
+SDA,Giá vốn hàng bán,2021,42843723.0,2025-04-12
+SDA,Giá vốn hàng bán,2022,56171466.0,2025-04-12
+SDA,Giá vốn hàng bán,2023,43914887.0,2025-04-12
+SDA,Lợi nhuận gộp về BH và CCDV,2020,4295960.0,2025-04-12
+SDA,Lợi nhuận gộp về BH và CCDV,2021,3788910.0,2025-04-12
+SDA,Lợi nhuận gộp về BH và CCDV,2022,5842991.0,2025-04-12
+SDA,Lợi nhuận gộp về BH và CCDV,2023,761724.0,2025-04-12
+SDA,Lợi nhuận tài chính,2020,8651812.0,2025-04-12
+SDA,Lợi nhuận tài chính,2021,14282470.0,2025-04-12
+SDA,Lợi nhuận tài chính,2022,-1164882.0,2025-04-12
+SDA,Lợi nhuận tài chính,2023,-24444316.0,2025-04-12
+SDA,Lợi nhuận khác,2020,179125.0,2025-04-12
+SDA,Lợi nhuận khác,2021,259655.0,2025-04-12
+SDA,Lợi nhuận khác,2022,-188965.0,2025-04-12
+SDA,Lợi nhuận khác,2023,65772.0,2025-04-12
+SDA,Tổng lợi nhuận trước thuế,2020,3072686.0,2025-04-12
+SDA,Tổng lợi nhuận trước thuế,2021,23344586.0,2025-04-12
+SDA,Tổng lợi nhuận trước thuế,2022,810012.0,2025-04-12
+SDA,Tổng lợi nhuận trước thuế,2023,-29258003.0,2025-04-12
+SDA,Lợi nhuận sau thuế,2020,4616706.0,2025-04-12
+SDA,Lợi nhuận sau thuế,2021,23344586.0,2025-04-12
+SDA,Lợi nhuận sau thuế,2022,810012.0,2025-04-12
+SDA,Lợi nhuận sau thuế,2023,-29258003.0,2025-04-12
+SDA,Lợi nhuận sau thuế của công ty mẹ,2020,4616706.0,2025-04-12
+SDA,Lợi nhuận sau thuế của công ty mẹ,2021,23344586.0,2025-04-12
+SDA,Lợi nhuận sau thuế của công ty mẹ,2022,810012.0,2025-04-12
+SDA,Lợi nhuận sau thuế của công ty mẹ,2023,-29258003.0,2025-04-12
+SDA,Tổng tài sản lưu động ngắn hạn,2020,90983275.0,2025-04-12
+SDA,Tổng tài sản lưu động ngắn hạn,2021,53531685.0,2025-04-12
+SDA,Tổng tài sản lưu động ngắn hạn,2022,70796380.0,2025-04-12
+SDA,Tổng tài sản lưu động ngắn hạn,2023,89633983.0,2025-04-12
+SDA,Tổng tài sản,2020,358185129.0,2025-04-12
+SDA,Tổng tài sản,2021,343047568.0,2025-04-12
+SDA,Tổng tài sản,2022,306205229.0,2025-04-12
+SDA,Tổng tài sản,2023,258026347.0,2025-04-12
+SDA,Nợ ngắn hạn,2020,62433528.0,2025-04-12
+SDA,Nợ ngắn hạn,2021,49945797.0,2025-04-12
+SDA,Nợ ngắn hạn,2022,62307809.0,2025-04-12
+SDA,Nợ ngắn hạn,2023,50977885.0,2025-04-12
+SDA,Tổng nợ,2020,162807996.0,2025-04-12
+SDA,Tổng nợ,2021,79031922.0,2025-04-12
+SDA,Tổng nợ,2022,90424698.0,2025-04-12
+SDA,Tổng nợ,2023,71503818.0,2025-04-12
+SDA,Vốn chủ sở hữu,2020,195377133.0,2025-04-12
+SDA,Vốn chủ sở hữu,2021,264015646.0,2025-04-12
+SDA,Vốn chủ sở hữu,2022,215780532.0,2025-04-12
+SDA,Vốn chủ sở hữu,2023,186522529.0,2025-04-12

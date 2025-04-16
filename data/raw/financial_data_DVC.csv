@@ -1,0 +1,45 @@
+symbol,metric,year,value,crawled_date
+DVC,Doanh thu bán hàng và CCDV,2022,209202607.0,2025-04-12
+DVC,Doanh thu bán hàng và CCDV,2023,136987124.0,2025-04-12
+DVC,Doanh thu bán hàng và CCDV,2024,102347894.0,2025-04-12
+DVC,Giá vốn hàng bán,2022,147835230.0,2025-04-12
+DVC,Giá vốn hàng bán,2023,77459532.0,2025-04-12
+DVC,Giá vốn hàng bán,2024,43850765.0,2025-04-12
+DVC,Lợi nhuận gộp về BH và CCDV,2022,61367376.0,2025-04-12
+DVC,Lợi nhuận gộp về BH và CCDV,2023,59527592.0,2025-04-12
+DVC,Lợi nhuận gộp về BH và CCDV,2024,58497129.0,2025-04-12
+DVC,Lợi nhuận tài chính,2022,-16513624.0,2025-04-12
+DVC,Lợi nhuận tài chính,2023,-14901239.0,2025-04-12
+DVC,Lợi nhuận tài chính,2024,-9960421.0,2025-04-12
+DVC,Lợi nhuận khác,2022,533218.0,2025-04-12
+DVC,Lợi nhuận khác,2023,1471689.0,2025-04-12
+DVC,Lợi nhuận khác,2024,10873382.0,2025-04-12
+DVC,Tổng lợi nhuận trước thuế,2022,15361543.0,2025-04-12
+DVC,Tổng lợi nhuận trước thuế,2023,9973518.0,2025-04-12
+DVC,Tổng lợi nhuận trước thuế,2024,29777384.0,2025-04-12
+DVC,Lợi nhuận sau thuế,2022,10205627.0,2025-04-12
+DVC,Lợi nhuận sau thuế,2023,5726463.0,2025-04-12
+DVC,Lợi nhuận sau thuế,2024,23358758.0,2025-04-12
+DVC,Lợi nhuận sau thuế của công ty mẹ,2022,7643001.0,2025-04-12
+DVC,Lợi nhuận sau thuế của công ty mẹ,2023,3464318.0,2025-04-12
+DVC,Lợi nhuận sau thuế của công ty mẹ,2024,19312283.0,2025-04-12
+DVC,Tổng tài sản lưu động ngắn hạn,2021,51475253.0,2025-04-12
+DVC,Tổng tài sản lưu động ngắn hạn,2022,54453039.0,2025-04-12
+DVC,Tổng tài sản lưu động ngắn hạn,2023,35503908.0,2025-04-12
+DVC,Tổng tài sản lưu động ngắn hạn,2024,39291547.0,2025-04-12
+DVC,Tổng tài sản,2021,417763972.0,2025-04-12
+DVC,Tổng tài sản,2022,405537035.0,2025-04-12
+DVC,Tổng tài sản,2023,369253011.0,2025-04-12
+DVC,Tổng tài sản,2024,353444136.0,2025-04-12
+DVC,Nợ ngắn hạn,2021,27543877.0,2025-04-12
+DVC,Nợ ngắn hạn,2022,53539154.0,2025-04-12
+DVC,Nợ ngắn hạn,2023,46464811.0,2025-04-12
+DVC,Nợ ngắn hạn,2024,31632886.0,2025-04-12
+DVC,Tổng nợ,2021,218284184.0,2025-04-12
+DVC,Tổng nợ,2022,202651455.0,2025-04-12
+DVC,Tổng nợ,2023,171321976.0,2025-04-12
+DVC,Tổng nợ,2024,149995541.0,2025-04-12
+DVC,Vốn chủ sở hữu,2021,199479788.0,2025-04-12
+DVC,Vốn chủ sở hữu,2022,202885580.0,2025-04-12
+DVC,Vốn chủ sở hữu,2023,197931035.0,2025-04-12
+DVC,Vốn chủ sở hữu,2024,203448595.0,2025-04-12

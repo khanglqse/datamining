@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+TED,Doanh thu bán hàng và CCDV,2021,956226792.0,2025-04-12
+TED,Doanh thu bán hàng và CCDV,2022,1463887512.0,2025-04-12
+TED,Doanh thu bán hàng và CCDV,2023,1481592381.0,2025-04-12
+TED,Doanh thu bán hàng và CCDV,2024,1365232608.0,2025-04-12
+TED,Giá vốn hàng bán,2021,723230573.0,2025-04-12
+TED,Giá vốn hàng bán,2022,1118540297.0,2025-04-12
+TED,Giá vốn hàng bán,2023,1123587874.0,2025-04-12
+TED,Giá vốn hàng bán,2024,1031018349.0,2025-04-12
+TED,Lợi nhuận gộp về BH và CCDV,2021,223615390.0,2025-04-12
+TED,Lợi nhuận gộp về BH và CCDV,2022,343023351.0,2025-04-12
+TED,Lợi nhuận gộp về BH và CCDV,2023,356762332.0,2025-04-12
+TED,Lợi nhuận gộp về BH và CCDV,2024,331453314.0,2025-04-12
+TED,Lợi nhuận tài chính,2021,3528569.0,2025-04-12
+TED,Lợi nhuận tài chính,2022,2500010.0,2025-04-12
+TED,Lợi nhuận tài chính,2023,10419842.0,2025-04-12
+TED,Lợi nhuận tài chính,2024,6462801.0,2025-04-12
+TED,Lợi nhuận khác,2021,-1120941.0,2025-04-12
+TED,Lợi nhuận khác,2022,-1289822.0,2025-04-12
+TED,Lợi nhuận khác,2023,-314761.0,2025-04-12
+TED,Lợi nhuận khác,2024,-1619926.0,2025-04-12
+TED,Tổng lợi nhuận trước thuế,2021,74483564.0,2025-04-12
+TED,Tổng lợi nhuận trước thuế,2022,114265242.0,2025-04-12
+TED,Tổng lợi nhuận trước thuế,2023,122442626.0,2025-04-12
+TED,Tổng lợi nhuận trước thuế,2024,110410445.0,2025-04-12
+TED,Lợi nhuận sau thuế,2021,60111277.0,2025-04-12
+TED,Lợi nhuận sau thuế,2022,90611305.0,2025-04-12
+TED,Lợi nhuận sau thuế,2023,96523923.0,2025-04-12
+TED,Lợi nhuận sau thuế,2024,86840703.0,2025-04-12
+TED,Lợi nhuận sau thuế của công ty mẹ,2021,44189071.0,2025-04-12
+TED,Lợi nhuận sau thuế của công ty mẹ,2022,63054552.0,2025-04-12
+TED,Lợi nhuận sau thuế của công ty mẹ,2023,71415200.0,2025-04-12
+TED,Lợi nhuận sau thuế của công ty mẹ,2024,63559080.0,2025-04-12
+TED,Tổng tài sản lưu động ngắn hạn,2021,923440903.0,2025-04-12
+TED,Tổng tài sản lưu động ngắn hạn,2022,1246417441.0,2025-04-12
+TED,Tổng tài sản lưu động ngắn hạn,2023,1142079473.0,2025-04-12
+TED,Tổng tài sản lưu động ngắn hạn,2024,1202935012.0,2025-04-12
+TED,Tổng tài sản,2021,1003248585.0,2025-04-12
+TED,Tổng tài sản,2022,1334646734.0,2025-04-12
+TED,Tổng tài sản,2023,1239225450.0,2025-04-12
+TED,Tổng tài sản,2024,1296530926.0,2025-04-12
+TED,Nợ ngắn hạn,2021,723738245.0,2025-04-12
+TED,Nợ ngắn hạn,2022,1011355878.0,2025-04-12
+TED,Nợ ngắn hạn,2023,892632934.0,2025-04-12
+TED,Nợ ngắn hạn,2024,935619140.0,2025-04-12
+TED,Tổng nợ,2021,726925270.0,2025-04-12
+TED,Tổng nợ,2022,1014021867.0,2025-04-12
+TED,Tổng nợ,2023,894325958.0,2025-04-12
+TED,Tổng nợ,2024,937314087.0,2025-04-12
+TED,Vốn chủ sở hữu,2021,276323315.0,2025-04-12
+TED,Vốn chủ sở hữu,2022,320624867.0,2025-04-12
+TED,Vốn chủ sở hữu,2023,344899491.0,2025-04-12
+TED,Vốn chủ sở hữu,2024,359216838.0,2025-04-12

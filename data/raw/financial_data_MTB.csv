@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+MTB,Doanh thu bán hàng và CCDV,2020,88153283.0,2025-04-12
+MTB,Doanh thu bán hàng và CCDV,2022,82736460.0,2025-04-12
+MTB,Doanh thu bán hàng và CCDV,2023,83054565.0,2025-04-12
+MTB,Doanh thu bán hàng và CCDV,2024,83066315.0,2025-04-12
+MTB,Giá vốn hàng bán,2020,80427868.0,2025-04-12
+MTB,Giá vốn hàng bán,2022,74941925.0,2025-04-12
+MTB,Giá vốn hàng bán,2023,72998713.0,2025-04-12
+MTB,Giá vốn hàng bán,2024,88540639.0,2025-04-12
+MTB,Lợi nhuận gộp về BH và CCDV,2020,7725414.0,2025-04-12
+MTB,Lợi nhuận gộp về BH và CCDV,2022,7794535.0,2025-04-12
+MTB,Lợi nhuận gộp về BH và CCDV,2023,9597147.0,2025-04-12
+MTB,Lợi nhuận gộp về BH và CCDV,2024,-5474324.0,2025-04-12
+MTB,Lợi nhuận tài chính,2020,834903.0,2025-04-12
+MTB,Lợi nhuận tài chính,2022,147289.0,2025-04-12
+MTB,Lợi nhuận tài chính,2023,11509.0,2025-04-12
+MTB,Lợi nhuận tài chính,2024,170881.0,2025-04-12
+MTB,Lợi nhuận khác,2020,18127.0,2025-04-12
+MTB,Lợi nhuận khác,2022,-12859.0,2025-04-12
+MTB,Lợi nhuận khác,2023,-23711.0,2025-04-12
+MTB,Lợi nhuận khác,2024,138786.0,2025-04-12
+MTB,Tổng lợi nhuận trước thuế,2020,2005022.0,2025-04-12
+MTB,Tổng lợi nhuận trước thuế,2022,823501.0,2025-04-12
+MTB,Tổng lợi nhuận trước thuế,2023,820847.0,2025-04-12
+MTB,Tổng lợi nhuận trước thuế,2024,-15066851.0,2025-04-12
+MTB,Lợi nhuận sau thuế,2020,1724319.0,2025-04-12
+MTB,Lợi nhuận sau thuế,2022,656229.0,2025-04-12
+MTB,Lợi nhuận sau thuế,2023,642678.0,2025-04-12
+MTB,Lợi nhuận sau thuế,2024,-15066851.0,2025-04-12
+MTB,Lợi nhuận sau thuế của công ty mẹ,2020,1724319.0,2025-04-12
+MTB,Lợi nhuận sau thuế của công ty mẹ,2022,656229.0,2025-04-12
+MTB,Lợi nhuận sau thuế của công ty mẹ,2023,642678.0,2025-04-12
+MTB,Lợi nhuận sau thuế của công ty mẹ,2024,-15066851.0,2025-04-12
+MTB,Tổng tài sản lưu động ngắn hạn,2020,31192205.0,2025-04-12
+MTB,Tổng tài sản lưu động ngắn hạn,2022,24130840.0,2025-04-12
+MTB,Tổng tài sản lưu động ngắn hạn,2023,38575664.0,2025-04-12
+MTB,Tổng tài sản lưu động ngắn hạn,2024,23755226.0,2025-04-12
+MTB,Tổng tài sản,2020,79134813.0,2025-04-12
+MTB,Tổng tài sản,2022,73066386.0,2025-04-12
+MTB,Tổng tài sản,2023,84911737.0,2025-04-12
+MTB,Tổng tài sản,2024,62803301.0,2025-04-12
+MTB,Nợ ngắn hạn,2020,14582832.0,2025-04-12
+MTB,Nợ ngắn hạn,2022,9582495.0,2025-04-12
+MTB,Nợ ngắn hạn,2023,21412994.0,2025-04-12
+MTB,Nợ ngắn hạn,2024,15014087.0,2025-04-12
+MTB,Tổng nợ,2020,14582832.0,2025-04-12
+MTB,Tổng nợ,2022,9582495.0,2025-04-12
+MTB,Tổng nợ,2023,21412994.0,2025-04-12
+MTB,Tổng nợ,2024,15014087.0,2025-04-12
+MTB,Vốn chủ sở hữu,2020,64551981.0,2025-04-12
+MTB,Vốn chủ sở hữu,2022,63483891.0,2025-04-12
+MTB,Vốn chủ sở hữu,2023,63498742.0,2025-04-12
+MTB,Vốn chủ sở hữu,2024,47789214.0,2025-04-12

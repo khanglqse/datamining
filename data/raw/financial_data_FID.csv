@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+FID,Doanh thu bán hàng và CCDV,2020,82300940.0,2025-04-12
+FID,Doanh thu bán hàng và CCDV,2021,140361770.0,2025-04-12
+FID,Doanh thu bán hàng và CCDV,2022,38336079.0,2025-04-12
+FID,Doanh thu bán hàng và CCDV,2024,56128697.0,2025-04-12
+FID,Giá vốn hàng bán,2020,81602681.0,2025-04-12
+FID,Giá vốn hàng bán,2021,139691341.0,2025-04-12
+FID,Giá vốn hàng bán,2022,37350664.0,2025-04-12
+FID,Giá vốn hàng bán,2024,54733308.0,2025-04-12
+FID,Lợi nhuận gộp về BH và CCDV,2020,698259.0,2025-04-12
+FID,Lợi nhuận gộp về BH và CCDV,2021,670430.0,2025-04-12
+FID,Lợi nhuận gộp về BH và CCDV,2022,985415.0,2025-04-12
+FID,Lợi nhuận gộp về BH và CCDV,2024,1395388.0,2025-04-12
+FID,Lợi nhuận tài chính,2020,-1053443.0,2025-04-12
+FID,Lợi nhuận tài chính,2021,1054895.0,2025-04-12
+FID,Lợi nhuận tài chính,2022,1107.0,2025-04-12
+FID,Lợi nhuận tài chính,2024,-5235267.0,2025-04-12
+FID,Lợi nhuận khác,2020,-3051314.0,2025-04-12
+FID,Lợi nhuận khác,2021,-5426.0,2025-04-12
+FID,Lợi nhuận khác,2022,-47084.0,2025-04-12
+FID,Lợi nhuận khác,2024,-1293928.0,2025-04-12
+FID,Tổng lợi nhuận trước thuế,2020,-4044336.0,2025-04-12
+FID,Tổng lợi nhuận trước thuế,2021,1024770.0,2025-04-12
+FID,Tổng lợi nhuận trước thuế,2022,95728.0,2025-04-12
+FID,Tổng lợi nhuận trước thuế,2024,7949790.0,2025-04-12
+FID,Lợi nhuận sau thuế,2020,-4052801.0,2025-04-12
+FID,Lợi nhuận sau thuế,2021,978619.0,2025-04-12
+FID,Lợi nhuận sau thuế,2022,63607.0,2025-04-12
+FID,Lợi nhuận sau thuế,2024,7949790.0,2025-04-12
+FID,Lợi nhuận sau thuế của công ty mẹ,2020,-4052801.0,2025-04-12
+FID,Lợi nhuận sau thuế của công ty mẹ,2021,978619.0,2025-04-12
+FID,Lợi nhuận sau thuế của công ty mẹ,2022,63607.0,2025-04-12
+FID,Lợi nhuận sau thuế của công ty mẹ,2024,4357081.0,2025-04-12
+FID,Tổng tài sản lưu động ngắn hạn,2020,14139166.0,2025-04-12
+FID,Tổng tài sản lưu động ngắn hạn,2021,24656612.0,2025-04-12
+FID,Tổng tài sản lưu động ngắn hạn,2022,22707153.0,2025-04-12
+FID,Tổng tài sản lưu động ngắn hạn,2024,56578311.0,2025-04-12
+FID,Tổng tài sản,2020,244404469.0,2025-04-12
+FID,Tổng tài sản,2021,252926915.0,2025-04-12
+FID,Tổng tài sản,2022,248538947.0,2025-04-12
+FID,Tổng tài sản,2024,361271894.0,2025-04-12
+FID,Nợ ngắn hạn,2020,8822307.0,2025-04-12
+FID,Nợ ngắn hạn,2021,4606134.0,2025-04-12
+FID,Nợ ngắn hạn,2022,154559.0,2025-04-12
+FID,Nợ ngắn hạn,2024,105838386.0,2025-04-12
+FID,Tổng nợ,2020,8822307.0,2025-04-12
+FID,Tổng nợ,2021,4606134.0,2025-04-12
+FID,Tổng nợ,2022,154559.0,2025-04-12
+FID,Tổng nợ,2024,105838386.0,2025-04-12
+FID,Vốn chủ sở hữu,2020,235582162.0,2025-04-12
+FID,Vốn chủ sở hữu,2021,248320782.0,2025-04-12
+FID,Vốn chủ sở hữu,2022,248384388.0,2025-04-12
+FID,Vốn chủ sở hữu,2024,255433508.0,2025-04-12

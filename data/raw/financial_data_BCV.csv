@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+BCV,Doanh thu bán hàng và CCDV,2021,6127894.0,2025-04-12
+BCV,Doanh thu bán hàng và CCDV,2022,10553325.0,2025-04-12
+BCV,Doanh thu bán hàng và CCDV,2023,12091459.0,2025-04-12
+BCV,Doanh thu bán hàng và CCDV,2024,14763034.0,2025-04-12
+BCV,Giá vốn hàng bán,2021,6080075.0,2025-04-12
+BCV,Giá vốn hàng bán,2022,8260738.0,2025-04-12
+BCV,Giá vốn hàng bán,2023,9183066.0,2025-04-12
+BCV,Giá vốn hàng bán,2024,12652740.0,2025-04-12
+BCV,Lợi nhuận gộp về BH và CCDV,2021,47819.0,2025-04-12
+BCV,Lợi nhuận gộp về BH và CCDV,2022,2292587.0,2025-04-12
+BCV,Lợi nhuận gộp về BH và CCDV,2023,2908393.0,2025-04-12
+BCV,Lợi nhuận gộp về BH và CCDV,2024,2110294.0,2025-04-12
+BCV,Lợi nhuận tài chính,2021,-79784.0,2025-04-12
+BCV,Lợi nhuận tài chính,2022,-39146.0,2025-04-12
+BCV,Lợi nhuận tài chính,2023,35499.0,2025-04-12
+BCV,Lợi nhuận tài chính,2024,-4331.0,2025-04-12
+BCV,Lợi nhuận khác,2021,1259709.0,2025-04-12
+BCV,Lợi nhuận khác,2022,799085.0,2025-04-12
+BCV,Lợi nhuận khác,2023,288932.0,2025-04-12
+BCV,Lợi nhuận khác,2024,174543.0,2025-04-12
+BCV,Tổng lợi nhuận trước thuế,2021,-698264.0,2025-04-12
+BCV,Tổng lợi nhuận trước thuế,2022,650994.0,2025-04-12
+BCV,Tổng lợi nhuận trước thuế,2023,401805.0,2025-04-12
+BCV,Tổng lợi nhuận trước thuế,2024,351160.0,2025-04-12
+BCV,Lợi nhuận sau thuế,2021,-698264.0,2025-04-12
+BCV,Lợi nhuận sau thuế,2022,650994.0,2025-04-12
+BCV,Lợi nhuận sau thuế,2023,401805.0,2025-04-12
+BCV,Lợi nhuận sau thuế,2024,351160.0,2025-04-12
+BCV,Lợi nhuận sau thuế của công ty mẹ,2021,-698264.0,2025-04-12
+BCV,Lợi nhuận sau thuế của công ty mẹ,2022,650994.0,2025-04-12
+BCV,Lợi nhuận sau thuế của công ty mẹ,2023,401805.0,2025-04-12
+BCV,Lợi nhuận sau thuế của công ty mẹ,2024,351160.0,2025-04-12
+BCV,Tổng tài sản lưu động ngắn hạn,2021,2502325.0,2025-04-12
+BCV,Tổng tài sản lưu động ngắn hạn,2022,4846069.0,2025-04-12
+BCV,Tổng tài sản lưu động ngắn hạn,2023,3513377.0,2025-04-12
+BCV,Tổng tài sản lưu động ngắn hạn,2024,8009653.0,2025-04-12
+BCV,Tổng tài sản,2021,19185611.0,2025-04-12
+BCV,Tổng tài sản,2022,19950446.0,2025-04-12
+BCV,Tổng tài sản,2023,18427520.0,2025-04-12
+BCV,Tổng tài sản,2024,21562120.0,2025-04-12
+BCV,Nợ ngắn hạn,2021,3549754.0,2025-04-12
+BCV,Nợ ngắn hạn,2022,3636990.0,2025-04-12
+BCV,Nợ ngắn hạn,2023,2242889.0,2025-04-12
+BCV,Nợ ngắn hạn,2024,5030815.0,2025-04-12
+BCV,Tổng nợ,2021,5607160.0,2025-04-12
+BCV,Tổng nợ,2022,5721001.0,2025-04-12
+BCV,Tổng nợ,2023,3796270.0,2025-04-12
+BCV,Tổng nợ,2024,6579712.0,2025-04-12
+BCV,Vốn chủ sở hữu,2021,13578451.0,2025-04-12
+BCV,Vốn chủ sở hữu,2022,14229445.0,2025-04-12
+BCV,Vốn chủ sở hữu,2023,14631249.0,2025-04-12
+BCV,Vốn chủ sở hữu,2024,14982409.0,2025-04-12

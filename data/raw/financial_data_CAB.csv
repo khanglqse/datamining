@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+CAB,Doanh thu bán hàng và CCDV,2020,2240874427.0,2025-04-12
+CAB,Doanh thu bán hàng và CCDV,2021,2246610281.0,2025-04-12
+CAB,Doanh thu bán hàng và CCDV,2022,2401635347.0,2025-04-12
+CAB,Doanh thu bán hàng và CCDV,2023,2170255670.0,2025-04-12
+CAB,Giá vốn hàng bán,2020,1631067597.0,2025-04-12
+CAB,Giá vốn hàng bán,2021,1726634843.0,2025-04-12
+CAB,Giá vốn hàng bán,2022,1801903169.0,2025-04-12
+CAB,Giá vốn hàng bán,2023,1747770242.0,2025-04-12
+CAB,Lợi nhuận gộp về BH và CCDV,2020,609778307.0,2025-04-12
+CAB,Lợi nhuận gộp về BH và CCDV,2021,519937454.0,2025-04-12
+CAB,Lợi nhuận gộp về BH và CCDV,2022,599407427.0,2025-04-12
+CAB,Lợi nhuận gộp về BH và CCDV,2023,422485427.0,2025-04-12
+CAB,Lợi nhuận tài chính,2020,-30660298.0,2025-04-12
+CAB,Lợi nhuận tài chính,2021,-12053466.0,2025-04-12
+CAB,Lợi nhuận tài chính,2022,-10172038.0,2025-04-12
+CAB,Lợi nhuận tài chính,2023,11791813.0,2025-04-12
+CAB,Lợi nhuận khác,2020,17553891.0,2025-04-12
+CAB,Lợi nhuận khác,2021,-39910.0,2025-04-12
+CAB,Lợi nhuận khác,2022,-306466.0,2025-04-12
+CAB,Lợi nhuận khác,2023,7223103.0,2025-04-12
+CAB,Tổng lợi nhuận trước thuế,2020,88606752.0,2025-04-12
+CAB,Tổng lợi nhuận trước thuế,2021,88719183.0,2025-04-12
+CAB,Tổng lợi nhuận trước thuế,2022,82699930.0,2025-04-12
+CAB,Tổng lợi nhuận trước thuế,2023,13123912.0,2025-04-12
+CAB,Lợi nhuận sau thuế,2020,63736320.0,2025-04-12
+CAB,Lợi nhuận sau thuế,2021,67879276.0,2025-04-12
+CAB,Lợi nhuận sau thuế,2022,61270947.0,2025-04-12
+CAB,Lợi nhuận sau thuế,2023,9689959.0,2025-04-12
+CAB,Lợi nhuận sau thuế của công ty mẹ,2020,62068570.0,2025-04-12
+CAB,Lợi nhuận sau thuế của công ty mẹ,2021,63371894.0,2025-04-12
+CAB,Lợi nhuận sau thuế của công ty mẹ,2022,57249310.0,2025-04-12
+CAB,Lợi nhuận sau thuế của công ty mẹ,2023,11325932.0,2025-04-12
+CAB,Tổng tài sản lưu động ngắn hạn,2020,840658971.0,2025-04-12
+CAB,Tổng tài sản lưu động ngắn hạn,2021,864861605.0,2025-04-12
+CAB,Tổng tài sản lưu động ngắn hạn,2022,984348661.0,2025-04-12
+CAB,Tổng tài sản lưu động ngắn hạn,2023,1013374827.0,2025-04-12
+CAB,Tổng tài sản,2020,1854119092.0,2025-04-12
+CAB,Tổng tài sản,2021,1768055288.0,2025-04-12
+CAB,Tổng tài sản,2022,1908861137.0,2025-04-12
+CAB,Tổng tài sản,2023,1897139221.0,2025-04-12
+CAB,Nợ ngắn hạn,2020,1087467950.0,2025-04-12
+CAB,Nợ ngắn hạn,2021,1072809661.0,2025-04-12
+CAB,Nợ ngắn hạn,2022,1175698081.0,2025-04-12
+CAB,Nợ ngắn hạn,2023,1242547461.0,2025-04-12
+CAB,Tổng nợ,2020,1272112330.0,2025-04-12
+CAB,Tổng nợ,2021,1162326744.0,2025-04-12
+CAB,Tổng nợ,2022,1271614644.0,2025-04-12
+CAB,Tổng nợ,2023,1324339187.0,2025-04-12
+CAB,Vốn chủ sở hữu,2020,582006762.0,2025-04-12
+CAB,Vốn chủ sở hữu,2021,605728544.0,2025-04-12
+CAB,Vốn chủ sở hữu,2022,637246493.0,2025-04-12
+CAB,Vốn chủ sở hữu,2023,572800034.0,2025-04-12

@@ -1,0 +1,51 @@
+symbol,metric,year,value,crawled_date
+KPF,Doanh thu bán hàng và CCDV,2020,40000000.0,2025-04-12
+KPF,Doanh thu bán hàng và CCDV,2021,53861559.0,2025-04-12
+KPF,Doanh thu bán hàng và CCDV,2022,2000000.0,2025-04-12
+KPF,Doanh thu bán hàng và CCDV,2023,1000000.0,2025-04-12
+KPF,Giá vốn hàng bán,2020,1896035.0,2025-04-12
+KPF,Giá vốn hàng bán,2021,19366735.0,2025-04-12
+KPF,Lợi nhuận gộp về BH và CCDV,2020,38103965.0,2025-04-12
+KPF,Lợi nhuận gộp về BH và CCDV,2021,34494824.0,2025-04-12
+KPF,Lợi nhuận gộp về BH và CCDV,2022,2000000.0,2025-04-12
+KPF,Lợi nhuận gộp về BH và CCDV,2023,1000000.0,2025-04-12
+KPF,Lợi nhuận tài chính,2020,2162468.0,2025-04-12
+KPF,Lợi nhuận tài chính,2021,46613368.0,2025-04-12
+KPF,Lợi nhuận tài chính,2022,85575766.0,2025-04-12
+KPF,Lợi nhuận tài chính,2023,38634957.0,2025-04-12
+KPF,Lợi nhuận khác,2020,363951.0,2025-04-12
+KPF,Lợi nhuận khác,2021,12960599.0,2025-04-12
+KPF,Lợi nhuận khác,2022,490225.0,2025-04-12
+KPF,Lợi nhuận khác,2023,-877775.0,2025-04-12
+KPF,Tổng lợi nhuận trước thuế,2020,30666691.0,2025-04-12
+KPF,Tổng lợi nhuận trước thuế,2021,87661617.0,2025-04-12
+KPF,Tổng lợi nhuận trước thuế,2022,82392216.0,2025-04-12
+KPF,Tổng lợi nhuận trước thuế,2023,1519904.0,2025-04-12
+KPF,Lợi nhuận sau thuế,2020,25975823.0,2025-04-12
+KPF,Lợi nhuận sau thuế,2021,75956101.0,2025-04-12
+KPF,Lợi nhuận sau thuế,2022,71546200.0,2025-04-12
+KPF,Lợi nhuận sau thuế,2023,1015479.0,2025-04-12
+KPF,Lợi nhuận sau thuế của công ty mẹ,2020,24296122.0,2025-04-12
+KPF,Lợi nhuận sau thuế của công ty mẹ,2021,75574791.0,2025-04-12
+KPF,Lợi nhuận sau thuế của công ty mẹ,2022,71546200.0,2025-04-12
+KPF,Lợi nhuận sau thuế của công ty mẹ,2023,1015479.0,2025-04-12
+KPF,Tổng tài sản lưu động ngắn hạn,2020,631739189.0,2025-04-12
+KPF,Tổng tài sản lưu động ngắn hạn,2021,967468246.0,2025-04-12
+KPF,Tổng tài sản lưu động ngắn hạn,2022,515644141.0,2025-04-12
+KPF,Tổng tài sản lưu động ngắn hạn,2023,322843656.0,2025-04-12
+KPF,Tổng tài sản,2020,1329784247.0,2025-04-12
+KPF,Tổng tài sản,2021,1071102649.0,2025-04-12
+KPF,Tổng tài sản,2022,803860466.0,2025-04-12
+KPF,Tổng tài sản,2023,806320404.0,2025-04-12
+KPF,Nợ ngắn hạn,2020,702535491.0,2025-04-12
+KPF,Nợ ngắn hạn,2021,15429480.0,2025-04-12
+KPF,Nợ ngắn hạn,2022,12193229.0,2025-04-12
+KPF,Nợ ngắn hạn,2023,13637688.0,2025-04-12
+KPF,Tổng nợ,2020,1069613982.0,2025-04-12
+KPF,Tổng nợ,2021,315429480.0,2025-04-12
+KPF,Tổng nợ,2022,12193229.0,2025-04-12
+KPF,Tổng nợ,2023,13637688.0,2025-04-12
+KPF,Vốn chủ sở hữu,2020,260170265.0,2025-04-12
+KPF,Vốn chủ sở hữu,2021,755673169.0,2025-04-12
+KPF,Vốn chủ sở hữu,2022,791667237.0,2025-04-12
+KPF,Vốn chủ sở hữu,2023,792682716.0,2025-04-12

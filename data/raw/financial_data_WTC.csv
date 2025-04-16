@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+WTC,Doanh thu bán hàng và CCDV,2021,4835102975.0,2025-04-12
+WTC,Doanh thu bán hàng và CCDV,2022,3229650019.0,2025-04-12
+WTC,Doanh thu bán hàng và CCDV,2023,1091757676.0,2025-04-12
+WTC,Doanh thu bán hàng và CCDV,2024,1588451478.0,2025-04-12
+WTC,Giá vốn hàng bán,2021,4668555760.0,2025-04-12
+WTC,Giá vốn hàng bán,2022,3128234162.0,2025-04-12
+WTC,Giá vốn hàng bán,2023,1066219253.0,2025-04-12
+WTC,Giá vốn hàng bán,2024,1535870468.0,2025-04-12
+WTC,Lợi nhuận gộp về BH và CCDV,2021,128179542.0,2025-04-12
+WTC,Lợi nhuận gộp về BH và CCDV,2022,101415856.0,2025-04-12
+WTC,Lợi nhuận gộp về BH và CCDV,2023,25538422.0,2025-04-12
+WTC,Lợi nhuận gộp về BH và CCDV,2024,52581011.0,2025-04-12
+WTC,Lợi nhuận tài chính,2021,-7320882.0,2025-04-12
+WTC,Lợi nhuận tài chính,2022,12356813.0,2025-04-12
+WTC,Lợi nhuận tài chính,2023,21459829.0,2025-04-12
+WTC,Lợi nhuận tài chính,2024,4978422.0,2025-04-12
+WTC,Lợi nhuận khác,2021,76749591.0,2025-04-12
+WTC,Lợi nhuận khác,2022,2435453.0,2025-04-12
+WTC,Lợi nhuận khác,2023,-220212.0,2025-04-12
+WTC,Lợi nhuận khác,2024,951041.0,2025-04-12
+WTC,Tổng lợi nhuận trước thuế,2021,45490383.0,2025-04-12
+WTC,Tổng lợi nhuận trước thuế,2022,50470225.0,2025-04-12
+WTC,Tổng lợi nhuận trước thuế,2023,20655775.0,2025-04-12
+WTC,Tổng lợi nhuận trước thuế,2024,15505554.0,2025-04-12
+WTC,Lợi nhuận sau thuế,2021,34108641.0,2025-04-12
+WTC,Lợi nhuận sau thuế,2022,41477174.0,2025-04-12
+WTC,Lợi nhuận sau thuế,2023,16152978.0,2025-04-12
+WTC,Lợi nhuận sau thuế,2024,12214486.0,2025-04-12
+WTC,Lợi nhuận sau thuế của công ty mẹ,2021,34108641.0,2025-04-12
+WTC,Lợi nhuận sau thuế của công ty mẹ,2022,41477174.0,2025-04-12
+WTC,Lợi nhuận sau thuế của công ty mẹ,2023,16152978.0,2025-04-12
+WTC,Lợi nhuận sau thuế của công ty mẹ,2024,12214486.0,2025-04-12
+WTC,Tổng tài sản lưu động ngắn hạn,2021,110991883.0,2025-04-12
+WTC,Tổng tài sản lưu động ngắn hạn,2022,45999399.0,2025-04-12
+WTC,Tổng tài sản lưu động ngắn hạn,2023,59286503.0,2025-04-12
+WTC,Tổng tài sản lưu động ngắn hạn,2024,174531649.0,2025-04-12
+WTC,Tổng tài sản,2021,296418277.0,2025-04-12
+WTC,Tổng tài sản,2022,260521583.0,2025-04-12
+WTC,Tổng tài sản,2023,270675045.0,2025-04-12
+WTC,Tổng tài sản,2024,483769245.0,2025-04-12
+WTC,Nợ ngắn hạn,2021,101062854.0,2025-04-12
+WTC,Nợ ngắn hạn,2022,34200615.0,2025-04-12
+WTC,Nợ ngắn hạn,2023,44652801.0,2025-04-12
+WTC,Nợ ngắn hạn,2024,112365891.0,2025-04-12
+WTC,Tổng nợ,2021,101062854.0,2025-04-12
+WTC,Tổng nợ,2022,34200615.0,2025-04-12
+WTC,Tổng nợ,2023,44652801.0,2025-04-12
+WTC,Tổng nợ,2024,258932514.0,2025-04-12
+WTC,Vốn chủ sở hữu,2021,195355424.0,2025-04-12
+WTC,Vốn chủ sở hữu,2022,226320968.0,2025-04-12
+WTC,Vốn chủ sở hữu,2023,226022245.0,2025-04-12
+WTC,Vốn chủ sở hữu,2024,224836731.0,2025-04-12

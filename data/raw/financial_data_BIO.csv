@@ -1,0 +1,52 @@
+symbol,metric,year,value,crawled_date
+BIO,Doanh thu bán hàng và CCDV,2021,38334976.0,2025-04-12
+BIO,Doanh thu bán hàng và CCDV,2022,56313101.0,2025-04-12
+BIO,Doanh thu bán hàng và CCDV,2023,70026943.0,2025-04-12
+BIO,Doanh thu bán hàng và CCDV,2024,72710660.0,2025-04-12
+BIO,Giá vốn hàng bán,2021,28591906.0,2025-04-12
+BIO,Giá vốn hàng bán,2022,38288571.0,2025-04-12
+BIO,Giá vốn hàng bán,2023,50637335.0,2025-04-12
+BIO,Giá vốn hàng bán,2024,50047927.0,2025-04-12
+BIO,Lợi nhuận gộp về BH và CCDV,2021,9743070.0,2025-04-12
+BIO,Lợi nhuận gộp về BH và CCDV,2022,18024530.0,2025-04-12
+BIO,Lợi nhuận gộp về BH và CCDV,2023,19389608.0,2025-04-12
+BIO,Lợi nhuận gộp về BH và CCDV,2024,22662733.0,2025-04-12
+BIO,Lợi nhuận tài chính,2021,918040.0,2025-04-12
+BIO,Lợi nhuận tài chính,2022,1329523.0,2025-04-12
+BIO,Lợi nhuận tài chính,2023,1540701.0,2025-04-12
+BIO,Lợi nhuận tài chính,2024,1474404.0,2025-04-12
+BIO,Lợi nhuận khác,2021,519000.0,2025-04-12
+BIO,Lợi nhuận khác,2022,-1.0,2025-04-12
+BIO,Lợi nhuận khác,2023,-2213.0,2025-04-12
+BIO,Tổng lợi nhuận trước thuế,2021,4562084.0,2025-04-12
+BIO,Tổng lợi nhuận trước thuế,2022,9896358.0,2025-04-12
+BIO,Tổng lợi nhuận trước thuế,2023,8096975.0,2025-04-12
+BIO,Tổng lợi nhuận trước thuế,2024,10593815.0,2025-04-12
+BIO,Lợi nhuận sau thuế,2021,3607520.0,2025-04-12
+BIO,Lợi nhuận sau thuế,2022,7871927.0,2025-04-12
+BIO,Lợi nhuận sau thuế,2023,6015105.0,2025-04-12
+BIO,Lợi nhuận sau thuế,2024,7931570.0,2025-04-12
+BIO,Lợi nhuận sau thuế của công ty mẹ,2021,3607520.0,2025-04-12
+BIO,Lợi nhuận sau thuế của công ty mẹ,2022,7871927.0,2025-04-12
+BIO,Lợi nhuận sau thuế của công ty mẹ,2023,6015105.0,2025-04-12
+BIO,Lợi nhuận sau thuế của công ty mẹ,2024,7931570.0,2025-04-12
+BIO,Tổng tài sản lưu động ngắn hạn,2021,66351633.0,2025-04-12
+BIO,Tổng tài sản lưu động ngắn hạn,2022,70994380.0,2025-04-12
+BIO,Tổng tài sản lưu động ngắn hạn,2023,66117073.0,2025-04-12
+BIO,Tổng tài sản lưu động ngắn hạn,2024,73559017.0,2025-04-12
+BIO,Tổng tài sản,2021,101663042.0,2025-04-12
+BIO,Tổng tài sản,2022,119339222.0,2025-04-12
+BIO,Tổng tài sản,2023,110437357.0,2025-04-12
+BIO,Tổng tài sản,2024,111763236.0,2025-04-12
+BIO,Nợ ngắn hạn,2021,7952238.0,2025-04-12
+BIO,Nợ ngắn hạn,2022,15458826.0,2025-04-12
+BIO,Nợ ngắn hạn,2023,12820144.0,2025-04-12
+BIO,Nợ ngắn hạn,2024,12229558.0,2025-04-12
+BIO,Tổng nợ,2021,7952238.0,2025-04-12
+BIO,Tổng nợ,2022,20502318.0,2025-04-12
+BIO,Tổng nợ,2023,12820144.0,2025-04-12
+BIO,Tổng nợ,2024,12229558.0,2025-04-12
+BIO,Vốn chủ sở hữu,2021,93710804.0,2025-04-12
+BIO,Vốn chủ sở hữu,2022,98836904.0,2025-04-12
+BIO,Vốn chủ sở hữu,2023,97617213.0,2025-04-12
+BIO,Vốn chủ sở hữu,2024,99533678.0,2025-04-12

@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+RAT,Doanh thu bán hàng và CCDV,2021,562239349.0,2025-04-12
+RAT,Doanh thu bán hàng và CCDV,2022,727229513.0,2025-04-12
+RAT,Doanh thu bán hàng và CCDV,2023,562092874.0,2025-04-12
+RAT,Doanh thu bán hàng và CCDV,2024,787553709.0,2025-04-12
+RAT,Giá vốn hàng bán,2021,518607776.0,2025-04-12
+RAT,Giá vốn hàng bán,2022,669962169.0,2025-04-12
+RAT,Giá vốn hàng bán,2023,520252945.0,2025-04-12
+RAT,Giá vốn hàng bán,2024,718296995.0,2025-04-12
+RAT,Lợi nhuận gộp về BH và CCDV,2021,43594028.0,2025-04-12
+RAT,Lợi nhuận gộp về BH và CCDV,2022,57267344.0,2025-04-12
+RAT,Lợi nhuận gộp về BH và CCDV,2023,41839929.0,2025-04-12
+RAT,Lợi nhuận gộp về BH và CCDV,2024,69256714.0,2025-04-12
+RAT,Lợi nhuận tài chính,2021,-6089582.0,2025-04-12
+RAT,Lợi nhuận tài chính,2022,-12729787.0,2025-04-12
+RAT,Lợi nhuận tài chính,2023,-14612314.0,2025-04-12
+RAT,Lợi nhuận tài chính,2024,-16147599.0,2025-04-12
+RAT,Lợi nhuận khác,2021,-763844.0,2025-04-12
+RAT,Lợi nhuận khác,2022,879085.0,2025-04-12
+RAT,Lợi nhuận khác,2023,5561457.0,2025-04-12
+RAT,Lợi nhuận khác,2024,-746313.0,2025-04-12
+RAT,Tổng lợi nhuận trước thuế,2021,10337685.0,2025-04-12
+RAT,Tổng lợi nhuận trước thuế,2022,14567750.0,2025-04-12
+RAT,Tổng lợi nhuận trước thuế,2023,-7308717.0,2025-04-12
+RAT,Tổng lợi nhuận trước thuế,2024,9054687.0,2025-04-12
+RAT,Lợi nhuận sau thuế,2021,7943717.0,2025-04-12
+RAT,Lợi nhuận sau thuế,2022,11785337.0,2025-04-12
+RAT,Lợi nhuận sau thuế,2023,-8087818.0,2025-04-12
+RAT,Lợi nhuận sau thuế,2024,5530569.0,2025-04-12
+RAT,Lợi nhuận sau thuế của công ty mẹ,2021,7320376.0,2025-04-12
+RAT,Lợi nhuận sau thuế của công ty mẹ,2022,11131076.0,2025-04-12
+RAT,Lợi nhuận sau thuế của công ty mẹ,2023,-9124651.0,2025-04-12
+RAT,Lợi nhuận sau thuế của công ty mẹ,2024,4383883.0,2025-04-12
+RAT,Tổng tài sản lưu động ngắn hạn,2021,194473383.0,2025-04-12
+RAT,Tổng tài sản lưu động ngắn hạn,2022,189990649.0,2025-04-12
+RAT,Tổng tài sản lưu động ngắn hạn,2023,156003842.0,2025-04-12
+RAT,Tổng tài sản lưu động ngắn hạn,2024,217869077.0,2025-04-12
+RAT,Tổng tài sản,2021,330281379.0,2025-04-12
+RAT,Tổng tài sản,2022,370351916.0,2025-04-12
+RAT,Tổng tài sản,2023,386160900.0,2025-04-12
+RAT,Tổng tài sản,2024,442851246.0,2025-04-12
+RAT,Nợ ngắn hạn,2021,184126344.0,2025-04-12
+RAT,Nợ ngắn hạn,2022,203116028.0,2025-04-12
+RAT,Nợ ngắn hạn,2023,203918386.0,2025-04-12
+RAT,Nợ ngắn hạn,2024,278646455.0,2025-04-12
+RAT,Tổng nợ,2021,246997426.0,2025-04-12
+RAT,Tổng nợ,2022,281020699.0,2025-04-12
+RAT,Tổng nợ,2023,313697099.0,2025-04-12
+RAT,Tổng nợ,2024,364856875.0,2025-04-12
+RAT,Vốn chủ sở hữu,2021,83283954.0,2025-04-12
+RAT,Vốn chủ sở hữu,2022,89331217.0,2025-04-12
+RAT,Vốn chủ sở hữu,2023,72463801.0,2025-04-12
+RAT,Vốn chủ sở hữu,2024,77994371.0,2025-04-12

@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+SMA,Doanh thu bán hàng và CCDV,2021,81727998.0,2025-04-12
+SMA,Doanh thu bán hàng và CCDV,2022,84766351.0,2025-04-12
+SMA,Doanh thu bán hàng và CCDV,2023,76328281.0,2025-04-12
+SMA,Doanh thu bán hàng và CCDV,2024,66094933.0,2025-04-12
+SMA,Giá vốn hàng bán,2021,43067367.0,2025-04-12
+SMA,Giá vốn hàng bán,2022,39025734.0,2025-04-12
+SMA,Giá vốn hàng bán,2023,38221402.0,2025-04-12
+SMA,Giá vốn hàng bán,2024,36853028.0,2025-04-12
+SMA,Lợi nhuận gộp về BH và CCDV,2021,38660631.0,2025-04-12
+SMA,Lợi nhuận gộp về BH và CCDV,2022,45740617.0,2025-04-12
+SMA,Lợi nhuận gộp về BH và CCDV,2023,38106879.0,2025-04-12
+SMA,Lợi nhuận gộp về BH và CCDV,2024,29241906.0,2025-04-12
+SMA,Lợi nhuận tài chính,2021,-14700024.0,2025-04-12
+SMA,Lợi nhuận tài chính,2022,-12293146.0,2025-04-12
+SMA,Lợi nhuận tài chính,2023,-19458129.0,2025-04-12
+SMA,Lợi nhuận tài chính,2024,-10494194.0,2025-04-12
+SMA,Lợi nhuận khác,2021,-2099.0,2025-04-12
+SMA,Lợi nhuận khác,2022,1239834.0,2025-04-12
+SMA,Lợi nhuận khác,2023,48820.0,2025-04-12
+SMA,Lợi nhuận khác,2024,-260745.0,2025-04-12
+SMA,Tổng lợi nhuận trước thuế,2021,21856477.0,2025-04-12
+SMA,Tổng lợi nhuận trước thuế,2022,32574787.0,2025-04-12
+SMA,Tổng lợi nhuận trước thuế,2023,15909215.0,2025-04-12
+SMA,Tổng lợi nhuận trước thuế,2024,15664888.0,2025-04-12
+SMA,Lợi nhuận sau thuế,2021,21856477.0,2025-04-12
+SMA,Lợi nhuận sau thuế,2022,29416606.0,2025-04-12
+SMA,Lợi nhuận sau thuế,2023,11956940.0,2025-04-12
+SMA,Lợi nhuận sau thuế,2024,13008603.0,2025-04-12
+SMA,Lợi nhuận sau thuế của công ty mẹ,2021,21856477.0,2025-04-12
+SMA,Lợi nhuận sau thuế của công ty mẹ,2022,29416606.0,2025-04-12
+SMA,Lợi nhuận sau thuế của công ty mẹ,2023,11956940.0,2025-04-12
+SMA,Lợi nhuận sau thuế của công ty mẹ,2024,13008603.0,2025-04-12
+SMA,Tổng tài sản lưu động ngắn hạn,2021,17302449.0,2025-04-12
+SMA,Tổng tài sản lưu động ngắn hạn,2022,15316602.0,2025-04-12
+SMA,Tổng tài sản lưu động ngắn hạn,2023,107914499.0,2025-04-12
+SMA,Tổng tài sản lưu động ngắn hạn,2024,105011666.0,2025-04-12
+SMA,Tổng tài sản,2021,417456941.0,2025-04-12
+SMA,Tổng tài sản,2022,389916026.0,2025-04-12
+SMA,Tổng tài sản,2023,455998583.0,2025-04-12
+SMA,Tổng tài sản,2024,430043578.0,2025-04-12
+SMA,Nợ ngắn hạn,2021,132145272.0,2025-04-12
+SMA,Nợ ngắn hạn,2022,81376453.0,2025-04-12
+SMA,Nợ ngắn hạn,2023,36765290.0,2025-04-12
+SMA,Nợ ngắn hạn,2024,32524584.0,2025-04-12
+SMA,Tổng nợ,2021,215735272.0,2025-04-12
+SMA,Tổng nợ,2022,160966453.0,2025-04-12
+SMA,Tổng nợ,2023,220855290.0,2025-04-12
+SMA,Tổng nợ,2024,189614584.0,2025-04-12
+SMA,Vốn chủ sở hữu,2021,201721670.0,2025-04-12
+SMA,Vốn chủ sở hữu,2022,228949572.0,2025-04-12
+SMA,Vốn chủ sở hữu,2023,235143292.0,2025-04-12
+SMA,Vốn chủ sở hữu,2024,240428994.0,2025-04-12

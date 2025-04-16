@@ -1,0 +1,47 @@
+symbol,metric,year,value,crawled_date
+DRL,Doanh thu bán hàng và CCDV,2021,95635308.0,2025-04-12
+DRL,Doanh thu bán hàng và CCDV,2022,113417963.0,2025-04-12
+DRL,Doanh thu bán hàng và CCDV,2023,105424331.0,2025-04-12
+DRL,Doanh thu bán hàng và CCDV,2024,91341413.0,2025-04-12
+DRL,Giá vốn hàng bán,2021,30170549.0,2025-04-12
+DRL,Giá vốn hàng bán,2022,33801725.0,2025-04-12
+DRL,Giá vốn hàng bán,2023,31471752.0,2025-04-12
+DRL,Giá vốn hàng bán,2024,31932945.0,2025-04-12
+DRL,Lợi nhuận gộp về BH và CCDV,2021,65464759.0,2025-04-12
+DRL,Lợi nhuận gộp về BH và CCDV,2022,79616237.0,2025-04-12
+DRL,Lợi nhuận gộp về BH và CCDV,2023,73952579.0,2025-04-12
+DRL,Lợi nhuận gộp về BH và CCDV,2024,59408468.0,2025-04-12
+DRL,Lợi nhuận tài chính,2021,3190952.0,2025-04-12
+DRL,Lợi nhuận tài chính,2022,3978064.0,2025-04-12
+DRL,Lợi nhuận tài chính,2023,5344989.0,2025-04-12
+DRL,Lợi nhuận tài chính,2024,3441835.0,2025-04-12
+DRL,Lợi nhuận khác,2022,214078.0,2025-04-12
+DRL,Tổng lợi nhuận trước thuế,2021,62906033.0,2025-04-12
+DRL,Tổng lợi nhuận trước thuế,2022,77532665.0,2025-04-12
+DRL,Tổng lợi nhuận trước thuế,2023,72621170.0,2025-04-12
+DRL,Tổng lợi nhuận trước thuế,2024,56127167.0,2025-04-12
+DRL,Lợi nhuận sau thuế,2021,56266364.0,2025-04-12
+DRL,Lợi nhuận sau thuế,2022,61972911.0,2025-04-12
+DRL,Lợi nhuận sau thuế,2023,58029557.0,2025-04-12
+DRL,Lợi nhuận sau thuế,2024,44762427.0,2025-04-12
+DRL,Lợi nhuận sau thuế của công ty mẹ,2021,56266364.0,2025-04-12
+DRL,Lợi nhuận sau thuế của công ty mẹ,2022,61972911.0,2025-04-12
+DRL,Lợi nhuận sau thuế của công ty mẹ,2023,58029557.0,2025-04-12
+DRL,Lợi nhuận sau thuế của công ty mẹ,2024,44762427.0,2025-04-12
+DRL,Tổng tài sản lưu động ngắn hạn,2021,94810558.0,2025-04-12
+DRL,Tổng tài sản lưu động ngắn hạn,2022,92302246.0,2025-04-12
+DRL,Tổng tài sản lưu động ngắn hạn,2024,88888376.0,2025-04-12
+DRL,Tổng tài sản,2021,134664735.0,2025-04-12
+DRL,Tổng tài sản,2022,133313305.0,2025-04-12
+DRL,Tổng tài sản,2024,127253141.0,2025-04-12
+DRL,Nợ ngắn hạn,2021,12330690.0,2025-04-12
+DRL,Nợ ngắn hạn,2022,17330851.0,2025-04-12
+DRL,Nợ ngắn hạn,2023,17030367.0,2025-04-12
+DRL,Nợ ngắn hạn,2024,13840214.0,2025-04-12
+DRL,Tổng nợ,2021,12330690.0,2025-04-12
+DRL,Tổng nợ,2022,17330851.0,2025-04-12
+DRL,Tổng nợ,2023,17030367.0,2025-04-12
+DRL,Tổng nợ,2024,13840214.0,2025-04-12
+DRL,Vốn chủ sở hữu,2021,122334044.0,2025-04-12
+DRL,Vốn chủ sở hữu,2022,115982454.0,2025-04-12
+DRL,Vốn chủ sở hữu,2024,113412928.0,2025-04-12

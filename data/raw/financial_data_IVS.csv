@@ -1,0 +1,44 @@
+symbol,metric,year,value,crawled_date
+IVS,Doanh thu bán hàng và CCDV,2021,84155410.0,2025-04-12
+IVS,Doanh thu bán hàng và CCDV,2022,72407840.0,2025-04-12
+IVS,Doanh thu bán hàng và CCDV,2023,80522643.0,2025-04-12
+IVS,Doanh thu bán hàng và CCDV,2024,74751516.0,2025-04-12
+IVS,Lợi nhuận tài chính,2021,10442880.0,2025-04-12
+IVS,Lợi nhuận tài chính,2022,13843130.0,2025-04-12
+IVS,Lợi nhuận tài chính,2023,-1384170.0,2025-04-12
+IVS,Lợi nhuận tài chính,2024,-2214925.0,2025-04-12
+IVS,Tổng lợi nhuận KT trước thuế,2021,38100170.0,2025-04-12
+IVS,Tổng lợi nhuận KT trước thuế,2022,22455680.0,2025-04-12
+IVS,Tổng lợi nhuận KT trước thuế,2023,33144866.0,2025-04-12
+IVS,Tổng lợi nhuận KT trước thuế,2024,21543203.0,2025-04-12
+IVS,Lợi nhuận KT sau thuế TNDN,2021,34970260.0,2025-04-12
+IVS,Lợi nhuận KT sau thuế TNDN,2022,17244900.0,2025-04-12
+IVS,Lợi nhuận KT sau thuế TNDN,2023,27013828.0,2025-04-12
+IVS,Lợi nhuận KT sau thuế TNDN,2024,17118416.0,2025-04-12
+IVS,Lợi nhuận sau thuế của công ty mẹ,2021,34970260.0,2025-04-12
+IVS,Lợi nhuận sau thuế của công ty mẹ,2022,17244900.0,2025-04-12
+IVS,Lợi nhuận sau thuế của công ty mẹ,2023,27013828.0,2025-04-12
+IVS,Lợi nhuận sau thuế của công ty mẹ,2024,17118416.0,2025-04-12
+IVS,Lợi nhuận khác,2021,3690.0,2025-04-12
+IVS,Lợi nhuận khác,2023,7298.0,2025-04-12
+IVS,Lợi nhuận khác,2024,3364.0,2025-04-12
+IVS,Tổng tài sản lưu động ngắn hạn,2021,737412660.0,2025-04-12
+IVS,Tổng tài sản lưu động ngắn hạn,2022,788237110.0,2025-04-12
+IVS,Tổng tài sản lưu động ngắn hạn,2023,668491633.0,2025-04-12
+IVS,Tổng tài sản lưu động ngắn hạn,2024,884745794.0,2025-04-12
+IVS,Tổng tài sản,2021,842240930.0,2025-04-12
+IVS,Tổng tài sản,2022,811169010.0,2025-04-12
+IVS,Tổng tài sản,2023,741312858.0,2025-04-12
+IVS,Tổng tài sản,2024,925279949.0,2025-04-12
+IVS,Nợ ngắn hạn,2021,131358230.0,2025-04-12
+IVS,Nợ ngắn hạn,2022,83041400.0,2025-04-12
+IVS,Nợ ngắn hạn,2023,10595443.0,2025-04-12
+IVS,Nợ ngắn hạn,2024,136020101.0,2025-04-12
+IVS,Tổng nợ,2021,131358230.0,2025-04-12
+IVS,Tổng nợ,2022,83041400.0,2025-04-12
+IVS,Tổng nợ,2023,10595443.0,2025-04-12
+IVS,Tổng nợ,2024,136020101.0,2025-04-12
+IVS,Vốn chủ sở hữu,2021,710882700.0,2025-04-12
+IVS,Vốn chủ sở hữu,2022,728127600.0,2025-04-12
+IVS,Vốn chủ sở hữu,2023,755141432.0,2025-04-12
+IVS,Vốn chủ sở hữu,2024,78759848.0,2025-04-12

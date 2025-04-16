@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+TET,Doanh thu bán hàng và CCDV,2021,22593129.0,2025-04-12
+TET,Doanh thu bán hàng và CCDV,2022,22997605.0,2025-04-12
+TET,Doanh thu bán hàng và CCDV,2023,23988586.0,2025-04-12
+TET,Doanh thu bán hàng và CCDV,2024,23541851.0,2025-04-12
+TET,Giá vốn hàng bán,2021,6981460.0,2025-04-12
+TET,Giá vốn hàng bán,2022,8401837.0,2025-04-12
+TET,Giá vốn hàng bán,2023,12784511.0,2025-04-12
+TET,Giá vốn hàng bán,2024,15412342.0,2025-04-12
+TET,Lợi nhuận gộp về BH và CCDV,2021,15611669.0,2025-04-12
+TET,Lợi nhuận gộp về BH và CCDV,2022,14595768.0,2025-04-12
+TET,Lợi nhuận gộp về BH và CCDV,2023,11204075.0,2025-04-12
+TET,Lợi nhuận gộp về BH và CCDV,2024,8129508.0,2025-04-12
+TET,Lợi nhuận tài chính,2021,3074553.0,2025-04-12
+TET,Lợi nhuận tài chính,2022,3825098.0,2025-04-12
+TET,Lợi nhuận tài chính,2023,7260195.0,2025-04-12
+TET,Lợi nhuận tài chính,2024,3962348.0,2025-04-12
+TET,Lợi nhuận khác,2021,-95675.0,2025-04-12
+TET,Lợi nhuận khác,2022,-249918.0,2025-04-12
+TET,Lợi nhuận khác,2023,1327595.0,2025-04-12
+TET,Lợi nhuận khác,2024,1298763.0,2025-04-12
+TET,Tổng lợi nhuận trước thuế,2021,13361208.0,2025-04-12
+TET,Tổng lợi nhuận trước thuế,2022,12496726.0,2025-04-12
+TET,Tổng lợi nhuận trước thuế,2023,14129408.0,2025-04-12
+TET,Tổng lợi nhuận trước thuế,2024,6420022.0,2025-04-12
+TET,Lợi nhuận sau thuế,2021,11339839.0,2025-04-12
+TET,Lợi nhuận sau thuế,2022,9756881.0,2025-04-12
+TET,Lợi nhuận sau thuế,2023,10983143.0,2025-04-12
+TET,Lợi nhuận sau thuế,2024,4918603.0,2025-04-12
+TET,Lợi nhuận sau thuế của công ty mẹ,2021,11339839.0,2025-04-12
+TET,Lợi nhuận sau thuế của công ty mẹ,2022,9756881.0,2025-04-12
+TET,Lợi nhuận sau thuế của công ty mẹ,2023,10983143.0,2025-04-12
+TET,Lợi nhuận sau thuế của công ty mẹ,2024,4918603.0,2025-04-12
+TET,Tổng tài sản lưu động ngắn hạn,2021,73093294.0,2025-04-12
+TET,Tổng tài sản lưu động ngắn hạn,2022,79392820.0,2025-04-12
+TET,Tổng tài sản lưu động ngắn hạn,2023,85961841.0,2025-04-12
+TET,Tổng tài sản lưu động ngắn hạn,2024,87665947.0,2025-04-12
+TET,Tổng tài sản,2021,110818149.0,2025-04-12
+TET,Tổng tài sản,2022,114517484.0,2025-04-12
+TET,Tổng tài sản,2023,120737379.0,2025-04-12
+TET,Tổng tài sản,2024,118974564.0,2025-04-12
+TET,Nợ ngắn hạn,2021,5298855.0,2025-04-12
+TET,Nợ ngắn hạn,2022,5507939.0,2025-04-12
+TET,Nợ ngắn hạn,2023,5142143.0,2025-04-12
+TET,Nợ ngắn hạn,2024,3588300.0,2025-04-12
+TET,Tổng nợ,2021,5298855.0,2025-04-12
+TET,Tổng nợ,2022,5507939.0,2025-04-12
+TET,Tổng nợ,2023,5142143.0,2025-04-12
+TET,Tổng nợ,2024,3950304.0,2025-04-12
+TET,Vốn chủ sở hữu,2021,105519294.0,2025-04-12
+TET,Vốn chủ sở hữu,2022,109009545.0,2025-04-12
+TET,Vốn chủ sở hữu,2023,115595236.0,2025-04-12
+TET,Vốn chủ sở hữu,2024,115024260.0,2025-04-12

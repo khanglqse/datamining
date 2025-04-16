@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+BQB,Doanh thu bán hàng và CCDV,2021,24801053.0,2025-04-12
+BQB,Doanh thu bán hàng và CCDV,2022,24933253.0,2025-04-12
+BQB,Doanh thu bán hàng và CCDV,2023,50858230.0,2025-04-12
+BQB,Doanh thu bán hàng và CCDV,2024,55840515.0,2025-04-12
+BQB,Giá vốn hàng bán,2021,28579868.0,2025-04-12
+BQB,Giá vốn hàng bán,2022,27857039.0,2025-04-12
+BQB,Giá vốn hàng bán,2023,47421957.0,2025-04-12
+BQB,Giá vốn hàng bán,2024,48180753.0,2025-04-12
+BQB,Lợi nhuận gộp về BH và CCDV,2021,-3778815.0,2025-04-12
+BQB,Lợi nhuận gộp về BH và CCDV,2022,-2923786.0,2025-04-12
+BQB,Lợi nhuận gộp về BH và CCDV,2023,3436273.0,2025-04-12
+BQB,Lợi nhuận gộp về BH và CCDV,2024,7659763.0,2025-04-12
+BQB,Lợi nhuận tài chính,2021,235429.0,2025-04-12
+BQB,Lợi nhuận tài chính,2022,68420.0,2025-04-12
+BQB,Lợi nhuận tài chính,2023,71997.0,2025-04-12
+BQB,Lợi nhuận tài chính,2024,195449.0,2025-04-12
+BQB,Lợi nhuận khác,2021,-55961.0,2025-04-12
+BQB,Lợi nhuận khác,2022,46536.0,2025-04-12
+BQB,Lợi nhuận khác,2023,-16591.0,2025-04-12
+BQB,Lợi nhuận khác,2024,-28533.0,2025-04-12
+BQB,Tổng lợi nhuận trước thuế,2021,-9982610.0,2025-04-12
+BQB,Tổng lợi nhuận trước thuế,2022,-10256704.0,2025-04-12
+BQB,Tổng lợi nhuận trước thuế,2023,-4580877.0,2025-04-12
+BQB,Tổng lợi nhuận trước thuế,2024,20016.0,2025-04-12
+BQB,Lợi nhuận sau thuế,2021,-9982610.0,2025-04-12
+BQB,Lợi nhuận sau thuế,2022,-10256704.0,2025-04-12
+BQB,Lợi nhuận sau thuế,2023,-4580877.0,2025-04-12
+BQB,Lợi nhuận sau thuế,2024,20016.0,2025-04-12
+BQB,Lợi nhuận sau thuế của công ty mẹ,2021,-9982610.0,2025-04-12
+BQB,Lợi nhuận sau thuế của công ty mẹ,2022,-10256704.0,2025-04-12
+BQB,Lợi nhuận sau thuế của công ty mẹ,2023,-4580877.0,2025-04-12
+BQB,Lợi nhuận sau thuế của công ty mẹ,2024,20016.0,2025-04-12
+BQB,Tổng tài sản lưu động ngắn hạn,2021,13714215.0,2025-04-12
+BQB,Tổng tài sản lưu động ngắn hạn,2022,15366647.0,2025-04-12
+BQB,Tổng tài sản lưu động ngắn hạn,2023,19258298.0,2025-04-12
+BQB,Tổng tài sản lưu động ngắn hạn,2024,23113379.0,2025-04-12
+BQB,Tổng tài sản,2021,47265566.0,2025-04-12
+BQB,Tổng tài sản,2022,42877630.0,2025-04-12
+BQB,Tổng tài sản,2023,41186141.0,2025-04-12
+BQB,Tổng tài sản,2024,42907653.0,2025-04-12
+BQB,Nợ ngắn hạn,2021,5049822.0,2025-04-12
+BQB,Nợ ngắn hạn,2022,11096251.0,2025-04-12
+BQB,Nợ ngắn hạn,2023,14146633.0,2025-04-12
+BQB,Nợ ngắn hạn,2024,15951424.0,2025-04-12
+BQB,Tổng nợ,2021,5251762.0,2025-04-12
+BQB,Tổng nợ,2022,11271331.0,2025-04-12
+BQB,Tổng nợ,2023,14295013.0,2025-04-12
+BQB,Tổng nợ,2024,16130804.0,2025-04-12
+BQB,Vốn chủ sở hữu,2021,42013804.0,2025-04-12
+BQB,Vốn chủ sở hữu,2022,31606299.0,2025-04-12
+BQB,Vốn chủ sở hữu,2023,26891128.0,2025-04-12
+BQB,Vốn chủ sở hữu,2024,26776849.0,2025-04-12

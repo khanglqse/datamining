@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+VTZ,Doanh thu bán hàng và CCDV,2021,1088361010.0,2025-04-12
+VTZ,Doanh thu bán hàng và CCDV,2022,1785508085.0,2025-04-12
+VTZ,Doanh thu bán hàng và CCDV,2023,2656605469.0,2025-04-12
+VTZ,Doanh thu bán hàng và CCDV,2024,3545799658.0,2025-04-12
+VTZ,Giá vốn hàng bán,2021,1004557212.0,2025-04-12
+VTZ,Giá vốn hàng bán,2022,1671197368.0,2025-04-12
+VTZ,Giá vốn hàng bán,2023,2519088359.0,2025-04-12
+VTZ,Giá vốn hàng bán,2024,3342682801.0,2025-04-12
+VTZ,Lợi nhuận gộp về BH và CCDV,2021,83803798.0,2025-04-12
+VTZ,Lợi nhuận gộp về BH và CCDV,2022,114310716.0,2025-04-12
+VTZ,Lợi nhuận gộp về BH và CCDV,2023,137517110.0,2025-04-12
+VTZ,Lợi nhuận gộp về BH và CCDV,2024,200301796.0,2025-04-12
+VTZ,Lợi nhuận tài chính,2021,-27729749.0,2025-04-12
+VTZ,Lợi nhuận tài chính,2022,-37839442.0,2025-04-12
+VTZ,Lợi nhuận tài chính,2023,-55353999.0,2025-04-12
+VTZ,Lợi nhuận tài chính,2024,-80847581.0,2025-04-12
+VTZ,Lợi nhuận khác,2021,-367993.0,2025-04-12
+VTZ,Lợi nhuận khác,2022,-915780.0,2025-04-12
+VTZ,Lợi nhuận khác,2023,1104982.0,2025-04-12
+VTZ,Lợi nhuận khác,2024,-63578.0,2025-04-12
+VTZ,Tổng lợi nhuận trước thuế,2021,27896587.0,2025-04-12
+VTZ,Tổng lợi nhuận trước thuế,2022,31480731.0,2025-04-12
+VTZ,Tổng lợi nhuận trước thuế,2023,33508497.0,2025-04-12
+VTZ,Tổng lợi nhuận trước thuế,2024,76403365.0,2025-04-12
+VTZ,Lợi nhuận sau thuế,2021,22223982.0,2025-04-12
+VTZ,Lợi nhuận sau thuế,2022,24931061.0,2025-04-12
+VTZ,Lợi nhuận sau thuế,2023,22793051.0,2025-04-12
+VTZ,Lợi nhuận sau thuế,2024,58777588.0,2025-04-12
+VTZ,Lợi nhuận sau thuế của công ty mẹ,2021,22223982.0,2025-04-12
+VTZ,Lợi nhuận sau thuế của công ty mẹ,2022,24896269.0,2025-04-12
+VTZ,Lợi nhuận sau thuế của công ty mẹ,2023,22754879.0,2025-04-12
+VTZ,Lợi nhuận sau thuế của công ty mẹ,2024,58712070.0,2025-04-12
+VTZ,Tổng tài sản lưu động ngắn hạn,2021,693367839.0,2025-04-12
+VTZ,Tổng tài sản lưu động ngắn hạn,2022,959486190.0,2025-04-12
+VTZ,Tổng tài sản lưu động ngắn hạn,2023,1455695947.0,2025-04-12
+VTZ,Tổng tài sản lưu động ngắn hạn,2024,2180353194.0,2025-04-12
+VTZ,Tổng tài sản,2021,885972792.0,2025-04-12
+VTZ,Tổng tài sản,2022,1251228958.0,2025-04-12
+VTZ,Tổng tài sản,2023,1684717178.0,2025-04-12
+VTZ,Tổng tài sản,2024,2410520127.0,2025-04-12
+VTZ,Nợ ngắn hạn,2021,599388133.0,2025-04-12
+VTZ,Nợ ngắn hạn,2022,950199304.0,2025-04-12
+VTZ,Nợ ngắn hạn,2023,1158267994.0,2025-04-12
+VTZ,Nợ ngắn hạn,2024,1566362955.0,2025-04-12
+VTZ,Tổng nợ,2021,643769162.0,2025-04-12
+VTZ,Tổng nợ,2022,985294267.0,2025-04-12
+VTZ,Tổng nợ,2023,1196279436.0,2025-04-12
+VTZ,Tổng nợ,2024,1593882005.0,2025-04-12
+VTZ,Vốn chủ sở hữu,2021,242203629.0,2025-04-12
+VTZ,Vốn chủ sở hữu,2022,265934691.0,2025-04-12
+VTZ,Vốn chủ sở hữu,2023,488437741.0,2025-04-12
+VTZ,Vốn chủ sở hữu,2024,816638122.0,2025-04-12

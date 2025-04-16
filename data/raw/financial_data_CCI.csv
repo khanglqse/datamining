@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+CCI,Doanh thu bán hàng và CCDV,2021,299154974.0,2025-04-12
+CCI,Doanh thu bán hàng và CCDV,2022,474168351.0,2025-04-12
+CCI,Doanh thu bán hàng và CCDV,2023,425126764.0,2025-04-12
+CCI,Doanh thu bán hàng và CCDV,2024,423749900.0,2025-04-12
+CCI,Giá vốn hàng bán,2021,253504427.0,2025-04-12
+CCI,Giá vốn hàng bán,2022,420922350.0,2025-04-12
+CCI,Giá vốn hàng bán,2023,378505510.0,2025-04-12
+CCI,Giá vốn hàng bán,2024,382841802.0,2025-04-12
+CCI,Lợi nhuận gộp về BH và CCDV,2021,45650547.0,2025-04-12
+CCI,Lợi nhuận gộp về BH và CCDV,2022,53246001.0,2025-04-12
+CCI,Lợi nhuận gộp về BH và CCDV,2023,46621254.0,2025-04-12
+CCI,Lợi nhuận gộp về BH và CCDV,2024,40908099.0,2025-04-12
+CCI,Lợi nhuận tài chính,2021,23198872.0,2025-04-12
+CCI,Lợi nhuận tài chính,2022,4591228.0,2025-04-12
+CCI,Lợi nhuận tài chính,2023,21350473.0,2025-04-12
+CCI,Lợi nhuận tài chính,2024,38342434.0,2025-04-12
+CCI,Lợi nhuận khác,2021,75883.0,2025-04-12
+CCI,Lợi nhuận khác,2022,50804.0,2025-04-12
+CCI,Lợi nhuận khác,2023,41029.0,2025-04-12
+CCI,Lợi nhuận khác,2024,-578415.0,2025-04-12
+CCI,Tổng lợi nhuận trước thuế,2021,40742139.0,2025-04-12
+CCI,Tổng lợi nhuận trước thuế,2022,30713901.0,2025-04-12
+CCI,Tổng lợi nhuận trước thuế,2023,69666731.0,2025-04-12
+CCI,Tổng lợi nhuận trước thuế,2024,41301572.0,2025-04-12
+CCI,Lợi nhuận sau thuế,2021,32563470.0,2025-04-12
+CCI,Lợi nhuận sau thuế,2022,24913957.0,2025-04-12
+CCI,Lợi nhuận sau thuế,2023,63086746.0,2025-04-12
+CCI,Lợi nhuận sau thuế,2024,32827950.0,2025-04-12
+CCI,Lợi nhuận sau thuế của công ty mẹ,2021,32563470.0,2025-04-12
+CCI,Lợi nhuận sau thuế của công ty mẹ,2022,24913957.0,2025-04-12
+CCI,Lợi nhuận sau thuế của công ty mẹ,2023,63086746.0,2025-04-12
+CCI,Lợi nhuận sau thuế của công ty mẹ,2024,32827950.0,2025-04-12
+CCI,Tổng tài sản lưu động ngắn hạn,2021,464260074.0,2025-04-12
+CCI,Tổng tài sản lưu động ngắn hạn,2022,529486501.0,2025-04-12
+CCI,Tổng tài sản lưu động ngắn hạn,2023,481357846.0,2025-04-12
+CCI,Tổng tài sản lưu động ngắn hạn,2024,503859599.0,2025-04-12
+CCI,Tổng tài sản,2021,689162756.0,2025-04-12
+CCI,Tổng tài sản,2022,778312015.0,2025-04-12
+CCI,Tổng tài sản,2023,783523604.0,2025-04-12
+CCI,Tổng tài sản,2024,794816191.0,2025-04-12
+CCI,Nợ ngắn hạn,2021,29032876.0,2025-04-12
+CCI,Nợ ngắn hạn,2022,33842639.0,2025-04-12
+CCI,Nợ ngắn hạn,2023,34344076.0,2025-04-12
+CCI,Nợ ngắn hạn,2024,41015053.0,2025-04-12
+CCI,Tổng nợ,2021,409071906.0,2025-04-12
+CCI,Tổng nợ,2022,513657820.0,2025-04-12
+CCI,Tổng nợ,2023,518627938.0,2025-04-12
+CCI,Tổng nợ,2024,522248001.0,2025-04-12
+CCI,Vốn chủ sở hữu,2021,280090850.0,2025-04-12
+CCI,Vốn chủ sở hữu,2022,264654196.0,2025-04-12
+CCI,Vốn chủ sở hữu,2023,87457016.0,2025-04-12
+CCI,Vốn chủ sở hữu,2024,272568189.0,2025-04-12

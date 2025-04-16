@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+VLC,Doanh thu bán hàng và CCDV,2021,2930382017.0,2025-04-12
+VLC,Doanh thu bán hàng và CCDV,2022,3141724415.0,2025-04-12
+VLC,Doanh thu bán hàng và CCDV,2023,3154135416.0,2025-04-12
+VLC,Doanh thu bán hàng và CCDV,2024,2959887012.0,2025-04-12
+VLC,Giá vốn hàng bán,2021,2028710786.0,2025-04-12
+VLC,Giá vốn hàng bán,2022,2176695145.0,2025-04-12
+VLC,Giá vốn hàng bán,2023,2205689909.0,2025-04-12
+VLC,Giá vốn hàng bán,2024,2187391794.0,2025-04-12
+VLC,Lợi nhuận gộp về BH và CCDV,2021,899540953.0,2025-04-12
+VLC,Lợi nhuận gộp về BH và CCDV,2022,963599730.0,2025-04-12
+VLC,Lợi nhuận gộp về BH và CCDV,2023,946315183.0,2025-04-12
+VLC,Lợi nhuận gộp về BH và CCDV,2024,769941250.0,2025-04-12
+VLC,Lợi nhuận tài chính,2021,118434609.0,2025-04-12
+VLC,Lợi nhuận tài chính,2022,152652144.0,2025-04-12
+VLC,Lợi nhuận tài chính,2023,265383784.0,2025-04-12
+VLC,Lợi nhuận tài chính,2024,208074690.0,2025-04-12
+VLC,Lợi nhuận khác,2021,-11599533.0,2025-04-12
+VLC,Lợi nhuận khác,2022,-30270451.0,2025-04-12
+VLC,Lợi nhuận khác,2023,-1893047.0,2025-04-12
+VLC,Lợi nhuận khác,2024,-5343202.0,2025-04-12
+VLC,Tổng lợi nhuận trước thuế,2021,359769398.0,2025-04-12
+VLC,Tổng lợi nhuận trước thuế,2022,257410054.0,2025-04-12
+VLC,Tổng lợi nhuận trước thuế,2023,327303922.0,2025-04-12
+VLC,Tổng lợi nhuận trước thuế,2024,138208828.0,2025-04-12
+VLC,Lợi nhuận sau thuế,2021,323404509.0,2025-04-12
+VLC,Lợi nhuận sau thuế,2022,237541890.0,2025-04-12
+VLC,Lợi nhuận sau thuế,2023,289108115.0,2025-04-12
+VLC,Lợi nhuận sau thuế,2024,117050233.0,2025-04-12
+VLC,Lợi nhuận sau thuế của công ty mẹ,2021,111701897.0,2025-04-12
+VLC,Lợi nhuận sau thuế của công ty mẹ,2022,115961289.0,2025-04-12
+VLC,Lợi nhuận sau thuế của công ty mẹ,2023,156602644.0,2025-04-12
+VLC,Lợi nhuận sau thuế của công ty mẹ,2024,54135680.0,2025-04-12
+VLC,Tổng tài sản lưu động ngắn hạn,2021,2887493948.0,2025-04-12
+VLC,Tổng tài sản lưu động ngắn hạn,2022,3561563543.0,2025-04-12
+VLC,Tổng tài sản lưu động ngắn hạn,2023,4395841798.0,2025-04-12
+VLC,Tổng tài sản lưu động ngắn hạn,2024,4077377194.0,2025-04-12
+VLC,Tổng tài sản,2021,3199554908.0,2025-04-12
+VLC,Tổng tài sản,2022,4898376540.0,2025-04-12
+VLC,Tổng tài sản,2023,5914536095.0,2025-04-12
+VLC,Tổng tài sản,2024,6815584688.0,2025-04-12
+VLC,Nợ ngắn hạn,2021,340042334.0,2025-04-12
+VLC,Nợ ngắn hạn,2022,301263027.0,2025-04-12
+VLC,Nợ ngắn hạn,2023,383348951.0,2025-04-12
+VLC,Nợ ngắn hạn,2024,698534533.0,2025-04-12
+VLC,Tổng nợ,2021,365014844.0,2025-04-12
+VLC,Tổng nợ,2022,441483489.0,2025-04-12
+VLC,Tổng nợ,2023,507288446.0,2025-04-12
+VLC,Tổng nợ,2024,807906907.0,2025-04-12
+VLC,Vốn chủ sở hữu,2021,2834540064.0,2025-04-12
+VLC,Vốn chủ sở hữu,2022,4456893051.0,2025-04-12
+VLC,Vốn chủ sở hữu,2023,5407247649.0,2025-04-12
+VLC,Vốn chủ sở hữu,2024,6007677781.0,2025-04-12

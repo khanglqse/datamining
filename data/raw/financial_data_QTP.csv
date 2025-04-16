@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+QTP,Doanh thu bán hàng và CCDV,2020,9182384793.0,2025-04-12
+QTP,Doanh thu bán hàng và CCDV,2021,8570583687.0,2025-04-12
+QTP,Doanh thu bán hàng và CCDV,2022,10417176812.0,2025-04-12
+QTP,Doanh thu bán hàng và CCDV,2023,12058194224.0,2025-04-12
+QTP,Giá vốn hàng bán,2020,7348390889.0,2025-04-12
+QTP,Giá vốn hàng bán,2021,7581045214.0,2025-04-12
+QTP,Giá vốn hàng bán,2022,9336116780.0,2025-04-12
+QTP,Giá vốn hàng bán,2023,11241137932.0,2025-04-12
+QTP,Lợi nhuận gộp về BH và CCDV,2020,1833993905.0,2025-04-12
+QTP,Lợi nhuận gộp về BH và CCDV,2021,989538473.0,2025-04-12
+QTP,Lợi nhuận gộp về BH và CCDV,2022,1081060032.0,2025-04-12
+QTP,Lợi nhuận gộp về BH và CCDV,2023,817056291.0,2025-04-12
+QTP,Lợi nhuận tài chính,2020,-347239132.0,2025-04-12
+QTP,Lợi nhuận tài chính,2021,-112425472.0,2025-04-12
+QTP,Lợi nhuận tài chính,2022,-159426274.0,2025-04-12
+QTP,Lợi nhuận tài chính,2023,-54841547.0,2025-04-12
+QTP,Lợi nhuận khác,2020,-6925294.0,2025-04-12
+QTP,Lợi nhuận khác,2021,-3945125.0,2025-04-12
+QTP,Lợi nhuận khác,2022,-4089007.0,2025-04-12
+QTP,Lợi nhuận khác,2023,-4140010.0,2025-04-12
+QTP,Tổng lợi nhuận trước thuế,2020,1374844721.0,2025-04-12
+QTP,Tổng lợi nhuận trước thuế,2021,617253069.0,2025-04-12
+QTP,Tổng lợi nhuận trước thuế,2022,804800175.0,2025-04-12
+QTP,Tổng lợi nhuận trước thuế,2023,644396509.0,2025-04-12
+QTP,Lợi nhuận sau thuế,2020,1305594013.0,2025-04-12
+QTP,Lợi nhuận sau thuế,2021,578015218.0,2025-04-12
+QTP,Lợi nhuận sau thuế,2022,764135930.0,2025-04-12
+QTP,Lợi nhuận sau thuế,2023,611901529.0,2025-04-12
+QTP,Lợi nhuận sau thuế của công ty mẹ,2020,1305594013.0,2025-04-12
+QTP,Lợi nhuận sau thuế của công ty mẹ,2021,578015218.0,2025-04-12
+QTP,Lợi nhuận sau thuế của công ty mẹ,2022,764135930.0,2025-04-12
+QTP,Lợi nhuận sau thuế của công ty mẹ,2023,611901529.0,2025-04-12
+QTP,Tổng tài sản lưu động ngắn hạn,2020,4269112591.0,2025-04-12
+QTP,Tổng tài sản lưu động ngắn hạn,2021,3639291237.0,2025-04-12
+QTP,Tổng tài sản lưu động ngắn hạn,2022,3732466915.0,2025-04-12
+QTP,Tổng tài sản lưu động ngắn hạn,2023,3944391230.0,2025-04-12
+QTP,Tổng tài sản,2020,10507594530.0,2025-04-12
+QTP,Tổng tài sản,2021,8909692279.0,2025-04-12
+QTP,Tổng tài sản,2022,8050555363.0,2025-04-12
+QTP,Tổng tài sản,2023,7379930191.0,2025-04-12
+QTP,Nợ ngắn hạn,2020,2005408887.0,2025-04-12
+QTP,Nợ ngắn hạn,2021,1329378632.0,2025-04-12
+QTP,Nợ ngắn hạn,2022,1566927381.0,2025-04-12
+QTP,Nợ ngắn hạn,2023,1864719018.0,2025-04-12
+QTP,Tổng nợ,2020,4418962661.0,2025-04-12
+QTP,Tổng nợ,2021,2739150092.0,2025-04-12
+QTP,Tổng nợ,2022,1888162881.0,2025-04-12
+QTP,Tổng nợ,2023,2087469018.0,2025-04-12
+QTP,Vốn chủ sở hữu,2020,6088631869.0,2025-04-12
+QTP,Vốn chủ sở hữu,2021,6170542187.0,2025-04-12
+QTP,Vốn chủ sở hữu,2022,6162392482.0,2025-04-12
+QTP,Vốn chủ sở hữu,2023,5292461173.0,2025-04-12

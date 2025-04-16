@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+NAF,Doanh thu bán hàng và CCDV,2021,1629278864.0,2025-04-12
+NAF,Doanh thu bán hàng và CCDV,2022,1817811173.0,2025-04-12
+NAF,Doanh thu bán hàng và CCDV,2023,1754554175.0,2025-04-12
+NAF,Doanh thu bán hàng và CCDV,2024,1458300976.0,2025-04-12
+NAF,Giá vốn hàng bán,2021,1323189588.0,2025-04-12
+NAF,Giá vốn hàng bán,2022,1390654928.0,2025-04-12
+NAF,Giá vốn hàng bán,2023,1263581451.0,2025-04-12
+NAF,Giá vốn hàng bán,2024,1031437260.0,2025-04-12
+NAF,Lợi nhuận gộp về BH và CCDV,2021,291463734.0,2025-04-12
+NAF,Lợi nhuận gộp về BH và CCDV,2022,375852348.0,2025-04-12
+NAF,Lợi nhuận gộp về BH và CCDV,2023,469744394.0,2025-04-12
+NAF,Lợi nhuận gộp về BH và CCDV,2024,405586276.0,2025-04-12
+NAF,Lợi nhuận tài chính,2021,-17941099.0,2025-04-12
+NAF,Lợi nhuận tài chính,2022,-20277685.0,2025-04-12
+NAF,Lợi nhuận tài chính,2023,-40865330.0,2025-04-12
+NAF,Lợi nhuận tài chính,2024,-32174113.0,2025-04-12
+NAF,Lợi nhuận khác,2021,-576556.0,2025-04-12
+NAF,Lợi nhuận khác,2022,-5495022.0,2025-04-12
+NAF,Lợi nhuận khác,2023,8891950.0,2025-04-12
+NAF,Lợi nhuận khác,2024,11118856.0,2025-04-12
+NAF,Tổng lợi nhuận trước thuế,2021,90423204.0,2025-04-12
+NAF,Tổng lợi nhuận trước thuế,2022,92926987.0,2025-04-12
+NAF,Tổng lợi nhuận trước thuế,2023,132393659.0,2025-04-12
+NAF,Tổng lợi nhuận trước thuế,2024,140071362.0,2025-04-12
+NAF,Lợi nhuận sau thuế,2021,77605196.0,2025-04-12
+NAF,Lợi nhuận sau thuế,2022,79842100.0,2025-04-12
+NAF,Lợi nhuận sau thuế,2023,109929281.0,2025-04-12
+NAF,Lợi nhuận sau thuế,2024,116383542.0,2025-04-12
+NAF,Lợi nhuận sau thuế của công ty mẹ,2021,77492299.0,2025-04-12
+NAF,Lợi nhuận sau thuế của công ty mẹ,2022,79713145.0,2025-04-12
+NAF,Lợi nhuận sau thuế của công ty mẹ,2023,109730542.0,2025-04-12
+NAF,Lợi nhuận sau thuế của công ty mẹ,2024,116182962.0,2025-04-12
+NAF,Tổng tài sản lưu động ngắn hạn,2021,1029319762.0,2025-04-12
+NAF,Tổng tài sản lưu động ngắn hạn,2022,1166762878.0,2025-04-12
+NAF,Tổng tài sản lưu động ngắn hạn,2023,1016641721.0,2025-04-12
+NAF,Tổng tài sản lưu động ngắn hạn,2024,991065823.0,2025-04-12
+NAF,Tổng tài sản,2021,1654056489.0,2025-04-12
+NAF,Tổng tài sản,2022,1743747867.0,2025-04-12
+NAF,Tổng tài sản,2023,2043235492.0,2025-04-12
+NAF,Tổng tài sản,2024,2028985659.0,2025-04-12
+NAF,Nợ ngắn hạn,2021,700840862.0,2025-04-12
+NAF,Nợ ngắn hạn,2022,772283083.0,2025-04-12
+NAF,Nợ ngắn hạn,2023,964514376.0,2025-04-12
+NAF,Nợ ngắn hạn,2024,856499416.0,2025-04-12
+NAF,Tổng nợ,2021,817658652.0,2025-04-12
+NAF,Tổng nợ,2022,851560033.0,2025-04-12
+NAF,Tổng nợ,2023,1055273264.0,2025-04-12
+NAF,Tổng nợ,2024,1043979357.0,2025-04-12
+NAF,Vốn chủ sở hữu,2021,836397836.0,2025-04-12
+NAF,Vốn chủ sở hữu,2022,892187834.0,2025-04-12
+NAF,Vốn chủ sở hữu,2023,987962227.0,2025-04-12
+NAF,Vốn chủ sở hữu,2024,985006302.0,2025-04-12

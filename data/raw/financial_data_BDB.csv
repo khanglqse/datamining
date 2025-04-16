@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+BDB,Doanh thu bán hàng và CCDV,2021,65526000.0,2025-04-12
+BDB,Doanh thu bán hàng và CCDV,2022,74836566.0,2025-04-12
+BDB,Doanh thu bán hàng và CCDV,2023,64475719.0,2025-04-12
+BDB,Doanh thu bán hàng và CCDV,2024,69071069.0,2025-04-12
+BDB,Giá vốn hàng bán,2021,57837960.0,2025-04-12
+BDB,Giá vốn hàng bán,2022,67348231.0,2025-04-12
+BDB,Giá vốn hàng bán,2023,57951322.0,2025-04-12
+BDB,Giá vốn hàng bán,2024,62949510.0,2025-04-12
+BDB,Lợi nhuận gộp về BH và CCDV,2021,7684405.0,2025-04-12
+BDB,Lợi nhuận gộp về BH và CCDV,2022,7484942.0,2025-04-12
+BDB,Lợi nhuận gộp về BH và CCDV,2023,6509544.0,2025-04-12
+BDB,Lợi nhuận gộp về BH và CCDV,2024,6109658.0,2025-04-12
+BDB,Lợi nhuận tài chính,2021,290680.0,2025-04-12
+BDB,Lợi nhuận tài chính,2022,-109654.0,2025-04-12
+BDB,Lợi nhuận tài chính,2023,-313982.0,2025-04-12
+BDB,Lợi nhuận tài chính,2024,-93733.0,2025-04-12
+BDB,Lợi nhuận khác,2021,179733.0,2025-04-12
+BDB,Lợi nhuận khác,2022,244681.0,2025-04-12
+BDB,Lợi nhuận khác,2023,118068.0,2025-04-12
+BDB,Lợi nhuận khác,2024,126178.0,2025-04-12
+BDB,Tổng lợi nhuận trước thuế,2021,1989973.0,2025-04-12
+BDB,Tổng lợi nhuận trước thuế,2022,1750000.0,2025-04-12
+BDB,Tổng lợi nhuận trước thuế,2023,1205056.0,2025-04-12
+BDB,Tổng lợi nhuận trước thuế,2024,886703.0,2025-04-12
+BDB,Lợi nhuận sau thuế,2021,1573474.0,2025-04-12
+BDB,Lợi nhuận sau thuế,2022,1394813.0,2025-04-12
+BDB,Lợi nhuận sau thuế,2023,943105.0,2025-04-12
+BDB,Lợi nhuận sau thuế,2024,681458.0,2025-04-12
+BDB,Lợi nhuận sau thuế của công ty mẹ,2021,1573474.0,2025-04-12
+BDB,Lợi nhuận sau thuế của công ty mẹ,2022,1394813.0,2025-04-12
+BDB,Lợi nhuận sau thuế của công ty mẹ,2023,943105.0,2025-04-12
+BDB,Lợi nhuận sau thuế của công ty mẹ,2024,681458.0,2025-04-12
+BDB,Tổng tài sản lưu động ngắn hạn,2021,20203636.0,2025-04-12
+BDB,Tổng tài sản lưu động ngắn hạn,2022,16729038.0,2025-04-12
+BDB,Tổng tài sản lưu động ngắn hạn,2023,15307826.0,2025-04-12
+BDB,Tổng tài sản lưu động ngắn hạn,2024,21506975.0,2025-04-12
+BDB,Tổng tài sản,2021,24525353.0,2025-04-12
+BDB,Tổng tài sản,2022,21350160.0,2025-04-12
+BDB,Tổng tài sản,2023,19661963.0,2025-04-12
+BDB,Tổng tài sản,2024,25563547.0,2025-04-12
+BDB,Nợ ngắn hạn,2021,10341558.0,2025-04-12
+BDB,Nợ ngắn hạn,2022,7134047.0,2025-04-12
+BDB,Nợ ngắn hạn,2023,5917817.0,2025-04-12
+BDB,Nợ ngắn hạn,2024,12080140.0,2025-04-12
+BDB,Tổng nợ,2021,10431558.0,2025-04-12
+BDB,Tổng nợ,2022,7224047.0,2025-04-12
+BDB,Tổng nợ,2023,5917817.0,2025-04-12
+BDB,Tổng nợ,2024,12105140.0,2025-04-12
+BDB,Vốn chủ sở hữu,2021,14093795.0,2025-04-12
+BDB,Vốn chủ sở hữu,2022,14126113.0,2025-04-12
+BDB,Vốn chủ sở hữu,2023,13744146.0,2025-04-12
+BDB,Vốn chủ sở hữu,2024,13458408.0,2025-04-12

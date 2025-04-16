@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+BMF,Doanh thu bán hàng và CCDV,2021,2658744277.0,2025-04-12
+BMF,Doanh thu bán hàng và CCDV,2022,3171994656.0,2025-04-12
+BMF,Doanh thu bán hàng và CCDV,2023,3517086518.0,2025-04-12
+BMF,Doanh thu bán hàng và CCDV,2024,3420009032.0,2025-04-12
+BMF,Giá vốn hàng bán,2021,2588964161.0,2025-04-12
+BMF,Giá vốn hàng bán,2022,3097634987.0,2025-04-12
+BMF,Giá vốn hàng bán,2023,3444416803.0,2025-04-12
+BMF,Giá vốn hàng bán,2024,3343780981.0,2025-04-12
+BMF,Lợi nhuận gộp về BH và CCDV,2021,69761350.0,2025-04-12
+BMF,Lợi nhuận gộp về BH và CCDV,2022,74291481.0,2025-04-12
+BMF,Lợi nhuận gộp về BH và CCDV,2023,72657841.0,2025-04-12
+BMF,Lợi nhuận gộp về BH và CCDV,2024,76228050.0,2025-04-12
+BMF,Lợi nhuận tài chính,2021,-2205379.0,2025-04-12
+BMF,Lợi nhuận tài chính,2022,-6515903.0,2025-04-12
+BMF,Lợi nhuận tài chính,2023,-15891667.0,2025-04-12
+BMF,Lợi nhuận tài chính,2024,-11192915.0,2025-04-12
+BMF,Lợi nhuận khác,2021,-447544.0,2025-04-12
+BMF,Lợi nhuận khác,2022,-219375.0,2025-04-12
+BMF,Lợi nhuận khác,2023,349336.0,2025-04-12
+BMF,Lợi nhuận khác,2024,-334979.0,2025-04-12
+BMF,Tổng lợi nhuận trước thuế,2021,24511404.0,2025-04-12
+BMF,Tổng lợi nhuận trước thuế,2022,11904074.0,2025-04-12
+BMF,Tổng lợi nhuận trước thuế,2023,9279613.0,2025-04-12
+BMF,Tổng lợi nhuận trước thuế,2024,20277593.0,2025-04-12
+BMF,Lợi nhuận sau thuế,2021,19238353.0,2025-04-12
+BMF,Lợi nhuận sau thuế,2022,9261968.0,2025-04-12
+BMF,Lợi nhuận sau thuế,2023,5447914.0,2025-04-12
+BMF,Lợi nhuận sau thuế,2024,16142979.0,2025-04-12
+BMF,Lợi nhuận sau thuế của công ty mẹ,2021,19238353.0,2025-04-12
+BMF,Lợi nhuận sau thuế của công ty mẹ,2022,9261968.0,2025-04-12
+BMF,Lợi nhuận sau thuế của công ty mẹ,2023,5447914.0,2025-04-12
+BMF,Lợi nhuận sau thuế của công ty mẹ,2024,16142979.0,2025-04-12
+BMF,Tổng tài sản lưu động ngắn hạn,2021,261272782.0,2025-04-12
+BMF,Tổng tài sản lưu động ngắn hạn,2022,464337117.0,2025-04-12
+BMF,Tổng tài sản lưu động ngắn hạn,2023,624829174.0,2025-04-12
+BMF,Tổng tài sản lưu động ngắn hạn,2024,628705383.0,2025-04-12
+BMF,Tổng tài sản,2021,287049726.0,2025-04-12
+BMF,Tổng tài sản,2022,501337307.0,2025-04-12
+BMF,Tổng tài sản,2023,707612333.0,2025-04-12
+BMF,Tổng tài sản,2024,716706019.0,2025-04-12
+BMF,Nợ ngắn hạn,2021,134494653.0,2025-04-12
+BMF,Nợ ngắn hạn,2022,338017590.0,2025-04-12
+BMF,Nợ ngắn hạn,2023,539089702.0,2025-04-12
+BMF,Nợ ngắn hạn,2024,530376776.0,2025-04-12
+BMF,Tổng nợ,2021,136180152.0,2025-04-12
+BMF,Tổng nợ,2022,342856157.0,2025-04-12
+BMF,Tổng nợ,2023,543683269.0,2025-04-12
+BMF,Tổng nợ,2024,536633976.0,2025-04-12
+BMF,Vốn chủ sở hữu,2021,150869574.0,2025-04-12
+BMF,Vốn chủ sở hữu,2022,158481150.0,2025-04-12
+BMF,Vốn chủ sở hữu,2023,163929064.0,2025-04-12
+BMF,Vốn chủ sở hữu,2024,180072043.0,2025-04-12

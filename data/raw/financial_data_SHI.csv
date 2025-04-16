@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+SHI,Doanh thu bán hàng và CCDV,2021,7260803806.0,2025-04-12
+SHI,Doanh thu bán hàng và CCDV,2022,8214248495.0,2025-04-12
+SHI,Doanh thu bán hàng và CCDV,2023,9780654605.0,2025-04-12
+SHI,Doanh thu bán hàng và CCDV,2024,11425650935.0,2025-04-12
+SHI,Giá vốn hàng bán,2021,6201055174.0,2025-04-12
+SHI,Giá vốn hàng bán,2022,7075693004.0,2025-04-12
+SHI,Giá vốn hàng bán,2023,8768510256.0,2025-04-12
+SHI,Giá vốn hàng bán,2024,10305753866.0,2025-04-12
+SHI,Lợi nhuận gộp về BH và CCDV,2021,873557522.0,2025-04-12
+SHI,Lợi nhuận gộp về BH và CCDV,2022,901785881.0,2025-04-12
+SHI,Lợi nhuận gộp về BH và CCDV,2023,836835024.0,2025-04-12
+SHI,Lợi nhuận gộp về BH và CCDV,2024,951312250.0,2025-04-12
+SHI,Lợi nhuận tài chính,2021,-163972532.0,2025-04-12
+SHI,Lợi nhuận tài chính,2022,-250946646.0,2025-04-12
+SHI,Lợi nhuận tài chính,2023,-281267292.0,2025-04-12
+SHI,Lợi nhuận tài chính,2024,-279028600.0,2025-04-12
+SHI,Lợi nhuận khác,2021,2021981.0,2025-04-12
+SHI,Lợi nhuận khác,2022,81619.0,2025-04-12
+SHI,Lợi nhuận khác,2023,-2685144.0,2025-04-12
+SHI,Lợi nhuận khác,2024,54509684.0,2025-04-12
+SHI,Tổng lợi nhuận trước thuế,2021,184496814.0,2025-04-12
+SHI,Tổng lợi nhuận trước thuế,2022,122389699.0,2025-04-12
+SHI,Tổng lợi nhuận trước thuế,2023,103974497.0,2025-04-12
+SHI,Tổng lợi nhuận trước thuế,2024,167508176.0,2025-04-12
+SHI,Lợi nhuận sau thuế,2021,136682300.0,2025-04-12
+SHI,Lợi nhuận sau thuế,2022,87256493.0,2025-04-12
+SHI,Lợi nhuận sau thuế,2023,59089568.0,2025-04-12
+SHI,Lợi nhuận sau thuế,2024,108368554.0,2025-04-12
+SHI,Lợi nhuận sau thuế của công ty mẹ,2021,89385473.0,2025-04-12
+SHI,Lợi nhuận sau thuế của công ty mẹ,2022,58118858.0,2025-04-12
+SHI,Lợi nhuận sau thuế của công ty mẹ,2023,16488912.0,2025-04-12
+SHI,Lợi nhuận sau thuế của công ty mẹ,2024,77228720.0,2025-04-12
+SHI,Tổng tài sản lưu động ngắn hạn,2021,4657232545.0,2025-04-12
+SHI,Tổng tài sản lưu động ngắn hạn,2022,5592427754.0,2025-04-12
+SHI,Tổng tài sản lưu động ngắn hạn,2023,5610598077.0,2025-04-12
+SHI,Tổng tài sản lưu động ngắn hạn,2024,7267564574.0,2025-04-12
+SHI,Tổng tài sản,2021,5907405173.0,2025-04-12
+SHI,Tổng tài sản,2022,7330796432.0,2025-04-12
+SHI,Tổng tài sản,2023,7581785263.0,2025-04-12
+SHI,Tổng tài sản,2024,9451590902.0,2025-04-12
+SHI,Nợ ngắn hạn,2021,4062863602.0,2025-04-12
+SHI,Nợ ngắn hạn,2022,4767026050.0,2025-04-12
+SHI,Nợ ngắn hạn,2023,4863763474.0,2025-04-12
+SHI,Nợ ngắn hạn,2024,6348770751.0,2025-04-12
+SHI,Tổng nợ,2021,4543007116.0,2025-04-12
+SHI,Tổng nợ,2022,5370355091.0,2025-04-12
+SHI,Tổng nợ,2023,5574367496.0,2025-04-12
+SHI,Tổng nợ,2024,7351140828.0,2025-04-12
+SHI,Vốn chủ sở hữu,2021,1364398057.0,2025-04-12
+SHI,Vốn chủ sở hữu,2022,1960441341.0,2025-04-12
+SHI,Vốn chủ sở hữu,2023,2007417766.0,2025-04-12
+SHI,Vốn chủ sở hữu,2024,2102297644.0,2025-04-12

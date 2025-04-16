@@ -1,0 +1,53 @@
+symbol,metric,year,value,crawled_date
+PSC,Doanh thu bán hàng và CCDV,2021,436326250.0,2025-04-12
+PSC,Doanh thu bán hàng và CCDV,2022,780903907.0,2025-04-12
+PSC,Doanh thu bán hàng và CCDV,2023,736923325.0,2025-04-12
+PSC,Doanh thu bán hàng và CCDV,2024,718691821.0,2025-04-12
+PSC,Giá vốn hàng bán,2021,393532325.0,2025-04-12
+PSC,Giá vốn hàng bán,2022,711708686.0,2025-04-12
+PSC,Giá vốn hàng bán,2023,665694244.0,2025-04-12
+PSC,Giá vốn hàng bán,2024,642029986.0,2025-04-12
+PSC,Lợi nhuận gộp về BH và CCDV,2021,42793924.0,2025-04-12
+PSC,Lợi nhuận gộp về BH và CCDV,2022,69195221.0,2025-04-12
+PSC,Lợi nhuận gộp về BH và CCDV,2023,71229081.0,2025-04-12
+PSC,Lợi nhuận gộp về BH và CCDV,2024,76661836.0,2025-04-12
+PSC,Lợi nhuận tài chính,2021,-4598996.0,2025-04-12
+PSC,Lợi nhuận tài chính,2022,-4278121.0,2025-04-12
+PSC,Lợi nhuận tài chính,2023,-3614323.0,2025-04-12
+PSC,Lợi nhuận tài chính,2024,-2457403.0,2025-04-12
+PSC,Lợi nhuận khác,2021,856470.0,2025-04-12
+PSC,Lợi nhuận khác,2022,-3908382.0,2025-04-12
+PSC,Lợi nhuận khác,2023,206002.0,2025-04-12
+PSC,Lợi nhuận khác,2024,-6420067.0,2025-04-12
+PSC,Tổng lợi nhuận trước thuế,2021,10202879.0,2025-04-12
+PSC,Tổng lợi nhuận trước thuế,2022,11312036.0,2025-04-12
+PSC,Tổng lợi nhuận trước thuế,2023,10334338.0,2025-04-12
+PSC,Tổng lợi nhuận trước thuế,2024,7861890.0,2025-04-12
+PSC,Lợi nhuận sau thuế,2021,7859775.0,2025-04-12
+PSC,Lợi nhuận sau thuế,2022,5617400.0,2025-04-12
+PSC,Lợi nhuận sau thuế,2023,7831805.0,2025-04-12
+PSC,Lợi nhuận sau thuế,2024,990639.0,2025-04-12
+PSC,Lợi nhuận sau thuế của công ty mẹ,2021,7859775.0,2025-04-12
+PSC,Lợi nhuận sau thuế của công ty mẹ,2022,5617400.0,2025-04-12
+PSC,Lợi nhuận sau thuế của công ty mẹ,2023,7831805.0,2025-04-12
+PSC,Lợi nhuận sau thuế của công ty mẹ,2024,990639.0,2025-04-12
+PSC,Tổng tài sản lưu động ngắn hạn,2021,36622225.0,2025-04-12
+PSC,Tổng tài sản lưu động ngắn hạn,2022,48299641.0,2025-04-12
+PSC,Tổng tài sản lưu động ngắn hạn,2023,47341745.0,2025-04-12
+PSC,Tổng tài sản lưu động ngắn hạn,2024,34125068.0,2025-04-12
+PSC,Tổng tài sản,2021,259198575.0,2025-04-12
+PSC,Tổng tài sản,2022,245835358.0,2025-04-12
+PSC,Tổng tài sản,2023,236092358.0,2025-04-12
+PSC,Tổng tài sản,2024,221479698.0,2025-04-12
+PSC,Nợ ngắn hạn,2021,56419666.0,2025-04-12
+PSC,Nợ ngắn hạn,2022,70750819.0,2025-04-12
+PSC,Nợ ngắn hạn,2023,65953426.0,2025-04-12
+PSC,Nợ ngắn hạn,2024,60998004.0,2025-04-12
+PSC,Tổng nợ,2021,138661459.0,2025-04-12
+PSC,Tổng nợ,2022,127540617.0,2025-04-12
+PSC,Tổng nợ,2023,115583212.0,2025-04-12
+PSC,Tổng nợ,2024,107811719.0,2025-04-12
+PSC,Vốn chủ sở hữu,2021,120537115.0,2025-04-12
+PSC,Vốn chủ sở hữu,2022,118294741.0,2025-04-12
+PSC,Vốn chủ sở hữu,2023,120509146.0,2025-04-12
+PSC,Vốn chủ sở hữu,2024,113667980.0,2025-04-12
