@@ -211,32 +211,65 @@ def get_metrics():
 
 @app.route('/api/trend/<company_name>')
 def get_company_trend(company_name):
-    company_data = unscaled_data[unscaled_data['company'] == company_name]
-    if company_data.empty:
-        return jsonify({"error": "Company not found"}), 404
-    
-    # Create trend chart
-    fig = go.Figure()
-    
-    # Add financial metrics
-    financial_metrics = ['revenue', 'gross_profit', 'net_income']
-    for metric in financial_metrics:
-        if metric in company_data.columns:
-            fig.add_trace(go.Scatter(
-                x=company_data.index,
-                y=company_data[metric],
-                name=metric.replace('_', ' ').title(),
-                mode='lines+markers'
-            ))
-    
-    fig.update_layout(
-        title=f"Financial Trends for {company_name}",
-        xaxis_title="Year",
-        yaxis_title="Value (VND)",
-        showlegend=True
-    )
-    
-    return jsonify(json.loads(fig.to_json()))
+    try:
+        # Get company data
+        company_data = unscaled_data[unscaled_data['company'] == company_name]
+        if company_data.empty:
+            return jsonify({"error": "Company not found"}), 404
+        
+        # Get years
+        years = company_data.index.tolist()
+        
+        # Define metrics for each category
+        financial_metrics = ['total_assets', 'total_liabilities', 'total_equity', 'revenue', 'gross_profit', 'net_income']
+        ratio_metrics = ['current_ratio', 'debt_ratio', 'roa', 'roe']
+        growth_metrics = ['revenue_growth', 'gross_margin', 'net_profit_margin']
+        
+        # Prepare data for each category
+        financial_data = []
+        ratio_data = []
+        growth_data = []
+        
+        for metric in financial_metrics:
+            if metric in company_data.columns:
+                values = company_data[metric].tolist()
+                # Convert to millions for better readability
+                values = [x/1e6 if pd.notnull(x) else None for x in values]
+                financial_data.append({
+                    'name': metric.replace('_', ' ').title(),
+                    'values': values
+                })
+        
+        for metric in ratio_metrics:
+            if metric in company_data.columns:
+                values = company_data[metric].tolist()
+                # Format ratios as percentages
+                values = [x*100 if pd.notnull(x) else None for x in values]
+                ratio_data.append({
+                    'name': metric.replace('_', ' ').title(),
+                    'values': values
+                })
+        
+        for metric in growth_metrics:
+            if metric in company_data.columns:
+                values = company_data[metric].tolist()
+                # Format growth metrics as percentages
+                values = [x*100 if pd.notnull(x) else None for x in values]
+                growth_data.append({
+                    'name': metric.replace('_', ' ').title(),
+                    'values': values
+                })
+        
+        return jsonify({
+            'years': years,
+            'financial': financial_data,
+            'ratios': ratio_data,
+            'growth': growth_data
+        })
+        
+    except Exception as e:
+        print(f"Error in trend endpoint: {str(e)}")
+        return jsonify({"error": "Internal server error"}), 500
 
 @app.route('/api/ratios/<company_name>')
 def get_company_ratios(company_name):

@@ -400,15 +400,6 @@
                             <div id="growthTrendChart"></div>
                         </div>
 
-                        <div class="chart-container">
-                            <h4>Financial Structure Analysis</h4>
-                            <div id="financialStructureChart"></div>
-                        </div>
-
-                        <div class="chart-container">
-                            <h4>Cluster Trend Analysis</h4>
-                            <div id="trendChart"></div>
-                        </div>
 
                         <div id="warningBanner" class="warning-banner" style="display: none;">
                             <h5>⚠️ Warning</h5>
@@ -608,7 +599,6 @@
                     updateHealthScoreChart(companyName);
                     updateRatiosComparisonChart(companyName);
                     updateGrowthTrendChart(companyName);
-                    updateFinancialStructureChart(companyName);
                 });
         }
 
@@ -930,37 +920,7 @@
         }
 
         function updateGrowthTrendChart(companyName) {
-            fetch(`/api/growth-trend/${companyName}`)
-                .then(response => response.json())
-                .then(data => {
-                    if (data.error) {
-                        console.error(data.error);
-                        return;
-                    }
-                    Plotly.newPlot('growthTrendChart', data.data, data.layout);
-                })
-                .catch(error => console.error('Error fetching growth trend:', error));
-        }
-
-        function updateFinancialStructureChart(companyName) {
-            fetch(`/api/financial-structure/${companyName}`)
-                .then(response => response.json())
-                .then(data => {
-                    if (data.error) {
-                        console.error(data.error);
-                        return;
-                    }
-                    Plotly.newPlot('financialStructureChart', data.data, data.layout);
-                })
-                .catch(error => console.error('Error fetching financial structure:', error));
-        }
-
-        // Update leaderboard function
-        function updateLeaderboard() {
-            const tbody = document.getElementById('leaderboardBody');
-            tbody.innerHTML = '<tr><td colspan="8" class="text-center">Loading leaderboard...</td></tr>';
-            
-            fetch('/api/leaderboard')
+            fetch(`/api/trend/${companyName}`)
                 .then(response => {
                     if (!response.ok) {
                         throw new Error('Network response was not ok');
@@ -969,74 +929,72 @@
                 })
                 .then(data => {
                     if (data.error) {
-                        throw new Error(data.error);
+                        console.error(data.error);
+                        document.getElementById('growthTrendChart').innerHTML = `
+                            <div class="alert alert-danger" role="alert">
+                                Error: ${data.error}
+                            </div>
+                        `;
+                        return;
                     }
                     
-                    tbody.innerHTML = '';
+                    // Create the growth trend chart
+                    const growthData = data.growth.map(metric => ({
+                        x: data.years,
+                        y: metric.values,
+                        type: 'scatter',
+                        mode: 'lines+markers',
+                        name: metric.name,
+                        line: {
+                            width: 2
+                        },
+                        marker: {
+                            size: 8
+                        }
+                    }));
                     
-                    data.forEach((company, index) => {
-                        const metrics = company.metrics;
-                        tbody.innerHTML += `
-                            <tr>
-                                <td>${index + 1}</td>
-                                <td>
-                                    <div class="fw-bold">${company.symbol}</div>
-                                    <div class="small text-muted">${company.name}</div>
-                                </td>
-                                <td>
-                                    <div class="progress" style="height: 20px;">
-                                        <div class="progress-bar ${getProgressBarClass(company.health_score)}" 
-                                             role="progressbar" 
-                                             style="width: ${company.health_score}%;" 
-                                             aria-valuenow="${company.health_score}" 
-                                             aria-valuemin="0" 
-                                             aria-valuemax="100">
-                                            ${company.health_score.toFixed(2)}%
-                                        </div>
-                                    </div>
-                                </td>
-                                <td>
-                                    <span class="badge ${getRiskBadgeClass(company.risk_level)}">
-                                        ${company.risk_level}
-                                    </span>
-                                </td>
-                                <td>${formatPercentage(metrics.roa)}</td>
-                                <td>${formatPercentage(metrics.roe)}</td>
-                                <td>${formatPercentage(metrics.debt_ratio)}</td>
-                                <td>${metrics.current_ratio.toFixed(2)}</td>
-                            </tr>
-                        `;
-                    });
+                    const layout = {
+                        title: {
+                            text: 'Growth Metrics Trend',
+                            font: {
+                                size: 16
+                            }
+                        },
+                        xaxis: {
+                            title: 'Year',
+                            showgrid: true,
+                            gridcolor: '#f0f0f0'
+                        },
+                        yaxis: {
+                            title: 'Percentage (%)',
+                            showgrid: true,
+                            gridcolor: '#f0f0f0'
+                        },
+                        showlegend: true,
+                        legend: {
+                            orientation: 'h',
+                            y: -0.2
+                        },
+                        margin: {
+                            l: 50,
+                            r: 50,
+                            t: 50,
+                            b: 50
+                        },
+                        plot_bgcolor: 'white',
+                        paper_bgcolor: 'white'
+                    };
                     
-                    if (data.length === 0) {
-                        tbody.innerHTML = `
-                            <tr>
-                                <td colspan="8" class="text-center text-muted">No company data available</td>
-                            </tr>
-                        `;
-                    }
+                    Plotly.newPlot('growthTrendChart', growthData, layout);
                 })
                 .catch(error => {
-                    console.error('Error fetching leaderboard:', error);
-                    tbody.innerHTML = `
-                        <tr>
-                            <td colspan="8" class="text-center text-danger">
-                                Error loading leaderboard: ${error.message}
-                            </td>
-                        </tr>
+                    console.error('Error fetching growth trend:', error);
+                    document.getElementById('growthTrendChart').innerHTML = `
+                        <div class="alert alert-danger" role="alert">
+                            Error loading growth trend: ${error.message}
+                        </div>
                     `;
                 });
-        }
-
-        function getProgressBarClass(score) {
-            if (score >= 70) return 'bg-success';
-            if (score >= 40) return 'bg-warning';
-            return 'bg-danger';
-        }
-
-        function formatPercentage(value) {
-            if (value === undefined || value === null) return '0.00%';
-            return `${(value * 100).toFixed(2)}%`;
         }
 
         function getRiskBadgeClass(riskLevel) {
