@@ -27,9 +27,11 @@ class FinancialPreprocessor:
         self.data_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(__file__))), 'data')
         self.raw_dir = os.path.join(self.data_dir, 'raw')
         self.processed_dir = os.path.join(self.data_dir, 'processed')
+        self.unscaled_dir = os.path.join(self.data_dir, 'unscaled')
         
         # Create directories if they don't exist
         os.makedirs(self.processed_dir, exist_ok=True)
+        os.makedirs(self.unscaled_dir, exist_ok=True)
         
         # Initialize preprocessing components
         self.scaler = StandardScaler()
@@ -237,33 +239,47 @@ class FinancialPreprocessor:
     def process_company(self, symbol):
         """Process financial data for a single company"""
         try:
+            logger.info(f"Processing company {symbol}")
+            
             # Load raw data
             raw_data = self.load_financial_data(symbol)
             if raw_data is None:
+                logger.error(f"Failed to load raw data for {symbol}")
                 return None
             
             # Transform to time series
             ts_data = self.transform_to_time_series(raw_data)
             if ts_data is None:
+                logger.error(f"Failed to transform time series data for {symbol}")
                 return None
             
             # Calculate ratios
             ratios = self.calculate_ratios(ts_data)
-            print("Ratios:")
-            print(ratios)
-            # Prepare clustering data
-            clustering_data = self.prepare_clustering_data(ts_data, ratios)
-            if clustering_data is None:
+            if ratios is None:
+                logger.error(f"Failed to calculate ratios for {symbol}")
                 return None
             
-            # Save processed data
+            # Save unscaled data
+            if not self.save_unscaled_data(ts_data, ratios, symbol):
+                logger.error(f"Failed to save unscaled data for {symbol}")
+                return None
+            
+            # Prepare clustering data (scaled)
+            clustering_data = self.prepare_clustering_data(ts_data, ratios)
+            if clustering_data is None:
+                logger.error(f"Failed to prepare clustering data for {symbol}")
+                return None
+            
+            # Save scaled data
             output_file = os.path.join(self.processed_dir, f'processed_{symbol}.csv')
             clustering_data.to_csv(output_file)
             
             logger.info(f"Successfully processed data for {symbol}")
             return clustering_data
+            
         except Exception as e:
             logger.error(f"Error processing company {symbol}: {str(e)}")
+            logger.error(traceback.format_exc())
             return None
 
     def process_all_companies(self):
@@ -273,13 +289,40 @@ class FinancialPreprocessor:
             raw_files = [f for f in os.listdir(self.raw_dir) if f.startswith('financial_data_') and f.endswith('.csv')]
             symbols = [f.split('_')[2].split('.')[0] for f in raw_files]
             
-            # Process each company
-            for symbol in symbols:
-                self.process_company(symbol)
+            logger.info(f"Found {len(symbols)} companies to process")
             
-            logger.info("Finished processing all companies")
+            # Process each company
+            success_count = 0
+            for symbol in symbols:
+                if self.process_company(symbol) is not None:
+                    success_count += 1
+            
+            logger.info(f"Successfully processed {success_count} out of {len(symbols)} companies")
+            
         except Exception as e:
             logger.error(f"Error processing all companies: {str(e)}")
+            logger.error(traceback.format_exc())
+
+    def save_unscaled_data(self, ts_data, ratios, symbol):
+        """Save unscaled financial data and ratios in the same format as processed data"""
+        try:
+            # Combine original metrics and ratios
+            combined_data = pd.concat([ts_data, ratios], axis=1)
+            
+            # Transpose to match processed data format (metrics as rows, years as columns)
+            transposed_data = combined_data.T
+            
+            # Fill missing values with 0
+            transposed_data = transposed_data.fillna(0)
+            
+            # Save to CSV in the unscaled directory
+            output_file = os.path.join(self.unscaled_dir, f'{symbol}.csv')
+            transposed_data.to_csv(output_file)
+            logger.info(f"Saved unscaled data for {symbol} to {self.unscaled_dir}")
+            return True
+        except Exception as e:
+            logger.error(f"Error saving unscaled data for {symbol}: {str(e)}")
+            return False
 
 if __name__ == "__main__":
     try:
