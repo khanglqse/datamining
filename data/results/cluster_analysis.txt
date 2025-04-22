@@ -1,24 +1,24 @@
 
-Cluster 0 (515 companies)
+Cluster 0 (531 companies)
 Most distinguishing features:
-  - revenue: 1.0389
-  - cost_of_goods_sold: 0.8306
-  - total_assets: 0.4837
-  - equity: -0.0273
-  - total_debt: 0.0024
+  - revenue: 1.0078
+  - current_ratio: 1.6009
+  - gross_margin: -0.3297
+  - debt_ratio: 0.1496
+  - net_profit_margin: -0.4656
 
-Cluster 1 (435 companies)
+Cluster 1 (424 companies)
 Most distinguishing features:
-  - equity: 0.7093
-  - debt_ratio: -0.2163
-  - cost_of_goods_sold: 0.0763
-  - total_assets: 1.1494
-  - revenue: 0.2604
+  - revenue: 0.1348
+  - debt_ratio: -0.1551
+  - current_ratio: 1.6128
+  - net_profit_margin: -0.3429
+  - net_income: -0.3885
 
-Cluster 2 (288 companies)
+Cluster 2 (283 companies)
 Most distinguishing features:
-  - total_debt: 0.6346
-  - debt_ratio: 0.6761
-  - current_ratio: 1.0301
-  - revenue: 0.1434
-  - current_liabilities: 0.3163
+  - debt_ratio: 0.8235
+  - current_ratio: 0.9349
+  - revenue: 0.3438
+  - net_profit_margin: -0.5235
+  - gross_margin: -0.1926

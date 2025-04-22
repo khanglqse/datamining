@@ -73,6 +73,39 @@ class FinancialClusterer:
                 
         return all_data
     
+    def select_features_for_clustering(self, data):
+        """Select specific features for K-means clustering"""
+        try:
+            features_for_kmeans = [
+                "roa",
+                "roe",
+                "gross_margin",
+                "net_profit_margin",
+                "revenue_growth",
+                "net_income",
+                "gross_profit",
+                "debt_ratio",
+                "current_ratio",
+                "revenue"
+            ]
+            
+            # Check which features are available in the data
+            available_features = [f for f in features_for_kmeans if f in data.columns]
+            missing_features = [f for f in features_for_kmeans if f not in data.columns]
+            
+            if missing_features:
+                logger.warning(f"Missing features for clustering: {missing_features}")
+            
+            if not available_features:
+                logger.error("No features available for clustering")
+                return None
+                
+            logger.info(f"Using features for clustering: {available_features}")
+            return data[available_features]
+        except Exception as e:
+            logger.error(f"Error selecting features for clustering: {str(e)}")
+            return None
+
     def prepare_clustering_data(self, all_data):
         """Prepare data for clustering by averaging across years"""
         clustering_data = {}
@@ -88,6 +121,11 @@ class FinancialClusterer:
         # Transpose to have companies as rows and metrics as columns
         clustering_df = clustering_df.T
         
+        # Select specific features for clustering
+        clustering_df = self.select_features_for_clustering(clustering_df)
+        if clustering_df is None:
+            return None
+            
         # Check for NaN values
         nan_count = clustering_df.isna().sum().sum()
         if nan_count > 0:
@@ -298,8 +336,8 @@ class FinancialClusterer:
         except Exception as e:
             logger.error(f"Error during cluster analysis: {str(e)}")
     
-    def run_clustering(self, custom_n_clusters=None):
-        """Run the complete clustering process"""
+    def run_clustering(self, custom_n_clusters=3):
+        """Run the complete clustering process with specific features"""
         try:
             # Load data
             all_data = self.load_processed_data()
@@ -307,12 +345,16 @@ class FinancialClusterer:
                 logger.error("No data to cluster")
                 return False
             
-            # Prepare data for clustering
+            # Prepare data for clustering with specific features
             clustering_data = self.prepare_clustering_data(all_data)
+            if clustering_data is None:
+                logger.error("Failed to prepare clustering data")
+                return False
+                
             logger.info(f"Prepared clustering data with shape: {clustering_data.shape}")
             
-            # Run clustering
-            clusters = self.cluster_companies(clustering_data, n_clusters=custom_n_clusters)
+            # Run clustering with exactly 3 clusters
+            clusters = self.cluster_companies(clustering_data, n_clusters=3)
             if clusters is None:
                 return False
             
