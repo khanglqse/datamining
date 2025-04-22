@@ -275,6 +275,12 @@
                                                 </div>
                                                 <div class="col-6">
                                                     <div class="metric-item p-2 bg-light rounded">
+                                                        <span class="metric-label d-block small text-muted">Model Prediction</span>
+                                                        <span id="modelPrediction" class="badge h5"></span>
+                                                    </div>
+                                                </div>
+                                                <div class="col-6">
+                                                    <div class="metric-item p-2 bg-light rounded">
                                                         <span class="metric-label d-block small text-muted">Z-Score</span>
                                                         <span id="zScoreValue" class="metric-value h5"></span>
                                                     </div>
@@ -881,6 +887,21 @@
                     document.getElementById('ebitRatio').textContent = (data.components.ebit_ratio * 100).toFixed(2) + '%';
                     document.getElementById('equityToDebtRatio').textContent = (data.components.equity_to_debt_ratio * 100).toFixed(2) + '%';
                     document.getElementById('salesRatio').textContent = (data.components.sales_ratio * 100).toFixed(2) + '%';
+                    
+                    // Get model prediction from company_clusters.csv
+                    fetch(`/api/model-prediction/${companyName}`)
+                        .then(response => response.json())
+                        .then(predictionData => {
+                            const modelPrediction = document.getElementById('modelPrediction');
+                            modelPrediction.textContent = predictionData.prediction;
+                            modelPrediction.className = `badge ${getRiskBadgeClass(predictionData.prediction)}`;
+                        })
+                        .catch(error => {
+                            console.error('Error fetching model prediction:', error);
+                            const modelPrediction = document.getElementById('modelPrediction');
+                            modelPrediction.textContent = 'Unknown';
+                            modelPrediction.className = 'badge bg-secondary';
+                        });
                     
                     // Render the gauge chart
                     Plotly.newPlot('healthScoreChart', data.chart.data, data.chart.layout);

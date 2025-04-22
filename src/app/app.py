@@ -756,5 +756,27 @@ def get_leaderboard():
         print(f"Error in leaderboard endpoint: {str(e)}")
         return jsonify({'error': str(e)}), 500
 
+@app.route('/api/model-prediction/<company_name>')
+def get_model_prediction(company_name):
+    try:
+        # Read company_clusters.csv
+        clusters_df = pd.read_csv('data/results/company_clusters.csv', header=None, names=['company', 'cluster'])
+        company_cluster = clusters_df[clusters_df['company'] == company_name]['cluster'].iloc[0]
+        
+        # Map cluster values to risk levels
+        risk_mapping = {0: 'Low', 1: 'Moderate', 2: 'High'}
+        prediction = risk_mapping.get(company_cluster, 'Unknown')
+        
+        return jsonify({
+            "company": company_name,
+            "prediction": prediction
+        })
+    except Exception as e:
+        print(f"Error getting model prediction: {str(e)}")
+        return jsonify({
+            "company": company_name,
+            "prediction": "Unknown"
+        }), 500
+
 if __name__ == '__main__':
     app.run(debug=True) 
