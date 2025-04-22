@@ -1,0 +1,23 @@
+{
+    "cost_of_goods_sold": 439852582.0,
+    "current_assets": 3066828196.0,
+    "current_liabilities": 1911546003.0,
+    "equity": 3105551066.0,
+    "financial_profit": 5371267.0,
+    "gross_profit": 430830026.0,
+    "net_income": 302127158.0,
+    "other_profit": -183725.0,
+    "profit_before_tax": 374600803.0,
+    "revenue": 872690975.0,
+    "total_assets": 8225800130.0,
+    "total_debt": 5120249064.0,
+    "roa": 0.036729212140485114,
+    "roe": 0.09728616647387629,
+    "debt_ratio": 0.622462129285896,
+    "current_ratio": 1.6043705938475392,
+    "gross_margin": 0.49367993750594247,
+    "net_profit_margin": 0.34620176746986525,
+    "revenue_growth": 0.06691531743690504,
+    "net_income_growth": 0.38037471470022943,
+    "total_equity": 3105551066.0
+}
